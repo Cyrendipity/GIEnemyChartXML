@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1376" viewWidth= "1248">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_3.png')" x="48" y="359">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_4.png')" x="560" y="40">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_5.png')" x="46" y="1002">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_6.png')" x="559" y="105">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_7.png')" x="47" y="652">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_8.png')" x="47" y="844">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_9.png')" x="46" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_10.png')" x="46" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_11.png')" x="48" y="700">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_12.png')" x="48" y="892">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_13.png')" x="47" y="748">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_14.png')" x="47" y="940">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_15.png')" x="47" y="426">
+		</BitmapImage>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="142" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">30</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_16.png')" x="64" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_17.png')" x="64" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_18.png')" x="184" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_19.png')" x="364" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_20.png')" x="303" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_21.png')" x="244" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_22.png')" x="424" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_23.png')" x="124" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_24.png')" x="66" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_26.png')" x="486" y="1069">
+			</BitmapImage>
+		</Group>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2171b1" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2171b1">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_27.png')" x="719" y="202">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_28.png')" x="719" y="425">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_29.png')" x="719" y="650">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_30.png')" x="720" y="873">
+		</BitmapImage>
+		<RichText x="738" y="287" width="429" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">原种蓄力发射一枚水球，造成<span color="#7fbfff">50%</span><span>伤害，并扣除角色</span><span color="#72ff72">10点</span><span>元素能量，若能量不足则扣除一定比例的生命值，扣除公式见左下角。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="511" width="430" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#c4c4ff">(仅成体)<span color="#ffffff">原种将尾部插入地面，在一定区域内不断生成水喷，造成</span><span color="#7fbfff">60%,30%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="735" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">原种后撤，向前翻滚，用尾部扫两圈，造成2段<span color="#7fbfff">30%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="959" width="414" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">原种翘起尾部，聚集水花，产生3个水轮，每个水轮造成<span color="#7fbfff">30%,15%,7.5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="63" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="394" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#7fbfff">盘踞深海的水栖猛兽</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="549" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="285" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#7fbfff">Deep Sea-Dwelling Beast</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99b3ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_31.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="84" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="142" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">20</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_32.png')" x="64" y="1193" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1149" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">成体</p>
+			</content>
+		</RichText>
+		<RichText x="10" y="1209" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="45" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">幼体</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_33.png')" x="596" y="235" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_34.png')" x="576" y="214" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_35.png')" x="596" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_36.png')" x="576" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_37.png')" x="596" y="683" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_38.png')" x="576" y="662" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_39.png')" x="596" y="907" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_40.png')" x="576" y="886" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="1183" width="414" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">原种后撤一步，进行左、右、砸3段攻击，依次造成<span color="#b9b9b9">30%,50%,80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_41.png')" x="720" y="1098">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_42.png')" x="596" y="1131" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_43.png')" x="576" y="1110" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深海龙蜥%B7原种.assets/Image_44.png')" x="64" y="1312" blendMode="normal">
+		</BitmapImage>
+		<RichText x="67" y="1279" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="343" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">生命值扣除计算公式(原种通用)</p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

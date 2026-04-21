@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1216" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="136"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="492" text="深黯魇语之主"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="417" text="无面无域的支配者"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 1645248 (27.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 15665 (6.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="SHD: 740362 (45%)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="478" alpha="0.75" text="Lord of the Hidden Depths: Whisperer of Nightmares"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Faceless, Boundless Overlord"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="距离较远时，黯主进行突棘、横波、纵波至多3段攻击，依次造成60%,70%,80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="黯主使用荆尖的尾部造成伤害，造成25%x3伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="黯主跃入空中不见，随后从角色下方突袭，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="480" width="448" alpha="0.9" text="黯主迅速蜷缩并在原地周转一圈，造成75%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="疾荒破袭-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="416" width="448" text="涉哀死棘-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="遁谋危意-定点"/>
+	<mx:Text styleName="textStyle11" x="1408" y="416" width="448" text="靡于孑翼-输出"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="1033" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="991" width="64" text="正常"/>
+	<mx:Text styleName="textStyle13" x="0" y="1051" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle10" x="736" y="736" width="448" alpha="0.9" text="黯主打开后方的传送门并撤入，随后出现在玩家身边，立即甩尾造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="992" width="448" alpha="0.9" text="蓄力17s后，黯主吸收所有钓客并消失，随后直接全屏对玩家造成200%伤害(闪避帧无效)，并在玩家前方重新出现。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="736" width="448" alpha="0.9" text="黯主吼叫一声，跃入空中，移至场地中央展开「深黯护盾」，召唤4个「深黯钓客」并开始蓄力。期间「深黯钓客」不附属「深黯护盾」，只会发射激光。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" text="韬迹渊离-位移"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="448" text="夤星劫寂-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" text="深魇颂祭-蓄力"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle10" x="1408" y="992" width="448" alpha="0.9" text="黯主蓄力时会展开「深黯护盾」，该护盾为生命盾，并且只接受元素伤害，免疫物理伤害；月曜伤害将造成原来300%的伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="928" width="448" text="隙中谵呓-天赋"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="939" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1248" y="918" width="168" height="170"/>
+	<mx:Text styleName="textStyle14" x="64" y="1100" width="448" alpha="0.75" text="深黯钓客：特殊的钓客，生命值296145(4.86F)(18%黯主生命值)，攻击力7832(3.0B2)，无护盾，只会发射激光；击败钓客会扣除25%的深黯护盾。深黯护盾：45%生命值盾，击破后黯主损失20%生命值，并瘫痪16s。"/>
+</mx:Application>

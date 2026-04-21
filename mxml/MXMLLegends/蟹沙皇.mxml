@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2171B1;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1248" height="296"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="506" text="蟹沙皇"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="663" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="378" text="HP: 6410373 (105.2.0F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="456" text="HP: 1175752 (21.2F) 53/263"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="397" text="ATK: 12311 (5.0B2) 62.5%"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 150/10000"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="441" alpha="0.75" text="Crab Tsar"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" text="左右侵决-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" text="异海岩果-召唤"/>
+	<mx:Text styleName="textStyle9" x="736" y="896" width="448" text="躁斗狂澜-妨害"/>
+	<mx:Text styleName="textStyle9" x="736" y="1120" width="448" text="千百沦灭-爆发"/>
+	<mx:Text styleName="textStyle10" x="736" y="288" width="448" alpha="0.9" text="蟹沙皇进行左右双爪攻击2次，依次造成80%,80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="512" width="448" alpha="0.9" text="蟹沙皇依次喷出3枚「岩居之种」，种子落地造成20%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="736" width="448" alpha="0.9" text="蟹沙皇蓄力旋转而来，途经造成80%伤害，且在路径上洒落3枚「岩居之种」。"/>
+	<mx:Text styleName="textStyle10" x="736" y="960" width="448" alpha="0.9" text="施放爆发之前，蟹沙皇引爆在场所有的「岩居之种」，每枚造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1184" width="448" alpha="0.9" text="蟹沙皇升空，开启征服之界，依次布下其下方内中外三圈，每圈各6枚种子的阵，30s后全部引爆。征服之界破溃后蟹沙皇陷入瘫痪，会消去所有种子，但会掉落3枚种子，本技能除瘫痪外产生的种子不会造成伤害。"/>
+	<mx:Image source="Image5.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle11" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle11" x="0" y="1115" width="64" text="带甲"/>
+	<mx:Image source="Image6.png" x="64" y="1157" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1166" width="64" text="成功轰袭后*"/>
+	<mx:Image source="Image7.png" x="64" y="1217" width="484" height="60"/>
+	<mx:Text styleName="textStyle11" x="0" y="1235" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle13" x="64" y="1284" width="448" alpha="0.75" text="岩居之种：受到月/原/烈/超绽放伤害后会转化，于1s后离地，对蟹沙皇造成等同于所受绽放伤害500%的草元素普通伤害。征服之界：需转化6枚岩居之种击落，瘫痪15s/5s(深渊)。深渊特化下，蟹沙皇成功施放大招后全抗+70%。"/>
+	<mx:Image source="Image8.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image9.png" x="596" y="235" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="1131" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="214" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="886" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="1110" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" text="巨漾交旋-位移"/>
+	<mx:Image source="Image17.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="662" width="168" height="170"/>
+</mx:Application>

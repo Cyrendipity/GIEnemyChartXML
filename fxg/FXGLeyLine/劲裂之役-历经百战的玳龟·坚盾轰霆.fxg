@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "2048">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_1.png')" x="627" y="104" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_2.png')" x="1920" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="485" y="19" fontFamily="MiSans" fontSize="80" fontStyle="normal" fontWeight="bold" color="#ffffff" width="950" height="90" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="80" fontWeight="bold" color="#ffffff">历经百战的玳龟·坚盾轰霆</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1726" y="148" width="280" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="right" fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">技能变化 <span fontFamily="宋体">◆</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="147" width="479" height="51" d:userLabel="抗性数据◆" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">抗性数据 (单位%)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="435" width="293" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">机制数据</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1869" y="56" width="143" height="47" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffffff">NA<br/><span fontSize="16">Energy Drop</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="818" y="975" width="115" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">14.670</span><span fontSize="18" color="#99ffcc">F</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="972" y="974" width="121" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base ATK：<br/><span fontSize="18" color="#dddddd">5.5</span><span fontSize="18" color="#e599ff">B2</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="647" y="119" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="625" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p textAlign="center" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Battle-Hardened Tent Tortoise: Thunderous Aegis</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="67" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#8d29b4" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#8d29b4">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="148" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="208" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="268" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="327" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">70</p>
+				</content>
+			</RichText>
+			<RichText x="388" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="448" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="508" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="567" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">50</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_3.png')" x="128" y="320" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_2">
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_4.png')" x="128" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_5.png')" x="248" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_6.png')" x="428" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_7.png')" x="367" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_8.png')" x="308" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_9.png')" x="488" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_10.png')" x="188" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_11.png')" x="130" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_13.png')" x="550" y="256">
+			</BitmapImage>
+		</Group>
+		<RichText x="67" y="512" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="86" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">雷棘护罩：</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="608" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="107" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">怒气与狂暴：</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="ICON__FRAME" d:type="layer" visible="false">
+			<Rect x="640" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="992" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="800" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+			<Rect x="1152" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+		</Group>
+		<RichText x="66" y="538" width="496" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffacff">16雷<span color="#ffffff">盾，不可伤害转化，击破即可瘫痪科西霍10s，并使其退出狂暴状态。</span><span color="#ffbfbf">(N5)</span><span color="#ffffff">雷盾加厚，为</span><span>32雷</span><span color="#ffffff">盾。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="634" width="506" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">玳龟受到伤害时会累计怒气条，上限100进度，每受击1次增加<span color="#ffdfbf">3</span><span>进度(燃烧伤害除外)，条满后进入狂暴状态，并展开雷棘护罩。<br/></span><span color="#ffbfbf">(N5)</span><span>怒气条上限变为30进度，每受击1次增加</span><span color="#ffdfbf">3</span><span>进度(燃烧伤害除外)，但每0.5s失去</span><span color="#ffdfbf">2</span><span>进度。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_14.png')" x="654" y="847" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_15.png')" x="1166" y="847" blendMode="normal">
+		</BitmapImage>
+		<RichText x="687" y="934" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffebbf" width="58" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.30196078431372547">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffebbf">——</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1199" y="934" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="58" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.30196078431372547">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">——</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="608" y="663" width="64" height="43" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "32" y = "0" scaleX = "43" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="611" y="664" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff" width="87" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff">HP</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="612" y="742" width="80" height="34" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "40" y = "0" scaleX = "34" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="616" y="743" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff" width="90" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff">ATK</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<RichText x="653" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="133" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">653097</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="808" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="146" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">3254310</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="965" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="150" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">6397042</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="665" y="600" width="110" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">困难 - N3<br/><span fontSize="24" color="#ffacff">Lv.90</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="820" y="600" width="119" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">险恶 - N4<br/><span fontSize="24" color="#ffacff">Lv.100</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="982" y="600" width="118" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">无畏 - N5<br/><span fontSize="24" color="#ffacff">Lv.105</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="701" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="64" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 1.2</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="859" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 4.0</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1019" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 6.8</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1120" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="162" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">13283708</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1143" y="600" width="115" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">绝境 - N6<br/><span fontSize="24" color="#ffacff">Lv.110</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1176" y="728" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="73" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 12.9</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Rect x="576" y="32" width="768" height="768" alpha="1" visible="false" blendMode="normal" radiusX="0" radiusY="0">
+			<fill>
+				<SolidColor color="#ffffff"/>
+			</fill>
+		</Rect>
+		<RichText x="1561" y="303" fontFamily="MiSans" fontSize="300" fontStyle="normal" fontWeight="bold" color="#ffffff" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.30196078431372547">
+			<content>
+				<p fontFamily="MiSans" fontSize="300" fontWeight="bold" color="#ffffff">暂<br/>无</p>
+			</content>
+		</RichText>
+		<RichText x="664" y="750" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="112" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">10467</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="984" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="114" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">14905</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="825" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="111" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">13542</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1144" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="114" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">15965</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_16.png')" x="1006" y="846" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/劲裂之役-历经百战的玳龟%B7坚盾轰霆.assets/Image_17.png')" x="814" y="846" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1008" y="931" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="120" height="41" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">High-Freq DMG Dis.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="815" y="931" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#99ff99" width="120" height="41" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#99ff99">Low-Freq DMG Adv.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+	</Group>
+	<Group d:userLabel="层_2" d:type="layer">
+	</Group>
+</Graphic>

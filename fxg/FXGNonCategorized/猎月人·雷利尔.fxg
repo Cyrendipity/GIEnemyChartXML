@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1856" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_2.png')" x="0" y="182" blendMode="normal">
+		</BitmapImage>
+		<RichText x="57" y="561" width="210" height="113" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">「猎月人」·<br/><span fontSize="60">雷利尔</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="1073" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="916" width="347" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 8505024<span color="#dddddd"> (144.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="882" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="220" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">剧情首领 Lv.102 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="964" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 10718 <span color="#dddddd">(4.2B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="1013" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="219" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: NA/NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="677" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="317" height="30" d:userLabel="Rerirä" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Rächer of Solnari: Rerir</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_3.png')" x="64" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_4.png')" x="64" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_5.png')" x="184" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_6.png')" x="364" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_7.png')" x="303" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_8.png')" x="244" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_9.png')" x="424" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_10.png')" x="124" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_11.png')" x="66" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_13.png')" x="486" y="1133">
+			</BitmapImage>
+		</Group>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#b15a9c" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#b15a9c">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1410" y="223" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔原地掷击地面，造成<span color="#b8b8b8">30%</span><span>伤害，并召唤4枚月影，依次朝玩家发射光束，均造成</span><span color="#b8b8b8">10%</span><span>伤害。<br/>「血雾隐匿」下不出现月影；瘫痪恢复后连续施放3次，第三次召唤月影。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔从远处伏爪冲击而来，造成<span color="#b8b8b8">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="479" width="438" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">近距离攻击闲逛的雷利尔时，受击3次后触发格挡，立即造成<span color="#b8b8b8">10%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="703" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">战斗进行一段时间后，雷利尔扬起血雾，进入「血雾隐匿」状态，交替施放技能；期间全队流血：每2s损失当前<span color="#ffbfbf">1.5%生命值</span><span>，不致死。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="927" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔进行戳、挑、猛戳至多3段的普通攻击，依次造成<span color="#b8b8b8">15%,20%,20%</span><span>伤害，可后接技能「将那黑日谖忘」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1411" y="1151" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔立即进行数圈的旋转攻击，持续造成<span color="#b8b8b8">30%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1375" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于雷利尔后侧时，雷利尔扔出5枚暗刻之刺，每枚造成<span color="#b8b8b8">10%</span><span>伤害，并立即后接技能「斩阵狂殄八方」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1599" width="441" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">战斗进行一段时间后，雷利尔起飞至空中蓄力，展开结界，在场地内持续随机生成虚棘和<span textDecoration="underline">月矩粒</span><span>，造成</span><span color="#b8b8b8">15%</span><span>伤害；25s后灾劫降下，</span><span color="#ffbfbf">秒杀</span><span>不处于</span><span textDecoration="underline">护罩</span><span>下的角色，对处于护罩下的角色造成</span><span color="#ffdfbf">20%生命值</span><span>的伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="703" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔闲逛时，其周围会出现2枚月影，对玩家发射黑矢，造成<span color="#b8b8b8">5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="927" width="431" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔突然跃来，朝地猛击，并引发爆裂，依次造成<span color="#b8b8b8">30%,40%</span><span>伤害，为绝大部分技能的后接技。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1151" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔进行转、转圈、猛戳至多3段的普通攻击，依次造成<span color="#b8b8b8">20%,25%x2,25%</span><span>伤害，可后接技能「斩阵狂殄八方」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="1375" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔立即进行数圈的旋转攻击，持续造成<span color="#b8b8b8">30%</span><span>伤害，旋转结束后立即后接技能「斩阵狂殄八方」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1599" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔划出一道裂缝，飞出4枚虚星，每枚造成<span color="#b8b8b8">10%</span><span>伤害，并立即朝玩家处回斩，造成</span><span color="#b8b8b8">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" width="423" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷利尔飞速地进行至多6段的普通攻击，依次造成<span color="#b8b8b8">5%,20%,25%,5%,5%,25%</span><span>伤害，若目标距离较远，则第三段普攻后闪现至目标侧位继续攻击或后接技能。<br/>「血雾隐匿」下只施放后三段攻击。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_14.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_15.png')" x="719" y="394">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_16.png')" x="1392" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_17.png')" x="1391" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_18.png')" x="1391" y="842">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_19.png')" x="1391" y="1065">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_20.png')" x="1391" y="1289">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_21.png')" x="1391" y="1513">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_22.png')" x="723" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_23.png')" x="719" y="842">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_24.png')" x="718" y="1065">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_25.png')" x="719" y="1289">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_26.png')" x="719" y="1513">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_27.png')" x="720" y="137">
+		</BitmapImage>
+		<RichText x="66" y="1264" width="439" height="154" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">血雾隐匿：该状态下交替施放技能，根据<span fontFamily="HP Simplified Hans">菈</span><span>乌玛的指示可以寻得雷利尔位置，使用菲林斯提供的特殊技能[T]击中雷利尔幻影以中断，累计</span><span color="#ffbfbf">2</span><span>次后退出状态，并恢复全队元素能量与特殊能量。<br/>月矩粒：恢复</span><span color="#ffbfbf">25%生命值和40元素能量</span><span>，在雷利尔大招期间，吸收3枚可形成护罩。<br/>护罩：抵挡雷利尔的所有伤害，处于护罩内可避免流失元素能量；大招结束后恢复全队元素能量与特殊能量。</span></p>
+			</content>
+		</RichText>
+		<RichText x="63" y="756" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#f2a3d6" width="195" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#f2a3d6">渎死之罪</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="804" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#f2a3d6" width="287" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#f2a3d6">Blasphemy Against Death</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#f57ede" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_28.png')" x="596" y="1547" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_29.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_30.png')" x="1268" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_31.png')" x="596" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_32.png')" x="1268" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_33.png')" x="596" y="1323" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_34.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_35.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_36.png')" x="1268" y="1323" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_37.png')" x="596" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_38.png')" x="1268" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_39.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_40.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_41.png')" x="448" y="303" visible="false" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_42.png')" x="1268" y="1547" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_43.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_44.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_45.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_46.png')" x="1248" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_47.png')" x="1248" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_48.png')" x="1248" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_49.png')" x="1248" y="1302" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_50.png')" x="1248" y="1526" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_51.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_52.png')" x="576" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_53.png')" x="576" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_54.png')" x="576" y="1302" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_55.png')" x="576" y="1526" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_56.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/猎月人%B7雷利尔.assets/Image_57.png')" x="64" y="288" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1248" viewWidth= "1248">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/不死.assets/Image_1.png')" x="0" y="0" d:locked="true">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_3.png')" x="0" y="1080" d:locked="true">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_4.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="58" y="369" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="189" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">不死</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="913" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="564" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 5240419 <span color="#dddddd">(86.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="757" width="418" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1144695 <span color="#dddddd">(20.64F)</span><span color="#ffebbf"> 24%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="531" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">夜魂试炼 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="723" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="219" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">历经百战 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="612" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 31329<span color="#dddddd"> (12.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="804" width="364" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 19698<span color="#dddddd"> (8.0B2) </span><span color="#ffebbf">2/3</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="661" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 100/210</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="853" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 100/210</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="453" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="204" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">He Never Dies</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="75" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">310</p>
+				</content>
+			</RichText>
+			<RichText x="135" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">310</p>
+				</content>
+			</RichText>
+			<RichText x="195" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">310</p>
+				</content>
+			</RichText>
+			<RichText x="255" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">310</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">310</p>
+				</content>
+			</RichText>
+			<RichText x="375" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">310</p>
+				</content>
+			</RichText>
+			<RichText x="435" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">310</p>
+				</content>
+			</RichText>
+			<RichText x="495" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">310</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/不死.assets/Image_5.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_6.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_7.png')" x="184" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_8.png')" x="364" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_9.png')" x="303" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_10.png')" x="244" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_11.png')" x="424" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_12.png')" x="124" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_13.png')" x="66" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/不死.assets/Image_15.png')" x="486" y="973">
+			</BitmapImage>
+		</Group>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#9a8456" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#9a8456">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="570" y="112" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="739" y="255" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「不死」很简单的进行一次上挑，造成<span color="#b8b8b8">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="438" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「不死」踱步小跑冲了一下，造成<span color="#b8b8b8">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="703" width="442" height="258" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「不死」进行长达15s的蓄力，蓄力完成后，进行连续3次的冲撞，每次造成<span color="#b8b8b8">300%</span><span>伤害。<br/>需要累计</span><span color="#ffbfbf">2500削韧</span><span>且的攻击方可打断蓄力，中断蓄力将扣除「不死」10%生命值；</span><span textDecoration="underline">钝击</span><span>造成的削韧按5倍计入，单次最高计入上限为800削韧。<br/>以此方法扣除的生命值不致死，生命值低于10%便不再被此机制扣除。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1164" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="359" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">自带霸体。<br/>钝击：如大剑普战终、下落攻击、超载、炸药桶等。</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/不死.assets/Image_16.png')" x="718" y="169">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_17.png')" x="720" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_18.png')" x="719" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_19.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="84" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/不死.assets/Image_20.png')" x="64" y="1097" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="5" y="1040" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="54" height="48" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">入战&amp;蓄力</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1113" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/不死.assets/Image_21.png')" x="596" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_22.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_23.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_24.png')" x="576" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_25.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/不死.assets/Image_26.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

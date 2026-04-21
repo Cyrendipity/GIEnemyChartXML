@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFBF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AD4218;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FF7272;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="466" text="愚人众·火之债务处理人"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="416" text="债务处理人·焚毁之锋"/>
+	<mx:Text styleName="textStyle" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[66,33,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="384" text="HP: 183826 (5.0H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 19698 (8.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 80/210"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Fatui Pyro Agent"/>
+	<mx:Text styleName="textStyle8" x="64" y="555" width="395" alpha="0.75" text="Agent - Incinerating Blades"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="隐蔽状态下的债务人进行一次穿刺攻击，造成75%伤害，并在冲刺起点放置一个幻影。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" alpha="0.9" text="隐蔽状态下的债务人累计施放6个幻影之后，尚存的幻影围一圈，债务人从每个幻影的位置依次冲向玩家，每次造成50%伤害，冲刺结束后从天而降下落，造成85%伤害，之后退出隐蔽状态。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="穿刺之影-强攻"/>
+	<mx:Text styleName="textStyle10" x="1408" y="384" width="448" text="焚毁之锋-爆发"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle12" x="736" y="224" width="448" alpha="0.9" text="债务人使用祭刀进行冲刺上划攻击，造成75%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" alpha="0.9" text="隐蔽状态下的债务人旋转祭刀，扔出一个幻影，造成75%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" alpha="0.9" text="债务人旋转祭刀，在身边召唤3个旋火轮，接触造成25%伤害，并进入隐蔽状态，该状态下会被元素附着勾画出轮廓，抗打断1.5，击飞可退出该状态。"/>
+	<mx:Text styleName="textStyle12" x="736" y="704" width="448" alpha="0.9" text="债务人使用祭刀进行旋转攻击，造成60%伤害。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="704" width="448" alpha="0.9" text="仅限强攻强化：债务人放置的幻影会周期性同时进行旋劈攻击，造成60%伤害。"/>
+	<mx:Text styleName="textStyle14" x="64" y="1008" width="448" alpha="0.75" text="幻影：1火盾，受击2次或被反应后损毁。强攻强化下，幻影会进行协同攻击。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="祭刀之炎-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="384" width="448" text="脱附之炎-召唤"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="448" text="燃焰残影-转换"/>
+	<mx:Text styleName="textStyle10" x="736" y="640" width="448" text="尖刃之旋-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="640" width="448" text="炎影之袭-协同"/>
+	<mx:Image source="Image4.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="854" width="168" height="170"/>
+</mx:Application>

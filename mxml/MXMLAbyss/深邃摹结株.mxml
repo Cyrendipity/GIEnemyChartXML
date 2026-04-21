@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		Label {
+			fontFamily:Sen-Bold;
+			fontSize:60;
+			color:#FF9999;
+		}
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#A3A5FE;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#A3A5FE;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontSize:22;
+			color:#FFFFFF;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:22;
+			color:#FF9999;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:22;
+			color:#BFFFBF;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:22;
+			color:#BFDFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="200"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="484" text="深邃摹结株"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="340" text="虚界空想植株"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1226" y="64" width="630" alpha="0.5" text="元素能量：WP[75,50,25,0],WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="375" text="HP: 974962 (16.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 15665 (6.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="SHD: 53/42/27;  72(Ab)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="Tenebrous Papilla"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Void Fantasy Plant"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="一段时间后(70s/首次40s)或生命值低于70%时，摹结株将枝节插入地面进行蓄力，获得暂时的虚界护罩，并持续在场地内召唤幽生蓟，造成10%(10级「蚀破」)；13s后蓄力完成，产生大爆炸，造成300%(60)伤害。击破护罩后，摹结株将瘫痪12s。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="摹结株能够在13种首领之间变换，在不同的战斗中，存在3种摹结株变体，每组的变体都不同，会随机施放技能。摹结株仅仅起模仿作用，BOSS的原有独特机制会尽数丢失。"/>
+	<mx:Text styleName="textStyle11" x="608" y="160" width="576" alpha="0.9" text="摹结株有3种摹结株变体，对应下面三组；每次击败后都会刷新另外一组，每组的技能均控制在9个，且均有5个存在可附加蚀破的强化技能："/>
+	<mx:Text styleName="textStyle12" x="1408" y="416" width="448" text="晦暝虚色，将湮之祷-爆发"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="647" text="零落虚底，拾忆洿渎-变幻"/>
+	<mx:Image source="Image4.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="909" width="484" height="124"/>
+	<mx:Image source="Image7.png" x="64" y="1033" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="64" y="1093" width="484" height="60"/>
+	<mx:Image source="Image9.png" x="64" y="1153" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="991" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1051" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle14" x="0" y="1171" width="64" text="开场"/>
+	<mx:Text styleName="textStyle14" x="0" y="1093" width="64" text="瘫痪再恢"/>
+	<mx:Text styleName="textStyle15" x="1408" y="733" width="448" alpha="0.75" text="「蚀破」：角色被附加「蚀破」时，将在1s后扣除前台角色一定的生命值。「蚀破」拥有不同的等级，n级「蚀破」扣除(1%+50)*n点生命值，若在间隔T内连续施加多种「蚀破」，则它们的等级会相加，并在脱离伤害的1s后结算蚀破总伤害。间隔 T∈(0.1,1] s虚界护罩：每次元素攻击可削减该护盾1点，带有夜魂性质的攻击则削减3点，没有冷却。这种护罩在被击破之前，敌人将免疫所有伤害。"/>
+	<mx:Text styleName="textStyle16" x="608" y="1228" width="448" alpha="0.75" text="摹结株仅仅起模仿作用，原BOSS的特性或机制不会保留。"/>
+	<mx:Text styleName="textStyle16" x="64" y="1220" width="512" alpha="0.75" text="深渊抗性：正常 70%，瘫痪 0%，瘫痪再恢 35%，开场370%。若使其再次开盾，但未进行破盾，则抗性会恢复至[正常]，而非[瘫痪再恢]。"/>
+	<mx:Label x="592" y="251" alpha="0.4" text="GROUP ONE "/>
+	<mx:Label x="592" y="571" alpha="0.4" text="GROUP TWO "/>
+	<mx:Text styleName="textStyle17" x="608" y="320" width="768" alpha="0.9" text="兆载永劫龙兽A / 翠翎恐蕈B / 树 (掣电C 急冻D 爆炎E)A「巡空游辰」-命中与扫尾造成75%伤害；强化施加15级「蚀破」；A「垦土掘岩」-两次挖掘造成60%伤害，扫尾造成75%伤害；A「散落洪流」-散弹造成对应元素100%,30%,10%伤害；B「暮羽归扇」-孢子造成45%,22.5%,4.5%,0.45%伤害；强化施加5级「蚀破」；B「蕈王玷土」-前两段普攻均造成60%伤害；强化施加5级「蚀破」；B「蕈王疾舞」-4段攻击均造成120%,60%伤害；C「紫雷迷林」-持续性落雷造成40%伤害；D「炙寒滨风」-收伞造成100%伤害；强化施加15级「蚀破」；E「铁花秽浪」-锤点和震波分别造成100%和50%伤害；强化施加15级「蚀破」。"/>
+	<mx:Text styleName="textStyle18" x="624" y="288" width="157" alpha="0.9" text="第I组："/>
+	<mx:Text styleName="textStyle19" x="624" y="608" width="157" alpha="0.9" text="第II组："/>
+	<mx:Label x="592" y="891" alpha="0.4" text="GROUP THREE"/>
+	<mx:Text styleName="textStyle20" x="624" y="928" width="157" alpha="0.9" text="第III组："/>
+	<mx:Text styleName="textStyle17" x="608" y="640" width="768" alpha="0.9" text="魔偶剑鬼F / 古岩龙蜥溟冬G / 无相之 (水H 冰I 雷J)F「洿风蠹铓」-风刃造成50%伤害；强化施加10级「蚀破」；F「落斩玄空」-冰场与风场均造成80%伤害；强化施加15级「蚀破」；F「孤风流锷」-三段普攻均造成50%伤害；G「左右拂阴」-三段普攻均造成冰或水元素的40%,50%,62.5%伤害；强化施加10级「蚀破」；G「步潭履冰」-下落攻击造成冰或水元素的70%伤害；G「泯滔亡冱」-爆炸造成冰或水元素的50%伤害(对盾造成10%伤害)；强化施加15级「蚀破」；H「水击鳐形」-拍击和水喷造成66.6%,33.3%,16.6%,6.66%伤害；I「墙封·凛渎」-合击造成100%伤害；强化施加15级「蚀破」；J「猜拳把戏」-剪刀石头布依次造成造成70%,70%,100%伤害。"/>
+	<mx:Text styleName="textStyle17" x="608" y="960" width="768" alpha="0.9" text="魔像督军K / 千年珍珠骏麟L / 贪食匿叶龙山王MK「四弦三声」-余波火刃造成80%伤害；K「嘲哳黑雨」-下落轻音造成70%,7%伤害；强化施加10级「蚀破」；K「铜骑刀暝」-怒焰冲击造成200%伤害；强化施加30级「蚀破」；L「尾羽交扇」-三段普攻造成60%,50%,50%伤害，连续命中时带有(1,0.5)衰减 ；L「暗麟破空」-下落与喷爆分别造成95%,50%伤害；强化施加15级「蚀破」；L「群鱼天游」-游鱼造成35%,17.5%,6.3%~3.5%伤害；M「浊步漆尾」-两段普攻分别造成50%,65%伤害；强化施加10级「蚀破」；M「樊林倬影」-旋转造成35%,17.5%,8.75%,3.5%伤害；M「腹满黩络」-火球和激光分别造成100%,200%伤害；强化分别施加10级或15级「蚀破」；"/>
+	<mx:Image source="Image10.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1248" y="150" width="168" height="170"/>
+</mx:Application>

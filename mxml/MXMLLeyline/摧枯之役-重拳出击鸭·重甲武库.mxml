@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		Label {
+			fontFamily:MiSans-Bold;
+			fontSize:300;
+			color:#FFFFFF;
+		}
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle7 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#BFFFBF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFACFF;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="87" width="666" height="659"/>
+	<mx:Text styleName="textStyle" x="307" y="32" width="1280" text="重拳出击鸭·重甲武库"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Label x="1544" y="288" alpha="0.3" text="暂无"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="704" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WO[75,50,25,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：30.5235F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：6.0B2"/>
+	<mx:Text styleName="textStyle5" x="530" y="123" width="835" alpha="0.75" text="Kunckle Duckle: Armored Arsenal"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="128" y="256" width="484" height="64"/>
+	<mx:Text styleName="textStyle3" x="64" y="336" width="64" text="正常"/>
+	<mx:Text styleName="textStyle3" x="64" y="396" width="64" text="瘫痪"/>
+	<mx:Image source="Image7.png" x="128" y="440" width="484" height="60"/>
+	<mx:Text styleName="textStyle7" x="64" y="445" width="64" text="破盾恢复后(N5)"/>
+	<mx:Image source="Image8.png" x="128" y="500" width="484" height="60"/>
+	<mx:Text styleName="textStyle8" x="64" y="511" width="64" text="小鸭(N4)"/>
+	<mx:Image source="Image9.png" x="128" y="560" width="484" height="60"/>
+	<mx:Text styleName="textStyle8" x="64" y="571" width="64" text="小鸭(N5)"/>
+	<mx:Text styleName="textStyle9" x="64" y="768" width="128" text="除尘歼灭："/>
+	<mx:Text styleName="textStyle9" x="64" y="928" width="128" text="冲鸭机关："/>
+	<mx:Text styleName="textStyle10" x="64" y="800" width="512" alpha="0.9" text="(N3) 入战一段时间后进入「歼灭模式」，期间将召唤5只冲鸭机关，持续40s；受到冲鸭机关的反撞攻击会使其损失5%生命值，破坏全部的冲鸭机关会令其瘫痪12s，期间抗性降至-50%。(N4) 开局秒进入「歼灭模式」，持续67s，击破后瘫痪12s。(N5) 开局秒进入「歼灭模式」，持续60s，击破后瘫痪12s。冲鸭机关的反撞攻击的伤害变为20%冲鸭机关所受伤害。"/>
+	<mx:Text styleName="textStyle11" x="64" y="954" width="512" alpha="0.9" text="由「歼灭模式」召唤，一共5只，每只为25%大鸭生命值，有100感电充能条，每次受到(月)感电反应伤害积攒10，攒满后反撞大鸭；期间小鸭受到的感电/月感电伤害提升150%。(N5) 感电条上限为200。"/>
+	<mx:Image source="Image10.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image11.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle12" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle13" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle14" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle15" x="640" y="704" width="160" text="1358918"/>
+	<mx:Text styleName="textStyle15" x="800" y="704" width="160" text="6771341"/>
+	<mx:Text styleName="textStyle15" x="960" y="704" width="160" text="13114774"/>
+	<mx:Text styleName="textStyle16" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle16" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle17" x="960" y="736" width="160" alpha="0.6" text="× 6.7"/>
+	<mx:Text styleName="textStyle15" x="1120" y="704" width="160" text="25925713"/>
+	<mx:Text styleName="textStyle17" x="1120" y="736" width="160" alpha="0.6" text="× 12.1"/>
+	<mx:Text styleName="textStyle15" x="640" y="768" width="160" text="11419"/>
+	<mx:Text styleName="textStyle15" x="960" y="768" width="160" text="16260"/>
+	<mx:Text styleName="textStyle15" x="800" y="768" width="160" text="14773"/>
+	<mx:Text styleName="textStyle15" x="1120" y="768" width="160" text="17417"/>
+	<mx:Text styleName="textStyle12" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle11" x="64" y="636" width="576" alpha="0.9" text="其他抗性：(N4) 带甲时150%。(N5) 带甲时210%。"/>
+	<mx:Text styleName="textStyle18" x="640" y="938" width="128" alpha="0.6" text="Electro Adv."/>
+	<mx:Image source="Image12.png" x="654" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Charged Adv."/>
+	<mx:Image source="Image13.png" x="815" y="847" width="98" height="99"/>
+	<mx:Image source="Image14.png" x="822" y="859" width="86" height="77"/>
+	<mx:Text styleName="textStyle19" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle19" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle19" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle19" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+</mx:Application>

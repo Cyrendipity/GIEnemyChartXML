@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_2.png')" x="49" y="358">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_3.png')" x="560" y="40">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_4.png')" x="46" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_5.png')" x="1497" y="41">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_6.png')" x="47" y="652">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_7.png')" x="46" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_8.png')" x="48" y="700">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_9.png')" x="47" y="748">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_10.png')" x="50" y="445">
+		</BitmapImage>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="133" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="46" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">IMM</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_11.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_12.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_13.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_14.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_15.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_16.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_17.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_18.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_19.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_21.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2171b1" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2171b1">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_22.png')" x="720" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_23.png')" x="1392" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_24.png')" x="720" y="425">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_25.png')" x="720" y="714">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_26.png')" x="1392" y="425">
+		</BitmapImage>
+		<RichText x="738" y="223" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">平息状态的喷吐幻灵凝聚浊水，慢速发射，造成<span color="#7fbfff">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">喷吐幻灵朝玩家处不断且连续地一直喷水，持续造成<span color="#7fbfff">40%,20%,4%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="511" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">喷吐幻灵幻化成水壶，从壶嘴出发射1枚水弹，造成<span color="#7fbfff">100%</span><span>伤害。<br/></span><span color="#bfbfff">强化技能：</span><span>发射水弹数量增加至5枚，且水弹造成</span><span color="#7fbfff">100%,25%,10%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="799" width="427" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">常驻<span color="#7fbfff">水元素</span><span>，抗打断0.01。每隔15s，喷吐幻灵会在平息和狂怒状态切换：平息状态下被冻结时间不超过8s，超时强制解除冻结；狂怒状态下</span><span color="#ffcdbf">不可冻结</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="511" width="438" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">接近喷吐幻灵时，喷吐幻灵蜷缩自身，产生较大的爆炸，造成<span color="#7fbfff">100%</span><span>伤害，该技能可以打断其他技能施放。<br/></span><span color="#bfbfff">强化技能：</span><span>爆炸后在周围产生4道扩散型水喷，造成</span><span color="#7fbfff">100%,25%,10%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_27.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_28.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_29.png')" x="596" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_30.png')" x="576" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_31.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_32.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_33.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_34.png')" x="596" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_35.png')" x="576" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_36.png')" x="1268" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/浊水喷吐幻灵.assets/Image_37.png')" x="1248" y="438" blendMode="normal">
+		</BitmapImage>
+		<RichText x="65" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="191" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#7fbfff">无源之水</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="548" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="249" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#7fbfff">Water Without Source</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99b3ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+	</Group>
+</Graphic>

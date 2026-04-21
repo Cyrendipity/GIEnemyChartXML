@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1376" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_2.png')" x="596" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_3.png')" x="596" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_4.png')" x="1268" y="1035" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_5.png')" x="596" y="1035" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_6.png')" x="596" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_7.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_8.png')" x="1268" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_9.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="61" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="432" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">熔岩辉龙像</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ff9999" width="316" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ff9999">石心流焰的终型</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="821" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1459" y="52" width="424" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#ff9999">PP</span><span>[0x2],</span><span color="#ff9999">PO</span><span>[66,33]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="664" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1645248 <span color="#dddddd">(27.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="630" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="712" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 20886 <span color="#dddddd">(8.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="761" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 20000/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="268" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Lava Dragon Statue</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="548" fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" fontWeight="normal" color="#ff9999" width="382" height="21" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" color="#ff9999">Stone-Hearted Final Form of Flowing Flame</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="83" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="143" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">70</p>
+				</content>
+			</RichText>
+			<RichText x="203" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">70</p>
+				</content>
+			</RichText>
+			<RichText x="263" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">70</p>
+				</content>
+			</RichText>
+			<RichText x="323" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">70</p>
+				</content>
+			</RichText>
+			<RichText x="383" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">70</p>
+				</content>
+			</RichText>
+			<RichText x="443" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">70</p>
+				</content>
+			</RichText>
+			<RichText x="503" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">70</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_10.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_11.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_12.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_13.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_14.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_15.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_16.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_17.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_18.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_20.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">辉龙至多进行2段攻击：身转一周，造成<span color="#b8b8b8">40%</span><span>伤害，而后顺带将碗内的浓汤倒出，造成</span><span color="#ff9999">50%</span><span>伤害，洒在地上留下的浓汤将持续一段时间，并造成</span><span color="#ff9999">30%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_21.png')" x="1391" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_22.png')" x="1392" y="713">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_23.png')" x="1391" y="1001">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_24.png')" x="720" y="714">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_25.png')" x="719" y="1001">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_26.png')" x="719" y="137">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="399" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，辉龙装弹，准备进行迫击：抛出4-5颗汤圆，均造成<span color="#ff9999">30%,<br/>4.5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="799" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">辉龙进行蓄力，而后喷吐燃素熔流，顺时针自转一圈，造成<span color="#ff9999">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1087" width="438" height="229" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">辉龙具有2种状态：「岩之人」和「熔焰之龙」；两个状态可互相转化，且受到<span color="#ff9999">火元素</span><span>伤害均会累积热量，但后者受到</span><span color="#99ffff">冰元素</span><span>或</span><span color="#7fbfff">水元素</span><span>伤害时会失去大量热量，直至回退「岩之人」状态。「熔焰之龙」状态下累积热量达50%和100%时，均会损失当前</span><span color="#ffbfbf">15%</span><span>生命值，而后者将瘫痪13s，苏醒后回退至「岩之人」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="799" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">辉龙进行3段攻击：分别使用左右岩壳进行攻击，依次造成<span color="#ff9999">40%,60%</span><span>伤害，最后使岩泉横流，造成</span><span color="#ff9999">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1087" width="422" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，辉龙搓着岩壳朝玩家方向推进，接触造成<span color="#ff9999">80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="511" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">辉龙用力重击，造成<span color="#b8b8b8">30%</span><span>伤害，随后借力跃起至玩家上方，然后重重下落，造成</span><span color="#b8b8b8">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#a3320c" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#a3320c">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_2">
+			<RichText x="83" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-30</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-30</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-30</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">-30</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-30</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-30</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_27.png')" x="64" y="1001" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="957" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">常态</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1017" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">熔焰</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_3">
+			<RichText x="77" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-60</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-60</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-60</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-60</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">-60</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-60</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-60</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-60</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_28.png')" x="64" y="1061" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1077" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">瘫痪</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1128" width="442" height="212" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">深渊抗性：正常150%，熔焰状态<span color="#ff9999">火150% </span><span>/ 其他45%，瘫痪10%。<br/>热量：「岩之人」状态下350点；「熔焰之龙」状态下800点，且初始拥有</span><span color="#ffdfbf">12.5%</span><span>(100)的热量，自身常驻</span><span color="#ff9999">火元素</span><span>。<br/>「岩之人」状态下受到</span><span color="#ff9999">火元素</span><span>攻击后，会根据火元素的量积攒</span><span color="#ffdfbf">6.786n%</span><span>(23.75n)或</span><span color="#ffdfbf">2%</span><span>(7)热量，攒满后进入「熔焰之龙」状态；<br/>「熔焰之龙」状态下受到</span><span color="#ff9999">火元素</span><span>攻击后，会根据火元素的量积攒</span><span color="#ffdfbf">2.969n%</span><span>(23.75n)或</span><span color="#ffdfbf">0.875%</span><span>(7)热量，该状态下一旦受</span><span color="#99ffff">冰元素</span><span>或</span><span color="#7fbfff">水元素</span><span>攻击时，会立即失去</span><span color="#ffdfbf">18.75%</span><span>(150)热量，热量不足会退回「岩之人」状态。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_29.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_30.png')" x="1248" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_31.png')" x="1248" y="1014" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_32.png')" x="576" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_33.png')" x="576" y="1014" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_34.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_35.png')" x="576" y="152" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_36.png')" x="576" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_37.png')" x="719" y="425">
+		</BitmapImage>
+		<RichText x="1410" y="511" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">辉龙挥舞双爪不断进行旋转突进，持续造成<span color="#b8b8b8">30%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_38.png')" x="1268" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_39.png')" x="1248" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/熔岩辉龙像.assets/Image_40.png')" x="1391" y="425">
+		</BitmapImage>
+	</Group>
+</Graphic>

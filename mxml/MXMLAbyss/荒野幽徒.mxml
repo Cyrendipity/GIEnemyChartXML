@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1440" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#B15A9C;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#F3A3D6;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#F3A3D6;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="410" text="荒野幽徒"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="704" width="561" text="HP: 133104 (2.4F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="752" width="545" text="ATK: 7387 (3.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="800" width="456" text="Wt/Ed: 90/100 "/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Wilderness Exile"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="576" y="128" width="469" alpha="0.5" text="元素能量：WP[66,33,0]"/>
+	<mx:Text styleName="textStyle9" x="736" y="256" width="448" alpha="0.9" text="幽徒从胸口掏出魔火并抛出，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" alpha="0.9" text="幽徒进行至多2段的抓划攻击，依次造成70%,80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="704" width="448" alpha="0.9" text="幽徒化为黑雾向前移动，然后出现并给予一个怀抱，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="928" width="448" alpha="0.9" text="幽徒猎意上身，突然来了劲，朝前猛撞，造成100%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1152" width="448" alpha="0.9" text="狂猎血条清空之后不会立即死亡，而是进入临界状态「失色哀恸」，持续10s；期间受到的部分伤害会削减生命上限，状态结束后狂猎将直接恢复至生命上限，将不再能削减上限。月兆处于「满辉」的队伍，施放被「满辉」强化的技能可直接使其进入10s的「失色哀恸」状态。"/>
+	<mx:Text styleName="textStyle10" x="736" y="192" width="448" text="焚心怨火-远程"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="巡魂游猎-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="640" width="448" text="蚀雾遁伏-位移"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="448" text="窥觊狂徒-位移"/>
+	<mx:Text styleName="textStyle10" x="736" y="1088" width="448" text="消逝哀色-天赋"/>
+	<mx:Text styleName="textStyle11" x="64" y="1040" width="448" alpha="0.75" text="临界状态：若队伍不处于 「满辉」，则只能通过清空红血，才可使其陷入临界状态，从而继续削减生命上限，期间狂猎所受伤害的65%会用于削减上限；若队伍处于「满辉」，施放被「满辉」强化的技能，附近的狂猎会直接进入临界状态，期间狂猎所受伤害的90%会用于削减上限，需注意该临界状态也只持续10s，并且不能中途续杯。狂猎进入因清空红血所致的临界状态时，会立即减少10%生命上限，此后每次进入状态都会额外削减8%生命上限，即：第一次清空红血会立即削减10%生命上限，第二次18%，第三次26%……以此类推。"/>
+	<mx:Text styleName="textStyle12" x="64" y="544" width="340" text="狂猎之影"/>
+	<mx:Text styleName="textStyle13" x="64" y="587" width="395" alpha="0.75" text="Shadow of the Wild Hunt"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="158" y="1278" width="260" height="99"/>
+</mx:Application>

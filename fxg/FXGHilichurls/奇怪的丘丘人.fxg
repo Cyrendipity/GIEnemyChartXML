@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "960" viewWidth= "1248">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="65" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="508" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">奇怪的丘丘人</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="533" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="671" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_2.png')" x="64" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_3.png')" x="64" y="653" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_4.png')" x="184" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_5.png')" x="364" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_6.png')" x="303" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_7.png')" x="244" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_8.png')" x="424" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_9.png')" x="124" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_10.png')" x="66" y="589" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_12.png')" x="486" y="589">
+			</BitmapImage>
+		</Group>
+		<RichText x="58" y="792" width="276" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 58824 <span color="#dddddd">(1.6H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="759" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="180" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">普通 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="840" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 8864<span color="#dddddd"> (3.6B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="59" y="889" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 75/100</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="346" y="792" width="314" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 367651 <span color="#dddddd">(10.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="346" y="759" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="267" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">普通-折箭觅踪 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="348" y="840" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 8864<span color="#dddddd"> (3.6B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="347" y="889" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 75/100</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="239" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Unusual Hilichurl</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="738" y="255" width="398" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大伟丘向玩家甩皮箱子，造成<span color="#b9b9b9">75%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="410" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大伟丘打开皮箱，朝玩家投掷卷心菜、原石、吼姆，其中原石和卷心菜造成<span color="#b9b9b9">50%</span><span>伤害，吼姆造成</span><span color="#b9b9b9">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_13.png')" x="720" y="169">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_14.png')" x="721" y="393">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#96673d" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#96673d">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="575" y="116" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="301" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WP[60,0]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_15.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_16.png')" x="596" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_17.png')" x="576" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_18.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/奇怪的丘丘人.assets/Image_19.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<RichText x="66" y="720" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="343" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">免疫控制效果；一段时间后没打完，会传送逃跑。</p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

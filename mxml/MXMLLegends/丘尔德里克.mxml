@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1600" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#96673D;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="520"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="521" text="丘尔德里克"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="382" text="HP: 4874809 (80.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="382" text="HP: 1109200 (20.0F) 25%"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 28719 (11.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="816" width="375" text="ATK: 18959 (7.7B2) 70%"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 150/400"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="375" text="Wt/Ed: 150/400"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Churldric"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="736" y="256" width="448" alpha="0.9" text="萨满施法，在玩家处连续生成至多3次的突震，造成60%伤害。「怒面」状态下，每次突震将产生额外的冲击波，造成70%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="512" width="448" alpha="0.9" text="萨满将随机召唤6枚日落果或卷心菜，均造成100%伤害。「怒面」状态下不施放。"/>
+	<mx:Text styleName="textStyle8" x="736" y="192" width="448" text="荡地笋突-定点"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" text="食硕杖法-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="704" width="448" text="萨满杖击-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" text="援杖乘跃-位移"/>
+	<mx:Text styleName="textStyle7" x="736" y="768" width="448" alpha="0.9" text="距离玩家较近时，萨满挥杖击飞玩家，造成80%伤害。「怒面」状态下，挥杖范围变大。"/>
+	<mx:Text styleName="textStyle7" x="736" y="992" width="448" alpha="0.9" text="萨满立即翘杆进行3次下落攻击，每次造成70%伤害；返回中心时只下落一次。「怒面」状态下，每次下落将产生额外2道冲击波，均造成100%伤害。"/>
+	<mx:Text styleName="textStyle9" x="895" y="61" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="576" y="128" width="578" alpha="0.5" text="元素能量：WP[75,50,25,0x3],WO[0]"/>
+	<mx:Text styleName="textStyle11" x="64" y="1284" width="448" alpha="0.75" text="烹饪进度：满进度100，汤锅为点燃状态时，前20%进度每0.5秒+2.5，后续每0.5秒+7.5。美味汤锅：30岩盾，会记录伤害但无伤害转化，同时伤害会转移伤害到大萨满身上，持续16s；破坏后萨满瘫痪。用1次火元素攻击可点燃汤锅，用2次冰/岩/风攻击，或者1次雷/水攻击会熄灭锅，草元素攻击无用。锅的「火」为特效，仅指示状态，不是真火。汤成：恢复20%生命值，全抗提升110%(深渊290%)，持续30s。炊生：攻击提升100%，持续30s。破釜：破坏后，造成(锅所受伤害+10%生命值)的真伤，不超过20%生命值，同时全抗降至-50%，瘫痪10s。"/>
+	<mx:Image source="Image5.png" x="596" y="715" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle13" x="0" y="1108" width="64" text="烹饪&amp;满足"/>
+	<mx:Image source="Image8.png" x="64" y="1157" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="1168" width="64" text="烹饪&amp;满足(渊)"/>
+	<mx:Image source="Image9.png" x="64" y="1217" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1234" width="64" text="瘫痪"/>
+	<mx:Image source="Image10.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image12.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="694" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="1195" width="128" height="128"/>
+	<mx:Text styleName="textStyle7" x="736" y="1248" width="448" alpha="0.9" text="萨满架设「美味汤锅」并进行烹饪，烹饪时长16s，期间周围将不间断产生流溢余火，对范围内目标造成70%伤害。根据烹饪进度可产生不同效果：烹饪进度完成为汤成：进入绿色「满足」状态，抗性提升，持续30s；烹饪进度未满为炊生：进入红色「怒面」状态，攻击力翻倍，持续30s；成功破坏汤锅则破釜：根据期间汤锅所受伤害返还真伤，抗性降低，瘫痪10s。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1184" width="448" text="琼汤盛馔-召唤"/>
+	<mx:Image source="Image18.png" x="576" y="1174" width="168" height="170"/>
+</mx:Application>

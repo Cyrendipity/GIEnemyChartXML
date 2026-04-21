@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1216" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFBFBF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#BFFFDF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="410" text="盗宝团·「大姐头」"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle" x="64" y="960" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="HP: 88236 (2.4H)"/>
+	<mx:Text styleName="textStyle3" x="64" y="800" width="305" text="HP: 388220 (7.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="305" alpha="0.75" text="普通-旧模 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="305" alpha="0.75" text="普通-2.4海灯节新模 Lv.100 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="656" width="375" text="ATK: 4924 (2.0B1)"/>
+	<mx:Text styleName="textStyle3" x="64" y="848" width="375" text="ATK: 7387 (3.0B2)"/>
+	<mx:Text styleName="textStyle3" x="64" y="704" width="375" text="Wt/Ed: 70/50"/>
+	<mx:Text styleName="textStyle3" x="64" y="896" width="375" text="Wt/Ed: 70/50"/>
+	<mx:Text styleName="textStyle5" x="64" y="465" width="395" alpha="0.75" text="Treasure Hoarder:Boss"/>
+	<mx:Image source="Image4.png" x="64" y="1005" width="484" height="124"/>
+	<mx:Text styleName="textStyle6" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="1390" y="64" width="466" alpha="0.5" text="元素能量：WP[75,50,25,0x2](旧)WP[66x2,33x2],WO[0](新)"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="(旧)大姐头用斧砍，造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="256" width="448" alpha="0.9" text="(旧)大姐头用斧进行至多3段的普攻，每段分别造成100%,100%,125%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="768" width="448" alpha="0.9" text="(新)大姐头用斧进行至多3段的普攻，每段分别造成50%,50%,75%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1024" width="448" alpha="0.9" text="(新)大姐头发怒，进入士气强化状态，该状态可使用「避邪爆竹」破除并使其瘫痪。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="512" width="448" alpha="0.9" text="(旧)距离较远时，大姐头扔出她的斧头，造成75%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="512" width="448" alpha="0.9" text="(旧)大姐头跳起，使用斧头下劈，造成150%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="768" width="448" alpha="0.9" text="(新)大姐头跳起，使用斧头下劈，造成75%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1024" width="448" alpha="0.9" text="(新)距离较远时，大姐头扔出她的斧头，造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="0" y="1087" width="64" text="正常"/>
+	<mx:Text styleName="textStyle10" x="0" y="1147" width="64" text="士气"/>
+	<mx:Text styleName="textStyle11" x="736" y="192" width="448" text="锈斧敲击-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="192" width="448" text="俎肉劈柴-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="704" width="448" text="抽筋剔骨-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="960" width="448" text="士气鼓舞-强化"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" text="落斧孤田-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="448" width="448" text="斫金之势-控制"/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" text="斩铁之势-控制"/>
+	<mx:Text styleName="textStyle11" x="736" y="960" width="448" text="遗斧芜野-远程"/>
+	<mx:Image source="Image5.png" x="68" y="64" width="248" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="1129" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="1268" y="203" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="715" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="182" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1248" y="694" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="715" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="694" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="971" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="950" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="971" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="950" width="168" height="170"/>
+</mx:Application>

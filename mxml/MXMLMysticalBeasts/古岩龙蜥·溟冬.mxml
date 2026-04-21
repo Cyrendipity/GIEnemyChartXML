@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1248" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="168" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="978"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="483" text="古岩龙蜥·溟冬"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="305" text="圆滚滚肚皮"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="405" text="HP: 1554760 (25.515F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 33778 (12.938B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Wintry Primo Geovishap"/>
+	<mx:Text styleName="textStyle8" x="64" y="555" width="395" alpha="0.75" text="Round Tummy Tum Tum"/>
+	<mx:Text styleName="textStyle9" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle10" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WP[66,33],WO[0x2]"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="古岩龙蜥使用右爪挥扫，造成对应元素的40%伤害；古岩龙蜥使用左爪敲地，后拔扯，敲地和拔扯依次造成对应元素的35%,15%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="448" width="448" alpha="0.9" text="古岩龙蜥进行右爪扫-左爪划-双爪拍三段攻击，其依次造成对应元素的40%,50%,62.5%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" alpha="0.9" text="处于古岩龙蜥身后时，古岩龙蜥使用尾部旋扫一圈，造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="古岩龙蜥凝聚自身元素，朝前方扇形区域扫过，造成对应元素的40%,20%,10%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="928" width="448" alpha="0.9" text="古岩龙蜥会依据自身属性产生「龙鳞」，不同元素的攻击方式不同：清涟：朝玩家方向产生7~8次水喷，每个水喷造成16%伤害；青霜：产生三波冰棘，依次造成25%,25%,37.5%伤害。「龙鳞」将在古岩龙蜥施放「原岩喷吐」或「晶鳞四处」或被某些攻击打断时立即消失。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" alpha="0.9" text="古岩龙蜥抖动全身，飞出8个对应元素的「龙鳞」，落地后绕龙蜥围成一圈，然后敲一下地板造成对应元素的80%伤害。施放后可转换元素属性，顺序为冰水。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="古岩龙蜥大跳移步，落地造成对应元素的70%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="爪犁寒池-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="左右开攻-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="浮金飘尘-防卫"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="南寒吐息-妨害"/>
+	<mx:Text styleName="textStyle12" x="1408" y="864" width="448" text="龙灵残煜-天赋"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="晶鳞四处-埋伏"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="步潭履冰-位移"/>
+	<mx:Image source="Image5.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="448" alpha="0.9" text="古岩龙蜥凝聚自身元素之力，朝地面喷射，造成大范围对应元素的200%伤害。若角色受护盾庇护则只受到对应元素的40%伤害。该技能可被盾反。"/>
+	<mx:Text styleName="textStyle12" x="736" y="864" width="448" text="原岩喷吐-爆发"/>
+	<mx:Text styleName="textStyle13" x="64" y="1128" width="448" alpha="0.75" text="出场时额外获得100%对应元素的常驻抗性。出场默认冰属性，技能会在冰水两个属性间转换。盾反：护盾必须能扛住该次攻击，方可触发盾反，盾反成功后古岩龙蜥虚弱6s。若盾反成功，则削减全抗性，并扣除10%生命值(异元素盾为3%)。"/>
+	<mx:Image source="Image7.png" x="64" y="877" width="484" height="124"/>
+	<mx:Image source="Image8.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="959" width="64" text="起身"/>
+	<mx:Text styleName="textStyle14" x="0" y="1019" width="64" text="正常"/>
+	<mx:Image source="Image9.png" x="64" y="1061" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1079" width="64" text="盾反"/>
+	<mx:Image source="Image10.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="152" width="168" height="168"/>
+	<mx:Image source="Image12.png" x="1268" y="172" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="152" width="168" height="168"/>
+	<mx:Image source="Image14.png" x="596" y="396" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="376" width="168" height="168"/>
+	<mx:Image source="Image16.png" x="1268" y="396" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="376" width="168" height="168"/>
+	<mx:Image source="Image18.png" x="1268" y="620" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="600" width="168" height="168"/>
+	<mx:Image source="Image20.png" x="596" y="876" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="856" width="168" height="168"/>
+	<mx:Image source="Image22.png" x="1268" y="876" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="856" width="168" height="168"/>
+</mx:Application>

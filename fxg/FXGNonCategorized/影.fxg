@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1144" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/影.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_2.png')" x="644" y="115" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_3.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="58" y="365" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="110" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">影</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="498" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ffacff" width="305" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ffacff">一心净土的主人</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="817" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="660" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 2218401<span color="#dddddd"> (40.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="626" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="294" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领-梦想一心形态 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="708" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 22160 <span color="#dddddd">(9.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="757" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 150/500</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="453" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="57" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Ei</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="548" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ffacff" width="325" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ffacff">Master of the Euthymic Plane</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="253" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="46" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">IMM</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/影.assets/Image_4.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_5.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_6.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_7.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_8.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_9.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_10.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_11.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_12.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/影.assets/Image_14.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">影使用手上的梦想一心，进行至多5段的普通攻击，第4段具有突进和收回两个过程；5段普攻依次造成<span color="#ffacff">33.3%,33.3%,<br/>33.3%,33.3%+16.6%,50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">离影较远时，影收起梦想一心迅速朝玩家冲击，并施放两段斩击，冲击造成<span color="#ffacff">8.3%</span><span>伤害，两段斩击分别造成</span><span color="#ffacff">8.3%,<br/>66.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于影身后时，影立即转身斩击，造成<span color="#ffacff">66.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="437" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">影使用手上的梦想一心，进行至多3段的范围横劈攻击，3段普攻依次造成<span color="#ffacff">16.6%,<br/>16.6%,50%</span><span>伤害，</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="406" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">影依次斩出3个雷轮，每个雷轮造成<span color="#ffacff">33.3%</span><span>伤害，最后水平劈出一道雷刃，造成</span><span color="#ffacff">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/影.assets/Image_15.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_16.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="671" width="417" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">影作刀势，在场地上依次召唤1-3个闪烁的雷眼，接触造成4段<span color="#ffacff">5.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="421" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">影用梦想一心画圈后将其举向天空，召唤9个雷球在场地边缘以顺时针顺序下落，雷球下落造成<span color="#ffacff">66.6%</span><span>伤害，留下雷痕持续造成</span><span color="#ffacff">12.5%</span><span>伤害；雷球全落下后影在场地中间施放次元斩，造成4段</span><span color="#ffacff">33.3%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，最后碎屏斩造成</span><span color="#ffacff">100%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/影.assets/Image_17.png')" x="720" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_18.png')" x="721" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_19.png')" x="719" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_20.png')" x="1391" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_21.png')" x="1392" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_22.png')" x="1391" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_23.png')" x="721" y="810">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#8d29b4" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#8d29b4">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/影.assets/Image_24.png')" x="79" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_25.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_26.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_27.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_29.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_30.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_31.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_32.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_33.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_34.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_35.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_36.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="895" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">影进行旋斩、冲击、旋斩最多3段的普通攻击，3段攻击依次造成<span color="#ffacff">16.6%x2,<br/>16.6%,58.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/影.assets/Image_37.png')" x="1392" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_38.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/影.assets/Image_39.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

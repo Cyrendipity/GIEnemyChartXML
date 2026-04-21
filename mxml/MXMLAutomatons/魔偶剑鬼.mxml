@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1920" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#99FFCC;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFCC;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#BFFFDF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#079C9C;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="840"/>
+	<mx:Image source="Image3.png" x="0" y="424" width="1920" height="1080"/>
+	<mx:Image source="Image4.png" x="0" y="1504" width="1920" height="416"/>
+	<mx:Image source="Image5.png" x="1268" y="1739" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="0" y="246" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="672" width="460" text="魔偶剑鬼"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="800" width="419" text="万般机巧，剑豪人形"/>
+	<mx:Text styleName="textStyle4" x="64" y="1312" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WP[0],WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="928" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="1120" width="305" alpha="0.75" text="首领-3.4振刀 Lv.90 Data"/>
+	<mx:Text styleName="textStyle7" x="64" y="960" width="305" text="HP: 788299 (20.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1152" width="368" text="HP: 434697 (11.7168F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1008" width="375" text="ATK: 20886 (8.0B1)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1200" width="375" text="ATK: 3806 (2.0B2)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1056" width="375" text="Wt/Ed: 99999/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="1248" width="375" text="Wt/Ed: 99999/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="753" width="395" alpha="0.75" text="Maguu Kenki"/>
+	<mx:Text styleName="textStyle9" x="64" y="835" width="395" alpha="0.75" text="Ingenious Machine: Marionette Swordmaster"/>
+	<mx:Image source="Image7.png" x="64" y="1357" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="剑鬼斜上插刀鞘，随后立即朝前突进，突进和终点处均造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="剑鬼平插刀鞘，产生真空场吸引玩家，随后圆形斩击，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="剑鬼平插刀鞘，产生真空场吸引玩家，随后挥刀造成100%伤害，之后在原地产生霜驰幻影，霜驰在更大范围外挥一圈造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="剑鬼斜上插刀鞘，进行快速突进，突进和终点处均造成60%伤害，随后大概率接机巧声风技能，小概率接孤风刀势技能或霜驰刀势技能。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="剑鬼迅速瞬移，原地留下一个孤风幻影，孤风挥出一刀风刃，同时剑鬼继续劈砍3-4道风刃，风刃均造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1344" width="448" alpha="0.9" text="剑鬼在进行纵-横-纵的普通攻击时，孤风幻影会协同攻击，剑鬼造成50%伤害，孤风造成30%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1568" width="448" alpha="0.9" text="剑鬼迅速斜砍出一刀风刃，造成50%伤害，该技能不单放。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1568" width="448" alpha="0.9" text="(振刀2技能)剑鬼后撤，迅速连续劈出1-5刀风刃，每个造成50%伤害，该风刃可被反击。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="居合破斩-位移	破剑阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="真空破斩-吸引	破剑阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="真霜空斩-妨害"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="居合暴斩-位移	风魔阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="机巧刃锐-闪避	风魔阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="1280" width="448" text="孤风流锷-协同输出	风魔阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="1504" width="448" text="机巧声风-连招	风魔阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1504" width="448" text="疾风连暴-输出	风魔阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="一文破字-输出	破剑阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="七五斩落-输出	风魔阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1280" width="448" text="霜驰凝锋-协同输出	风魔阶段"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="剑鬼在近处挥刀，最多可以进行3段普攻，有两种不同的方式：横-斜-纵、纵-横-纵，每段造成50%伤害"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="当生命值低于75%时，剑鬼右手持破风，左手拿来一把碎霜，朝地用尽全力猛击，造成80%+80%伤害，冰伤范围比风伤大，随后进入风魔阶段。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1344" width="448" alpha="0.9" text="剑鬼在进行横-斜-纵的普通攻击时，霜驰幻影会协同攻击，剑鬼造成50%伤害，霜驰造成30%伤害。"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="剑鬼拼合枉死之面，随后朝前推行，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="剑鬼放开枉死之面，面具追踪玩家，随后闭合发生爆炸，造成100%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="枉面推行-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="枉面夹笼-追踪"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="受击后，剑鬼突然后撤，原地留下一个霜驰幻影，剑鬼蓄力产生真空场吸引玩家，和霜驰同时挥出一刀，剑鬼造成100%伤害，霜驰造成60%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1056" width="448" text="影突刃寒-闪避	风魔阶段"/>
+	<mx:Image source="Image8.png" x="64" y="352" width="256" height="256"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="1792" width="448" alpha="0.9" text="当玩家距离剑鬼&gt;7m时，魔偶剑鬼就会开始格挡攻击。(振刀2技能)剑鬼会格挡近战攻击。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1792" width="448" alpha="0.9" text="魔偶剑鬼会不定时的握紧左拳，作出一副「你倒是打啊」的架势。"/>
+	<mx:Text styleName="textStyle12" x="736" y="1728" width="448" text="枉面格挡-被动"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1728" width="448" text="挑衅嘲讽-嘲讽"/>
+	<mx:Image source="Image11.png" x="1248" y="1718" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1268" y="620" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="600" width="168" height="168"/>
+	<mx:Image source="Image18.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="844" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="824" width="168" height="168"/>
+	<mx:Image source="Image26.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image29.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="596" y="1291" width="128" height="128"/>
+	<mx:Image source="Image31.png" x="576" y="1270" width="168" height="170"/>
+	<mx:Image source="Image32.png" x="1268" y="1292" width="128" height="128"/>
+	<mx:Image source="Image33.png" x="1248" y="1272" width="168" height="168"/>
+	<mx:Image source="Image34.png" x="596" y="1515" width="128" height="128"/>
+	<mx:Image source="Image35.png" x="576" y="1494" width="168" height="170"/>
+	<mx:Image source="Image36.png" x="1268" y="1515" width="128" height="128"/>
+	<mx:Image source="Image37.png" x="1248" y="1494" width="168" height="170"/>
+	<mx:Image source="Image38.png" x="596" y="1739" width="128" height="128"/>
+	<mx:Image source="Image39.png" x="576" y="1718" width="168" height="170"/>
+</mx:Application>

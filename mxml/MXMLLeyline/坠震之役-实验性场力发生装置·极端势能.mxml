@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFE599;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFBFBF;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle16 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A28631;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFDFBF;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99FF99;
+		}
+		.textStyle19 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="104" width="666" height="625"/>
+	<mx:Text styleName="textStyle" x="401" y="32" width="1092" text="实验性场力发生装置·极端势能"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="448" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="GO[66,33,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：21.718F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：7.0B2"/>
+	<mx:Text styleName="textStyle5" x="628" y="128" width="640" alpha="0.75" text="Experimental Field Generator: Extreme Potential"/>
+	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="256" width="484" height="64"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="154" text="(N5) 算势："/>
+	<mx:Text styleName="textStyle7" x="64" y="512" width="128" text="重力场："/>
+	<mx:Text styleName="textStyle8" x="64" y="730" width="512" alpha="0.9" text="力场发生器开启重力场时叠加的强化，每5s叠加一层算势，受到下落攻击移除一层算势，最多可持有5层算势，算势数会决定最后引力涟漪快三连的数量。"/>
+	<mx:Text styleName="textStyle8" x="64" y="538" width="512" alpha="0.9" text="力场发生器入战即开启重力场，此时角色的跳跃能力增强，荒性发条生效，3次芒性攻击会提前结束重力场；(N5) 湮灭荒性发条只会打断力场发生器，使其更早施放引力涟漪结束重力场；(N5) 当角色超过一定高度时将获得极短时间的攻击力加成，限高2m，角色获得600%攻击力加成，持续1.5s；某些特殊模型移动无法触发，如菲林斯雷霆交响(首段，二段可Q后立即起跳吃到)、玛薇卡坠日斩等。"/>
+	<mx:Image source="Image6.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle9" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle10" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle11" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle12" x="640" y="704" width="160" text="966919"/>
+	<mx:Text styleName="textStyle12" x="800" y="704" width="160" text="4818053"/>
+	<mx:Text styleName="textStyle12" x="960" y="704" width="160" text="13231421"/>
+	<mx:Text styleName="textStyle13" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle13" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle13" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle14" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle14" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle15" x="960" y="736" width="160" alpha="0.6" text="× 9.5"/>
+	<mx:Text styleName="textStyle12" x="1120" y="704" width="160" text="23020735"/>
+	<mx:Text styleName="textStyle13" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle15" x="1120" y="736" width="160" alpha="0.6" text="× 15.1"/>
+	<mx:Text styleName="textStyle12" x="640" y="768" width="160" text="13322"/>
+	<mx:Text styleName="textStyle12" x="960" y="768" width="160" text="18971"/>
+	<mx:Text styleName="textStyle12" x="800" y="768" width="160" text="17235"/>
+	<mx:Text styleName="textStyle12" x="1120" y="768" width="160" text="20319"/>
+	<mx:Text styleName="textStyle16" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image7.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle9" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image8.png" x="654" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle17" x="640" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image9.png" x="818" y="848" width="92" height="96"/>
+	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Plunging Adv."/>
+	<mx:Text styleName="textStyle19" x="1536" y="288" width="448" alpha="0.9" text="实验场力装置将蓄能，产生振荡地面的晶岩浪潮，碰到造成100%,50%伤害(闪避帧无效)，施放完毕后结束重力场。(N5) 根据自身算势层数，持续施放强震波，以慢三连开头，之后以快三连形式持续施放，造成120%伤害(闪避帧无效)，最多重复5次。"/>
+	<mx:Text styleName="textStyle20" x="1536" y="224" width="448" text="引力涟漪-爆发"/>
+	<mx:Image source="Image10.png" x="1396" y="235" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1376" y="214" width="168" height="170"/>
+</mx:Application>

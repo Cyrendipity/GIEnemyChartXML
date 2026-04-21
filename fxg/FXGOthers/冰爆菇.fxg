@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1208" viewWidth= "2880">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_2.png')" x="1920" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_3.png')" x="1920" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_4.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="58" y="365" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="269" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">冰爆菇</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="730" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="913" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="2554" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="454" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="188" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Gusto-Frosto</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="322" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">20</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">20</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_5.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_6.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_7.png')" x="184" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_8.png')" x="364" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_9.png')" x="303" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_10.png')" x="244" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_11.png')" x="424" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_12.png')" x="124" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_13.png')" x="66" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/冰爆菇.assets/Image_15.png')" x="486" y="973">
+			</BitmapImage>
+		</Group>
+		<RichText x="962" y="287" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽钻入地面，在敌人处钻出，造成<span color="#99ffff">99%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="962" y="607" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽钻入地面，在敌人处钻出，持续2次，每次造成<span color="#99ffff">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="962" y="927" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽钻入地面，在敌人处钻出，持续2次，每次造成<span color="#99ffff">150%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1634" y="287" width="438" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽连续进行3次弹跳，造成<span color="#99ffff">52%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1634" y="607" width="433" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽受到攻击时，会<span color="#bfedff">恢复自身5%的生命值</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1634" y="927" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽将嘲讽周围敌人，吸引火力。</p>
+			</content>
+		</RichText>
+		<RichText x="2306" y="287" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽高速旋转，朝敌人处发射一枚穿刺冰锥，造成<span color="#99ffff">1154%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="2306" y="607" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽在目标处施放冰风暴，持续造成<span color="#99ffff">300%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="2306" y="927" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">旋转冰蕈兽在目标处施放冰风暴，持续造成<span color="#99ffff">150%</span><span>伤害，同时自身披护持续6s的</span><span textDecoration="underline">霜嶂</span><span>，并嘲讽周围敌人。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1104" width="397" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">霜嶂：<span color="#99ffff">4冻</span><span>盾，可伤害转化4倍生命值。<br/>3.5 灵蕈棋阵：</span><span color="#ffbfbf">150</span><span>元素精通。<br/>4.2 小小灵蕈大幻戏：</span><span color="#ffbfbf">100</span><span>元素精通，剧变反应系数1.5。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_16.png')" x="943" y="202">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_17.png')" x="943" y="522">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_18.png')" x="943" y="842">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_19.png')" x="1615" y="201">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_20.png')" x="1615" y="522">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_21.png')" x="1616" y="842">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_22.png')" x="2288" y="201">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_23.png')" x="2288" y="521">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_24.png')" x="2288" y="841">
+		</BitmapImage>
+		<RichText x="1059" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2686a2" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2686a2">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="836" y="137" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#dfffbf" width="332" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#dfffbf">智巧灵蕈大竞逐</p>
+			</content>
+		</RichText>
+		<RichText x="835" y="457" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#bfeeff" width="190" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#bfeeff">灵蕈棋阵</p>
+			</content>
+		</RichText>
+		<RichText x="835" y="777" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#feedc0" width="334" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#feedc0">小小灵蕈大幻戏</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_26.png')" x="758" y="135">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_28.png')" x="758" y="775">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_30.png')" x="763" y="455">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_31.png')" x="820" y="235" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_32.png')" x="820" y="555" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_33.png')" x="820" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_34.png')" x="800" y="214" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_35.png')" x="800" y="534" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_36.png')" x="800" y="854" blendMode="normal">
+		</BitmapImage>
+		<RichText x="376" y="564" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 55650 <span color="#dddddd">(1.5F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="564" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 74201 <span color="#dddddd">(2.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="756" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 100171 <span color="#dddddd">(2.7F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="376" y="756" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 116866 <span color="#dddddd">(3.15F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="376" y="530" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="323" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">普通敌方-3.2智巧灵蕈 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="530" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="281" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">友方-3.2智巧灵蕈 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="722" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="281" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">友方-3.5塔防灵蕈 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="378" y="722" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="281" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">友方-4.2幻戏灵蕈 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="378" y="612" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 6577<span color="#dddddd"> (3.456B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="612" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 8222<span color="#dddddd"> (4.32B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="804" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 8222<span color="#dddddd"> (4.32B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="378" y="804" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 8222<span color="#dddddd"> (4.32B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="377" y="661" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 75/600</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="661" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="214" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 75/20</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="853" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="214" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 75/20</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="377" y="853" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 75/600</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_37.png')" x="1492" y="235" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_38.png')" x="1472" y="214" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_39.png')" x="2164" y="235" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_40.png')" x="2144" y="214" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_41.png')" x="2164" y="555" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_42.png')" x="2144" y="534" blendMode="normal">
+		</BitmapImage>
+		<Line xFrom="1793" yFrom="908" xTo="1793" yTo="908" alpha="1" blendMode="normal" d:userLabel="直线">
+			<stroke>
+				<SolidColorStroke color="#ffffff00" weight="1" caps="none"/>
+			</stroke>
+		</Line>
+		<Line xFrom="1768" yFrom="886" xTo="1768" yTo="886" alpha="1" blendMode="normal" d:userLabel="直线">
+			<stroke>
+				<SolidColorStroke color="#ffffff00" weight="1" caps="none"/>
+			</stroke>
+		</Line>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_43.png')" x="1492" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_44.png')" x="1472" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_45.png')" x="2164" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_46.png')" x="2144" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_47.png')" x="1492" y="555" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_48.png')" x="1472" y="534" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/冰爆菇.assets/Image_49.png')" x="64" y="72" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1472" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A3320C;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="392"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="530" text="魔像督军·协律师"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="451" text="无情烈火的旋律"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="305" text="HP: 1077359 (16.8F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="672" width="305" alpha="0.75" text="首领 Lv.105 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="752" width="375" text="ATK: 27403 (10.111B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="800" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="468" width="395" alpha="0.75" text="Legatus Golem: Harmonizer"/>
+	<mx:Text styleName="textStyle9" x="64" y="587" width="439" alpha="0.75" text="Rhythm of Ruthless Flames"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="切弦低语-位移"/>
+	<mx:Text styleName="textStyle10" x="1408" y="704" width="448" text="弦断麾时-位移"/>
+	<mx:Text styleName="textStyle10" x="1408" y="960" width="448" text="四弦三声-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" text="嘈弦急雨-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="960" width="448" text="铜骑枪鸣-爆发"/>
+	<mx:Text styleName="textStyle10" x="736" y="1216" width="448" text="急弦转促-突袭"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="五调三音-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="督军利用盾与剑作一曲消愁。演奏过程中，督军会不断散落轻音，造成40%伤害；曲终之时拨一重音，声声入耳，造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="512" width="448" alpha="0.9" text="督军唤出3枚谐振器，在中央进行调谐。每个谐振器周期性都产生强音余波，造成10%伤害，命中督军时恢复6岩盾；13s后，督军引爆所有谐振器，造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="512" width="448" alpha="0.9" text="当督军盾量低于19时，督军将待在原地，并缓慢恢复岩盾盾量至66%。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="768" width="448" alpha="0.9" text="距离较远时，督军放下乐器进行追逐，直到目标之处，激奏上挑，造成70%伤害。一般后接「转急促弦」。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1024" width="448" alpha="0.9" text="距离较远时，督军怒而一拨，四弦一声如裂帛，出现三刀火刃，均造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="768" width="448" alpha="0.9" text="督军剑指上方，从里向外奏鸣出数个轻音，如数下落，造成70%,7%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" alpha="0.9" text="督军置剑于地，从内向外奏响三拍激昂之调，造成100%伤害；之后跳起，作曲一拍之终，造成200%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1280" width="448" alpha="0.9" text="督军进行至多2段的多种攻击：跺-盾、跺-切；其中盾、跺、切分别依次造成60%,70%,80%伤害，进行盾攻击之后还会产生音律地波，造成60%,6%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="督军进行至多3段的多种攻击：左-右-盾、左-跺-切、左-右-切；其中左、右、盾、跺、切分别依次造成50%,60%,60%,70%,80%伤害，进行盾攻击之后还会产生音律地波和井字交响弦音，分别造成60%,6%与80%伤害。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="1033" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="991" width="64" text="入战"/>
+	<mx:Text styleName="textStyle13" x="0" y="1051" width="64" text="带甲"/>
+	<mx:Text styleName="textStyle14" x="64" y="1220" width="448" alpha="0.75" text="白石胄甲：84岩盾，存在时抗性获得提升，击破后瘫痪10s并扣除12.5%生命值。谐振器：6岩盾，击破进入「假死」状态，不会消失，全部击破可以使其破坏并使魔像督军-42岩盾。"/>
+	<mx:Image source="Image6.png" x="64" y="1153" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="64" y="1093" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="1092" width="64" text="词条带甲"/>
+	<mx:Text styleName="textStyle13" x="0" y="1171" width="64" text="破甲"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="715" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="694" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="1227" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="971" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="950" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="715" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="694" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="1206" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="971" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="950" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="64" y="96" width="256" height="256"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" text="上弦重振-召唤"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" text="愈声柔曼-防御"/>
+	<mx:Image source="Image23.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="576" y="438" width="168" height="170"/>
+</mx:Application>

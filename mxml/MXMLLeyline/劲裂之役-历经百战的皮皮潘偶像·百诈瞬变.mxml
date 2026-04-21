@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFEBBF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFACFF;
+		}
+		.textStyle19 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="104" width="666" height="625"/>
+	<mx:Text styleName="textStyle" x="308" y="32" width="1280" text="历经百战的皮皮潘偶像·百诈瞬变"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="544" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="EP[75,50,25] EO[0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：19.9058F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：5.5B2"/>
+	<mx:Text styleName="textStyle5" x="628" y="128" width="640" alpha="0.75" text="Battle-Hardened Pipilpan Idol: Hundred Deceptions"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="128" y="256" width="484" height="64"/>
+	<mx:Text styleName="textStyle7" x="64" y="338" width="64" text="本体"/>
+	<mx:Text styleName="textStyle7" x="64" y="398" width="64" text="帽子"/>
+	<mx:Text styleName="textStyle7" x="64" y="458" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle8" x="64" y="608" width="128" text="感电条："/>
+	<mx:Text styleName="textStyle8" x="64" y="768" width="128" text="白盾："/>
+	<mx:Text styleName="textStyle9" x="64" y="640" width="512" alpha="0.9" text="具有100点进度，每触发一次感电/月感电反应积攒7；进度满后将促使其立即进入帽子绎演。绎演期间，帽子也拥有100点进度的感电条，每触发一次(月)感电反应积攒20，帽子进度满后则扣除本体22%的白盾，然后清空进度。(N5) 感电条期间，每触发一次感电/月感电反应积攒20/40。"/>
+	<mx:Text styleName="textStyle9" x="64" y="794" width="512" alpha="0.9" text="「虚像」进入绎演期间所展开的帽子护盾，继承37.5%自身生命值，承受帽子所受伤害，击破可令本体瘫痪13s，期间全抗大幅下降。当击破时帽子护罩时，「虚像」会受到一次真实伤害，其值由绎演期间的水&amp;雷伤+12%非水&amp;雷伤构成，不超过120%帽子生命值。"/>
+	<mx:Image source="Image8.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image9.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle10" x="640" y="938" width="128" alpha="0.6" text="Shield Adv."/>
+	<mx:Text styleName="textStyle11" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle12" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle13" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle14" x="640" y="704" width="160" text="886213"/>
+	<mx:Text styleName="textStyle14" x="800" y="704" width="160" text="4415904"/>
+	<mx:Text styleName="textStyle14" x="960" y="704" width="160" text="6254996"/>
+	<mx:Text styleName="textStyle15" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle15" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle15" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle16" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle16" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle17" x="960" y="736" width="160" alpha="0.6" text="× 4.9"/>
+	<mx:Text styleName="textStyle14" x="1120" y="704" width="160" text="10200306"/>
+	<mx:Text styleName="textStyle15" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle17" x="1120" y="736" width="160" alpha="0.6" text="× 7.3"/>
+	<mx:Text styleName="textStyle14" x="640" y="768" width="160" text="10467"/>
+	<mx:Text styleName="textStyle14" x="960" y="768" width="160" text="14905"/>
+	<mx:Text styleName="textStyle14" x="800" y="768" width="160" text="13542"/>
+	<mx:Text styleName="textStyle14" x="1120" y="768" width="160" text="15965"/>
+	<mx:Text styleName="textStyle11" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Charged Adv."/>
+	<mx:Text styleName="textStyle19" x="1536" y="320" width="448" alpha="0.9" text="「虚像」将帽子倒置在地面，不断丢出大量小帽子，除随机在场地落下外，大量帽子将追随玩家轨迹下落，每枚帽子造成60%伤害。"/>
+	<mx:Text styleName="textStyle19" x="1536" y="512" width="448" alpha="0.9" text="绎演期间，帽子受到的感电/月感电伤害提升至300%。"/>
+	<mx:Text styleName="textStyle20" x="1536" y="256" width="448" text="以帽祛人-限制 (N5)"/>
+	<mx:Text styleName="textStyle20" x="1536" y="448" width="448" text="月影缚身-天赋 (N5)"/>
+	<mx:Image source="Image10.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="815" y="847" width="98" height="99"/>
+	<mx:Image source="Image13.png" x="655" y="847" width="98" height="99"/>
+	<mx:Image source="Image14.png" x="828" y="864" width="72" height="66"/>
+	<mx:Image source="Image15.png" x="1396" y="459" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1376" y="438" width="168" height="170"/>
+</mx:Application>

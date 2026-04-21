@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1144" viewWidth= "1248">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="881" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="533" width="333" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 2411055 <span color="#dddddd">(99.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="499" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="168" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">精英 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="580" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 9516<span color="#dddddd"> (5.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="629" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 10000/400</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">30</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="503" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">50</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_3.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_4.png')" x="64" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_5.png')" x="184" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_6.png')" x="364" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_7.png')" x="303" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_8.png')" x="244" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_9.png')" x="424" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_10.png')" x="124" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_11.png')" x="66" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_13.png')" x="486" y="941">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="255" width="384" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大雪猪王突然猛冲，造成<span color="#b8b8b8">40%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="426" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大雪猪王锁定蕈兽，朝蕈兽冲来，造成<span color="#b8b8b8">100%</span><span>伤害，在冲刺终点可造成</span><span color="#b8b8b8">216.4%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_14.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_15.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="703" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大雪猪王召唤1个雪猪，雪猪周期性扔出雪球，均造成<span color="#99ffff">20%</span><span>雪猪攻击力的伤害。<br/>击败雪猪可获得</span><span textDecoration="underline">寒冷祝福</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="927" width="437" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大雪猪王锁定蕈兽，在原地猛烈跳动地板，造成<span color="#b8b8b8">100%</span><span>伤害，并在周围产生诸多下落的雪球，造成</span><span color="#99ffff">100%</span><span>伤害，有玩家倾向，持续8轮后结束。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_16.png')" x="718" y="169">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_17.png')" x="719" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_18.png')" x="721" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_19.png')" x="719" y="841">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#1595bf" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#1595bf">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="570" y="112" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="372" fontFamily="仓耳渔阳体 W04" fontSize="50" fontStyle="normal" fontWeight="normal" color="#ffffff" width="504" height="52" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="50" color="#ffffff">冷冷冰牙·隆隆雪崩！</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#bfefff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="428" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="308" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Frigid Fang: Avalanche</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#bfefff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_20.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_21.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_22.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_23.png')" x="596" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_24.png')" x="576" y="854" blendMode="normal">
+		</BitmapImage>
+		<RichText x="61" y="728" width="314" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 95781 <span color="#dddddd">(3.933H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#dddddd" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="694" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="300" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">动物-雪猪-幻戏召唤 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#dddddd" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="776" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 1903<span color="#dddddd"> (1.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#dddddd" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="825" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 10000/210</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#dddddd" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_25.png')" x="596" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕈兽%B7大雪猪王.assets/Image_26.png')" x="576" y="182" blendMode="normal">
+		</BitmapImage>
+		<RichText x="66" y="1072" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="356" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">寒冷祝福：获得继承50%生命值的护盾，持续15s。</p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

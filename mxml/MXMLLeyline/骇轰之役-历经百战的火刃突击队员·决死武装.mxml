@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A3320C;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFACFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B9B9B9;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle21 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle22 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="707" y="189" width="560" height="516"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="104" width="666" height="625"/>
+	<mx:Image source="Image4.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Text styleName="textStyle" x="301" y="32" width="1294" text="历经百战的火刃突击队员·决死武装"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="704" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="PP[75,50,25,0] PO[0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：21.488F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：5.0B2"/>
+	<mx:Text styleName="textStyle5" x="608" y="128" width="680" alpha="0.75" text="Battle-Hardened Fireblade Shock Trooper: Forlorn Hope"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="64" y="794" width="512" alpha="0.9" text="属白盾生命盾，一共3层，每层继承自身3%生命值，每0.5s恢复1/30层，不会跨层恢复，每击破一层会使其失去6%生命值，并掉落6枚雷元素微粒。(N5) 每层继承自身4.5%生命值，每0.5s恢复1/15层；受到(月)感电伤害后的2.5s内，护罩修复速度降至1/100层(即0.45‰)。"/>
+	<mx:Text styleName="textStyle7" x="64" y="954" width="512" alpha="0.9" text="护罩期间中尉所受的感电和月感电伤害分别提升600%和200%。"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="512" alpha="0.75" text="护罩成功击破后，后续中尉的雷抗将下降60%，直至下一次成功开启护罩。"/>
+	<mx:Image source="Image5.png" x="128" y="256" width="484" height="184"/>
+	<mx:Text styleName="textStyle8" x="64" y="336" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="64" y="382" width="64" text="开盾前摇"/>
+	<mx:Text styleName="textStyle9" x="64" y="452" width="64" text="开盾(N5)"/>
+	<mx:Text styleName="textStyle10" x="64" y="768" width="201" text="实验型多重护罩："/>
+	<mx:Text styleName="textStyle10" x="64" y="928" width="201" text="引雷："/>
+	<mx:Image source="Image6.png" x="128" y="440" width="484" height="60"/>
+	<mx:Text styleName="textStyle8" x="64" y="517" width="64" text="破盾"/>
+	<mx:Image source="Image7.png" x="128" y="500" width="484" height="60"/>
+	<mx:Text styleName="textStyle11" x="64" y="569" width="64" text="破盾恢复后"/>
+	<mx:Image source="Image8.png" x="128" y="560" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="640" y="938" width="128" alpha="0.6" text="Electro Adv."/>
+	<mx:Text styleName="textStyle12" x="800" y="938" width="128" alpha="0.6" text="Charged Adv."/>
+	<mx:Text styleName="textStyle13" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle13" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image9.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image10.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle14" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle15" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle16" x="640" y="704" width="160" text="956661"/>
+	<mx:Text styleName="textStyle16" x="640" y="768" width="160" text="9516"/>
+	<mx:Text styleName="textStyle16" x="960" y="768" width="160" text="13550"/>
+	<mx:Text styleName="textStyle16" x="800" y="768" width="160" text="12311"/>
+	<mx:Text styleName="textStyle16" x="800" y="704" width="160" text="4766940"/>
+	<mx:Text styleName="textStyle16" x="960" y="704" width="160" text="9232639"/>
+	<mx:Text styleName="textStyle17" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle17" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle17" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle18" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle18" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle19" x="960" y="736" width="160" alpha="0.6" text="× 6.7"/>
+	<mx:Text styleName="textStyle16" x="1120" y="768" width="160" text="14514"/>
+	<mx:Text styleName="textStyle16" x="1120" y="704" width="160" text="17195518"/>
+	<mx:Text styleName="textStyle17" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle20" x="1120" y="736" width="160" alpha="0.6" text="× 11.4"/>
+	<mx:Text styleName="textStyle21" x="1536" y="320" width="448" alpha="0.9" text="开启护罩30s后，中尉关闭护罩，转为召唤追踪玩家位置的落雷，依次召唤至多11道，造成200%伤害。"/>
+	<mx:Text styleName="textStyle22" x="1536" y="256" width="448" text="机霆雷矩-爆发 (N5)"/>
+	<mx:Image source="Image11.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="815" y="847" width="98" height="99"/>
+	<mx:Image source="Image14.png" x="828" y="864" width="72" height="66"/>
+	<mx:Image source="Image15.png" x="654" y="846" width="100" height="100"/>
+</mx:Application>

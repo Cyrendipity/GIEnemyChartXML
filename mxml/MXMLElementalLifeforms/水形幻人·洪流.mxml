@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1144" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="64"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="水形幻人·洪流"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="423" text="水之意志的显现"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[0x2],HO[66,33]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 987580 (15.4F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.105 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 26971 (9.952B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="Hydro Tulpa: Flashflood"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Manifest Will of the Waters"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="184"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="幻人扔出纯水制成的标枪，落地造成60%伤害，并产生内外2层激波，造成60%伤害，可连续施放3次；强化：伤害倍率提升，造成90%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="512" width="448" alpha="0.9" text="幻人用左手拍向玩家，造成50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="512" width="448" alpha="0.9" text="幻人旋转纯水制成的榔锤，进行3次攻击，依次造成60%,62.5%,65%伤害；第三段攻击产生激波，造成90%伤害。强化：伤害倍率提升，挥舞造成90%,92.5%,95%伤害，不产生激波。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="800" width="448" alpha="0.9" text="幻人蓄力，附属白盾；12s后白盾消失，幻人掀起澜海激潮，在场地内下起小雨，造成20%伤害；溅起的潮水凝结成3把水枪，并一起在自身周围降下，造成100%伤害，并产生一道冲击波引爆所有半幻人，造成100%伤害，冲击波将会秒杀在场非无敌状态的角色。"/>
+	<mx:Text styleName="textStyle11" x="736" y="800" width="448" alpha="0.9" text="场地内将不断生成半幻人，数量维持在3个；在战斗中水形幻人会吸收所有半幻人，施放4个技能或进行瞬移后结束强化状态。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="幻人挥舞纯水制成的短刀，进行2次攻击，依次造成60%,65%伤害；第一段攻击产生剑气，造成50%伤害。强化：伤害倍率提升，挥舞造成90%,95%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="濯漾梭枪-远程"/>
+	<mx:Text styleName="textStyle12" x="1408" y="448" width="448" text="幻泉终拳-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="448" width="448" text="净域洄榔-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="736" width="448" text="坏蔑锋雨-必杀技"/>
+	<mx:Text styleName="textStyle12" x="736" y="736" width="448" text="幻蜃交融-强化"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="涤浸青刃-输出"/>
+	<mx:Text styleName="textStyle13" x="64" y="1068" width="448" alpha="0.75" text="半幻人：4.8水盾，击破后消失；其继承幻人28%的攻击力。白盾：依词条数目，继承9.35%/11.69%/10.79%/14.76%/23.38%生命值，破坏后扣除幻人护盾等量生命值。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Text styleName="textStyle14" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1002" width="64" text="强化期间"/>
+	<mx:Image source="Image17.png" x="1248" y="726" width="168" height="170"/>
+</mx:Application>

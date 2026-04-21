@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#99440B;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Image source="Image4.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="651" width="128" height="128"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="尖峰"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：PP[75,50,25,0],PO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 3851099 (63.2F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 36551 (14.0B2)"/>
+	<mx:Text styleName="textStyle7" x="0" y="1054" width="64" text="熔燃"/>
+	<mx:Text styleName="textStyle7" x="0" y="1114" width="64" text="正常"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="395" text="HP: 981642 (17.7F) 28%"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="411" text="ATK: 22160 (9.0B2) 9/14"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="The Peak"/>
+	<mx:Image source="Image9.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="736" y="256" width="448" alpha="0.9" text="尖峰立即使用炽热的突角进行攻击，造成75%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" alpha="0.9" text="尖峰从地上挖出一块火山弹，抛向角色，造成80%伤害。「熔燃」状态下不施放。"/>
+	<mx:Text styleName="textStyle9" x="736" y="704" width="448" alpha="0.9" text="尖峰抬起前身，重重扑下，造成90%伤害，并召唤4枚燃晶，进入「熔燃」状态。场地存在燃晶时不再召唤。燃晶摧毁后可令其退出「熔燃」状态。"/>
+	<mx:Text styleName="textStyle9" x="736" y="928" width="448" alpha="0.9" text="尖峰暴躁的进行2次连跳，均造成90%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1152" width="448" alpha="0.9" text="尖峰吸收全部燃晶，并冲向玩家来回两次，触碰造成80%伤害；随后尖峰跳回场地内进行蓄力，造成100%伤害，13s后爆炸，造成300%伤害，随后退出「熔燃」状态。"/>
+	<mx:Text styleName="textStyle10" x="736" y="192" width="448" text="相以烈角-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="地覆流岩-远程"/>
+	<mx:Text styleName="textStyle10" x="736" y="640" width="448" text="岚间硫火-强化"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="448" text="凌焦炽土-定点"/>
+	<mx:Text styleName="textStyle10" x="736" y="1088" width="448" text="熔壑焰蹈-爆发"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image10.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle7" x="0" y="1174" width="64" text="大招"/>
+	<mx:Image source="Image11.png" x="64" y="1157" width="484" height="60"/>
+	<mx:Text styleName="textStyle7" x="0" y="1234" width="64" text="瘫痪"/>
+	<mx:Image source="Image12.png" x="64" y="1217" width="484" height="60"/>
+	<mx:Image source="Image13.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="64" y="1284" width="448" alpha="0.75" text="燃晶：小型40火盾，大型80火盾。受超载波及-40火，受突角龙能力攻击直接摧毁。摧毁全部大型燃晶后瘫痪12s。"/>
+	<mx:Image source="Image18.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>

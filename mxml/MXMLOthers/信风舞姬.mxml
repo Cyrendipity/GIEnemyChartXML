@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2880" height="1208" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#00AE83;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#DFFFBF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#BFEEFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FEEDC0;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="2880" height="128"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="2880" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="信风舞姬"/>
+	<mx:Text styleName="textStyle2" x="736" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="2283" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle5" x="384" y="576" width="305" text="HP: 59360 (1.6F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 148401 (4.0F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="305" text="HP: 66781 (1.8F)"/>
+	<mx:Text styleName="textStyle5" x="384" y="768" width="305" text="HP: 77911 (2.1F)"/>
+	<mx:Text styleName="textStyle6" x="384" y="544" width="305" alpha="0.75" text="普通敌方-3.2智巧灵蕈 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="友方-3.2智巧灵蕈 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="友方-3.5塔防灵蕈 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="384" y="736" width="305" alpha="0.75" text="友方-4.2幻戏灵蕈 Lv.90 Data"/>
+	<mx:Text styleName="textStyle5" x="384" y="624" width="375" text="ATK: 6577 (3.456B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 8222 (4.32B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 8222 (4.32B2)"/>
+	<mx:Text styleName="textStyle5" x="384" y="816" width="375" text="ATK: 8222 (4.32B2)"/>
+	<mx:Text styleName="textStyle5" x="384" y="672" width="375" text="Wt/Ed: 75/600"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 75/20"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 75/20"/>
+	<mx:Text styleName="textStyle5" x="384" y="864" width="375" text="Wt/Ed: 75/600"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="458" alpha="0.75" text="Stormstress"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="960" y="288" width="448" alpha="0.9" text="伸缩风蕈兽用伞盖发射1个风卷，造成124%伤害。"/>
+	<mx:Text styleName="textStyle8" x="960" y="608" width="448" alpha="0.9" text="伸缩风蕈兽用伞盖迅速发射3个风圈，每个造成50%伤害。"/>
+	<mx:Text styleName="textStyle8" x="960" y="928" width="448" alpha="0.9" text="伸缩风蕈兽用伞盖迅速发射3个风圈，每个造成150%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1632" y="288" width="448" alpha="0.9" text="伸缩风蕈兽朝上发射4个小型风弹，每个造成33%伤害，有追踪效果。"/>
+	<mx:Text styleName="textStyle8" x="1632" y="608" width="448" alpha="0.9" text="伸缩风蕈兽为在场的友方蕈兽提升50元素精通和15%移速。"/>
+	<mx:Text styleName="textStyle8" x="1632" y="928" width="448" alpha="0.9" text="受击后的6s内，伸缩风蕈兽的嘲讽降低；受击6s后，将持续恢复生命值，每1.5s回复基于自身100%的攻击力的生命值。"/>
+	<mx:Text styleName="textStyle8" x="2304" y="288" width="448" alpha="0.9" text="伸缩风蕈兽在自身周围生成一个风场，每2.5s，此范围内的敌人将持续受到139%伤害，并使友方持续恢复7.5%生命值，清除其身上的元素附着。"/>
+	<mx:Text styleName="textStyle8" x="2304" y="608" width="448" alpha="0.9" text="伸缩风蕈兽在生命值最低的友方灵蕈处生成一个风场，每0.75s恢复友方蕈兽12.5%生命值，并施加1单位风元素附着。"/>
+	<mx:Text styleName="textStyle8" x="2304" y="928" width="448" alpha="0.9" text="伸缩风蕈兽在生命值最低的友方灵蕈处生成一个风场，每0.333s恢复友方蕈兽6%生命值，并施加1单位风元素附着。"/>
+	<mx:Text styleName="textStyle9" x="960" y="224" width="448" text="劲风冲击-远程"/>
+	<mx:Text styleName="textStyle9" x="960" y="544" width="448" text="劲风速射-远程"/>
+	<mx:Text styleName="textStyle9" x="960" y="864" width="448" text="劲风冲击-远程"/>
+	<mx:Text styleName="textStyle9" x="1633" y="224" width="448" text="哀风爆弹-输出"/>
+	<mx:Text styleName="textStyle9" x="1632" y="544" width="448" text="顺风攻势-天赋"/>
+	<mx:Text styleName="textStyle9" x="1632" y="864" width="448" text="顺风转场-天赋"/>
+	<mx:Text styleName="textStyle9" x="2304" y="224" width="448" text="煦风升腾-战技"/>
+	<mx:Text styleName="textStyle9" x="2304" y="544" width="448" text="煦风回转-战技"/>
+	<mx:Text styleName="textStyle9" x="2304" y="864" width="448" text="煦风回转-战技"/>
+	<mx:Text styleName="textStyle10" x="1056" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="832" y="141" width="378" text="智巧灵蕈大竞逐"/>
+	<mx:Text styleName="textStyle12" x="832" y="461" width="378" text="灵蕈棋阵"/>
+	<mx:Text styleName="textStyle13" x="832" y="781" width="378" text="小小灵蕈大幻戏"/>
+	<mx:Image source="Image5.png" x="758" y="135" width="52" height="51"/>
+	<mx:Image source="Image6.png" x="758" y="775" width="52" height="51"/>
+	<mx:Image source="Image7.png" x="763" y="455" width="43" height="50"/>
+	<mx:Text styleName="textStyle14" x="64" y="1104" width="448" alpha="0.75" text="3.5 灵蕈棋阵：150元素精通。4.2 小小灵蕈大幻戏：100元素精通，剧变反应系数1.5。"/>
+	<mx:Image source="Image8.png" x="820" y="235" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="820" y="555" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="820" y="875" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="800" y="214" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="800" y="534" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="800" y="854" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1492" y="235" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1472" y="214" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="2164" y="235" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="2144" y="214" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1492" y="555" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1472" y="534" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="2164" y="555" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="2144" y="534" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="2164" y="875" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="2144" y="854" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1492" y="875" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1472" y="854" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>

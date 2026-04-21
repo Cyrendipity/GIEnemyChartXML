@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A28631;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFE599;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="大型碎石隙境原体"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：GP[75,50,25],GO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 399312 (7.2F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 17235 (7.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 150/150"/>
+	<mx:Text styleName="textStyle7" x="64" y="436" width="395" alpha="0.75" text="Large ShatterstoneBreacher Primus"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="碎石原体蓄力，发射一枚石弹，造成60%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="碎石原体进行一段挥扫攻击，造成60%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" alpha="0.9" text="碎石原体进入「应激」状态，该状态下，狂蔓原体将获得坚岩护嶂，持续进行大范围石潮舞击，造成100%伤害，持续4轮。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="隙境缘石-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="石动尘飞-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="864" width="448" text="乱石穿空-爆发"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="1008" width="448" alpha="0.75" text="坚岩护嶂：6岩盾，1次芒或荒攻击可以击破，击破后瘫痪其15s。该状态下，免疫击飞、击退、风场力。"/>
+	<mx:Image source="Image4.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="67" y="73" width="248" height="237"/>
+	<mx:Text styleName="textStyle8" x="736" y="701" width="448" alpha="0.9" text="大型碎石原体朝玩家翻滚，形似弹簧，至多连续翻滚3次，每次造成60%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="黄尘龙卷-输出"/>
+	<mx:Image source="Image11.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="630" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="64" y="512" width="434" text="异界的生命体"/>
+	<mx:Text styleName="textStyle13" x="64" y="555" width="407" alpha="0.75" text="Otherworldly Agglomerated Organism"/>
+</mx:Application>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFDFBF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="360" width="1920" height="1016"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1050"/>
+	<mx:Image source="Image3.png" x="724" y="224" width="1002" height="969"/>
+	<mx:Image source="Image4.png" x="0" y="54" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="442" text="七叶寂照秘密主"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="「正机之神」"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" text="HP: 742006 (20.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="周本-第一阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 9516 (5.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="542" width="395" alpha="0.75" text="Everlasting Lord ofArcane Wisdom"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="Shouki no Kami, the Prodigal"/>
+	<mx:Image source="Image5.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" alpha="0.9" text="正机使用单个机械臂朝地面猛击，造成对应元素的75%伤害，然后产生爆破，造成对应元素的100%伤害，并留下霜寒或余火地面，掉落1个大能量块。霜寒地面造成5%伤害；余火地面造成15%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="992" width="448" alpha="0.9" text="正机使用单个机械臂划过地面，然造成对应元素的100%伤害，留下小范围的霜寒或余火地面。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="992" width="448" alpha="0.9" text="正机召唤3个风涡，触碰造成33%伤害，之后染上水元素，形成水龙卷在场地游走，触碰造成50%伤害，一段时间后，水龙卷爆发，造成75%伤害，每个都会掉落1个小能量块。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="704" width="448" alpha="0.9" text="正机先使用一侧的机械臂喷洒冰雾或烈火扫场，持续造成对应元素的100%,50%,25%,10%伤害，并留下霜寒或余火地面，随后使用另一侧砸击地面，造成对应元素的66%伤害。掉落1个大能量块。"/>
+	<mx:Text styleName="textStyle11" x="736" y="640" width="448" text="冰结炎劫轰震-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="448" text="残雪余温摩挲-追加"/>
+	<mx:Text styleName="textStyle11" x="1408" y="928" width="448" text="风怒龙吟水啸-追加"/>
+	<mx:Text styleName="textStyle11" x="1408" y="640" width="448" text="气寒灼焰覆辙-妨害"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="64" y="1104" width="448" alpha="0.75" text="大能量块：恢复虚空终端100%能量。小能量块：恢复虚空终端50%能量。雷元素矩阵：瘫痪正机之神的一侧，激活2侧可完全瘫痪正机之神，CD1min。风元素矩阵：产生持续15s的风场，用于躲避伤害，CD15s。火元素矩阵：清除全场的霜寒地面，CD10s。冰元素矩阵：清除全场的余烬地面，CD10s。水元素矩阵：持续恢复全部在场角色生命值，10%/2s，持续10s，CD15s。激活一次矩阵会掉落对应元素的5个元素微粒。"/>
+	<mx:Image source="Image6.png" x="64" y="160" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="596" y="652" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="632" width="168" height="168"/>
+	<mx:Image source="Image9.png" x="1268" y="652" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1248" y="632" width="168" height="168"/>
+	<mx:Image source="Image11.png" x="596" y="940" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="920" width="168" height="168"/>
+	<mx:Image source="Image13.png" x="1268" y="940" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="920" width="168" height="168"/>
+	<mx:Text styleName="textStyle14" x="736" y="224" width="448" alpha="0.9" text="(半瘫施放)另一侧的机械臂会召唤至多6次的落雷，均造成66%伤害。第1、2、4、5次落雷施放完毕均掉落1个小能量块。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="正机召唤12个围绕自己的激光器，逆时针旋转，发射激光造成100%,50%,25%伤害，10s后激光爆发，伤害与之前相同，并掉落1个大能量块。正机身边的等离子场造成相同的伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="正机使用上方机械臂汇聚雷素，6s后发射激光作于全场，持续造成50%伤害，5s后爆破，造成100%伤害，并掉落1个大能量块。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1248" width="448" alpha="0.9" text="瘫痪状态的的正机恢复，施放强力轰击，击退所有在场玩家，无伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="正机上方的两机械臂不断洒落雷晶，造成100%,50%,25%,10%伤害，掉落2个小能量块，最后扔出2个雷光棱镜均造成50%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="障破灵毕逐连-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="灭劫轮转殛流-猛攻"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="抚撼千灌爆震-猛攻"/>
+	<mx:Text styleName="textStyle11" x="736" y="1184" width="448" text="无心除垢消桀-恢复"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="幽冥砺雷封合-持续"/>
+	<mx:Image source="Image15.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="596" y="1195" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="576" y="1174" width="168" height="170"/>
+</mx:Application>

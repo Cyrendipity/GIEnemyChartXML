@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1144" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFE599;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFCC3F;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#937122;
+		}
+		.textStyle15 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="64"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="460" text="黑蛇骑士·摧岩之钺"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="537" text="「曾如磐石抵挡黑水奔流…」"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1216" y="64" width="640" alpha="0.5" text="元素能量：GP[66x2,33x2,0x2]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 443680 (8.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 14773 (6.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle8" x="64" y="436" width="395" alpha="0.75" text="Black Serpent Knight: Rockbreaker Ax"/>
+	<mx:Text styleName="textStyle9" x="64" y="547" width="407" alpha="0.75" text="“Once Stood Against the Tide of Dark Waters Like Bedrock...”"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="摧岩拆开双板斧，双手各持钺，进行右斧、左斧、双斧齐下3段攻击，依次造成70%,85%,100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="摧岩将双板斧拼成一个盾，并敲击地面，造成100%伤害，同时短暂的格挡前方的伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="摧岩使用双板斧，进行顺时针旋转两圈，各造成75%,85%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="当场上黑蛇众数量≥2时，摧岩将双板斧拼成一个盾，然后挡在黑蛇众前面，形成一面很大的盾，格挡来自前方的伤害，抗打断0.025。当玩家处于摧岩后方或离得太远时，盾收起。"/>
+	<mx:Text styleName="textStyle12" x="736" y="704" width="448" alpha="0.9" text="(狂战状态)距离较远时，摧岩朝玩家冲来，用双板斧朝地上一翘，造成100%伤害，再抡起双板斧，旋转3-5圈。"/>
+	<mx:Text styleName="textStyle10" x="736" y="928" width="448" alpha="0.9" text="当摧岩的攻击命中护盾庇护下的的玩家时，立即中断当前攻击，拼合双板斧，扣除当前15%生命值，进入「狂战」状态：获得20%攻击力提升，50%全抗性提升，抗打断0，持续11s。效果结束时，摧岩会把双板斧拆开。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="704" width="448" alpha="0.9" text="(狂战状态)摧岩抡起双板斧，旋转3-5圈，接触造成80%,12%伤害，结束时施放强力尾刀，造成100%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="160" width="448" text="双斧齐下-输出"/>
+	<mx:Text styleName="textStyle13" x="736" y="384" width="448" text="坚韧斧盾-防御"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="斩铁重钺-输出"/>
+	<mx:Text styleName="textStyle13" x="1408" y="384" width="448" text="磐岩重盾-防御"/>
+	<mx:Text styleName="textStyle13" x="736" y="640" width="448" text="金钺狂舞-强攻"/>
+	<mx:Text styleName="textStyle13" x="736" y="864" width="448" text="狂岩凶战-天赋"/>
+	<mx:Text styleName="textStyle13" x="1408" y="640" width="448" text="斫峰回旋-强攻"/>
+	<mx:Text styleName="textStyle14" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle15" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle15" x="0" y="1019" width="64" text="狂战"/>
+	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="854" width="168" height="170"/>
+</mx:Application>

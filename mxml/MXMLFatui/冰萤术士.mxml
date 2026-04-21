@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="463" text="愚人众·冰萤术士"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="373" text="萤术士·降霜的少女"/>
+	<mx:Text styleName="textStyle" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1247" y="64" width="609" alpha="0.5" text="元素能量：WO[66x2,33x2,0x2]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 183826 (5.0H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 9849 (4.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 75/100"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Fatui Cryo Cicin Mage"/>
+	<mx:Text styleName="textStyle8" x="64" y="555" width="395" alpha="0.75" text="Cicin Mage: Hoarfrost Wielder"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="64" y="1008" width="448" alpha="0.75" text="萤霜流华：4×(冰萤数量)冻盾，击破没效果。该状态下，抗打断0，免疫风场力。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="冰眩寒环-号令"/>
+	<mx:Text styleName="textStyle10" x="1408" y="416" width="448" text="白绽冰花-爆发"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" text="爱屋及乌-位移"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="冰萤术士召唤的冰萤间歇性的向玩家喷吐冰块，造成20%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="冰萤术士用雾虚草灯砸击地面，产生范围冰刺，造成75%伤害。攻击强化：产生的冰刺向四个方向溅射，额外造成75%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="736" width="448" alpha="0.9" text="冰萤术士与冰萤一同进行传送位移，传送完毕后冰萤将在原地产生一次冰爆，造成20%伤害。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="场上无冰萤存在时，冰萤术士使用雾虚草灯召唤3只冰萤。"/>
+	<mx:Text styleName="textStyle11" x="736" y="480" width="448" alpha="0.9" text="冰萤术士使用雾虚草灯指挥冰萤，围住玩家或者依次冲向玩家，产生爆破造成20%伤害。此外碰到冲刺中的冰萤也造成20%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="736" width="448" alpha="0.9" text="冰萤术士根据场上自己召唤的冰萤数量，附属不同厚度的萤霜流华护盾，并且场上的冰萤会间歇性为冰萤术士恢复盾量。"/>
+	<mx:Text styleName="textStyle13" x="736" y="160" width="448" text="游雾洊冰-召唤"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="阵锢集令-号令"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" text="御寒萤华-防御"/>
+	<mx:Image source="Image4.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="662" width="168" height="170"/>
+</mx:Application>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1344" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A3320C;
+		}
+		.textStyle15 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FF9999;
+		}
+		.textStyle16 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FBFFF;
+		}
+		.textStyle17 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FFFD7;
+		}
+		.textStyle18 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFACFF;
+		}
+		.textStyle19 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FF87;
+		}
+		.textStyle20 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FFFF;
+		}
+		.textStyle21 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFE599;
+		}
+		.textStyle22 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#EBE5D8;
+		}
+		.textStyle23 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FF86;
+		}
+		.textStyle24 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="264"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="530" text="铁甲熔火暴君"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="395" text="横行无忌的孤王"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：PO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="305" text="HP: 796477 (12.42F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="672" width="305" alpha="0.75" text="首领 Lv.105 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="752" width="375" text="ATK: 32366 (11.943B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="800" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="497" width="395" alpha="0.75" text="Tyrant of Fire and Iron"/>
+	<mx:Text styleName="textStyle9" x="64" y="587" width="439" alpha="0.75" text="Indomitable Lord"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="开局入战时，熔火蟹钻出地面立即使用白色左爪突然敲击，造成50%伤害。本技能仅开局入战施放。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="熔火蟹下降高度，利用头顶的熔岩喷口，发射1-3批的大规模熔岩溅射，命中造成50%,25%,12.5%,5%伤害，留下热烬，持续造成6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="960" width="448" alpha="0.9" text="距离较远时，熔火蟹曲线冲击，使用爪子进行攻击，造成70%伤害。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1160" width="448" alpha="0.75" text="熔火双角：96火盾，存在时抗性获得提升，击破使其进入熄灭状态；免疫扩散附着。燃晶：14火盾，全部击破后可中断必杀技。"/>
+	<mx:Text styleName="textStyle10" x="736" y="736" width="448" alpha="0.9" text="熔火蟹喷出熔岩染到白色左爪，敲地产生火灼崩破，命中造成70%,7%伤害，并在途经上留下热烬。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="736" width="448" alpha="0.9" text="熔火蟹使用黑色右爪或白色左爪进行至多2段攻击，分别造成50%,60%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="蛰蟹突啄-突袭"/>
+	<mx:Text styleName="textStyle12" x="736" y="416" width="448" text="熔火蜚溅-妨害"/>
+	<mx:Text styleName="textStyle12" x="736" y="896" width="448" text="远逸近挠-远程 "/>
+	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="赤染焰拳-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="672" width="448" text="黑火白钳-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="磺火微氲-恢复"/>
+	<mx:Text styleName="textStyle13" x="1408" y="416" width="448" text="焮焰加冕-必杀技"/>
+	<mx:Text styleName="textStyle12" x="1408" y="896" width="448" text="赤蛑鲜螯-强化"/>
+	<mx:Text styleName="textStyle12" x="736" y="1120" width="448" text="炽沙再熔-复燃 "/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="熔火蟹蓄力起跳，瞄准玩家，重重下落造成80%伤害，并留下持续29s的熔火王座：熔火蟹位于其上时，每0.3s恢复1%生命值和；角色位于其上时，持续造成7%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="480" width="448" alpha="0.9" text="熔火蟹逃离，移至场地中央，下降高度，埋住半身，蓄力点火，在前方产生2枚燃晶，7s后产生大爆炸，秒杀在场非无敌状态的角色。若燃晶均被摧毁，则扣除双螯12火盾。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="960" width="448" alpha="0.9" text="双螯盾量低于33%后，熔火蟹立即将双螯插入地面汲取火元素之力，双螯每秒恢复4火盾，15s后汲取完成，熔火蟹蟹钳进行的攻击将转为火元素伤害，且攻击力提升80%，持续30s。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1184" width="448" alpha="0.9" text="陷入熄灭状态约30s后，熔火蟹钻入沙地，再次冒出时即重新形成熔火双角，其周围有部分白色的硬灰甲围绕，阻挡较低处的攻击。"/>
+	<mx:Text styleName="textStyle14" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle15" x="64" y="1050" width="64" text="120"/>
+	<mx:Text styleName="textStyle16" x="124" y="1050" width="64" text="70"/>
+	<mx:Text styleName="textStyle17" x="184" y="1050" width="64" text="70"/>
+	<mx:Text styleName="textStyle18" x="244" y="1050" width="64" text="70"/>
+	<mx:Text styleName="textStyle19" x="304" y="1050" width="64" text="70"/>
+	<mx:Text styleName="textStyle20" x="364" y="1050" width="64" text="70"/>
+	<mx:Text styleName="textStyle21" x="424" y="1050" width="64" text="70"/>
+	<mx:Text styleName="textStyle22" x="484" y="1050" width="64" text="70"/>
+	<mx:Image source="Image5.png" x="64" y="1033" width="484" height="60"/>
+	<mx:Text styleName="textStyle15" x="64" y="1110" width="64" text="180"/>
+	<mx:Text styleName="textStyle16" x="124" y="1110" width="64" text="130"/>
+	<mx:Text styleName="textStyle17" x="184" y="1110" width="64" text="130"/>
+	<mx:Text styleName="textStyle18" x="244" y="1110" width="64" text="130"/>
+	<mx:Text styleName="textStyle23" x="304" y="1110" width="64" text="130"/>
+	<mx:Text styleName="textStyle20" x="364" y="1110" width="64" text="130"/>
+	<mx:Text styleName="textStyle21" x="424" y="1110" width="64" text="130"/>
+	<mx:Text styleName="textStyle22" x="484" y="1110" width="64" text="130"/>
+	<mx:Image source="Image6.png" x="64" y="1093" width="484" height="60"/>
+	<mx:Text styleName="textStyle24" x="0" y="991" width="64" text="正常"/>
+	<mx:Text styleName="textStyle24" x="0" y="1051" width="64" text="带甲"/>
+	<mx:Text styleName="textStyle24" x="0" y="1095" width="64" text="词条带甲"/>
+	<mx:Image source="Image7.png" x="64" y="96" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="886" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="1131" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="1110" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="907" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="886" width="168" height="170"/>
+</mx:Application>

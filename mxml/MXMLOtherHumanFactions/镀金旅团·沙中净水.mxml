@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2171B1;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#BFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="506" text="镀金旅团·沙中净水"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[75,50,25,0x2]"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="305" text="HP: 199656 (3.6F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="普通 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 7879 (3.2B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 70/150"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="428" alpha="0.75" text="Eremite: Desert Clearwater"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="运水如丝-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" text="厄灵解放·吞水-强化"/>
+	<mx:Image source="Image3.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="576" y="726" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="交引汇流-输出"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" text="环转急流-位移"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" text="导引源水-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="沙中净水进行划、戳2段攻击，依次造成40%,50%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="512" width="448" alpha="0.9" text="当沙中净水的生命值低于70%时，沙中净水将武器的厄灵解放出来，进入魔化状态，该状态持续20s，状态结束后虚弱8s。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="沙中净水进行突进式的十字攻击，造成50%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="512" width="448" alpha="0.9" text="距离玩家较远时，沙中净水冲过来进行翻转攻击，造成2段50%伤害，后接十字斩攻击，造成75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="800" width="448" alpha="0.9" text="(魔化)沙中净水进行3段普通攻击，有2种施放方式：进行纵划、横划、十字斩3段攻击，该方式的攻击依次造成50%,50%,75%伤害；进行划、戳、十字斩3段攻击，每段攻击分别造成60%,50%,75%伤害。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="781" width="484" height="124"/>
+	<mx:Image source="Image7.png" x="64" y="905" width="484" height="60"/>
+	<mx:Text styleName="textStyle11" x="64" y="972" width="448" alpha="0.75" text="处于魔化状态下，抗打断0，质量翻6倍。虚弱状态下抗打断0。"/>
+	<mx:Text styleName="textStyle12" x="0" y="863" width="64" text="正常"/>
+	<mx:Text styleName="textStyle12" x="0" y="923" width="64" text="虚弱"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="438" width="168" height="170"/>
+</mx:Application>

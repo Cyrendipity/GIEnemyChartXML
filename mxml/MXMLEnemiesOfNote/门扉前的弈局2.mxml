@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1760" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FF9999;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AD4218;
+		}
+		.textStyle11 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontSize:36;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="680"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="720" width="1920" height="1040"/>
+	<mx:Image source="Image4.png" x="637" y="427" width="962" height="890"/>
+	<mx:Image source="Image5.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="1132" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="1452" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="1451" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="844" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="844" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="1132" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="0" y="22" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="475" text="「弈局」：升扬之王 &amp; 升华之后"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="576" width="464" text="并非「弈局」的执棋者"/>
+	<mx:Text styleName="textStyle4" x="64" y="960" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="354" text="HP: 1855014 (50.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="704" width="305" alpha="0.75" text="周本-第二阶段-单只 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="784" width="375" text="ATK-K: 20935 (11.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="832" width="375" text="ATK-Q: 19031 (10.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="880" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="509" width="395" alpha="0.75" text="Chess Game: Ascended King&amp;Sublimated Queen"/>
+	<mx:Text styleName="textStyle9" x="64" y="611" width="395" alpha="0.75" text="Not the One Who Plays at “Chess Games”"/>
+	<mx:Image source="Image17.png" x="64" y="1005" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="1316" width="448" alpha="0.75" text="复活期间，双方+300%全抗；一方杀着蓄力期间，另一方+300%全抗。冻结条：总进度100%。受到冰元素攻击+2%，在第1/2/≥3次大招期间，触发冻结+30%/+50%/+90%，在2.6s内继续触发冻结只会+6%/+10%/+18%；上述进度会受到多人模式影响(×1/0.9/0.83/0.8)；若受到火元素攻击，或者在后的杀着蓄力期间自身超时解冻，则-50%。填满后若成功触发机制，则对应敌方将瘫痪10s。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1504" width="448" alpha="0.75" text="秒杀：若为多人模式，则随机击败一名玩家的前台，剩余玩家的前台扣除60%生命值。持续恢复生命值：每0.4s恢复3.2%生命值。在「升扬之王」第1/2/≥3次杀着期间，所受伤害总和的50%若大于「升扬之王」的10%/15%/20%生命值，则采用前者作为最终扣血伤害，最大不超过「升扬之王」20%/25%/30%的生命值。"/>
+	<mx:Image source="Image18.png" x="64" y="1249" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1267" width="64" text="后怒"/>
+	<mx:Text styleName="textStyle13" x="736" y="224" width="448" alpha="0.9" text="王抡起大剑，朝玩家方向砍下，造成75%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="448" width="448" alpha="0.9" text="王突然朝玩家方向突进，造成70%伤害；接着原地旋转，持续造成33%,19.8%,9.9%,3.3%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="672" width="448" alpha="0.9" text="王背上「象」，持剑一跃落地，造成100%伤害；接着王将剑拔出，产生的冲击波造成60%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="896" width="448" alpha="0.9" text="王指使后一同进行一连串攻击：后进行近战划击，造成75%伤害；王掏出「象」置于地面，造成80%伤害；后发射连续的雷片子弹，造成28%,14%~2.8%伤害；王扔出的「象」落地爆炸，对落点范围内造成100%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="1504" width="448" alpha="0.9" text="后协助王进行下落攻击：王跳至「车」上，后引爆「车」将王炸飞，并引剑重重下落，造成100%伤害。引爆「车」将造成75%的超载伤害。"/>
+	<mx:Text styleName="textStyle14" x="736" y="160" width="448" text="喧号·绯王附剑-输出"/>
+	<mx:Text styleName="textStyle14" x="736" y="384" width="448" text="争笛·红绸步垫-输出"/>
+	<mx:Text styleName="textStyle14" x="736" y="608" width="448" text="重铃·千擢缚焰-位移"/>
+	<mx:Text styleName="textStyle14" x="736" y="832" width="448" text="锋镝·舞绎其间-协同"/>
+	<mx:Text styleName="textStyle14" x="736" y="1440" width="448" text="天轮·城炮之骈-协同"/>
+	<mx:Image source="Image19.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="64" y="128" width="256" height="256"/>
+	<mx:Image source="Image23.png" x="64" y="1129" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1087" width="64" text="王"/>
+	<mx:Text styleName="textStyle12" x="0" y="1147" width="64" text="后"/>
+	<mx:Text styleName="textStyle13" x="1408" y="448" width="448" alpha="0.9" text="后扔下一枚「马」并爆裂，造成80%伤害。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="672" width="448" alpha="0.9" text="后从地上唤出6枚排成环状的「兵」，造成80%伤害，然后「兵」又落回地面，造成100%伤害。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="896" width="448" alpha="0.9" text="后协助王进行烧灼攻击：后召唤一个水漩涡，持续牵引角色并持续施加水元素附着，同时王手持「马」作喷火器，持续造成30%,15%,7.5%,3%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="1184" width="448" alpha="0.9" text="王移至场地中央，高举大剑并开始蓄力，期间双方将持续附着水元素，后在场地降下小雨，造成28%伤害；12s王蓄力完成，大剑落下，造成125%伤害并秒杀前台。期间王会持续恢复生命值。破解方法：只需将冻结条填满即可，王损失10%/15%/20%生命值。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="1184" width="448" alpha="0.9" text="后移至场地中央，开始吟诵，四周出现巨大水幕，期间我方将持续附着水元素，王在场地内横冲直撞，接触造成40%伤害；16s后吟唱完成，水幕奔涌，秒杀前台。破解方法：将冻结条填满并引导王撞击即可，后损失18%/23%/28%生命值。"/>
+	<mx:Text styleName="textStyle14" x="1408" y="384" width="448" text="华音·浮迭瀑滟-输出"/>
+	<mx:Text styleName="textStyle14" x="1408" y="608" width="448" text="兵簧·绽澜幕潋-输出"/>
+	<mx:Text styleName="textStyle14" x="1408" y="832" width="448" text="湍沦·炙灭其间-协同"/>
+	<mx:Text styleName="textStyle15" x="736" y="1120" width="485" text="杀着·殄敌熛烬穹霄焰-爆发"/>
+	<mx:Text styleName="textStyle15" x="1408" y="1120" width="448" text="杀着·归覆漰腾碧海掀-爆发"/>
+	<mx:Image source="Image24.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="576" y="824" width="168" height="168"/>
+	<mx:Image source="Image27.png" x="576" y="1432" width="168" height="168"/>
+	<mx:Image source="Image28.png" x="1248" y="824" width="168" height="168"/>
+	<mx:Image source="Image29.png" x="576" y="1112" width="168" height="168"/>
+	<mx:Image source="Image30.png" x="1248" y="1112" width="168" height="168"/>
+	<mx:Text styleName="textStyle13" x="1408" y="1504" width="448" alpha="0.9" text="当一方倒下后，另一方会消耗当前50%生命值将其复活等同于消耗量的生命值，期间抗性大幅提升；治疗方处于20%生命值时不再消耗，若其低于20%则放弃治疗进入狂暴，任由另一方消亡，并将自身攻击力永久提升100%，降低抗性。王进入狂暴时造成40%伤害。"/>
+	<mx:Text styleName="textStyle14" x="1408" y="1440" width="448" text="弈舞·未落之幕-回复"/>
+	<mx:Image source="Image31.png" x="1248" y="1430" width="168" height="170"/>
+	<mx:Image source="Image32.png" x="64" y="1189" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1207" width="64" text="王怒"/>
+	<mx:Image source="Image33.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Text styleName="textStyle13" x="1408" y="224" width="448" alpha="0.9" text="后召唤4枚雷电棘刺，对前方的目标造成40%,20%,8%伤害。"/>
+	<mx:Text styleName="textStyle14" x="1408" y="160" width="448" text="风弦·声潺肃箭-输出"/>
+	<mx:Image source="Image34.png" x="1248" y="150" width="168" height="170"/>
+</mx:Application>

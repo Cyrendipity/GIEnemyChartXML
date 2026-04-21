@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1440" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle15 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="360"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="724" y="205" width="1023" height="944"/>
+	<mx:Image source="Image4.png" x="0" y="86" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="512" width="442" text="祸津御建鸣神命"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="640" width="305" text="雷电之稻妻殿"/>
+	<mx:Text styleName="textStyle4" x="64" y="960" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="800" width="305" text="HP: 1484012 (40.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="768" width="305" alpha="0.75" text="周本-薙刀形态 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="848" width="375" text="ATK: 22838 (12.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="896" width="375" text="Wt/Ed: 375/500"/>
+	<mx:Text styleName="textStyle8" x="64" y="574" width="395" alpha="0.75" text="Magatsu Mitake Narukamino Mikoto"/>
+	<mx:Text styleName="textStyle9" x="64" y="683" width="395" alpha="0.75" text="Raiden no Inazuma Tono"/>
+	<mx:Image source="Image5.png" x="64" y="1005" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="祸津使用手上的薙刀，进行至多4段的普通攻击，4段普攻均造成16.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="祸津用薙刀划过，划出一道雷刃，造成33.3%伤害，在近处会被薙刀打到也造成33.3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" alpha="0.9" text="祸津召唤一个「祸津之雷眼」，雷眼一段时间后爆炸，造成116.6%伤害(闪避帧无效)，破坏「祸津之雷眼」后祸津眩晕。"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" alpha="0.9" text="在祸津技能间歇期时攻击，产生雷盾，抵挡伤害；受击超4次时，每次攻击会增加10%反击概率；反击时，迅速斩两刀分别造成16.6%,33.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1152" width="448" alpha="0.9" text="祸津将薙刀指向空中，将武器变为梦想一心，同时在其前方产生一道落雷，造成16.6%伤害，之后场景间歇出现落雷，一次施放3道，每道落雷造成16.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="祸津旋转薙刀冲向玩家，造成16.6%伤害，并斩3刀，前两刀依次造成8.3%,16.6%伤害，较大的第三刀，造成25%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" alpha="0.9" text="眩晕时受击超8次时，将有48%的概率立即恢复，且每次受击都会增加6%恢复概率。祸津恢复眩晕后，在身边产生雷震击飞玩家，造成8.3%伤害但不显示数字(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1152" width="448" alpha="0.9" text="祸津斜拿薙刀，震开附近玩家，造成16.6%伤害，召唤「祸津三重眼」在场地上，雷眼一段时间后同时爆炸；被雷眼命中的个数不同，造成的伤害不一样，一个造成133.3%伤害，两个造成2段33.3%伤害，三个造成3段13.3%伤害，以上伤害闪避帧均无效。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="祸津旋转薙刀，产生大范围的落雷，造成66.6%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="处于祸津身后时，祸津转身划薙刀，造成25%伤害，随后产生爆破，造成25%伤害。"/>
+	<mx:Image source="Image6.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="裁震刚决-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="无想一槊-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="祸津之眼-召唤"/>
+	<mx:Text styleName="textStyle13" x="736" y="832" width="448" text="浮尘薙净-反击"/>
+	<mx:Text styleName="textStyle12" x="736" y="1088" width="448" text="梦景神光-转换"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="忿怨之断-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="欺神太甚-苏醒"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1088" width="448" text="三重祸眼-召唤"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="万雷归葬-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="震厄裁决-防卫"/>
+	<mx:Text styleName="textStyle14" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle15" x="64" y="1196" width="448" alpha="0.75" text="祸津之雷眼：9次次数盾，击破可眩晕祸津。祸津三重眼：7次次数盾，击破可躲避爆炸。"/>
+	<mx:Image source="Image8.png" x="64" y="1129" width="484" height="60"/>
+	<mx:Text styleName="textStyle16" x="0" y="1087" width="64" text="正常"/>
+	<mx:Text styleName="textStyle16" x="0" y="1147" width="64" text="眩晕"/>
+	<mx:Image source="Image9.png" x="64" y="192" width="256" height="256"/>
+	<mx:Image source="Image10.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="1268" y="1099" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="1248" y="1078" width="168" height="170"/>
+</mx:Application>

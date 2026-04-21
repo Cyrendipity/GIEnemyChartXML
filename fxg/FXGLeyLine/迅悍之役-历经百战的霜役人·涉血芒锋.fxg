@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "2048">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_0.png')" x="1920" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="445" y="20" fontFamily="MiSans" fontSize="80" fontStyle="normal" fontWeight="bold" color="#ffffff" width="1029" height="90" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="80" fontWeight="bold" color="#ffffff">历经百战的霜役人·涉血芒锋</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_2.png')" x="627" y="104" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1726" y="148" width="280" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="right" fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">技能变化 <span fontFamily="宋体">◆</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="147" width="479" height="51" d:userLabel="抗性数据◆" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">抗性数据 (单位%)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="435" width="293" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">机制数据</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1681" y="54" width="332" height="47" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#99ffff">CP<span color="#ffffff">[75,50,25,0x2]</span><span> CO</span><span color="#ffffff">[0]<br/></span><span fontSize="16" color="#ffffff">Energy Drop</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="830" y="985" width="115" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">21.399</span><span fontSize="18" color="#99ffcc">F</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="984" y="984" width="121" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base ATK：<br/><span fontSize="18" color="#dddddd">2.0</span><span fontSize="18" color="#e599ff">B2</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="608" y="663" width="64" height="43" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "32" y = "0" scaleX = "43" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="611" y="664" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff" width="87" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff">HP</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="612" y="742" width="80" height="34" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "40" y = "0" scaleX = "34" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="616" y="743" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff" width="90" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff">ATK</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<RichText x="654" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="132" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">952681</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="670" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="101" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">3806</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="989" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="102" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">5420</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="830" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="101" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">4924</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="809" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="144" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">4747104</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="970" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="141" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">7135813</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="665" y="600" width="110" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">困难 - N3<br/><span fontSize="24" color="#99ffff">Lv.90</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="820" y="600" width="119" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">险恶 - N4<br/><span fontSize="24" color="#99ffff">Lv.100</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="982" y="600" width="118" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">无畏 - N5<br/><span fontSize="24" color="#99ffff">Lv.105</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="680" y="120" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="559" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p textAlign="center" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Veteran Frost Operative: Bloodsoaked Blade</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="148" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="208" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="268" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="328" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="388" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="447" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">50</p>
+				</content>
+			</RichText>
+			<RichText x="508" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="561" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-20</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_3.png')" x="128" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_4.png')" x="128" y="320" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_5.png')" x="248" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_6.png')" x="428" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_7.png')" x="367" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_8.png')" x="308" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_9.png')" x="488" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_10.png')" x="188" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_11.png')" x="130" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_13.png')" x="550" y="256">
+			</BitmapImage>
+		</Group>
+		<RichText x="67" y="800" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="46" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">留刃：</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="673" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="47" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">破僭：</p>
+			</content>
+		</RichText>
+		<RichText x="67" y="512" width="138" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffbfbf">(N5) <span color="#ffffff">偿血白盾：</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="897" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="47" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">锃锋：</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="ICON__FRAME" d:type="layer" visible="false">
+			<Rect x="640" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="800" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+			<Rect x="992" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="1152" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+		</Group>
+		<RichText x="701" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="64" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 1.2</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="859" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 4.0</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1020" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="66" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 5.2</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1148" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="103" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">5806</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1119" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="163" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">13969549</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1143" y="600" width="115" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">绝境 - N6<br/><span fontSize="24" color="#99ffff">Lv.110</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1180" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="67" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 9.3</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="826" width="494" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">施放爆发时，<span color="#ffdfbf">消耗5%生命值</span><span>；爆发的第一段伤害命中时，</span><span color="#ffebbf">恢复5%生命值</span><span>；当生命值</span><span color="#ffebbf">低于20%</span><span>时，施放爆发改为</span><span color="#ffebbf">消耗10%当前生命值</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="538" width="507" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">施放爆发时，役人自身会立即获得白盾，厚度为<span color="#ffbfbf">22.5%生命值</span><span>，期间抗打断为0.01；击破白盾后役人将</span><span color="#ffdfbf">失去等量生命值</span><span>。<br/>白盾存在期间，役人将</span><span color="#ffbfbf">持续</span><span>向全队角色</span><span color="#ffbfbf">施加生命之契</span><span>，先施加</span><span color="#ffbfbf">500%</span><span>攻击力的生命之契，之后每0.5s施加</span><span color="#ffbfbf">75%</span><span>攻击力的生契。<br/>对于</span><span color="#ffbfbf">N5</span><span>和</span><span color="#ffacff">N6</span><span>难度，役人首次施加</span><span color="#ffdfbf">27100</span><span>/</span><span color="#ffdfbf">29028</span><span>点生命之契，后续每0.5秒施加</span><span color="#ffdfbf">4065</span><span>/</span><span color="#ffdfbf">4354</span><span>点生命之契。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="922" width="507" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">爆发的追加攻击对附有生命之契的目标造成的伤害提升<span color="#ffbfbf">150%</span><span>。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。</span></p>
+			</content>
+		</RichText>
+		<Rect x="576" y="32" width="768" height="768" alpha="1" d:userLabel="固定矩形" visible="false" blendMode="normal" radiusX="0" radiusY="0">
+			<fill>
+				<SolidColor color="#ffffff"/>
+			</fill>
+		</Rect>
+		<RichText x="1199" y="934" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="58" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.30196078431372547">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">——</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1039" y="934" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="58" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.30196078431372547">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">——</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_14.png')" x="1166" y="847" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_15.png')" x="1006" y="847" blendMode="normal">
+		</BitmapImage>
+		<RichText x="67" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2686a2" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2686a2">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_16.png')" x="1520" y="233">
+		</BitmapImage>
+		<RichText x="1538" y="320" width="433" height="151" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="18" fontWeight="bold" color="#ffffff">霜役人瞄准目标，<span color="#ffebbf">消耗5%生命值</span><span>，2s后闪现发动攻击，对目标敌人造成</span><span color="#99ffff">40%</span><span>伤害并施加生命之契，随后发动追加「猎杀」攻击：<br/>闪现并发射一枚寒冰箭，造成</span><span color="#99ffff">50%</span><span>伤害并施加生命之契，随后冲刺下落，造成</span><span color="#99ffff">100%</span><span>伤害。<br/>被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_17.png')" x="1396" y="267" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_18.png')" x="1376" y="246" blendMode="normal">
+		</BitmapImage>
+		<RichText x="66" y="704" width="497" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">役人的爆发的每段伤害都会施加<span color="#ffbfbf">16%</span><span>攻击力的生命之契，且在该生命之契的影响下，被命中的角色将每秒流失</span><span color="#ffdfbf">(0.4%HP+72)</span><span>的生命值(后台止于5%)，持续10min，或清除生命之契后解除。</span></p>
+			</content>
+		</RichText>
+		<RichText x="650" y="931" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffebbf" width="128" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffebbf">Shield Adv.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_19.png')" x="655" y="847" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的霜役人%B7涉血芒锋.assets/Image_20.png')" x="814" y="846" blendMode="normal">
+		</BitmapImage>
+		<RichText x="806" y="931" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff9999" width="139" height="41" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff9999">Bond of Life Adv.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+	</Group>
+	<Group d:userLabel="层_2" d:type="layer">
+	</Group>
+</Graphic>

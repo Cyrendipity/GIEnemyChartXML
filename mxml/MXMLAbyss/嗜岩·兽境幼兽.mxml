@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1312" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A28631;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFE599;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="嗜岩·兽境幼兽"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：GP[60,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 133104 (2.4F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 2955 (1.2B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 100/150"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Rockfond Rifthound Whelp"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="幼兽侧身，突进咬合，造成85%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="幼兽后空翻消失，传送至玩家身后使用爪子划击，成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="幼兽张牙舞爪，在近处进行快速的左右两段划击攻击，均造成65%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" alpha="0.9" text="每受到一次直接岩元素伤害，其怒气值就增长34%，值满时幼兽的外观发生明显变化，永久进入嗜魔状态，以岩抗减至-10%为代价提升攻击频率。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="龋啮追合-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="长爪追袭-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="撕痕裂迹-妨害"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="448" text="嗜岩之碿-天赋"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle12" x="64" y="512" width="305" text="隙间侵入的异兽"/>
+	<mx:Text styleName="textStyle13" x="64" y="555" width="395" alpha="0.75" text="Gap-Infiltrating Aliens"/>
+	<mx:Image source="Image6.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1019" width="64" text="嗜魔"/>
+	<mx:Image source="Image7.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="1152" width="448" alpha="0.9" text="兽境类原魔造成的伤害都会附带「侵蚀」效果。兽境幼兽的效果为：每层每秒扣除玩家0.5%HP的生命值，每层持续9.5s，持续时间独立计算，可叠加。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1088" width="448" text="郄兽侵蚀-天赋"/>
+	<mx:Image source="Image15.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="1078" width="168" height="170"/>
+</mx:Application>

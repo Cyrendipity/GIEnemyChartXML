@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#B764B0;
+		}
+		.textStyle10 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="200" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1020"/>
+	<mx:Image source="Image3.png" x="-41" y="-42" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="469" text="赤璋巡岳府君·移即"/>
+	<mx:Text styleName="textStyle" x="64" y="512" width="482" text="赤璋巡岳府君·天虞"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1024" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1341" y="64" width="515" alpha="0.5" text="元素能量：PP[75,50,25,0],PO[0](火)CP[75,50,25,0],CO[0](冰)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="421" text="HP: 2912698 (47.8F) (单只)"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="484" text="HP: 795297 (14.34F) 30% (单只)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="832" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 17235 (7.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="912" width="375" text="ATK: 17235 (7.0B2) 100%"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 250/4000"/>
+	<mx:Text styleName="textStyle5" x="64" y="960" width="375" text="Wt/Ed: 250/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="436" width="395" alpha="0.75" text="The Rising Fire: Yiji"/>
+	<mx:Text styleName="textStyle7" x="64" y="564" width="395" alpha="0.75" text="The Imminent Freeze: Tianyu"/>
+	<mx:Image source="Image4.png" x="64" y="1069" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="1408" y="256" width="448" alpha="0.9" text="两只岩龙蜥起跳至玩家对侧，造成对应元素的40%伤害，随后均朝玩家翻滚而来，造成对应元素的50%伤害。冲刺期间碰到护盾则会眩晕。"/>
+	<mx:Text styleName="textStyle9" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="两只岩龙蜥起跳至玩家处，造成对应元素的40%伤害，随后朝各自的侧方喷吐蜚火和流霜，持续造成对应元素的40%,20%,4%,0.4%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="熛火进行右爪挥扫、左爪拔扯的普通攻击，其依次造成40%,50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" alpha="0.9" text="熛火进行至多3段的震地普通攻击，其依次造成50%,50%,75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="928" width="448" alpha="0.9" text="熛火起跳，重重下落，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="192" width="448" text="绛霞霏雪-协同妨害"/>
+	<mx:Image source="Image5.png" x="64" y="1193" width="484" height="60"/>
+	<mx:Text styleName="textStyle10" x="0" y="1151" width="64" text="熛火"/>
+	<mx:Text styleName="textStyle12" x="0" y="1211" width="64" text="荒寒"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle11" x="1408" y="192" width="448" text="袭星卷碛-协同输出"/>
+	<mx:Image source="Image7.png" x="596" y="204" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="204" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="184" width="168" height="168"/>
+	<mx:Image source="Image10.png" x="1248" y="184" width="168" height="168"/>
+	<mx:Text styleName="textStyle13" x="736" y="416" width="448" text="爪犁熯炎-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="640" width="448" text="左右交焚-输出"/>
+	<mx:Text styleName="textStyle13" x="736" y="864" width="448" text="天煠悬炣-猛攻"/>
+	<mx:Image source="Image11.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="406" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="1408" y="480" width="448" alpha="0.9" text="荒寒进行右爪挥扫、左爪拔扯的普通攻击，其依次造成40%,50%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="704" width="448" alpha="0.9" text="荒寒进行至多3段的震地普通攻击，每段攻击都召唤持续4段的冰棘，造成30%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="928" width="448" alpha="0.9" text="荒寒喷出4枚冰锥，冰锥造成30%伤害；冰锥落地形成冰阱，触碰造成70%伤害，两种伤害共用(1,0.4,0.1)的衰减。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="416" width="448" text="爪犁皛寒-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="640" width="448" text="冰蕨巡生-追踪"/>
+	<mx:Text styleName="textStyle11" x="1408" y="864" width="448" text="剡凌碎晶-远程"/>
+	<mx:Image source="Image13.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="875" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="1152" width="448" alpha="0.9" text="当某个龙蜥濒死时，不会立即死亡，另一只龙蜥将在15s后回复其20%/16%/10%的生命值使其重新加入战斗。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1088" width="448" text="生死缘祸-回复"/>
+	<mx:Image source="Image23.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="576" y="1078" width="168" height="170"/>
+</mx:Application>

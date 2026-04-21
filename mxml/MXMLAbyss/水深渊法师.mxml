@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1056" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="水深渊法师"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[75,50,25],HO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 73530 (2.0H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 7387 (3.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 75/100"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Hydro Abyss Mage"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="水法施放一个水弹，造成100%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" alpha="0.9" text="水法施法，召唤一个追踪水泡，水泡命中包住玩家并造成100%伤害。强攻强化：接触水泡造成2段伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="736" width="448" alpha="0.9" text="水法传送，出现在玩家正前方，同时造成100%伤害，近处受玩家攻击时概率传送远离玩家，盾破之后持续攻击有小概率闪现。灵动强化：闪现前后位置均造成相同伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="480" width="448" alpha="0.9" text="水法施法恢复水盾，期间不断召唤水泡和水滴，均造成100%伤害，盾生成后施放冲击波造成200%伤害，若处在近处，则额外再受到200%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="靠近施法的水法时，水法生成一个12元元素量的水护罩，草元素破盾最快，此外，冰元素也是不错的选择。防护强化：护盾盾量x2，玩家攻击护盾会被附着水元素。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="水色凝弹-远程"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="泡影祭法-爆发"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" text="消闪-位移"/>
+	<mx:Text styleName="textStyle10" x="1408" y="416" width="448" text="幻灭之仪-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="清水粼嶂-防御"/>
+	<mx:Text styleName="textStyle11" x="64" y="1008" width="448" alpha="0.75" text="水护罩：12水盾，击破后打断并虚弱，可伤害转化。该状态下，抗打断0，免疫风场力。"/>
+	<mx:Image source="Image4.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="662" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="64" y="512" width="423" text="水之咏者"/>
+	<mx:Text styleName="textStyle13" x="64" y="555" width="395" alpha="0.75" text="Hydrochanter"/>
+</mx:Application>

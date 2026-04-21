@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFE5;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFE5;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#00AE83;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="65" y="64" width="254" height="256"/>
+	<mx:Image source="Image3.png" x="-41" y="-42" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="448" text="无相之风·间奏曲暴风之蝶"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="305" text="「埃塔尔」"/>
+	<mx:Text styleName="textStyle" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：AO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 433564 (11.0H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 15665 (6.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Anemo Hypostasis: Storm Butterfly Intermezzo"/>
+	<mx:Text styleName="textStyle8" x="64" y="555" width="395" alpha="0.75" text="「Etar」"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="无相之风脱去外壳暴露核心，在周围产生真空场牵引玩家，持续造成25%伤害，之后产生剧烈爆炸，造成150%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle9" x="736" y="928" width="448" alpha="0.9" text="无相之风蜕去外壳，将风立方从空中坠下，每个造成100%伤害，共计下落5个风立方，风立方落地产生风棱晶，打碎风棱晶才会产生风场。"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" alpha="0.9" text="无相之风盘旋升空，于空中向地面注入风元素气旋，持续造成25%伤害，同时场地出现8个游离的龙卷风，龙卷风可被火/水/雷/冰染色，接触造成对应元素的75%伤害，最终形成对应元素之微粒。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="672" width="448" alpha="0.9" text="无相之风在地面高速旋转，在其周围持续造成10%伤害，吸收风之微粒产生大范围冲击波，造成100%伤害(闪避帧无效)，吸收3个微粒后停止攻击，暴露核心；若吸收其他元素则会爆炸，并立即停止攻击暴露核心。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="气蓄空爆-牵引"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="448" text="超缩晶旋-辅助"/>
+	<mx:Text styleName="textStyle10" x="736" y="608" width="448" text="飓风临陆-辅助"/>
+	<mx:Text styleName="textStyle10" x="1408" y="608" width="448" text="风卷残流-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="翠星一煜-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="864" width="448" text="濒亡·止风-复苏"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="无相之风开阵，8个风立方外壳围一圈暴露核心，发射3个风弹，每个风弹造成75%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="928" width="448" alpha="0.9" text="生命值低于5%时，无相之风召唤5个复苏风晶球，其中一个风晶球是游离的；周围产生4个风场，复苏持续15s，每个风之晶球恢复无相之风12.5%生命值，无晶球时恢复5%生命值。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1008" width="448" alpha="0.75" text="元素之微粒：触碰产生6个对应元素微粒。复苏风晶球：触碰产生3个风元素微粒。风棱晶：3次次数盾，击破产生风场。"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" alpha="0.9" text="无相之风升空化成风晶蝶，不断抖动周围空气，持续大范围造成50%伤害(闪避帧无效)，使用下落攻击命中以打断其技能。"/>
+	<mx:Text styleName="textStyle10" x="736" y="384" width="448" text="蝶振暴风-控制"/>
+	<mx:Text styleName="textStyle10" x="1408" y="384" width="448" text="墙封·隙驰-输出"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" alpha="0.9" text="无相之风将外壳化为成两面墙，随后夹击，造成100%伤害。夹击时产生3道风刃，每个风刃造成100%伤害。"/>
+	<mx:Image source="Image17.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1268" y="875" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1248" y="854" width="168" height="170"/>
+</mx:Application>

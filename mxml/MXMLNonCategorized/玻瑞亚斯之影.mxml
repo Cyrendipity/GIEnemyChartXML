@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1600" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle14 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="520"/>
+	<mx:Image source="Image3.png" x="0" y="86" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="512" width="505" text="玻瑞亚斯之影"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1247" y="64" width="609" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="305" text="HP: 853307 (23.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="试炼首领 Lv.90 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 10467 (5.5B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="593" width="395" alpha="0.75" text="Boreas’s Shadow"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="1408" y="608" width="448" text="凛若珠涟-远程"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1088" width="448" text="阑干冰崖-试炼1"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1376" width="448" text="千岭苍牙-试炼2"/>
+	<mx:Text styleName="textStyle9" x="1408" y="672" width="448" alpha="0.9" text="玻瑞亚斯蓄力吐出冰球，造成30%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1152" width="448" alpha="0.9" text="玻瑞亚斯嗥叫，并召唤大中小型3个冰平台，玻瑞亚斯率先跃入最大的平台，造成10%伤害(闪避帧无效)，并附属「坚冰」；所有平台均出现一枚「未熄的战火」；周围的空气开始变得寒冷，每2s对角色造成5%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1440" width="448" alpha="0.9" text="玻瑞亚斯召唤「蕴光孤狼」及其狼魂，自身消失并附属「永冬」，同时场地空气变冷，持续出现下落冰棱，造成20%伤害；击败孤狼后玻瑞亚斯重新出现。"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="896" width="448" alpha="0.9" text="玻瑞亚斯抬起身子，随后扑下，产生大范围的冰冲击波，造成30%伤害。本技能抬身与扑下动作较「白草凇花」慢。本技能存在盲区，位于玻瑞亚斯正前方的一小块区域。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1440" width="448" alpha="0.9" text="玻瑞亚斯使用尾巴持续对玩家发射大量冰锥，共12枚，每枚造成10%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="832" width="448" text="碎沙雪浪-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="1376" width="448" text="晶凌如散-远程"/>
+	<mx:Text styleName="textStyle11" x="64" y="1104" width="448" alpha="0.75" text="在试炼之前，玻瑞亚斯的攻击力降低40%。冰平台：由玻瑞亚斯召唤，由低到高为小中大三个，需要使用「法尔伽」的长按战技飞上去；平台出现期间，将持续造成20%伤害。坚冰：12冻盾，可伤害转化，存在时空气极寒，击破来使玻瑞亚斯结束空气极寒，提前结束试炼，并推进到下一个试炼。永冬：40冻盾，存在时空气极寒，不可直接击破，击败「蕴光孤狼」以击破该盾。蕴光孤狼：与大世界版本类似，生命值445203(12.0F)，攻击力7613(4.0B2)；狼魂为12冻盾，也是刚需火扩散破盾。未熄的战火：试炼1后出现，接触可恢复25%生命值并重置CD，集齐3枚可使法尔伽「狂飙突进」状态下染火，持续14.5s；战火每隔9s在玩家附近出现，每枚寿命20s。试炼1持续约80s，在其恢复至试炼2出现之前，玻瑞亚斯锁血。"/>
+	<mx:Text styleName="textStyle12" x="64" y="640" width="394" text="无铭染血之狼灵"/>
+	<mx:Text styleName="textStyle13" x="64" y="683" width="395" alpha="0.75" text="Nameless Bloodstained Wolf Spirit"/>
+	<mx:Image source="Image5.png" x="64" y="192" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="1099" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="1387" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="1387" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="1366" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1248" y="1078" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="1366" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="玻瑞亚斯使用左或右爪迅速划击，造成58.3%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="坚爪涛寒-输出"/>
+	<mx:Image source="Image16.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="玻瑞亚斯在自身位置产生霜气，随后旋转身迅速划击，造成83.3%伤害(闪避帧无效)，并产生一个冰元素晶球。"/>
+	<mx:Text styleName="textStyle14" x="1408" y="160" width="448" text="御阵凕风-输出"/>
+	<mx:Image source="Image18.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" alpha="0.9" text="玻瑞亚斯在落地的位置产生寒气，随后跳跃至此，造成83.3%伤害(闪避帧无效)，并产生一个冰元素晶球。"/>
+	<mx:Text styleName="textStyle8" x="736" y="384" width="448" text="御阵流冰-位移"/>
+	<mx:Image source="Image20.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" alpha="0.9" text="玻瑞亚斯突然朝前方进行一次疾冲，造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="384" width="448" text="驰间疾袭-位移"/>
+	<mx:Image source="Image22.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="896" width="448" alpha="0.9" text="玻瑞亚斯在原地晃动全身，凝聚空气中的水汽，不断产生冰锥下坠，造成25%伤害(闪避帧无效)，持续15s。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="832" width="448" text="陨息冻雨-妨害"/>
+	<mx:Image source="Image24.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" alpha="0.9" text="玻瑞亚斯抬起身子在途经上产生霜面，走在霜面上减速30%，并附着冰元素，随后霜面开始起爆，造成41.6%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="608" width="448" text="白草凇花-妨害"/>
+	<mx:Image source="Image26.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="576" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="1152" width="448" alpha="0.9" text="低于60%生命值时，玻瑞亚斯绕场地边缘跑动，跑3圈，前两圈跑完3/4圈将直接发起冲撞，最后一圈跑完起跳下落至场地中央。触碰跑动的玻瑞亚斯或遭其冲撞，将造成60%伤害；安德留斯跃入场地中央造成20%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1088" width="448" text="雾隐遄行-位移"/>
+	<mx:Image source="Image28.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image29.png" x="576" y="1078" width="168" height="170"/>
+</mx:Application>

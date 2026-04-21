@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1248" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffefbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1426" y="52" width="457" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#ffe599">GP</span><span>[75,50,25,0],</span><span color="#ffe599">GO</span><span>[0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffefbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="738" y="223" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子立即快速冲来，接触后立即翻起，造成<span color="#ffe599">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子帽盖一亮，迅速旋转一圈，造成<span color="#ffe599">60%</span><span>伤害，可连续施放多次。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="735" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">枯焦状态的大招。太子变大，随后翻身一跃，下落同时借力弹起，该过程重复6次，第1-5次造成<span color="#ffe599">60%</span><span>伤害，第6次造成</span><span color="#ffe599">100%</span><span>伤害，技能结束后不清空计量条。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="421" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子发射2枚辛蕈果，造成<span color="#ffe599">60%,42%</span><span>伤害，可连续施放多次。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="479" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子用帽盖朝前方迅速顶击一次，造成<span color="#ffe599">25%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="735" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">激化失控的大招，太子变大不移动，在中央胡乱抛洒香弥果，落地造成<span color="#ffe599">80%</span><span>伤害，技能结束后退至</span><span color="#ffbfbf">枯焦</span><span>状态，并将计量条重置为一半。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_2.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_3.png')" x="719" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_4.png')" x="720" y="650">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_5.png')" x="1392" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_6.png')" x="1392" y="395">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_7.png')" x="1392" y="650">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#a28631" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#a28631">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_8.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="60" y="373" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="normal" fontWeight="normal" color="#ffffff" width="431" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" color="#ffffff">摩诃婆苏提婆耶弗太子</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="853" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="504" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 5374476 <span color="#dddddd">(88.2F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="696" width="482" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1050221 <span color="#dddddd">(18.937F) </span><span color="#ffe599">21.47%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="471" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">地方传奇 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="663" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="219" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">历经百战 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="552" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 39162 <span color="#dddddd">(15.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="744" width="378" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 22160 <span color="#dddddd">(9.0B2)</span><span color="#ffe599"> 60%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="419" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="358" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Prince Mahavasudeva-Yava</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="77" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">130</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">130</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">130</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">130</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">150</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">130</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">150</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">130</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_9.png')" x="64" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_10.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_11.png')" x="184" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_12.png')" x="364" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_13.png')" x="303" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_14.png')" x="244" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_15.png')" x="424" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_16.png')" x="124" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_17.png')" x="66" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_19.png')" x="486" y="909">
+			</BitmapImage>
+		</Group>
+		<RichText x="62" y="601" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 200/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="793" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 200/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_2">
+			<RichText x="84" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="322" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">30</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="442" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">30</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_20.png')" x="64" y="1033" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="66" y="1100" width="442" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">草计量条：计量上限300。太子受到<span color="#99ff85">草元素</span><span>攻击后，会根据草元素的量积攒</span><span color="#ffdfbf">0.05n%</span><span>(15n)或</span><span color="#ffdfbf">0.03%</span><span>(10)计量，攒满后进入正常状态，同时计量条开始衰减，每秒</span><span color="#ffdfbf">-13</span><span>(地方传奇)/</span><span color="#ffdfbf">-17</span><span>(历经百战)，衰减完毕后转为枯焦状态，衰减期间仍可使用</span><span color="#99ff85">草元素</span><span>充能。<br/>正常状态下，抗打断1000。</span></p>
+			</content>
+		</RichText>
+		<RichText x="9" y="988" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">枯焦</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1048" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_21.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_22.png')" x="720" y="906">
+		</BitmapImage>
+		<RichText x="738" y="991" width="1017" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子初始处于具有高抗的枯焦状态，并存在一<span textDecoration="underline">草计量条</span><span>，使得其在</span><span color="#ffbfbf">枯焦</span><span>/</span><span color="#ffffbf">正常</span><span>/</span><span color="#bfffbf">活化</span><span>状态之间来回切换。<br/></span><span color="#ffbfbf">枯焦：</span><span>默认状态，枯焦或正常状态下受到</span><span color="#ff9999">火元素</span><span>攻击后，计量条直接清空并转为枯焦状态。<br/></span><span color="#ffffbf">正常：</span><span>使用</span><span color="#99ff85">草元素</span><span>攻击充能计量条，充满计量条后，移除高抗并眩晕16s，同时计量条开始衰减，衰减的计量依旧可以充能，衰减完毕后转为枯焦状态。<br/></span><span color="#ccffbf">活化：</span><span>正常状态下触发</span><span color="#ffacff">超激化反应</span><span>可被计数，该激化计数存在</span><span color="#ffdfbf">3s</span><span>判定CD，当该计数达</span><span color="#ffdfbf">3</span><span>后立即失控，并施放「沁香妙赐」，随后退回枯焦状态。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_23.png')" x="596" y="939" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_24.png')" x="596" y="683" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_25.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_26.png')" x="1268" y="683" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_27.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_28.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_29.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_30.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_31.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_32.png')" x="576" y="662" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_33.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_34.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_35.png')" x="1248" y="662" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_36.png')" x="576" y="918" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

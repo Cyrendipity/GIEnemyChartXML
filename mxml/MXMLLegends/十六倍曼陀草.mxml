@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#38993E;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="1387" y="64" width="469" alpha="0.5" text="元素能量：DP[75,50,25,0],DO[0]；DP[60,0](小)"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="305" text="HP: 3899847 (64.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="394" text="HP: 958349 (17.28F) 27%"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 31329 (12.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="816" width="375" text="ATK: 16251 (6.6B2) 55%"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 200/150"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="375" text="Wt/Ed: 200/150"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Hexadecatonic Mandragora"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="1408" y="256" width="448" alpha="0.9" text="曼陀草原地蓄力，孢囊发光，而后迅速进行多次弹射，接触造成55%,16.5%,5.5%伤害；接着重重坠地，造成100%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="256" width="448" alpha="0.9" text="曼陀草进行1-3次的跳跃攻击，造成50%,20%伤害，「脆性」状态会经常施放失败，表现为突然的倒地。"/>
+	<mx:Text styleName="textStyle7" x="736" y="544" width="448" alpha="0.9" text="距离较远时，曼陀草向前方发射6枚曲轨孢弹，造成40%,20%,7.2%伤害，会重复施放2-3次；「脆性」状态下只发射3枚孢弹，且只连续施放一次。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="544" width="448" alpha="0.9" text="曼陀草开始倒立并朝玩家方向旋转，移动一小段距离，接触造成50%伤害。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="1120" width="448" alpha="0.9" text="距离较远时，孢子抛射一枚草球，造成80%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="800" width="1024" alpha="0.9" text="曼陀草初始处于「刚性」聚合状态，首次分裂倒计时为35s，后续为38s；倒计时结束后，在9-12m范围内分裂为10个孢子，持续17s；之后恢复。若期间击败8个及以上孢子，则会使曼陀草恢复后退出「刚性」状态，进入「脆性」聚合状态，并使分裂倒计时延长至44s。低于20%生命值则根据剩余生命分裂对应数量的孢子(2%/个)；低于2%生命值则不再分裂。"/>
+	<mx:Text styleName="textStyle7" x="736" y="1120" width="448" alpha="0.9" text="孢子轻轻撞击，造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="64" y="1167" width="448" alpha="0.75" text="孢子：生命值为曼陀草的10%，攻击力为18275(7.0B2 Lv.103)或为6894(2.8B2 Lv.100 历经百战)，重/韧为45/50每击败一只扣除曼陀草2%生命值。分裂倒计时：可被雷与火元素攻击加速，根据其元素量扣除n*1s或0.15s。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="192" width="448" text="弧分曳形-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="循灵跃动-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" text="林间孢雾-远程"/>
+	<mx:Text styleName="textStyle9" x="1408" y="480" width="448" text="翠卉柔风-位移"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1056" width="448" text="团草菌雾-远程"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="384" width="511" text="十六倍曼陀草"/>
+	<mx:Image source="Image5.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1054" width="64" text="脆性"/>
+	<mx:Text styleName="textStyle12" x="0" y="1114" width="64" text="刚性"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="252"/>
+	<mx:Image source="Image7.png" x="1268" y="491" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="203" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="491" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="470" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1248" y="470" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="182" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Text styleName="textStyle9" x="736" y="736" width="448" text="裂茵蔓种-召唤"/>
+	<mx:Image source="Image18.png" x="576" y="726" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="1056" width="448" text="新绿倾旋-输出"/>
+	<mx:Image source="Image19.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="1024" alpha="0.9" text="孢子分裂范围：中心范围0-0.3m，1个孢子；内层范围2-4.5m，3个孢子；中层范围5-8m，3个孢子；外层范围9-12m，3个孢子。处于「刚性」聚合状态时，抗打断0.12。"/>
+</mx:Application>

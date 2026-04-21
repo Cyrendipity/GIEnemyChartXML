@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1440" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFE599;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#937122;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="360"/>
+	<mx:Image source="Image3.png" x="0" y="128" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="512" width="460" text="岩龙蜥"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="640" width="537" text="坚若磐石的岩生猛兽"/>
+	<mx:Text styleName="textStyle4" x="64" y="960" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1216" y="64" width="640" alpha="0.5" text="元素能量：GP[66x2,33x2,0x2]"/>
+	<mx:Text styleName="textStyle6" x="64" y="800" width="305" text="HP: 294121 (8.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="768" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="848" width="375" text="ATK: 14773 (6.0B1)"/>
+	<mx:Text styleName="textStyle8" x="64" y="593" width="395" alpha="0.75" text="Geovishap"/>
+	<mx:Text styleName="textStyle9" x="64" y="683" width="407" alpha="0.75" text="Rock-Hard Geo Beast"/>
+	<mx:Image source="Image4.png" x="64" y="1005" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" alpha="0.9" text="岩龙蜥使用双爪抓划一次，右爪造成40%伤害，左爪造成50%伤害。赤炎：右爪划击和左爪抓划连续进行，分别造成50%,60%伤害；雳电：左爪抓划产生2个对向的雷球；清涟：左爪抓划即施加水环；霜霰：左爪抓划在周围产生3个冰簇。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1088" width="448" alpha="0.9" text="岩龙蜥进行两次不同的下落攻击，第一次跳起下落造成40%伤害，第二次跳起下落造成60%伤害，第二次比第一次范围更大，时间更短。赤炎：两次下落分别造成50%,70%伤害，每次下落会产生地刺，再次造成相同的伤害。雳电：第一次下落产生3个雷球，第二次下落产生4个雷球；清涟：第一次下落即施加水环；霜霰：每次下落在周围产生3个冰簇。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="704" width="448" alpha="0.9" text="岩龙蜥蜷缩身子向玩家冲去，造成对应元素的30%伤害，若命中玩家，则立即进行下落攻击造成85%伤害。冲刺期间碰到护盾则会眩晕。赤炎：下落攻击造成100%伤害，产生地刺造成70%伤害。雳电：下落产生3个雷球；清涟：下落即施加水环；霜霰：下落在周围产生3个冰簇。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1088" width="448" alpha="0.9" text="岩龙蜥进行左、右、砸3段攻击，每段均产生持续4段的追踪地刺波，接触造成16.5%伤害。赤炎：每段产生持续4段的追踪熔岩地刺波，接触造成25%伤害。雳电：左捶、右捶产生1个雷球，捶地产生4个雷球；清涟：左捶即施加水环；霜霰：3段攻击分别在其右侧、左侧、前侧产生3个冰簇。"/>
+	<mx:Text styleName="textStyle11" x="736" y="640" width="448" text="左右开攻-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" text="高效作战-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="640" width="448" text="龙势维卷-强攻"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1024" width="448" text="岩蕨棘生-追踪"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="192" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="岩龙蜥汲取火元素，火抗+20%，此后的所有攻击均附带火元素附魔，同时攻击倍率提升；下落时会产生额外的地刺造成伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="汲取赤炎-强化"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="岩龙蜥汲取雷元素，雷抗+20%，此后的所有攻击均产生一定数量的游离雷球，游离的雷球触碰即造成30%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="汲取雳电-强化"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="岩龙蜥汲取冰元素，冰抗+20%，此后岩龙蜥进行攻击时会在其附近产生冰簇，冰簇会在触碰或5s后爆破，造成35%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="汲取霜霰-强化"/>
+	<mx:Image source="Image10.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="岩龙蜥汲取水元素，水抗+20%，此后岩龙蜥进行攻击时即会给玩家施加水环，水环同步于玩家，5s后水环爆破，造成25%伤害。"/>
+	<mx:Image source="Image12.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="汲取清涟-强化"/>
+	<mx:Image source="Image14.png" x="596" y="652" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="632" width="168" height="168"/>
+	<mx:Image source="Image16.png" x="1268" y="1036" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="1016" width="168" height="168"/>
+	<mx:Image source="Image18.png" x="596" y="1036" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="1016" width="168" height="168"/>
+	<mx:Image source="Image20.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="631" width="168" height="169"/>
+	<mx:Text styleName="textStyle6" x="64" y="896" width="375" text="Wt/Ed: 150/150"/>
+	<mx:Text styleName="textStyle13" x="64" y="1136" width="448" alpha="0.75" text="岩龙蜥入战半分钟，或生命值低于40%后，将会汲取本征元素，汲取元素后，对应元素的抗性提升20%，且抗打断0。"/>
+</mx:Application>

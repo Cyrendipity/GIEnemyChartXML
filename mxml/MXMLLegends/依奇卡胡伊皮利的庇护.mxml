@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1024" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#389A3E;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1024"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="1387" y="64" width="469" alpha="0.5" text="元素能量：DP[75,50,25,0],DO[0]"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="335" text="HP: 6702862 (110.0F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 23497 (9.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle6" x="64" y="427" width="411" alpha="0.75" text="Ichcahuipilli’s Aegis"/>
+	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="736" y="224" width="448" alpha="0.9" text="「庇护」标记玩家，在原地进行吟唱，并在标记处产生爆炸，爆炸和冲击波都造成90%,22.5%伤害，同时产生2枚较小的图纹，爆裂造成80%伤害。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="224" width="448" alpha="0.9" text="「庇护」召唤7枚图纹，呈三叉样分布，图纹迸裂造成80%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="512" width="448" alpha="0.9" text="「庇护」朝玩家方向蓄力，迸发草元素脉冲，造成70%伤害。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="512" width="448" alpha="0.9" text="「庇护」将玩家带入「抉择之域」，自己则暂时退入「夜魂灵隙」。领域内不断生成夜魂战士，在其周围有一圈毒雾，靠近将持续造成基于敌方30%攻击力的伤害。需与「夜魂灵隙」交互后方可退出领域。"/>
+	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="梢驰杪张-输出"/>
+	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="翠莲扎荫-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" text="咒阵流韵-远程"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" text="流逐争魂-领域"/>
+	<mx:Text styleName="textStyle9" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="64" y="384" width="545" text="依奇卡胡伊皮利的庇护"/>
+	<mx:Image source="Image4.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="438" width="168" height="170"/>
+	<mx:Text styleName="textStyle7" x="736" y="800" width="448" alpha="0.9" text="每击败「抉择之域」中的一名夜魂战士，全队都会获得「咒祝」：获得60%的增伤，但以此为代价的是当前角色会每0.5秒流失(1%+50)生命值，以上效果均可叠加。流血效果在退出「抉择之域」后移除，而增伤效果持续15s。"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" text="蜜饴血祭-天赋"/>
+	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="抉择之域：「庇护」将玩家带入的特殊领域，此领域内会持续刷新夜魂战士敌人(疾迅勇士系列)，击败以获得提升效果，可随时与夜魂灵隙交互退出。低于80%生命值后，「庇护」将强制展开一次领域。"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="64" y="78" width="256" height="242"/>
+</mx:Application>

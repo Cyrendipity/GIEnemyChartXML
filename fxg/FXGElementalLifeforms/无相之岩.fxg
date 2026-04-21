@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_2.png')" x="-41" y="54" blendMode="normal">
+		</BitmapImage>
+		<RichText x="65" y="465" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="347" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">无相之岩</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="77" y="597" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ffe599" width="206" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ffe599">「基末尔」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="917" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1502" y="52" width="381" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#ffe599">GO</span><span>[75,50,25,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="760" width="295" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 275905 <span color="#dddddd">(7.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="726" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="808" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 15665 <span color="#dddddd">(6.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="857" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="554" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="217" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Geo Hypostasis</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="76" y="644" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ffe599" width="102" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ffe599">「Gimel」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="433" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="46" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">IMM</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_3.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_4.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_5.png')" x="184" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_6.png')" x="364" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_7.png')" x="303" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_8.png')" x="244" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_9.png')" x="424" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_10.png')" x="124" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_11.png')" x="66" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之岩.assets/Image_13.png')" x="486" y="973">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩脱去外壳，短暂暴露核心，在自身和周围3个位置升起<span textDecoration="underline">玄武岩柱</span><span>，生成玄武岩柱的区域造成</span><span color="#ffe599">25%</span><span>伤害</span><span color="#ffbfbf">(无数字)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩暴露核心，施放岩封印标记同步于玩家，随后岩封印触发崩破，造成<span color="#ffe599">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="927" width="428" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩化作成大锤，蓄力后重重砸下，造成<span color="#ffe599">150%</span><span>伤害，锤击处扩散出3个碎岩波，每个造成</span><span color="#ffe599">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="927" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩升空，激发其下方的玄武岩柱，使其产生一个冲击波，造成<span color="#ffe599">100%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，但据说可以跳起来躲冲击波。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩盘旋升空，激发所有玄武岩柱，玄武岩柱产生共鸣波，每次造成<span color="#ffe599">100%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，持续8-9次，其下方会产生一个</span><span textDecoration="underline">黄岩块</span><span>，击破以获得躲避冲击波的护罩</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_14.png')" x="721" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_15.png')" x="1391" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_16.png')" x="1392" y="841">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_17.png')" x="719" y="842">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_18.png')" x="1392" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_19.png')" x="720" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_20.png')" x="1391" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_21.png')" x="719" y="1065">
+		</BitmapImage>
+		<RichText x="738" y="447" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩升空开阵，8个岩立方围一圈暴露核心，连续发射20个砂岩弹，每个砂岩弹造成<span color="#ffe599">25%</span><span>伤害，砂岩弹对玄武岩柱有自噬作用。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩将外壳化为成两面墙，随后夹击，造成<span color="#ffe599">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1151" width="441" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">生命值低于5%时，无相之岩召唤3个<span textDecoration="underline">复苏玄武岩柱</span><span>，复苏持续15s，每个玄武岩柱恢复无相之岩</span><span color="#ffe599">15%</span><span>生命值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#937122" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#937122">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_22.png')" x="66" y="166" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_23.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_24.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_25.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_26.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_27.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_28.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_29.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_30.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_31.png')" x="596" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_32.png')" x="576" y="854" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="671" width="439" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之岩脱去外壳暴露核心，在场上生成4团三角形岩雨区，其持续落下碎石造成<span color="#ffe599">25%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，岩雨区间断下落巨石，造成</span><span color="#ffe599">75%</span><span>伤害；岩雨区的位置与原先玄武岩柱的位置一致。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_33.png')" x="719" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_34.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_35.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_36.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_37.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_38.png')" x="1268" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_39.png')" x="1248" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_40.png')" x="596" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之岩.assets/Image_41.png')" x="576" y="1078" blendMode="normal">
+		</BitmapImage>
+		<RichText x="66" y="1104" width="423" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">玄武岩柱：<span color="#ffe599">24岩</span><span>盾，击破可产生1-2个</span><span color="#ffe599">岩元素晶球</span><span>；受到<br/>突刺/穿刺-</span><span color="#ffe599">0.2岩</span><span>，切割-</span><span color="#ffe599">0.28岩</span><span>。<br/>复苏玄武岩柱：</span><span color="#ffe599">8岩</span><span>盾，击破可产生1-2个</span><span color="#ffe599">岩元素晶球</span><span>；受到<br/>突刺/穿刺-</span><span color="#ffe599">0.24岩</span><span>，切割-</span><span color="#ffe599">0.32岩</span><span>。<br/>黄岩块：</span><span color="#ffe599">3岩</span><span>盾，击破可产生持续14.4s的护罩；受到<br/>突刺/穿刺-</span><span color="#ffe599">0.2岩</span><span>，切割-</span><span color="#ffe599">0.28岩</span><span>。</span></p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

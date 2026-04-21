@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1728" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_2.png')" x="0" y="214" blendMode="normal">
+		</BitmapImage>
+		<RichText x="62" y="625" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="351" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">纯水精灵</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="757" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="310" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#7fbfff">轻策的净水之主</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="1077" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1626" y="52" width="257" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#7fbfff">HO</span><span>[0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="921" width="314" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 551809 <span color="#dddddd">(14.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="886" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="968" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 23497 <span color="#dddddd">(9.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="1017" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="714" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="131" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Oceanid</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="804" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="210" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#7fbfff">Oceanid of Qingce</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99b3ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="133" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="46" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">IMM</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1215" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_3.png')" x="64" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_4.png')" x="64" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_5.png')" x="184" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_6.png')" x="364" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_7.png')" x="303" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_8.png')" x="244" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_9.png')" x="424" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_10.png')" x="124" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_11.png')" x="66" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/纯水精灵.assets/Image_13.png')" x="486" y="1133">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="223" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵砸向平台，使该平台沉入水下，被纯水精灵砸到造成<span color="#7fbfff">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻形蛙或幻形雀被击败后，被消灭后产生水弹，爆炸造成等同于纯水精灵<span color="#7fbfff">83.3%</span><span>攻击力的伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_14.png')" x="1392" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_15.png')" x="1392" y="361">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2c62d3" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2c62d3">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1264" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="442" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">纯水幻形：<br/>水弹落在角地砖，召唤3个一组的幻形鹤或幻形飞鸢；<br/>水弹落在边地砖，召唤1个一组的幻形雀或幻形蛙；<br/>水弹落在中心地砖，召唤2个一组的幻形游禽、幻形豕兽、幻形花鼠、幻形蟹；</p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="428" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵吐出1或2个水泡，水泡在平台上形成对应的纯水幻形。<br/>第三次及之后喷吐2个水泡。</p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="441" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">若长时间未击败纯水幻形，纯水精灵在玩家位置生成漩涡，持续造成<span color="#7fbfff">50%</span><span>伤害，3s后爆炸，造成</span><span color="#7fbfff">200%</span><span>伤害，以上伤害</span><span color="#ffbfbf">闪避帧均无效</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="435" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵挥动左/右鳍部向下猛击，造成<span color="#7fbfff">66.6%</span><span>伤害，二阶段后会在此位置产生水爆，造成</span><span color="#7fbfff">66.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵翻空，挥动尾鳍部向下猛击，造成<span color="#7fbfff">100%</span><span>伤害，二阶段后会在此位置产生3道水爆，各造成</span><span color="#7fbfff">66.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="419" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵后空翻贴地冲刺，造成1-2段<span color="#7fbfff">33.3%</span><span>伤害，可重复2-4次。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1343" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵用双鳍汇聚出1-3个追踪水弹，水弹可被攻击打碎，水弹接触爆炸造成<span color="#7fbfff">80%,40%,20%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1567" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵开始蓄力，标记玩家，片刻后喷出巨大喷流，持续造成<span color="#7fbfff">33.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1343" width="429" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵潜地后冒出，并携带2-4个追踪小水泡后发射，水泡可被攻击击碎，造成<span color="#7fbfff">66.6%,33.3%,16.6%,6.66%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1567" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵蓄力产生巨大的水球，几秒后落地，产生巨大水波，水波造成两段<span color="#7fbfff">133.3%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="429" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵召唤3或5个水漩涡，漩涡将持续造成<span color="#7fbfff">13.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="435" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">纯水精灵挥动左/右鳍部转身猛击，造成<span color="#7fbfff">66.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">生命值低于<span color="#ffcebf">81%</span><span>时，纯水精灵召唤4个纯水幻形，然后隐蔽身形。每击败一个纯水幻形，就会使纯水精灵扣除</span><span color="#ffcebf">5%</span><span>生命值，全击败使其现形进入二阶段。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_16.png')" x="719" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_17.png')" x="720" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_18.png')" x="719" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_19.png')" x="720" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_20.png')" x="720" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_21.png')" x="720" y="1257">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_22.png')" x="722" y="1482">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_23.png')" x="1392" y="1258">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_24.png')" x="1392" y="1482">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_25.png')" x="1391" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_26.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_27.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_28.png')" x="1391" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_29.png')" x="1391" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_30.png')" x="64" y="320" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_31.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_32.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_33.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_34.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_35.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_36.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_37.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_38.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_39.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_40.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_41.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_42.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_43.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_44.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_45.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_46.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_47.png')" x="1268" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_48.png')" x="1248" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_49.png')" x="596" y="1291" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_50.png')" x="576" y="1270" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_51.png')" x="1268" y="1291" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_52.png')" x="1248" y="1270" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_53.png')" x="596" y="1515" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_54.png')" x="576" y="1494" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_55.png')" x="1268" y="1515" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/纯水精灵.assets/Image_56.png')" x="1248" y="1494" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

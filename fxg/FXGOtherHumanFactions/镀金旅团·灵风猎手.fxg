@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_1.png')" x="-41" y="-42" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="55" y="338" width="272" height="113" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">镀金旅团·<br/><span fontSize="60">灵风猎手</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="721" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1498" y="48" width="380" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#7fffd7">AP</span><span>[75,50,25,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="565" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 244024 <span color="#dddddd">(4.4F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="531" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="180" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">普通 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="612" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 12311<span color="#dddddd"> (5.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="661" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 80/210</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="454" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="273" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Eremite: Galehunter</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-20</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_2.png')" x="64" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_3.png')" x="64" y="845" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_4.png')" x="184" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_5.png')" x="364" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_6.png')" x="303" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_7.png')" x="244" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_8.png')" x="424" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_9.png')" x="124" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_10.png')" x="66" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_12.png')" x="486" y="781">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_13.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_14.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<RichText x="66" y="1032" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="435" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">正在蓄力箭矢或处于魔化状态下，抗打断0，质量翻6倍。虚弱状态下抗打断0。</p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">灵风猎手发射一枚风元素箭矢，造成<span color="#7fffd7">75%</span><span>伤害，虚弱的灵风猎手只会施放此技能。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">灵风猎手凌空蓄力，产生真空场不断吸引玩家至风矢范围内，3s后箭矢发射，造成<span color="#7fffd7">80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离玩家较远时，灵风猎手直接冲来，使用风矢划击，造成<span color="#7fffd7">75%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="996" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当灵风猎手的<span color="#ffbfbf">生命值低于70%(特化为100%)</span><span>时，其会唤出武器内的风之魔鸢，</span><span color="#bfffdf">进入魔化状态</span><span>，全抗性提升50%。击破风之魔鸢会使灵风猎手受到基于</span><span color="#7fffd7">当前生命值的37.5%</span><span>的</span><span color="#7fffd7">风元素真伤</span><span>，并虚弱10s，一次战斗内仅会施放一次该技能。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_15.png')" x="720" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_16.png')" x="720" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_17.png')" x="720" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_18.png')" x="720" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_19.png')" x="1394" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_20.png')" x="1390" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_21.png')" x="1392" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_22.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_23.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离玩家较近时，灵风猎手手持风矢进行倒身挑、划、砸碎3段攻击，依次造成<span color="#7fffd7">60%,70%,75%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离玩家较近时，灵风猎手掏出风矢并砸碎，造成<span color="#7fffd7">75%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="421" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#bfffed">(魔化)<span color="#ffffff">若玩家接近灵风猎手，灵风猎手将迅速后撤远离玩家。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#00ae83" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#00ae83">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_24.png')" x="68" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_25.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_26.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_27.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_28.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="82" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">60</p>
+				</content>
+			</RichText>
+			<RichText x="142" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">60</p>
+				</content>
+			</RichText>
+			<RichText x="202" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">60</p>
+				</content>
+			</RichText>
+			<RichText x="262" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">60</p>
+				</content>
+			</RichText>
+			<RichText x="322" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">60</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">60</p>
+				</content>
+			</RichText>
+			<RichText x="442" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">60</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="923" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_29.png')" x="64" y="905" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_3">
+			<RichText x="84" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-50</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="983" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-20</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_30.png')" x="64" y="965" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="861" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="922" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">魔化</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="982" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">虚弱</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_31.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_32.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_33.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_34.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_35.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/镀金旅团%B7灵风猎手.assets/Image_36.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1856" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#B15A9C;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#F2A3D6;
+		}
+		.textStyle12 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#F2A3D6;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="776"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="182" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="576" width="410" text="「猎月人」·雷利尔"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle" x="64" y="1088" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="561" text="HP: 8505024 (144.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="896" width="305" alpha="0.75" text="剧情首领 Lv.102 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="976" width="545" text="ATK: 10718 (4.2B2)"/>
+	<mx:Text styleName="textStyle3" x="64" y="1024" width="456" text="Wt/Ed: NA/NA"/>
+	<mx:Text id="Rerirä" styleName="textStyle5" x="64" y="689" width="395" alpha="0.75" text="Rächer of Solnari: Rerir"/>
+	<mx:Image source="Image4.png" x="64" y="1133" width="484" height="124"/>
+	<mx:Text styleName="textStyle6" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="雷利尔原地掷击地面，造成30%伤害，并召唤4枚月影，依次朝玩家发射光束，均造成10%伤害。「血雾隐匿」下不出现月影；瘫痪恢复后连续施放3次，第三次召唤月影。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="雷利尔从远处伏爪冲击而来，造成50%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="480" width="448" alpha="0.9" text="近距离攻击闲逛的雷利尔时，受击3次后触发格挡，立即造成10%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="704" width="448" alpha="0.9" text="战斗进行一段时间后，雷利尔扬起血雾，进入「血雾隐匿」状态，交替施放技能；期间全队流血：每2s损失当前1.5%生命值，不致死。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="928" width="448" alpha="0.9" text="雷利尔进行戳、挑、猛戳至多3段的普通攻击，依次造成15%,20%,20%伤害，可后接技能「将那黑日谖忘」。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1152" width="448" alpha="0.9" text="雷利尔立即进行数圈的旋转攻击，持续造成30%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1376" width="448" alpha="0.9" text="处于雷利尔后侧时，雷利尔扔出5枚暗刻之刺，每枚造成10%伤害，并立即后接技能「斩阵狂殄八方」。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1600" width="448" alpha="0.9" text="战斗进行一段时间后，雷利尔起飞至空中蓄力，展开结界，在场地内持续随机生成虚棘和月矩粒，造成15%伤害；25s后灾劫降下，秒杀不处于护罩下的角色，对处于护罩下的角色造成20%生命值的伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="雷利尔闲逛时，其周围会出现2枚月影，对玩家发射黑矢，造成5%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" alpha="0.9" text="雷利尔突然跃来，朝地猛击，并引发爆裂，依次造成30%,40%伤害，为绝大部分技能的后接技。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1152" width="448" alpha="0.9" text="雷利尔进行转、转圈、猛戳至多3段的普通攻击，依次造成20%,25%x2,25%伤害，可后接技能「斩阵狂殄八方」。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1376" width="448" alpha="0.9" text="雷利尔立即进行数圈的旋转攻击，持续造成30%伤害，旋转结束后立即后接技能「斩阵狂殄八方」。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1600" width="448" alpha="0.9" text="雷利尔划出一道裂缝，飞出4枚虚星，每枚造成10%伤害，并立即朝玩家处回斩，造成50%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="雷利尔飞速地进行至多6段的普通攻击，依次造成5%,20%,25%,5%,5%,25%伤害，若目标距离较远，则第三段普攻后闪现至目标侧位继续攻击或后接技能。「血雾隐匿」下只施放后三段攻击。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="愆月倒映之罅-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="庭前僭行之礼-位移"/>
+	<mx:Text styleName="textStyle9" x="1408" y="416" width="448" text="阴怨未曾消逝-反击"/>
+	<mx:Text styleName="textStyle9" x="1408" y="640" width="448" text="行过死月之荫-妨害"/>
+	<mx:Text styleName="textStyle9" x="1408" y="864" width="448" text="殁于恒月之上-输出"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1088" width="448" text="殉于霜月之下-输出"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1312" width="448" text="待回首再深恸-防御"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1536" width="448" text="银月终将毁伤-爆发"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="自异界的注视-天赋"/>
+	<mx:Text styleName="textStyle9" x="736" y="864" width="448" text="斩阵狂殄八方-猛攻"/>
+	<mx:Text styleName="textStyle9" x="736" y="1088" width="448" text="殒于虹月之外-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="1312" width="448" text="猎逐灭朽不留-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="1536" width="448" text="将那黑日谖忘-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="伏于日月影处-输出"/>
+	<mx:Text styleName="textStyle10" x="64" y="1264" width="448" alpha="0.75" text="血雾隐匿：该状态下交替施放技能，根据菈乌玛的指示可以寻得雷利尔位置，使用菲林斯提供的特殊技能[T]击中雷利尔幻影以中断，累计2次后退出状态，并恢复全队元素能量与特殊能量。月矩粒：恢复25%生命值和40元素能量，在雷利尔大招期间，吸收3枚可形成护罩。护罩：抵挡雷利尔的所有伤害，处于护罩内可避免流失元素能量；大招结束后恢复全队元素能量与特殊能量。"/>
+	<mx:Text styleName="textStyle11" x="64" y="768" width="446" text="渎死之罪"/>
+	<mx:Text styleName="textStyle12" x="64" y="811" width="395" alpha="0.75" text="Blasphemy Against Death"/>
+	<mx:Image source="Image5.png" x="596" y="1547" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="875" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="1099" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="1323" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="1323" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1268" y="1547" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1248" y="854" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1248" y="1078" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="1248" y="1302" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="1248" y="1526" width="168" height="170"/>
+	<mx:Image source="Image27.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image29.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="576" y="1302" width="168" height="170"/>
+	<mx:Image source="Image31.png" x="576" y="1526" width="168" height="170"/>
+	<mx:Image source="Image32.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image33.png" x="64" y="288" width="256" height="256"/>
+</mx:Application>

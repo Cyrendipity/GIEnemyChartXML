@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/无相之水.assets/Image_0.png')" x="0" y="1080" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_2.png')" x="0" y="54" blendMode="normal">
+		</BitmapImage>
+		<RichText x="65" y="465" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="349" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">无相之水</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="77" y="597" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="166" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#7fbfff">「希伊」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="917" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1455" y="52" width="428" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#7fbfff">HP</span><span>[0x2],</span><span color="#7fbfff">HO</span><span>[66,33]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="760" width="295" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 354734 <span color="#dddddd">(9.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="726" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="808" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 23497 <span color="#dddddd">(9.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="857" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="555" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="243" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Hydro Hypostasis</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="76" y="645" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#7fbfff" width="73" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#7fbfff">「He」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99b3ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="133" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="46" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">IMM</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_3.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_4.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_5.png')" x="184" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_6.png')" x="364" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_7.png')" x="303" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_8.png')" x="244" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_9.png')" x="424" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_10.png')" x="124" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_11.png')" x="66" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之水.assets/Image_13.png')" x="486" y="973">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="223" width="423" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水召唤的天蓝色史莱姆，其周期性喷吐疗愈晶球，晶球追踪无相之水，其治疗量对于角色为<span color="#7fbfff">50%生命值上限</span><span>，对于无相之水为</span><span color="#7fbfff">10%生命值上限</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="442" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水在空中翻涌，顷刻便扎入地里，造成<span color="#7fbfff">33.3%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。施放该技能后的25s内，场地将随机出现成对的水泡，触碰造成</span><span color="#7fbfff">66.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="442" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水生命值低于5%时进行复苏，复苏持续20s，复苏时汇聚的水泡爆炸无伤害，爆炸召唤<span textDecoration="underline">濒死水滴</span><span>，水滴落地时造成</span><span color="#7fbfff">33.3%</span><span>伤害，每个水滴恢复无相之水</span><span color="#7fbfff">15%</span><span>生命值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水从场地边缘唤出8个水轴，其不断朝中央滚动，每个水轴触碰造成<span color="#7fbfff">66.6%</span><span>伤害，水轴最后漏入中心，引起水爆，造成</span><span color="#7fbfff">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水化为高速旋转的水龙卷，预判玩家并在其下方生成3片雨区，每片雨区持续造成<span color="#7fbfff">33.3%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="422" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水幻化成群鱼，从远处下潜跃出命中玩家，造成<span color="#7fbfff">100%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，不暴露核心。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_14.png')" x="1390" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_15.png')" x="720" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_16.png')" x="1391" y="1034">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_17.png')" x="1392" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_18.png')" x="1392" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_19.png')" x="719" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_20.png')" x="719" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_21.png')" x="1392" y="362">
+		</BitmapImage>
+		<RichText x="738" y="447" width="432" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水挤压并汇聚水泡，随后水泡爆炸造成<span color="#7fbfff">100%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，爆炸召唤内鬼水滴和愈疗水滴，水滴着陆造成</span><span color="#7fbfff">33.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1409" y="447" width="437" height="115" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水幻化成鳐形，向玩家处拍击，同时产生1个方向的水喷，水喷和拍击均造成<span color="#7fbfff">66.6</span><span fontSize="25" color="#7fbfff">%,33.3%,16.6%,6.66%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2c62d3" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2c62d3">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1104" width="353" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">内鬼水滴：<span color="#7fbfff">2水</span><span>盾，击破即击败水滴，靠近即自爆。<br/>愈疗水滴：</span><span color="#7fbfff">2水</span><span>盾，击破即击败水滴。<br/>濒死水滴：</span><span color="#7fbfff">2水</span><span>盾，全部击破阻止无相之水复苏。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="421" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水汇聚水泡，随后破裂造成<span color="#7fbfff">66.6%</span><span>伤害，并暴露核心，同时在场地内召唤跃腾的海豚，海豚跃出造成</span><span color="#7fbfff">66.6%</span><span>伤害，跃入造成</span><span color="#7fbfff">16.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_22.png')" x="720" y="1033">
+		</BitmapImage>
+		<RichText x="738" y="223" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之水召唤的深蓝色史莱姆，其始终追踪玩家，靠近时爆炸造成无相之水的<span color="#7fbfff">31.1%</span><span>伤害，若爆炸命中无相之水则强制暴露其核心一段时间。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_23.png')" x="719" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_24.png')" x="64" y="168" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_25.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_26.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_27.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_29.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_30.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_31.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_32.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_33.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_34.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_35.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_36.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_37.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_38.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_39.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_40.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_41.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_42.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_43.png')" x="1268" y="1077" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之水.assets/Image_44.png')" x="1248" y="1056" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

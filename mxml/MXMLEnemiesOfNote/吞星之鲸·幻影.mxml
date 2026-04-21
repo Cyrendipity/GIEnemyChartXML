@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="640" y="52" width="1024" height="976"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="499" text="吞星之鲸 · 幻影"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="441" text="无光星海彼端的访客"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 890407 (24.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="周本-二阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 15225 (8.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="446" width="433" alpha="0.75" text="All-Devouring Narwhal- Phantom"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Visitor from the Far Side of the Sea of Stars"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="幻影以不规则的攻击连招使用阔剑进行攻击，一共有三种不同的攻击：左扫一圈，造成80%伤害；右旋一圈，造成100%伤害；纵劈一下，造成90%伤害；此外，每挥一剑，都会在原地留下停滞的裂缝，片刻后崩裂造成50%伤害。若玩家距离较远，则挥一剑闪现一次。"/>
+	<mx:Text styleName="textStyle10" x="736" y="576" width="448" alpha="0.9" text="幻影旋转阔剑并丢出，造成100%伤害；该技能容易与普攻形成连招。"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="1024" alpha="0.9" text="每30s，幻影移至原地，化为涡眼进行蓄力，并随机召唤3种幻形的一种：召唤2只幻形龙蜥·火：进行下落攻击，造成100%伤害；召唤4只幻形水母·水：进行水弹攻击，造成50%伤害；召唤4只幻形牙兽·雷：进行翻滚攻击，造成50%伤害；幻形攻击完毕后，幻影将传送至玩家附近，从里面出来给玩家一刀，造成100%伤害。芒荒攻击能够打断该技能施放，并额外对幻影造成25%生命值的反噬伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="576" width="448" alpha="0.9" text="场地内每经过一定时间T，就会在玩家位置降下一定数量B的落雷，均造成50%伤害；在进入空间的15s后施放落雷，此时T=10，B=4，待幻影第二次施放爆发后T=5，B=6。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="阔剑雷尖-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="512" width="448" text="雷索重剑-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="800" width="448" text="涡影黑蘙-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="512" width="448" text="电链缀阵-辅助"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle14" x="64" y="1008" width="448" alpha="0.75" text="虚影幻盾：特化盾，4单位芒荒盾，其继承100%幻影生命值，击破后可退出二阶段，并对BOSS造成反噬伤害。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="此阶段下，进行攻击所造成的伤害不再对巨鲸造成伤害，转而对幻影的虚影幻盾造成伤害；击破该盾后，将对巨鲸造成20%生命值的反噬伤害(不致死)。第二次及之后进入此阶段时，护盾只有原来的一半。击破幻影退出空间后，恢复角色的所有元素能量和特殊能量。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="虚实幻境-天赋"/>
+	<mx:Image source="Image6.png" x="596" y="811" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="523" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="523" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="502" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1248" y="502" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="790" width="168" height="170"/>
+</mx:Application>

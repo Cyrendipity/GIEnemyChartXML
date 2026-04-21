@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1216" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_2.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="57" y="367" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="452" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">深渊使徒·霜落</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ffff" width="396" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#99ffff">锋刃凝冰的守密敕使</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="817" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1456" y="48" width="422" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#99ffff">CP</span><span>[0x2],</span><span color="#99ffff">CO</span><span>[66,33]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="661" width="295" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 294121 <span color="#dddddd">(8.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="627" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="180" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">精英 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="708" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 11080<span color="#dddddd"> (4.5B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="757" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 150/210</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="434" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="323" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Abyss Herald: Frost Fall</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="548" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ffff" width="289" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ffff">Emissary of Frigid Blades</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_3.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_4.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_5.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_6.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_7.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_8.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_9.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_10.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_11.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_13.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="66" y="1008" width="436" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">晶寒加护：<span color="#99ffff">56冻</span><span>盾，击破后霜落立即死亡，可伤害转化。该状态下，抗打断0，免疫风场力。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_14.png')" x="1391" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_15.png')" x="1392" y="394">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_16.png')" x="1392" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_17.png')" x="719" y="841">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="423" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离玩家较远时，霜落冲击过来划一刀，造成<span color="#99ffff">70%</span><span>伤害，若已开盾，则另增加一段翻卷戳地，造成</span><span color="#99ffff">86%</span><span>伤害。可附魔</span><span color="#7fffff">「渊冰」</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="479" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离玩家较远时，霜落用转身扔出一根黯色的冰锥，造成<span color="#99ffff">78%</span><span>伤害，</span><span color="#ffb299">必定</span><span>附魔</span><span color="#7fffff">「渊冰」</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1411" y="703" width="410" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">霜落腾空，迅速朝地面发射2批锥冰刀片，第一批4个第二批5个，每个造成<span color="#99ffff">66%,33%</span><span>伤害。</span><span color="#ffb299">必定</span><span>附魔</span><span color="#7fffff">「渊冰」</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="927" width="441" height="229" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">未被护盾有效庇护的玩家被附魔有<span color="#7fffff">「渊冰」</span><span>的攻击命中时，首次扣除</span><span color="#99ffe5">50体力</span><span>，3s内若再次命中则扣除</span><span color="#99ffe5">20体力</span><span>。<br/>每一次进行</span><span color="#99ffff">附魔</span><span>的攻击前，都有20%(没盾)/27%(开盾)概率获得附魔，成功附魔后清零；当施放</span><span color="#44ebf2">「渊冰晶片」</span><span>后，下一次获得附魔的概率下降61%，若为施放</span><span color="#44ebf2">「肆锋舞冽」</span><span>后，则下次必无附魔。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2686a2" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2686a2">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" width="429" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">霜落使用冰刀进行2至4段普通攻击，全4段依次造成<span color="#99ffff">66%,55%,55%,75%</span><span>伤害。<br/>总计有3种施放方式：<br/>23段(</span><span color="#9fe4ff">阶段1-3</span><span>)，前3(</span><span color="#9fe4ff">阶段1-2</span><span>)，<br/>全4(</span><span color="#9fe4ff">阶段2-3</span><span>)。可附魔</span><span color="#7fffff">「渊冰」</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">霜落原地蓄力，刀尖闪光，飞快转身造成<span color="#99ffff">90%</span><span>伤害，若已开盾，则伤害提升，造成</span><span color="#99ffff">100%</span><span>伤害。可附魔</span><span color="#7fffff">「渊冰」</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="703" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当霜落的生命值<span color="#ffbfbf">低于20%</span><span>时，立即跳起用冰刀下落攻击，造成</span><span color="#99ffff">200%</span><span>伤害，并且附属</span><span textDecoration="underline" color="#99ffff">晶寒加护</span><span>，使用</span><span color="#ff9999">火</span><span>破盾最高效，盾破后霜落立即死亡。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_18.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_19.png')" x="720" y="394">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_20.png')" x="719" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_21.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_22.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_23.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_24.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_25.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_26.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_27.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_28.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_29.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_30.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_31.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_32.png')" x="1268" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_33.png')" x="1248" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_34.png')" x="596" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深渊使徒%B7霜落.assets/Image_35.png')" x="576" y="854" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1314" y="862" width="433" height="178" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#b2d8ff">固有天赋：赴北<br/><span fontSize="24" color="#ffffff">依据霜落的盾量，其出招方式也有不同，<br/>其分为3个战斗阶段：<br/></span><span fontSize="24" color="#9fe4ff">阶段1：</span><span fontSize="24" color="#ffffff">开盾之前；<br/></span><span fontSize="24" color="#9fe4ff">阶段2：</span><span fontSize="24" color="#ffffff">开盾之后，盾量</span><span fontSize="24" color="#ffbfbf">大于等于40%</span><span fontSize="24" color="#ffffff">；<br/></span><span fontSize="24" color="#9fe4ff">阶段3：</span><span fontSize="24" color="#ffffff">盾量</span><span fontSize="24" color="#ffbfbf">低于等于40%</span><span fontSize="24" color="#ffffff">；</span></p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

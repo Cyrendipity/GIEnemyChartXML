@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_2.png')" x="-41" y="54" blendMode="normal">
+		</BitmapImage>
+		<RichText x="56" y="461" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="272" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">爆炎树</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="596" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ff9999" width="314" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ff9999">恒常燃烧的巨藤</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="913" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1497" y="48" width="381" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#ff9999">PO</span><span>[75,50,25,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="756" width="295" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 275905 <span color="#dddddd">(7.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="722" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="804" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 13054 <span color="#dddddd">(5.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="853" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="549" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="211" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Pyro Regisvine</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="645" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ff9999" width="281" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ff9999">Giant Everblaze Calamus</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="77" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">170</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">110</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">110</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">110</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">110</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">110</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">110</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">130</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_3.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_4.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_5.png')" x="184" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_6.png')" x="364" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_7.png')" x="303" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_8.png')" x="244" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_9.png')" x="424" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_10.png')" x="124" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_11.png')" x="66" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_13.png')" x="486" y="973">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="223" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">瘫痪恢复后，爆炎树在原地快速旋转一圈半，造成<span color="#ff9999">100%</span><span>伤害，旋转之前的砸地也造成</span><span color="#ff9999">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_14.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_15.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_16.png')" x="1392" y="138">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ad4218" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ad4218">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1164" width="442" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">火种：<span color="#ff9999">2火</span><span>盾，19s后自爆，击破可终止其爆炸。<br/>根部核心：</span><span color="#ff9999">12火</span><span>盾，击破可瘫痪爆炎树15s。<br/>冠部核心：</span><span color="#ff9999">6火</span><span>盾，不稳定，会转化为根部核心，击破可瘫痪爆炎树15s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" width="422" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树朝地面猛锤，锤点造成<span color="#ff9999">100%</span><span>伤害，形成3道冲击波，各造成</span><span color="#ff9999">50%</span><span>伤害，该技能可连续进行3次锤击。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="422" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处在爆炎树后方时，爆炎树向玩家方向迅速旋转半圈，造成<span color="#ff9999">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="439" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树使用藤条在空中召出8个火球，火球缓慢追踪玩家，造成<span color="#ff9999">12.5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树使用藤条对着玩家，藤条迅速发射8组火焰弹，火焰弹造成<span color="#ff9999">20%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树的花冠垂直收缩下压，造成<span color="#ff9999">100%</span><span>伤害，并在其周身生成熔岩，持续造成</span><span color="#ff9999">30%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="423" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树发射一个火球，命中造成<span color="#ff9999">25%</span><span>伤害，余下一个</span><span textDecoration="underline">火种</span><span>，其一段时间后爆炸，造成</span><span color="#ff9999">50%</span><span>伤害，余下一片熔岩，持续造成</span><span color="#ff9999">30%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="442" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树首先在<span textDecoration="underline" color="#ffbfbf">根部</span><span>形成</span><span textDecoration="underline">核心</span><span>，被击破后下次在</span><span textDecoration="underline" color="#ffbfbf">冠部</span><span>形成</span><span textDecoration="underline">核心</span><span>，若击破后则再次在</span><span color="#ffbfbf">根部</span><span>形成核心，交替进行。若62s内没有击破</span><span color="#ffbfbf">冠部</span><span>核心，则会转移到</span><span color="#ffbfbf">根部</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树进行左砸划-右砸划-锤击三段连击，均造成<span color="#ff9999">100%</span><span>伤害，产生的震波造成</span><span color="#ff9999">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">爆炎树的花冠朝天，不断连续的召唤火喷，均造成<span color="#ff9999">100%</span><span>伤害，持续时间较久，且距离玩家越远越容易召唤。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_17.png')" x="721" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_18.png')" x="719" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_19.png')" x="720" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_20.png')" x="720" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_21.png')" x="720" y="1034">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_22.png')" x="1392" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_23.png')" x="1391" y="1034">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_24.png')" x="1391" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_25.png')" x="1393" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_26.png')" x="64" y="160" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="83" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/爆炎树.assets/Image_27.png')" x="64" y="1097" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1053" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1113" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">瘫痪</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_28.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_29.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_30.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_31.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_32.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_33.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_34.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_35.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_36.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_37.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_38.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_39.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_40.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_41.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_42.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_43.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_44.png')" x="1268" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/爆炎树.assets/Image_45.png')" x="1248" y="1046" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

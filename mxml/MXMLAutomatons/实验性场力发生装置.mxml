@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#B299FF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFE599;
+		}
+		.textStyle5 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#937122;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image3.png" x="0" y="1080" width="1920" height="200"/>
+	<mx:Image source="Image4.png" x="0" y="54" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="460" text="实验性场力发生装置"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1104" width="448" alpha="0.75" text="荒性发条：累计受到3次芒性攻击方可打断重力场，强迫退出减重模式。重力削减力场：跳跃能力提高。"/>
+	<mx:Text styleName="textStyle4" x="64" y="608" width="434" text="布雷阁原型机器"/>
+	<mx:Text styleName="textStyle5" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle6" x="1216" y="64" width="640" alpha="0.5" text="元素能量：WO[66,33,0]"/>
+	<mx:Text styleName="textStyle7" x="64" y="768" width="305" text="HP: 956681 (15.7F)"/>
+	<mx:Text styleName="textStyle8" x="64" y="736" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle7" x="64" y="816" width="375" text="ATK: 23497 (9.0B2)"/>
+	<mx:Text styleName="textStyle7" x="64" y="864" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle9" x="64" y="532" width="395" alpha="0.75" text="Experimental Field Generator"/>
+	<mx:Text styleName="textStyle10" x="64" y="651" width="407" alpha="0.75" text="Prototype Cal. Breguet"/>
+	<mx:Image source="Image5.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="实验场力装置瞄准远处目标，连续投射15发岩片子弹，造成50%,25%,12.5%,5%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="448" width="448" alpha="0.9" text="实验场力装置从远处接近目标，并持续下落，造成50%,25%,12.5%,5%伤害，最后下坠，造成60%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="1024" alpha="0.9" text="低于70%生命值或半分钟后，实验场力装置移至场地中央，暴露荒性发条，展开重力场，以30m为半径的场地上的重力将削减(实际上就是提供与魈相同的跳跃提升效果)。跳跃提升效果可以用于躲避某些伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="实验场力装置发射两束激光，激光从内向外慢慢旋转，接触造成50%,25%,12.5%,5%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="实验场力装置直接在目标上方进行下砸，造成60%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" alpha="0.9" text="实验场力装置将蓄能，产生振荡地面的晶岩浪潮，碰到造成100%,50%伤害(闪避帧无效)，力场开始施放慢三连，结束时施放慢三连与快三连。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1120" width="448" alpha="0.9" text="实验场力装置将在场地内持续产生不断长大的裂隙，石砂从其间迸出，造成80%伤害，技能持续较久。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" alpha="0.9" text="实验场力装置唤起7根残缺石柱，依次朝目标发射，造成80%,16%,8%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1120" width="448" alpha="0.9" text="实验场力装置蓄能，在其周围区域产生振荡，造成100%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="飞岩爿幕-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="天云砂雨-接近"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="初场力潮-跳跃提升"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="轴转二劫-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="锋针及地-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="引力涟漪-爆发"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="断峡碛升-强攻"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="炊岩崩玉-追踪"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1056" width="448" text="斫地凿心-输出"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="64" y="160" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="1046" width="168" height="170"/>
+</mx:Application>

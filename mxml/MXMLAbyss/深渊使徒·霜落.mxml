@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1216" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle15 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:32;
+			color:#B2D8FF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="136"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="463" text="深渊使徒·霜落"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="411" text="锋刃凝冰的守密敕使"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1247" y="64" width="609" alpha="0.5" text="元素能量：CP[0x2],CO[66,33]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 294121 (8.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 11080 (4.5B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle8" x="64" y="446" width="395" alpha="0.75" text="Abyss Herald: Frost Fall"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Emissary of Frigid Blades"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="64" y="1008" width="448" alpha="0.75" text="晶寒加护：56冻盾，击破后霜落立即死亡，可伤害转化。该状态下，抗打断0，免疫风场力。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="寒铓铡斩-追击"/>
+	<mx:Text styleName="textStyle12" x="1408" y="416" width="448" text="渊冰晶片-妨害"/>
+	<mx:Text styleName="textStyle12" x="1408" y="640" width="448" text="霜垂九陔-爆发"/>
+	<mx:Text styleName="textStyle12" x="736" y="864" width="448" text="碛渊黯冰-天赋"/>
+	<mx:Text styleName="textStyle13" x="1408" y="224" width="448" alpha="0.9" text="距离玩家较远时，霜落冲击过来划一刀，造成70%伤害，若已开盾，则另增加一段翻卷戳地，造成86%伤害。可附魔「渊冰」。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="480" width="448" alpha="0.9" text="距离玩家较远时，霜落用转身扔出一根黯色的冰锥，造成78%伤害，必定附魔「渊冰」。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="704" width="448" alpha="0.9" text="霜落腾空，迅速朝地面发射2批锥冰刀片，第一批4个第二批5个，每个造成66%,33%伤害。必定附魔「渊冰」。"/>
+	<mx:Text styleName="textStyle13" x="736" y="928" width="448" alpha="0.9" text="未被护盾有效庇护的玩家被附魔有「渊冰」的攻击命中时，首次扣除50体力，3s内若再次命中则扣除20体力。每一次进行附魔的攻击前，都有20%(没盾)/27%(开盾)概率获得附魔，成功附魔后清零；当施放「渊冰晶片」后，下一次获得附魔的概率下降61%，若为施放「肆锋舞冽」后，则下次必无附魔。"/>
+	<mx:Text styleName="textStyle14" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="736" y="224" width="448" alpha="0.9" text="霜落使用冰刀进行2至4段普通攻击，全4段依次造成66%,55%,55%,75%伤害。总计有3种施放方式：23段(阶段1-3)，前3(阶段1-2)，全4(阶段2-3)。可附魔「渊冰」。"/>
+	<mx:Text styleName="textStyle13" x="736" y="480" width="448" alpha="0.9" text="霜落原地蓄力，刀尖闪光，飞快转身造成90%伤害，若已开盾，则伤害提升，造成100%伤害。可附魔「渊冰」。"/>
+	<mx:Text styleName="textStyle13" x="736" y="704" width="448" alpha="0.9" text="当霜落的生命值低于20%时，立即跳起用冰刀下落攻击，造成200%伤害，并且附属晶寒加护，使用火破盾最高效，盾破后霜落立即死亡。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="凝冰裁刃-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="416" width="448" text="皎锷居合-猛攻"/>
+	<mx:Text styleName="textStyle11" x="736" y="640" width="448" text="硺渊之冰-防护"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle15" x="1312" y="864" width="559" text="固有天赋：赴北依据霜落的盾量，其出招方式也有不同，其分为3个战斗阶段：阶段1：开盾之前；阶段2：开盾之后，盾量大于等于40%；阶段3：盾量低于等于40%；"/>
+</mx:Application>

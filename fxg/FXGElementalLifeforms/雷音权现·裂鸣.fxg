@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1920" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_2.png')" x="0" y="310" blendMode="normal">
+		</BitmapImage>
+		<RichText x="62" y="723" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="453" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">雷音权现·裂鸣</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="853" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" fontWeight="normal" color="#ffacff" width="257" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" color="#ffacff">霆雷的忿恨意志</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="1173" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1504" y="52" width="379" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#ffacff">EO</span><span>[75,50,25,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="982" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="1016" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1096832 <span color="#dddddd">(18.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="1064" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 18798 <span color="#dddddd">(7.2B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="1113" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 150/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="789" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="414" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Cracking Thunder Manifestation</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="893" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ffacff" width="230" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ffacff">Stormy Resentment</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="253" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="46" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">IMM</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1311" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_3.png')" x="64" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_4.png')" x="64" y="1293" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_5.png')" x="184" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_6.png')" x="364" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_7.png')" x="303" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_8.png')" x="244" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_9.png')" x="424" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_10.png')" x="124" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_11.png')" x="66" y="1229" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_13.png')" x="486" y="1229">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现首先放出3个<span textDecoration="underline">雷霆探针</span><span>，每个探针击中造成</span><span color="#ffacff">16.6%</span><span>伤害。探针检测自身半径8m、高3m圆柱内的玩家，满即标记。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离雷音权现很近时，雷音权现在自身处产生一次雷暴轰击，造成<span color="#ffacff">83.3%</span><span>伤害，其会</span><span color="#99ff99">标记玩家</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="428" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当雷音权现成功标记到玩家时，随即进行一次高声怒喝，同时施放12道落雷，每道可造成1至2段的<span color="#ffacff">50%</span><span>伤害，同时摧毁所有探针，造成</span><span color="#ffacff">27.7%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现标记玩家后，被标记的玩家每秒受到<span color="#ffacff">125%×E</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处在雷音权现后方时，雷音权现挥动左或右翼造成<span color="#ffacff">55.5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1343" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现<span color="#bfffed">召唤2个幻影</span><span>，同时进行攻击，从左到右依次发射5个雷球，均造成</span><span color="#ffacff">28.8%,14.4%,7.7%,2.88%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1567" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现俯下朝玩家冲刺，共冲刺2次，每次均造成<span color="#ffacff">83.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_14.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_15.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_16.png')" x="720" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_17.png')" x="1392" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_18.png')" x="719" y="1034">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_19.png')" x="720" y="1258">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_20.png')" x="719" y="1482">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_21.png')" x="719" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_22.png')" x="1392" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_23.png')" x="1391" y="1257">
+		</BitmapImage>
+		<RichText x="738" y="447" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现升空，施放8道落雷，总计施放2轮，每道造成<span color="#ffacff">43.3%</span><span>伤害，其会</span><span color="#99ff99">标记玩家</span><span>，8道落雷的位置与玩家共圆，并且不会出现在中心。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1411" y="671" width="441" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现在场地边缘处召唤4个随机游走的电笼，不会追踪，持续20s，接触持续造成<span color="#ffacff">27.7%</span><span>伤害，其会</span><span color="#99ff99">标记玩家</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1343" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现在已标记的玩家处召唤一个追踪玩家的长方形电笼，接触持续造成<span color="#ffacff">27.7%</span><span>伤害，持续7s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#a30ddb" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#a30ddb">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="425" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离雷音权现较近时，雷音权现在周围<span color="#bfffed">召唤3个幻影</span><span>，同时进行攻击：旋转自身，施放短程旋转造成</span><span color="#ffacff">27.7%,13.85%,<br/>6.925%,2.77%</span><span>伤害，其会</span><span color="#99ff99">标记玩家</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现在场地的四周处召唤相对的2组雷墙，其慢慢朝中间移动，触碰持续造成<span color="#ffacff">100%,70%,50%,25%,10%</span><span>伤害，其会</span><span color="#99ff99">标记玩家</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_24.png')" x="721" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_25.png')" x="1393" y="362">
+		</BitmapImage>
+		<RichText x="1410" y="1119" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现召唤两面相对的雷墙，雷墙缓慢向中间合拢，消失，触碰持续造成<span color="#ffacff">100%,70%,50%,25%,10%</span><span>伤害；有时也可能召唤两道平行同向的雷墙。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_26.png')" x="1391" y="1033">
+		</BitmapImage>
+		<RichText x="1410" y="1567" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">靠近雷音权现时，雷音权现<span color="#bfffed">召唤2个幻影</span><span>，同时进行攻击，旋转自身，施放长程旋转造成</span><span color="#ffacff">27.7%,13.85%,6.925%,<br/>2.77%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_27.png')" x="1392" y="1482">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_28.png')" x="64" y="416" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_29.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_30.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_31.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_32.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_33.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_34.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_35.png')" x="1268" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_36.png')" x="1248" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_37.png')" x="1268" y="1291" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_38.png')" x="1248" y="1270" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_39.png')" x="596" y="1515" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_40.png')" x="576" y="1494" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_41.png')" x="1268" y="1515" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_42.png')" x="1248" y="1494" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_43.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_44.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_45.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_46.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_47.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_48.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_49.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_50.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_51.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_52.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_53.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_54.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<RichText x="67" y="1360" width="280" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">雷霆探针：<span color="#ffacff">1雷</span><span>盾(极限</span><span color="#ffacff">3雷</span><span>盾)，可击破。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_55.png')" x="596" y="1291" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_56.png')" x="576" y="1270" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="1791" width="421" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">雷音权现升空，在所有已标记玩家处召唤3道落雷，持续3轮，每道落雷造成<span color="#ffacff">43.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_57.png')" x="720" y="1706">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_58.png')" x="596" y="1739" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雷音权现%B7裂鸣.assets/Image_59.png')" x="576" y="1718" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

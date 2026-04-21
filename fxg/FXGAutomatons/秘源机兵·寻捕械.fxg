@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1144" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="60" y="372" fontFamily="仓耳渔阳体 W04" fontSize="50" fontStyle="normal" fontWeight="normal" color="#ffffff" width="436" height="52" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="50" color="#ffffff">秘源机兵·寻捕械</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="821" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1547" y="52" width="336" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#ff9999">PP</span><span>[66,33,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="664" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 388220 <span color="#dddddd">(7.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="631" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="180" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">精英 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="712" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 14773<span color="#dddddd"> (6.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="761" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="430" fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" fontWeight="normal" color="#ffffff" width="361" height="21" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" color="#ffffff">Secret Source Automaton: Hunter-Seeker</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#fdc79f" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="75" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">250</p>
+				</content>
+			</RichText>
+			<RichText x="135" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">250</p>
+				</content>
+			</RichText>
+			<RichText x="195" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">250</p>
+				</content>
+			</RichText>
+			<RichText x="255" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">250</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">250</p>
+				</content>
+			</RichText>
+			<RichText x="375" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">250</p>
+				</content>
+			</RichText>
+			<RichText x="435" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">250</p>
+				</content>
+			</RichText>
+			<RichText x="495" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">250</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_3.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_4.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_5.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_6.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_7.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_8.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_9.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_10.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_11.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_13.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">寻捕械推出一个排满尖牙的排斥装甲，造成<span color="#ff9999">80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="432" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">寻捕械朝天发射一束高能脉冲，其持续打击地面，持续造成<span color="#ff9999">70%,35%,14%,7%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="511" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">寻捕械朝玩家发射连续的集中热能激光，持续造成<span color="#ff9999">60%</span><span>伤害，至多3次。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="511" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，寻捕械突然朝玩家发动赤牙合击，造成<span color="#ff9999">80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="799" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「应战对策」充满后，寻捕械会发射持续5s的集束激光，持续造成<span color="#ff9999">100%,10%</span><span>伤害，期间抗性恢复正常。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_14.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_15.png')" x="1395" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_16.png')" x="722" y="425">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_17.png')" x="1391" y="426">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_18.png')" x="721" y="713">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#99440b" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#99440b">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="63" y="500" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ff9999" width="352" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ff9999">深古遗迹采集机关</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="549" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ff9999" width="260" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ff9999">Ancient Ruins Collector</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_19.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="83" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">50</p>
+				</content>
+			</RichText>
+			<RichText x="143" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">50</p>
+				</content>
+			</RichText>
+			<RichText x="203" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">50</p>
+				</content>
+			</RichText>
+			<RichText x="263" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">50</p>
+				</content>
+			</RichText>
+			<RichText x="323" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">50</p>
+				</content>
+			</RichText>
+			<RichText x="383" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">50</p>
+				</content>
+			</RichText>
+			<RichText x="443" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">50</p>
+				</content>
+			</RichText>
+			<RichText x="503" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">50</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_20.png')" x="64" y="1001" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_3">
+			<RichText x="84" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_21.png')" x="64" y="1061" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="957" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">入战</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1017" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="5" y="1064" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="54" height="48" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">大招&amp;<br/>虚弱</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_22.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_23.png')" x="1268" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_24.png')" x="596" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_25.png')" x="596" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_26.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_27.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_29.png')" x="576" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_30.png')" x="1248" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_31.png')" x="576" y="726" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="799" width="424" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">寻捕械自身拥有<span color="#ffdfbf">100</span><span>点「应战对策」上限(特殊</span><span color="#ffdfbf">170</span><span>)。<br/>角色进入和维持「夜魂加持」状态时，其充能条均会积攒</span><span color="#bfffbf">15</span><span>充能；当充满时，寻捕械就会立即中断其他技能，并开始准备集束激光，然后瘫痪5s。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_32.png')" x="1391" y="713">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_33.png')" x="1268" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/秘源机兵%B7寻捕械.assets/Image_34.png')" x="1248" y="726" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

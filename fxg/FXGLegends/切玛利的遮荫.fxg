@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_2.png')" x="49" y="357">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_3.png')" x="560" y="40">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_4.png')" x="46" y="714">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_5.png')" x="1407" y="41">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_6.png')" x="47" y="556">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_7.png')" x="47" y="523">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_8.png')" x="48" y="604">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_9.png')" x="47" y="652">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_10.png')" x="48" y="445">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2171b1" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2171b1">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_11.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_12.png')" x="720" y="426">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_13.png')" x="1392" y="425">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_14.png')" x="719" y="714">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_15.png')" x="1391" y="713">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「遮荫」在前方召唤出2枚<span textDecoration="underline">水泡</span><span>，水泡缓慢追踪玩家并崩破，每个水泡造成</span><span color="#7fbfff">50%</span><span>伤害。</span><span color="#bfffff">水泡可冻结，可击回破盾。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="511" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「遮荫」在玩家处召唤<span textDecoration="underline">流泉</span><span>，造成一次</span><span color="#7fbfff">100%</span><span>伤害。</span><span color="#bfffff">流泉可冻结，可抵挡「败众淮渊」的伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="511" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「遮荫」朝玩家方向蓄力，迸发水元素冲流，造成<span color="#7fbfff">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="799" width="441" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「遮荫」召出6股流泉，各造成<span color="#7fbfff">100%</span><span>伤害；接着进行长达10s的喷流，持续造成</span><span color="#7fbfff">250%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="799" width="426" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「遮荫」进行蓄力，重新形成<span textDecoration="underline">流泉之灵界</span><span>；场地边缘开始出现缓慢朝其移动的水泡，尝试接触会造成</span><span color="#7fbfff">50%</span><span>伤害；接着进行长达30s的蓄力过程。蓄力完成后，将进行一次涌海裂罚，造成</span><span color="#7fbfff">400%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="912" width="430" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">水泡：可被冰冻结，冻结后可被重击击回，命中护盾则-<span color="#7fbfff">64水</span><span>并造成</span><span color="#99ffff">440%</span><span>基础倍率的伤害；若在技能「噬众苦泉」期间被「遮荫」吸收，则护盾+</span><span color="#7fbfff">64水</span><span>。<br/>流泉：可被冰冻结，冻结后可抵挡「败众淮渊」的伤害，<br/>流泉之灵界：</span><span color="#7fbfff">320水</span><span>盾，开局自带，击破后可瘫痪「遮荫」10s，并使其受到的伤害提升</span><span color="#ffcdbf">100%</span><span>。</span></p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="143" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">50</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_16.png')" x="64" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_17.png')" x="64" y="845" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_18.png')" x="184" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_19.png')" x="364" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_20.png')" x="303" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_21.png')" x="244" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_22.png')" x="424" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_23.png')" x="124" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_24.png')" x="66" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_26.png')" x="486" y="781">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_27.png')" x="1268" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_28.png')" x="1248" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_29.png')" x="1268" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_30.png')" x="1248" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_31.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_32.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="739" y="223" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「遮荫」飞快使用自身翼片旋转，造成<span color="#b8b8b8">20%x3</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_33.png')" x="719" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_34.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_35.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_36.png')" x="596" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_37.png')" x="576" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_38.png')" x="596" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_39.png')" x="576" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/切玛利的遮荫.assets/Image_40.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

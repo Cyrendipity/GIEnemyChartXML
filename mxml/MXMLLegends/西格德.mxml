@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1344" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#B15A9C;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#F2A3D6;
+		}
+		.textStyle14 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#F2A3D6;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="264"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="410" text="西格德"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1056" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="704" width="561" text="HP: 2x2742080 (2x45.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="896" width="561" text="HP: 2x524097 (2x9.45F)  21%"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="752" width="545" text="ATK: 28719 (11.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="944" width="545" text="ATK: 13542 (5.5B2)  50%"/>
+	<mx:Text styleName="textStyle4" x="64" y="800" width="456" text="Wt/Ed: 99/150 "/>
+	<mx:Text styleName="textStyle4" x="64" y="992" width="456" text="Wt/Ed: 99/150 "/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Sigurd"/>
+	<mx:Image source="Image4.png" x="64" y="1101" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="1364" y="64" width="492" alpha="0.5" text="元素能量：WP[75,50,25,0x3],WO[0]"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" alpha="0.9" text="西格德从心膛掏出魔火，落地即召唤4个「荒野幽徒」，且造成20%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="896" width="448" alpha="0.9" text="西格德又从心膛掏出魔火，猛地丢出，造成80%,16%,4%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1120" width="448" alpha="0.9" text="西格德化为幽雾，之后显现并给予一个怀抱，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="672" width="448" alpha="0.9" text="执灯人之志深铭心底，召唤物出现17s后，西格德将其抓起，并如数殉灭，每个造成200%伤害，按照召唤物剩余生命上限为西格德恢复生命上限。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="896" width="448" alpha="0.9" text="西格德邪意上身，朝前方猛地冲刺两次，均造成100%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1120" width="448" alpha="0.9" text="西格德朝前方猛猛抓划2-3次，依次造成70%,70%,80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" alpha="0.9" text="狂猎之鸩已然入髓，西格德一阶段清空血条后不会死亡，转为具有狂猎性质的二阶段。整体性质与狂猎无异。"/>
+	<mx:Text styleName="textStyle10" x="736" y="608" width="448" text="业痴心魔-召唤"/>
+	<mx:Text styleName="textStyle10" x="736" y="832" width="448" text="缠心黑火-远程"/>
+	<mx:Text styleName="textStyle10" x="736" y="1056" width="448" text="幽魂野行-位移"/>
+	<mx:Text styleName="textStyle10" x="1408" y="608" width="448" text="执灯常明-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="惛然前赴-位移"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1056" width="448" text="迷魊游猎-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="384" width="448" text="昏罔深蚀-天赋"/>
+	<mx:Text styleName="textStyle12" x="64" y="1232" width="448" alpha="0.75" text="西格德常驻抗打断0.125，二阶段召唤的荒野幽徒的抗打断为0.75。召唤物「荒野幽徒」的15%生命上限用于回复西格德自身的生命上限；若召唤物生命上限已遭削减，则取其7.5%生命上限作为回复；西格德单次最高回复上限不超过30%生命值。临界状态：见「荒野幽徒」。"/>
+	<mx:Text styleName="textStyle13" x="64" y="544" width="446" text="永誓猎杀「狂猎」之人"/>
+	<mx:Text styleName="textStyle14" x="64" y="587" width="395" alpha="0.75" text="The One Who Swore to Hunt the Hunt"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="西格德使用短刀进行至多3段的攻击，依次造成45%,45%,55%伤害，每刀都会划出剑气；技能施放后闪现。"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" alpha="0.9" text="西格德原地蓄力，施放大范围戕灭神斩，连续造成50%,30%,10%,5%,2.5%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="西格德执剑朝前方猛冲，造成85%伤害，最多冲刺2次。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="不屈戮刃-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="384" width="448" text="八夤诛猎-爆发"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="殄灭戗雷-位移"/>
+	<mx:Image source="Image6.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="1248" y="374" width="168" height="170"/>
+</mx:Application>

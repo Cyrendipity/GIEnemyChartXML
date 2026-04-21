@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#257D8F;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FF9999;
+		}
+		.textStyle14 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#80C0FF;
+		}
+		.textStyle15 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FFFD7;
+		}
+		.textStyle16 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFACFF;
+		}
+		.textStyle17 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FF87;
+		}
+		.textStyle18 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FFFF;
+		}
+		.textStyle19 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFE699;
+		}
+		.textStyle20 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#EBE5D8;
+		}
+		.textStyle21 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="-41" y="22" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="490" text="冰风组曲·科培琉司的劫罚"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="冰风组曲·阳面"/>
+	<mx:Text styleName="textStyle" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1345" y="64" width="511" alpha="0.5" text="元素能量：WP[0x3],WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="305" text="HP: 914027 (15.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="784" width="375" text="ATK: 13054 (5.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="832" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="0" y="1023" width="64" text="登场"/>
+	<mx:Text styleName="textStyle7" x="0" y="1083" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="64" y="529" width="395" alpha="0.75" text="Icewind Suite: Nemesis of Coppelius"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="Icewind Suite: Duality, Side B"/>
+	<mx:Image source="Image4.png" x="64" y="941" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="歌裴莉娅和科培琉司依次进行一次划击，均造成对应元素的60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="科培琉司牵着歌裴莉娅一同旋转2周，造成5段30%伤害，随后停下。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="送走歌裴莉娅后，科培琉司立即展开寒芒冰嶂，该护盾为歌裴莉娅和科培琉司共用，同时开始暴露芒性核心直至组曲结束；随后便等待歌裴莉娅回归。再次施放时刷新护盾量。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="1024" alpha="0.9" text="科培琉司与歌裴莉娅开始进行表演，主角为科培琉司，场地内形成静止的3个霜之心，其不断产生冰爆造成60%伤害，其可被歌裴莉娅的风刃触发扩散，额外造成100%伤害。该技能分三个阶段：送别，独奏，回归，持续3个循环、8/3个回合。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="冰风旋舞-协同"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="流风旋动-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="藏芒冰嶂-防卫"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="557" text="科培琉司的霜之戒惩-组曲"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="如落天仙-妨害"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="蚀尘风弹-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="1088" width="448" text="风袭流卷-独奏"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1088" width="448" text="风归雪落-回归"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="科培琉司将歌裴莉娅抛上天，之后下落，造成60%伤害，落地的歌裴莉娅顺势旋转，持续造成15%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="歌裴莉娅使用扇子挥出3个凝风尘弹，，每个造成75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1152" width="448" alpha="0.9" text="歌裴莉娅在场地外挥出3刀风刃，均造成100%伤害，随后旋转准备回归，风刃会将经过的霜之心再次触发冰爆。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1152" width="448" alpha="0.9" text="歌裴莉娅在不断旋转回归，接触持续造成25%伤害，之后与科培琉司顺利会合。会合时科培琉司会再次进行3段攻击，均造成100%伤害。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="科培琉司将歌裴莉娅送出，送出时将进行葬离颂舞：科培琉司进行3段划击，依次造成90%,90%,100%伤害；旋转3周后顺势送出歌裴莉娅。"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="斫冰錾界-送别"/>
+	<mx:Text styleName="textStyle13" x="64" y="1082" width="64" text="10"/>
+	<mx:Text styleName="textStyle14" x="124" y="1082" width="64" text="10"/>
+	<mx:Text styleName="textStyle15" x="184" y="1082" width="64" text="70"/>
+	<mx:Text styleName="textStyle16" x="244" y="1082" width="64" text="10"/>
+	<mx:Text styleName="textStyle17" x="304" y="1082" width="64" text="10"/>
+	<mx:Text styleName="textStyle18" x="364" y="1082" width="64" text="70"/>
+	<mx:Text styleName="textStyle19" x="424" y="1082" width="64" text="10"/>
+	<mx:Text styleName="textStyle20" x="484" y="1082" width="64" text="10"/>
+	<mx:Image source="Image5.png" x="64" y="1065" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="64" y="128" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="152" width="168" height="168"/>
+	<mx:Text styleName="textStyle21" x="64" y="1132" width="448" alpha="0.75" text="寒芒冰嶂：8冻盾，可使用一次荒性攻击击破。芒性核心：累计受到3次荒性攻击方可打断瘫痪组曲。回合：完整进行独奏、回归、送别三个阶段称为一个回合。循环：完整进行送别、独奏、回归三个阶段称为一个循环。"/>
+	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1268" y="1099" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="1248" y="1078" width="168" height="170"/>
+</mx:Application>

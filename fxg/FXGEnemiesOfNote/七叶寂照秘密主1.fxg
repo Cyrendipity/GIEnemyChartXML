@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1376" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_0.png')" x="0" y="360" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="0" y="0" width="1920" height="1080" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "976" y = "442" scaleX = "610" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_2.png')" x="724" y="224" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_3.png')" x="0" y="54" blendMode="normal">
+		</BitmapImage>
+		<RichText x="60" y="463" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="446" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">七叶寂照秘密主</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="72" y="593" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ffacff" width="246" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ffacff">「正机之神」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="913" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="756" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 742006<span color="#dddddd"> (20.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="723" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="254" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">周本-第一阶段 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="804" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 9516 <span color="#dddddd">(5.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="853" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 20000/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="531" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="263" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Everlasting Lord of<br/>Arcane Wisdom</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="645" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ffacff" width="319" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ffacff">Shouki no Kami, the Prodigal</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="263" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">50</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_4.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_5.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_6.png')" x="184" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_7.png')" x="364" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_8.png')" x="303" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_9.png')" x="244" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_10.png')" x="424" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_11.png')" x="124" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_12.png')" x="66" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_14.png')" x="486" y="973">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="703" width="438" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">正机使用单个机械臂朝地面猛击，造成对应元素的<span color="#edffbf">75%</span><span>伤害，然后产生爆破，造成对应元素的</span><span color="#edffbf">100%</span><span>伤害，并留下</span><span color="#99ffff">霜寒</span><span>或</span><span color="#ff9999">余火</span><span>地面，掉落1个</span><span textDecoration="underline">大能量块</span><span>。<br/></span><span color="#99ffff">霜寒</span><span>地面造成</span><span color="#99ffff">5%</span><span>伤害；<br/></span><span color="#ff9999">余火</span><span>地面造成</span><span color="#ff9999">15%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="991" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">正机使用单个机械臂划过地面，然造成对应元素的<span color="#eeffbf">100%</span><span>伤害，留下小范围的</span><span color="#99ffff">霜寒</span><span>或</span><span color="#ff9999">余火</span><span>地面</span><span fontWeight="normal">。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="991" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" lineHeight="29" color="#ffffff">正机召唤3个风涡，触碰造成<span color="#7fffd7">33%</span><span>伤害，之后染上水元素，形成水龙卷在场地游走，触碰造成</span><span color="#7fbfff">50%</span><span>伤害，一段时间后，水龙卷爆发，造成</span><span color="#7fbfff">75%</span><span>伤害，每个都会掉落1个</span><span textDecoration="underline">小能量块</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="703" width="438" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">正机先使用一侧的机械臂喷洒冰雾或烈火扫场，持续造成对应元素的<span color="#eeffbf">100%,50%,25%,10%</span><span>伤害，并留下</span><span color="#99ffff">霜寒</span><span>或</span><span color="#ff9999">余火</span><span>地面，随后使用另一侧砸击地面，造成对应元素的</span><span color="#eeffbf">66%</span><span>伤害。掉落1个大能量块。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_15.png')" x="720" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_16.png')" x="719" y="906">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_17.png')" x="1392" y="906">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_18.png')" x="1392" y="617">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#8d29b4" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#8d29b4">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1104" width="442" height="193" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">大能量块：恢复虚空终端100%能量。<br/>小能量块：恢复虚空终端50%能量。<br/><span color="#ffacff">雷元素</span><span>矩阵：瘫痪正机之神的一侧，激活2侧可完全瘫痪正机之神，CD1min。<br/></span><span color="#7fffd7">风元素</span><span>矩阵：产生持续15s的风场，用于躲避伤害，CD15s。<br/></span><span color="#ff9999">火元素</span><span>矩阵：清除全场的霜寒地面，CD10s。<br/></span><span color="#99ffff">冰元素</span><span>矩阵：清除全场的余烬地面，CD10s。<br/></span><span color="#7fbfff">水元素</span><span>矩阵：持续恢复全部在场角色生命值，10%/2s，持续10s，CD15s。<br/>激活一次矩阵会掉落对应元素的5个元素微粒。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_19.png')" x="64" y="160" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_20.png')" x="596" y="652" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_21.png')" x="576" y="632" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_22.png')" x="1268" y="652" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_23.png')" x="1248" y="632" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_24.png')" x="596" y="940" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_25.png')" x="576" y="920" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_26.png')" x="1268" y="940" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_27.png')" x="1248" y="920" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="223" width="436" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffdfbf">(半瘫施放)<span color="#ffffff">另一侧的机械臂会召唤至多6次的落雷，均造成</span><span color="#ffacff">66%</span><span color="#ffffff">伤害。<br/>第1、2、4、5次落雷施放完毕均掉落1个</span><span textDecoration="underline" color="#ffffff">小能量块</span><span color="#ffffff">。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="439" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">正机召唤12个围绕自己的激光器，逆时针旋转，发射激光造成<span color="#ffacff">100%,50%,25%</span><span>伤害，10s后激光爆发，伤害与之前相同，并掉落1个</span><span textDecoration="underline">大能量块</span><span>。正机身边的等离子场造成相同的伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="431" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">正机使用上方机械臂汇聚雷素，6s后发射激光作于全场，持续造成<span color="#ffacff">50%</span><span>伤害，5s后爆破，造成</span><span color="#ffacff">100%</span><span>伤害，并掉落1个</span><span textDecoration="underline">大能量块</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1247" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">瘫痪状态的的正机恢复，施放强力轰击，击退所有在场玩家，无伤害。</p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">正机上方的两机械臂不断洒落雷晶，造成<span color="#ffacff">100%,50%,25%,10%</span><span>伤害，掉落2个</span><span textDecoration="underline">小能量块</span><span>，最后扔出2个雷光棱镜均造成</span><span color="#ffacff">50%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_28.png')" x="719" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_29.png')" x="720" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_30.png')" x="1391" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_31.png')" x="720" y="1161">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_32.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_33.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_34.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_35.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_36.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_37.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_38.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_39.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_40.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_41.png')" x="596" y="1195" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/七叶寂照秘密主1.assets/Image_42.png')" x="576" y="1174" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

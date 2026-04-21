@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1440" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_2.png')" x="724" y="205" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_3.png')" x="0" y="86" blendMode="normal">
+		</BitmapImage>
+		<RichText x="56" y="495" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="453" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">祸津御建鸣神命</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="59" y="625" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ffacff" width="275" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ffacff">雷电之稻妻殿</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="945" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="788" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1484012<span color="#dddddd"> (40.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="754" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="294" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">周本-梦想一心形态 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="836" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 22838 <span color="#dddddd">(12.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="884" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 375/500</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="563" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="342" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Magatsu Mitake Narukami<br/>no Mikoto</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="677" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ffacff" width="279" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ffacff">Raiden no Inazuma Tono</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_4.png')" x="64" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_5.png')" x="64" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_6.png')" x="184" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_7.png')" x="364" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_8.png')" x="303" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_9.png')" x="244" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_10.png')" x="424" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_11.png')" x="124" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_12.png')" x="66" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_14.png')" x="486" y="1005">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">祸津使用手上的梦想一心，进行至多5段的普通攻击，5段普攻依次造成<span color="#ffacff">8.3%,<br/>8.3%,16.6%,8.3%x2,16.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="447" width="413" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">离祸津较远时，祸津迅速朝玩家冲击，并施放两段斩击，冲击造成<span color="#ffacff">16.6%</span><span>伤害，两段斩击分别造成</span><span color="#ffacff">8.3%,58.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">祸津旋转梦想一心，替换武器为<span fontFamily="HP Simplified Hans" color="#ffdc72">薙</span><span color="#ffdc72">草之稻光</span><span>，同时在其前方产生一道落雷，造成</span><span color="#ffacff">16.6%</span><span>伤害，之后场景间歇出现祸眼，触碰造成4段</span><span color="#ffacff">5.6%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="438" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">在祸津技能间歇期时攻击，产生雷盾，抵挡伤害；受击超4次时，每次攻击会增加10%反击概率；反击时，先劈一刀造成<span color="#ffacff">33.3%</span><span>伤害，接着产生次元斩造成3段</span><span color="#ffacff">8.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1151" width="439" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">祸津召唤4个<span textDecoration="underline">幻影</span><span>奔向场地边缘，持续劈出雷刃。3个假幻影只劈一刀，造成</span><span color="#ffacff">8.3%</span><span>伤害，真幻影劈十字斩，造成</span><span color="#ffacff">16.6%</span><span>伤害，真幻影击破后祸津御建</span><span color="#ffebbf">眩晕</span><span>，假幻影击破后有50%概率立即爆炸，造成</span><span color="#ffacff">33.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于祸津身后时，祸津御建立即转身斩击，造成<span color="#ffacff">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="414" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">祸津依次斩出3个雷轮，每个雷轮造成<span color="#ffacff">33.3%</span><span>伤害，最后水平劈出一道雷刃，造成</span><span color="#ffacff">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">祸津进行旋斩、冲击、旋斩最多3段的普通攻击，3段普攻依次造成<span color="#ffacff">8.3%x2,<br/>16.6%,33.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="437" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">眩晕时受击超8次时，将有48%的概率立即恢复，且每次受击都会增加6%恢复概率。祸津恢复<span color="#ffebbf">眩晕</span><span>后，在身边产生雷震击飞玩家，造成</span><span color="#ffacff">8.3%</span><span>伤害但不显示数字</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1151" width="438" height="229" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">祸津用梦想一心画圈后将其举向天空，召唤9个雷球在场地边缘，以顺时针顺序下落，雷球下落造成<span color="#ffacff">66.6%</span><span>伤害，留下雷痕，持续造成</span><span color="#ffacff">12.5%</span><span>伤害；<br/>雷球全部落下后祸津御建在场地中间施放次元斩，造成4段</span><span color="#ffacff">33.3%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，最后碎屏斩造成</span><span color="#ffacff">100%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_15.png')" x="720" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_16.png')" x="721" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_17.png')" x="719" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_18.png')" x="721" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_19.png')" x="719" y="1066">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_20.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_21.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_22.png')" x="1391" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_23.png')" x="1392" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_24.png')" x="1392" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_25.png')" x="1391" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_26.png')" x="1393" y="1066">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#8d29b4" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#8d29b4">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1196" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="442" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">幻影：3次次数盾，击破真幻影可眩晕祸津，击破假幻影可能爆炸。</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_2">
+			<RichText x="77" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-50</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-50</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-50</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-50</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">-50</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-50</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-50</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-50</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_27.png')" x="64" y="1129" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1085" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1145" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">眩晕</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_28.png')" x="64" y="192" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_29.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_30.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_31.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_32.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_33.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_34.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_35.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_36.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_37.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_38.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_39.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_40.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_41.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_42.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_43.png')" x="596" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_44.png')" x="576" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_45.png')" x="1268" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/祸津御建鸣神命1.assets/Image_46.png')" x="1248" y="1078" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

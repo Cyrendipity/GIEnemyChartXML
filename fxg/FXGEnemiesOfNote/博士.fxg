@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1728" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="Layer_1" d:type="layer">
+		<BitmapImage source="@Embed('/博士.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="0" y="648" width="1920" height="1080" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "965" y = "10" scaleX = "394" rotation = "90">
+								<GradientEntry color="#000000" ratio="0" alpha="1"/>
+								<GradientEntry color="#ffffff" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<BitmapImage source="@Embed('/博士.assets/Image_2.png')" x="0" y="662" d:locked="true">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/博士.assets/Image_3.png')" x="632" y="379" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_4.png')" x="0" y="118" blendMode="normal">
+		</BitmapImage>
+		<RichText x="83" y="530" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="467" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">「赝月的异端者」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="661" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" fontWeight="normal" color="#99ffff" width="129" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" color="#99ffff">多托雷</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="977" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#e47cae" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="820" width="347" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 4637536 <span color="#dddddd">(125.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#e47cae" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="787" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="167" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">周本 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#e47cae" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="868" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 26644 <span color="#dddddd">(14.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#e47cae" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="917" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 150/500</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#e47cae" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="617" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="341" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Heretic of the False Moon</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="700" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ffff" width="125" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ffff">Il Dottore</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/博士.assets/Image_5.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_6.png')" x="64" y="1101" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_7.png')" x="184" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_8.png')" x="364" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_9.png')" x="303" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_10.png')" x="244" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_11.png')" x="424" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_12.png')" x="124" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_13.png')" x="66" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/博士.assets/Image_15.png')" x="486" y="1037">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="223" width="439" height="114" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士将在高空召唤5枚陨落的拟造古月遗骸，依次向地面落去，并造成<span color="#b8b8b8">70%</span><span>伤害；该技能为持久技，期间博士可施放其他技能。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1567" width="440" height="114" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">若博士受到超过自身<span color="#ffdfbf">20%</span><span>生命值的单次伤害，则立即进入高伤遏制状态，全抗提升</span><span color="#ffdfbf">150%</span><span>，持续3.5s，并恢复期间损失的生命值，不超过</span><span color="#ffdfbf">33%</span><span>生命值上限。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1288" width="444" height="289" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">拟造古月遗骸：位于其后方可避免秒杀，处于该处时为全队提供元素能量与特殊能量的<span color="#ffdfbf">持续恢复</span><span>。<br/>秒杀机理：不同于其他秒杀，该秒杀为造成多次</span><span color="#ffdfbf">70%生命值</span><span>的伤害。<br/>月拟造影：博士召唤物，生命值</span><span color="#ffdfbf">267122</span><span>(7.2F)，攻击力</span><span color="#ffdfbf">12180</span><span>(6.4B2)，在「异界」内体现生命值，在常规场地体现攻击力。<br/>蚀月领域：不断扩张的红色圆形，扩张完毕耗时20s，半径最大可达10m，角色位于其中会降低</span><span color="#ffdfbf">40%</span><span>移速。<br/>异界裂隙：蚀月领域扩张至4.5m(9s)时出现，进入期间会出现与裂隙同位的月拟造影，清除相应造影可移除相应位置的蚀月领域并退出空间，或者自寻出口逃脱。<br/>E：环境反应等级系数，90级时为1202.81。<br/>若想被投影仪抓起，双方等级差同样需要</span><span fontFamily="SDK_JP_Web">≤</span><span>20级。<br/>高伤遏制机制CD为30s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士朝前方及两侧方向迅速发射水柱，均造成<span color="#7fbfff">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士在近处进行至多2段普攻：钉锁造成<span color="#ffacff">40%</span><span>伤害；水柱向前方及两侧方向造成</span><span color="#7fbfff">60%</span><span>伤害；可单独施放。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士在近处进行3段普攻：钉锁造成<span color="#ffacff">20%</span><span>伤害，并向前产生3道游走激光；冰钉挥舞造成</span><span color="#99ffff">40%</span><span>伤害；水柱仅向前方造成</span><span color="#7fbfff">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="426" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士朝天，持续降雨造成<span color="#7fbfff">20%</span><span>伤害；8s后，博士倒放降雨，升起的雨滴也造成</span><span color="#7fbfff">20%</span><span>伤害，随后于中央产生巨大水花，造成</span><span color="#7fbfff">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士突然向左侧滑动，并发射数道激流，持续造成<span color="#7fbfff">20%</span><span>伤害，随后博士会根据距离，后接「矫锋诡剂未曾试」的某一段攻击</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士召唤2个「月拟造影」，其将移动至玩家周围，进行一次攻击后消失，造成3段月拟造影<span color="#99ffff">20%</span><span>攻击力的伤害。也常作为古月惩罚的偷袭技能。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1343" width="439" height="344" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士在场地边界召唤3个「<span textDecoration="underline">月拟造影</span><span>」，造成4~5段</span><span color="#99ffff">100%</span><span color="#99ffff">E</span><span>攻击力的伤害，同时产生不断扩张的「</span><span textDecoration="underline">蚀月领域</span><span>」，该领域初始产生冰脉冲，随着领域范围扩张，冰脉冲的威力也逐渐加强：<br/>初始造成</span><span color="#99ffff">150%E</span><span>伤害，扩张至约一半半径后出现「</span><span textDecoration="underline">异界裂隙</span><span>」，随后脉冲伤害提升至</span><span color="#99ffff">300%E</span><span>，扩张结束一段时间后冰脉冲频率翻倍，伤害提升至</span><span color="#99ffff">450%E</span><span>。<br/>「异界裂隙」内游走的激光持续造成</span><span color="#ffacff">80%E</span><span>的真伤。若未完全清除「蚀月领域」，则博士不再尝试生成新的领域。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="407" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士操纵三月权能，对玩家施加干扰：<br/><span color="#f1a3be">虹月</span><span>：角色不可面向博士，持续6s；<br/></span><span color="#a5e4f8">霜月</span><span>：角色不能大幅移动，持续6s；<br/></span><span color="#c4f2f8">恒月</span><span>：角色水平移动反转，持续6s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1343" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">违反博士的三月干扰将触发惩罚：清空全队所有能量，并被投影仪抓起，造成<span color="#99ffff">10%x4+50%</span><span>伤害；遵循三月干扰则恢复全队所有能量。</span><span color="#ffbfbf">恒月干扰为始终遵循</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/博士.assets/Image_16.png')" x="88" y="224" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="75" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">210</p>
+				</content>
+			</RichText>
+			<RichText x="135" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">210</p>
+				</content>
+			</RichText>
+			<RichText x="195" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">210</p>
+				</content>
+			</RichText>
+			<RichText x="255" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">210</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">210</p>
+				</content>
+			</RichText>
+			<RichText x="375" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">210</p>
+				</content>
+			</RichText>
+			<RichText x="435" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">210</p>
+				</content>
+			</RichText>
+			<RichText x="495" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">210</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/博士.assets/Image_17.png')" x="64" y="1161" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_3">
+			<RichText x="77" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">160</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">160</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">160</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">160</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">160</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">160</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">160</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">160</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/博士.assets/Image_18.png')" x="64" y="1221" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/博士.assets/Image_19.png')" x="1390" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_20.png')" x="720" y="1258">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#097d9b" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#097d9b">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/博士.assets/Image_21.png')" x="719" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_22.png')" x="1391" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_23.png')" x="719" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_24.png')" x="720" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_25.png')" x="720" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_26.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_27.png')" x="720" y="1482">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_28.png')" x="1394" y="1258">
+		</BitmapImage>
+		<RichText x="738" y="223" width="441" height="114" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士立即升空，召唤3枚「<span textDecoration="underline">拟造古月遗骸</span><span>」落地，造成</span><span color="#b8b8b8">20%</span><span>伤害；6s后，博士汇聚月矩力发动月陨冲击，不处于「遗骸」后方扇区的目标将立即被</span><span textDecoration="underline" color="#ffbfbf">秒杀</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/博士.assets/Image_29.png')" x="722" y="137">
+		</BitmapImage>
+		<RichText x="1410" y="671" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士锚定玩家，从自身游离出6个背向博士的游走激光，接触造成<span color="#ffacff">20%,10%,5%,<br/>2%</span><span>伤害；同时依次召唤三针与五针，先后砸向角色，分别造成</span><span color="#ffacff">70%,80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/博士.assets/Image_30.png')" x="1395" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_31.png')" x="1392" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_32.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_33.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_34.png')" x="596" y="1291" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_35.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_36.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_37.png')" x="1268" y="844" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_38.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_39.png')" x="596" y="1515" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_40.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_41.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_42.png')" x="1268" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_43.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_44.png')" x="1268" y="1291" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_45.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_46.png')" x="576" y="1270" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_47.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_48.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_49.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_50.png')" x="1248" y="824" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_51.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_52.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_53.png')" x="576" y="1494" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_54.png')" x="1248" y="1270" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_55.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_56.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/博士.assets/Image_57.png')" x="1248" y="1046" blendMode="normal">
+		</BitmapImage>
+		<RichText x="9" y="1117" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1177" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">大招</p>
+			</content>
+		</RichText>
+		<RichText x="15" y="1229" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="18" fontStyle="normal" fontWeight="normal" color="#ffffff" width="34" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="18" color="#ffffff">高伤<br/>遏制</p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

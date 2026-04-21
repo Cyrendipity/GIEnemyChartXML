@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="57" y="369" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="normal" fontWeight="normal" color="#ffffff" width="432" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" color="#ffffff">雪奈茨芙娜的蝶安奈拉</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="881" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1417" y="48" width="461" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#7fffd7">AP</span><span>[75,50,25,0],</span><span color="#7fffd7">AO</span><span>[0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="532" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 3814538 <span color="#dddddd">(62.6F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="724" width="399" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 694359 <span color="#dddddd">(12.52F) </span><span color="#7fffd7">20%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="499" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">地方传奇 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="691" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="219" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">历经百战 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="580" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 26108<span color="#dddddd"> (10.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="772" width="359" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 7387<span color="#dddddd"> (3.0B2) </span><span color="#7fffd7">30%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="629" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 85/100</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="821" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 85/100</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="415" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="316" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Deianeira of Snezhevna</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="203" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">50</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-20</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_2.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_3.png')" x="64" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_4.png')" x="184" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_5.png')" x="364" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_6.png')" x="303" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_7.png')" x="244" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_8.png')" x="424" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_9.png')" x="124" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_10.png')" x="66" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_12.png')" x="486" y="941">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="439" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">风役人施放一连串的风弹，进行至多3段的连续攻击，对敌人分别造成<span color="#7fffd7">50%x3,50%x3,60%x5</span><span>伤害，第三段攻击带有追踪性；攻击造成的伤害带有(1,0.5,0.25,0.1)的衰减。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">风役人展开风嶂，当敌人对其施放攻击时，<span color="#ffbfbf">无视此次伤害</span><span>并发动反击：闪现至敌人上方投下权杖，造成</span><span color="#7fffd7">70%</span><span>伤害，并在此处再次产生一次较弱的风泽域，造成</span><span color="#7fffd7">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="767" width="1110" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">风役人瞄准目标，<span color="#ffebbf">消耗2%生命值</span><span>，2s后发动攻击，对目标敌人降下翠叶之诀，造成</span><span color="#7fffd7">90%</span><span>伤害并施加生命之契，随后发动追加「猎杀」攻击：<br/>翠叶之诀的场地将产生爆炸，造成</span><span color="#7fffd7">100%</span><span>伤害并施加生命之契。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_13.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_14.png')" x="720" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_15.png')" x="720" y="681">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_16.png')" x="1392" y="137">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">风役人旋转权杖，进行一段重击，在敌人的下方连续产生3次的风泽域，均造成<span color="#7fffd7">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#00ae83" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#00ae83">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_17.png')" x="68" y="64" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="479" width="424" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">风役人的元素爆发命中所累加的生命之契大小等同于自身<span color="#ff9999">16%</span><span>的攻击力，且在该生命之契的影响下，目标敌人将每秒流失</span><span color="#dfbfff">(0.4%HP+72)</span><span>的生命值(后台停5%)，其与生命之契同生共死，持续10min。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_18.png')" x="1393" y="394">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_19.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_20.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_21.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_22.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_23.png')" x="596" y="715" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_24.png')" x="576" y="694" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_25.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_26.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_27.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/雪奈茨芙娜的蝶安奈拉.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="990" width="1094" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffdf">固有天赋·佞意<span fontSize="24" color="#ffffff">：元素爆发的追加攻击对附有生命之契的目标造成的伤害提升</span><span fontSize="24" color="#ff9999">150%</span><span fontSize="24" color="#ffffff">。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="894" width="1112" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffdf">固有天赋·残枝<span fontSize="24" color="#ffffff">：爆发的第一段伤害命中时，</span><span fontSize="24" color="#ffebbf">恢复5%生命值</span><span fontSize="24" color="#ffffff">；生命值</span><span fontSize="24" color="#ffebbf">低于20%</span><span fontSize="24" color="#ffffff">时，施放元素爆发改为</span><span fontSize="24" color="#ffebbf">消耗10%当前生命值</span><span fontSize="24" color="#ffffff">。</span></p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_2.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="62" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="432" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">深邃摹结株</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#a3a5fe" width="275" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#a3a5fe">虚界空想植株</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="853" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1281" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="597" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WP[75,50,25,0],WO[75,50,25,0]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="664" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 974962 <span color="#dddddd">(16.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="630" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="712" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 15665 <span color="#dddddd">(6.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="808" width="357" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">SHD: <span color="#b2b2ff">53</span><span>/</span><span color="#b2b2ff">42</span><span>/</span><span color="#b2b2ff">27</span><span>;  </span><span color="#b2b2ff">72(Ab)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="761" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="247" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Tenebrous Papilla</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="548" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#a3a5fe" width="217" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#a3a5fe">Void Fantasy Plant</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#a081f3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#8d29b4" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#8d29b4">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="479" width="442" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">一段时间后<span color="#ffdfbf">(70s/首次40s)</span><span>或生命值低于</span><span color="#ffbfbf">70%</span><span>时，摹结株将枝节插入地面进行蓄力，获得暂时的</span><span textDecoration="underline">虚界护罩</span><span>，并持续在场地内召唤幽生蓟，造成</span><span color="#b8b8b8">10%</span><span>(</span><span color="#99ff99">10</span><span>级「</span><span textDecoration="underline">蚀破</span><span>」)；13s后蓄力完成，产生大爆炸，造成</span><span color="#b8b8b8">300%</span><span>(</span><span color="#99ff99">60</span><span>)伤害。<br/>击破护罩后，摹结株将瘫痪12s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="439" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">摹结株能够在13种首领之间变换，在不同的战斗中，存在3种摹结株变体，每组的变体都不同，会随机施放技能。<br/>摹结株仅仅起模仿作用，BOSS的原有独特机制会尽数丢失。</p>
+			</content>
+		</RichText>
+		<RichText x="610" y="159" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="564" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">摹结株有3种摹结株变体，对应下面三组；每次击败后都会刷新另外一组，每组的技能均控制在9个，且均有5个存在可附加蚀破的强化技能：</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_3.png')" x="1392" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_4.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_5.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_6.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_1">
+			<RichText x="82" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">20</p>
+				</content>
+			</RichText>
+			<RichText x="142" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">20</p>
+				</content>
+			</RichText>
+			<RichText x="202" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">20</p>
+				</content>
+			</RichText>
+			<RichText x="262" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">20</p>
+				</content>
+			</RichText>
+			<RichText x="322" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">20</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">20</p>
+				</content>
+			</RichText>
+			<RichText x="442" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">20</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="991" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">20</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_7.png')" x="64" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_8.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_9.png')" x="184" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_10.png')" x="364" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_11.png')" x="303" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_12.png')" x="244" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_13.png')" x="424" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_14.png')" x="124" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_15.png')" x="66" y="909" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_17.png')" x="486" y="909">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_2">
+			<RichText x="77" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-50</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-50</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-50</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-50</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">-50</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-50</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-50</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1051" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-50</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_18.png')" x="64" y="1033" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_3">
+			<RichText x="77" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-15</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-15</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-15</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-15</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">-15</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-15</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-15</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1112" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-15</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_19.png')" x="64" y="1093" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_4">
+			<RichText x="75" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">320</p>
+				</content>
+			</RichText>
+			<RichText x="135" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">320</p>
+				</content>
+			</RichText>
+			<RichText x="195" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">320</p>
+				</content>
+			</RichText>
+			<RichText x="255" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">320</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">320</p>
+				</content>
+			</RichText>
+			<RichText x="375" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">320</p>
+				</content>
+			</RichText>
+			<RichText x="435" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">320</p>
+				</content>
+			</RichText>
+			<RichText x="495" y="1171" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">320</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深邃摹结株.assets/Image_20.png')" x="64" y="1153" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="989" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1049" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">瘫痪</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1169" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">开场</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1091" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="57" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">瘫痪再恢</p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="733" width="442" height="154" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">「蚀破」：角色被附加「蚀破」时，将在1s后扣除前台角色一定的生命值。「蚀破」拥有不同的等级，<span color="#ffccbf">n</span><span>级「蚀破」扣除</span><span color="#ffccbf">(1%+50)*n</span><span>点生命值，若在间隔T内连续施加多种「蚀破」，则它们的等级会相加，并在脱离伤害的1s后结算蚀破总伤害。<br/></span></p>
+				<p textAlign="center" fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">间隔 T<span fontFamily="宋体">∈</span><span color="#ffecbf">(0.1,1] </span><span>s<br/></span><span>虚界护罩：每次</span><span color="#ffffbf">元素攻击</span><span>可削减该护盾</span><span color="#ffccbf">1</span><span>点，</span><span color="#bfdfff">带有夜魂性质的攻击</span><span>则削减</span><span color="#ffccbf">3</span><span>点，没有冷却。这种护罩在被击破之前，敌人将免疫所有伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="610" y="1228" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="404" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">摹结株仅仅起模仿作用，原BOSS的特性或机制不会保留。</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1220" width="496" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">深渊抗性：正常 70%，瘫痪 0%，瘫痪再恢 35%，开场370%。若使其再次开盾，但未进行破盾，则抗性会恢复至<span color="#ff9999">[正常]</span><span>，而非</span><span color="#ff9999">[瘫痪再恢]</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="599" y="262" fontFamily="Sen" fontSize="60" fontStyle="italic" fontWeight="bold" color="#ff9999" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.4">
+			<content>
+				<p fontFamily="Sen" fontSize="60" fontStyle="italic" fontWeight="bold" color="#ff9999">GROUP ONE </p>
+			</content>
+		</RichText>
+		<RichText x="599" y="582" fontFamily="Sen" fontSize="60" fontStyle="italic" fontWeight="bold" color="#ff9999" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.4">
+			<content>
+				<p fontFamily="Sen" fontSize="60" fontStyle="italic" fontWeight="bold" color="#ff9999">GROUP TWO </p>
+			</content>
+		</RichText>
+		<RichText x="610" y="320" width="579" height="245" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="MiSans" fontSize="22" fontWeight="bold" lineHeight="144%" color="#ffffff">兆载<span fontStyle="italic">永劫龙兽</span><span fontStyle="italic" color="#ffebbf">A</span><span fontStyle="italic"> / 翠翎恐蕈</span><span fontStyle="italic" color="#99ff85">B</span><span fontStyle="italic"> / 树 (掣电</span><span fontStyle="italic" color="#ffacff">C</span><span fontStyle="italic"> 急冻</span><span fontStyle="italic" color="#99ffff">D</span><span fontStyle="italic"> 爆炎</span><span fontStyle="italic" color="#ff9999">E</span><span fontStyle="italic">)<br/></span><span fontFamily="仓耳渔阳体 W03" fontSize="8" color="#ff9999"><br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="italic" color="#ffebbf">A</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「巡空游辰」-命中与扫尾造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#b8b8b8">75%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="italic" color="#ffebbf">A</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「垦土掘岩」-两次挖掘造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#b8b8b8">60%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害，扫尾造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#b8b8b8">75%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="italic" color="#ffebbf">A</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「散落洪流」-散弹造成对应元素</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ffff99">100%,30%,10%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">B</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「暮羽归扇」-孢子造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">45%,22.5%,4.5%,0.45%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff99">5</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">B</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「蕈王玷土」-前两段普攻均造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">60%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff99">5</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">B</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「蕈王疾舞」-4段攻击均造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">120%,60%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ffacff">C</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「紫雷迷林」-持续性落雷造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ffacff">40%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ffff">D</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「炙寒滨风」-收伞造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ffff">100%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ff9999">E</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">「铁花秽浪」-锤点和震波分别造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ff9999">100%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">和</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ff9999">50%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16">级「蚀破」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="627" y="289" fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" color="#ff9999" width="76" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" lineHeight="144%" tracking="20%" color="#ff9999">第I组：</p>
+			</content>
+		</RichText>
+		<RichText x="627" y="609" fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" color="#bfffbf" width="87" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" lineHeight="144%" tracking="20%" color="#bfffbf">第II组：</p>
+			</content>
+		</RichText>
+		<RichText x="599" y="902" fontFamily="Sen" fontSize="60" fontStyle="italic" fontWeight="bold" color="#ff9999" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.4">
+			<content>
+				<p fontFamily="Sen" fontSize="60" fontStyle="italic" fontWeight="bold" color="#ff9999">GROUP THREE</p>
+			</content>
+		</RichText>
+		<RichText x="627" y="929" fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" color="#bfdfff" width="98" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" lineHeight="144%" tracking="20%" color="#bfdfff">第III组：</p>
+			</content>
+		</RichText>
+		<RichText x="610" y="640" width="668" height="245" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" lineHeight="144%" color="#ffffff">魔偶剑鬼<span color="#7fffd7">F</span><span> / 古岩龙蜥溟冬</span><span color="#99ffff">G</span><span> / 无相之 (水</span><span color="#7fbfff">H</span><span> 冰</span><span color="#99ffff">I</span><span> 雷</span><span color="#ffacff">J</span><span>)<br/></span><span fontFamily="仓耳渔阳体 W03" fontSize="8" fontStyle="normal" color="#ff9999"><br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#7fffd7">F</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「</span><span fontFamily="江城圆体 200W" fontSize="16" fontStyle="normal">洿</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">风蠹</span><span fontFamily="江城圆体 200W" fontSize="16" fontStyle="normal">铓</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">」-风刃造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#7fffd7">50%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">10</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#7fffd7">F</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「落斩玄空」-冰场与风场均造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffff99">80%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#7fffd7">F</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「孤风流锷」-三段普攻均造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#7fffd7">50%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ffff">G</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「左右拂阴」-三段普攻均造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ffff">冰</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">或</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#7fbfff">水</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">元素的</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffff99">40%,50%,62.5%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">10</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ffff">G</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「步潭履冰」-下落攻击造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ffff">冰</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">或</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#7fbfff">水</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">元素的</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffff99">70%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ffff">G</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「泯滔亡冱」-爆炸造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ffff">冰</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">或</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#7fbfff">水</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">元素的</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffff99">50%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害(对盾造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffff99">10%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害)；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#7fbfff">H</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「水击鳐形」-拍击和水喷造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#7fbfff">66.6%,33.3%,16.6%,6.66%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ffff">I</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「墙封</span><span fontFamily="江城圆体 200W" fontSize="16" fontStyle="normal">·</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">凛渎」-合击造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ffff">100%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ffacff">J</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「猜拳把戏」-剪刀石头布依次造成造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffacff">70%,70%,100%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="610" y="960" width="653" height="245" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="MiSans" fontSize="22" fontStyle="italic" fontWeight="bold" lineHeight="144%" color="#ffffff">魔像督军<span color="#ff9999">K</span><span> / 千年珍珠骏麟</span><span color="#ffacff">L</span><span> / 贪食匿叶龙山王</span><span color="#99ff85">M<br/></span><span fontFamily="仓耳渔阳体 W03" fontSize="8" fontStyle="normal" color="#ff9999"><br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ff9999">K</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「四弦三声」-余波火刃造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ff9999">80%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ff9999">K</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「嘲哳黑雨」-下落轻音造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ff9999">70%,7%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">10</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ff9999">K</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「铜骑刀暝」-怒焰冲击造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ff9999">200%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">30</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ffacff">L</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「尾羽交扇」-三段普攻造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffacff">60%,50%,50%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害，连续命中时带有(1,0.5)衰减 ；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ffacff">L</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「暗麟破空」-下落与喷爆分别造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffacff">95%,50%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#ffacff">L</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「群鱼天游」-游鱼造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ffacff">35%,17.5%,6.3%~3.5%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">M</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「浊步漆尾」-两段普攻分别造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff85">50%,65%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">10</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">M</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「樊林倬影」-旋转造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff85">35%,17.5%,8.75%,3.5%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；<br/></span><span fontFamily="仓耳渔阳体 W01" fontSize="16" color="#99ff85">M</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">「腹满黩络」-火球和激光分别造成</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#ff9999">100%,200%</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">伤害；强化分别施加</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">10</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级或</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal" color="#99ff99">15</span><span fontFamily="仓耳渔阳体 W01" fontSize="16" fontStyle="normal">级「蚀破」；</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_21.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_22.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深邃摹结株.assets/Image_23.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1248" viewWidth= "1248">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_0.png')" x="0" y="1080" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="821" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="116" width="328" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#99ff85">DP</span><span>[60,0x2]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="664" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 388220 <span color="#dddddd">(7.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="631" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="180" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">精英 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="712" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 11326<span color="#dddddd"> (4.6B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="761" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 150/210</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="428" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="431" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Foliar-Swift Wayob Manifestation</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="323" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">50</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_3.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_4.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_5.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_6.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_7.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_8.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_9.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_10.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_11.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_13.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="255" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">疾叶化身标记玩家，在原地进行吟唱，并在标记处产生爆炸，爆炸产生额外的2道振波，这些都造成<span color="#99ff85">90%,22.5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">疾叶化身释放一枚魔咒，坠落在玩家处并留下毒化迷雾，迷雾持续造成<span color="#99ff85">20%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="703" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">疾叶化身朝玩家方向蓄力，迸发草元素脉冲，造成<span color="#99ff85">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="927" width="437" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">疾叶化身即刻展开<span textDecoration="underline">试炼领域</span><span>，并获得</span><span textDecoration="underline">白护盾</span><span>，从领域内不断产生向外的互相垂直的4道亡蓟涟漪，造成</span><span color="#99ff85">50%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，重复3回，最后收回领域并产生旋蔓崩破，造成</span><span color="#99ff85">100%</span><span>伤害，所剩的护盾将转为等量</span><span textDecoration="underline">悬木之灵御</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_14.png')" x="719" y="169">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_15.png')" x="720" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_16.png')" x="721" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_17.png')" x="720" y="841">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#389a3e" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#389a3e">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="61" y="372" fontFamily="仓耳渔阳体 W04" fontSize="50" fontStyle="normal" fontWeight="normal" color="#ffffff" width="433" height="52" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="50" color="#ffffff">疾叶·大灵显化身</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_18.png')" x="596" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_19.png')" x="576" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_20.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_21.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_22.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_23.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_24.png')" x="596" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_25.png')" x="576" y="854" blendMode="normal">
+		</BitmapImage>
+		<RichText x="66" y="1008" width="444" height="193" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">试炼领域：疾叶化身展开的特殊领域，此领域内玩家造成的伤害提升<span color="#ffccbf">120%</span><span>，其内的角色造成的夜魂伤害则额外提升</span><span color="#ffccbf">60%</span><span>，但会不断流失元素能量(不影响特殊能量)。<br/>白护盾：</span><span color="#bfffbf">111.4%生命值</span><span>盾，击破后返还90元素能量(不含特殊能量)，并瘫痪疾叶化身5s。<br/>悬木之灵御：</span><span color="#99ff85">24草</span><span>盾，击破后可瘫痪疾叶化身5s。一般由等量的白护盾转化而来。<br/><br/>重复获得白护盾会使其衰减，其序列为</span><span color="#bfffbf">111.4%</span><span>/</span><span color="#bfffbf">73.52%</span><span>/<br/></span><span color="#bfffbf">36.76%</span><span>；具体的计算公式见「窟岩·大灵显化身」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="64" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ff86" width="352" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#99ff86">夜晚与游灵的代行</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="549" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ff86" width="402" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ff86">Envoy of Night and Wandering Spirits</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/疾叶%B7大灵显化身.assets/Image_26.png')" x="64" y="78" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1728" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#097D9B;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="662" width="1920" height="1066"/>
+	<mx:Image source="Image3.png" x="632" y="379" width="1024" height="980"/>
+	<mx:Image source="Image4.png" x="0" y="118" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="544" width="498" text="「赝月的异端者」"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="672" width="464" text="多托雷"/>
+	<mx:Text styleName="textStyle4" x="64" y="992" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="832" width="340" text="HP: 4637536 (125.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="800" width="305" alpha="0.75" text="周本 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="880" width="375" text="ATK: 26644 (14.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="928" width="375" text="Wt/Ed: 150/500"/>
+	<mx:Text styleName="textStyle8" x="64" y="625" width="395" alpha="0.75" text="Heretic of the False Moon"/>
+	<mx:Text styleName="textStyle9" x="64" y="707" width="395" alpha="0.75" text="Il Dottore"/>
+	<mx:Image source="Image5.png" x="64" y="1037" width="484" height="124"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成2" styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="博士将在高空召唤5枚陨落的拟造古月遗骸，依次向地面落去，并造成70%伤害；该技能为持久技，期间博士可施放其他技能。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成22" styleName="textStyle10" x="736" y="1568" width="448" alpha="0.9" text="若博士受到超过自身20%生命值的单次伤害，则立即进入高伤遏制状态，全抗提升150%，持续3.5s，并恢复期间损失的生命值，不超过33%生命值上限。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1288" width="448" alpha="0.75" text="拟造古月遗骸：位于其后方可避免秒杀，处于该处时为全队提供元素能量与特殊能量的持续恢复。秒杀机理：不同于其他秒杀，该秒杀为造成多次70%生命值的伤害。月拟造影：博士召唤物，生命值267122(7.2F)，攻击力12180(6.4B2)，在「异界」内体现生命值，在常规场地体现攻击力。蚀月领域：不断扩张的红色圆形，扩张完毕耗时20s，半径最大可达10m，角色位于其中会降低40%移速。异界裂隙：蚀月领域扩张至4.5m(9s)时出现，进入期间会出现与裂隙同位的月拟造影，清除相应造影可移除相应位置的蚀月领域并退出空间，或者自寻出口逃脱。E：环境反应等级系数，90级时为1202.81。若想被投影仪抓起，双方等级差同样需要≤20级。高伤遏制机制CD为30s。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="博士朝前方及两侧方向迅速发射水柱，均造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="博士在近处进行至多2段普攻：钉锁造成40%伤害；水柱向前方及两侧方向造成60%伤害；可单独施放。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="博士在近处进行3段普攻：钉锁造成20%伤害，并向前产生3道游走激光；冰钉挥舞造成40%伤害；水柱仅向前方造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="博士朝天，持续降雨造成20%伤害；8s后，博士倒放降雨，升起的雨滴也造成20%伤害，随后于中央产生巨大水花，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="博士突然向左侧滑动，并发射数道激流，持续造成20%伤害，随后博士会根据距离，后接「矫锋诡剂未曾试」的某一段攻击"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="博士召唤2个「月拟造影」，其将移动至玩家周围，进行一次攻击后消失，造成3段月拟造影20%攻击力的伤害。也常作为古月惩罚的偷袭技能。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1344" width="448" alpha="0.9" text="博士在场地边界召唤3个「月拟造影」，造成4~5段100%E攻击力的伤害，同时产生不断扩张的「蚀月领域」，该领域初始产生冰脉冲，随着领域范围扩张，冰脉冲的威力也逐渐加强：初始造成150%E伤害，扩张至约一半半径后出现「异界裂隙」，随后脉冲伤害提升至300%E，扩张结束一段时间后冰脉冲频率翻倍，伤害提升至450%E。「异界裂隙」内游走的激光持续造成80%E的真伤。若未完全清除「蚀月领域」，则博士不再尝试生成新的领域。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="博士操纵三月权能，对玩家施加干扰：虹月：角色不可面向博士，持续6s；霜月：角色不能大幅移动，持续6s；恒月：角色水平移动反转，持续6s。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1344" width="448" alpha="0.9" text="违反博士的三月干扰将触发惩罚：清空全队所有能量，并被投影仪抓起，造成10%x4+50%伤害；遵循三月干扰则恢复全队所有能量。恒月干扰为始终遵循。"/>
+	<mx:Image source="Image6.png" x="88" y="224" width="232" height="256"/>
+	<mx:Image source="Image7.png" x="64" y="1161" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="64" y="1221" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="犹为赝月作嗣影-召唤"/>
+	<mx:Text styleName="textStyle12" x="736" y="1280" width="448" text="但月行矩有步规-控制"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="奔如泾涌开河汇-远程"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="矫锋诡剂未曾试-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="针银刀转添濯时-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="归如古海逆时废-猛攻"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="去如冷泉击坪碎-远程"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="且妄虚帷共垂星-持续"/>
+	<mx:Text styleName="textStyle12" x="736" y="1504" width="448" text="吾命虽蹇不由天-天赋"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1280" width="448" text="月既初亏异罅生-领域"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成23" styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="博士立即升空，召唤3枚「拟造古月遗骸」落地，造成20%伤害；6s后，博士汇聚月矩力发动月陨冲击，不处于「遗骸」后方扇区的目标将立即被秒杀。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="月坠天明皆湮圮-爆发"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="博士锚定玩家，从自身游离出6个背向博士的游走激光，接触造成20%,10%,5%,2%伤害；同时依次召唤三针与五针，先后砸向角色，分别造成70%,80%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="自有六界作觇察-定点"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1056" width="448" text="僭月将行不觉窥-妨害"/>
+	<mx:Image source="Image9.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="1291" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="844" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="596" y="1515" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1268" y="1291" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="576" y="1270" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image27.png" x="1248" y="824" width="168" height="168"/>
+	<mx:Image source="Image28.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image29.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="576" y="1494" width="168" height="170"/>
+	<mx:Image source="Image31.png" x="1248" y="1270" width="168" height="170"/>
+	<mx:Image source="Image32.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image33.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image34.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Text styleName="textStyle14" x="0" y="1119" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1179" width="64" text="大招"/>
+	<mx:Text styleName="textStyle15" x="0" y="1230" width="64" text="高伤遏制"/>
+</mx:Application>

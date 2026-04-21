@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="410" text="海捷德"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="340" text="HP: 6337251 (104.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="418" text="HP: 1470800 (26.52F) 25.5%"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 29241 (11.2B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="816" width="375" text="ATK: 15758 (6.4B2) 4/7"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 85/4000"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="375" text="Wt/Ed: 85/4000"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Hiljetta"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="576" y="128" width="487" alpha="0.5" text="元素能量：WP[75,50,25,0x3],WO[0]"/>
+	<mx:Text styleName="textStyle9" x="64" y="1224" width="448" alpha="0.75" text="战斗装甲：每个装甲吸附所需7s，总蓄力时长7/12/17s，可被超载破坏；海捷德吸附后持续2个技能或至多18s卸下。被阻挡后掉落地面，为附近2m内角色提供加成：攻击力提升40%，持续8s，可叠加，每层单独计算。冻结：冻结一次+12*D，满计量36，冻结后吸附装甲造成真伤后解除；D为影响因子，会受到多人模式影响(D=1/0.9/0.83/0.8)，"/>
+	<mx:Image source="Image5.png" x="66" y="71" width="251" height="249"/>
+	<mx:Image source="Image6.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="64" y="1157" width="484" height="60"/>
+	<mx:Text styleName="textStyle10" x="0" y="1054" width="64" text="战前"/>
+	<mx:Text styleName="textStyle10" x="0" y="1114" width="64" text="正常"/>
+	<mx:Text styleName="textStyle10" x="0" y="1175" width="64" text="蓄力"/>
+	<mx:Text styleName="textStyle11" x="736" y="256" width="448" alpha="0.9" text="海捷德不紧不慢地打两个近拳，均造成40%伤害。装备装甲后伤害翻倍，当装备1/2/3个装甲时，就会进行1/2/4次连续普攻。"/>
+	<mx:Text styleName="textStyle11" x="736" y="512" width="448" alpha="0.9" text="处于后方时，海捷德用力打出下勾拳，造成40%伤害。装备装甲后伤害翻倍。"/>
+	<mx:Text styleName="textStyle11" x="736" y="768" width="448" alpha="0.9" text="海捷德立即蓄力，随后冲向玩家造成60%,15%伤害。装备装甲后，冲刺造成100%,25%伤害，当装备1/2/3个装甲时，就会进行2/4/8次冲刺，且冲刺距离大幅加长。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" alpha="0.9" text="一段时间后，或者海捷德生命值低于80%/60%/40%时，海捷德会在战斗中尝试吸附「战斗装甲」强化战斗，第1/2/&gt;2次蓄力将召唤1/2/3个装甲；若处于深境螺旋则直接召唤3个装甲。对海捷德持续触发冻结反应可冻结她，使其无法装备装甲，每个装甲在吸收时将对其造成5%生命值的真伤；对装甲触发超载反应可直接炸毁；或者阻挡路径同样可以阻止吸附，使其掉落为角色提供增益。"/>
+	<mx:Text styleName="textStyle12" x="736" y="192" width="448" text="吾虽寿矣-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="448" width="448" text="壮心不已-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="704" width="448" text="志在千里-位移"/>
+	<mx:Text styleName="textStyle12" x="736" y="960" width="448" text="老骥伏枥-强化"/>
+	<mx:Image source="Image8.png" x="596" y="971" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="715" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="694" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="950" width="168" height="170"/>
+</mx:Application>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#ECBFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9324AA;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle15 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="深海龙蜥·吞雷"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1024" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="546" alpha="0.5" text="元素能量：EP[75,50,25],EO[0](成体),EP[60,0](幼体)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 665520 (12.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英-成体 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 12311 (5.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 150/150"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="305" text="HP: 221840 (4.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="832" width="305" alpha="0.75" text="精英-幼体 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="912" width="375" text="ATK: 4924 (2.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="960" width="375" text="Wt/Ed: 150/150"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Bolteater Bathysmal Vishap"/>
+	<mx:Image source="Image4.png" x="64" y="1069" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="288" width="448" alpha="0.9" text="吞雷蓄力发射一枚雷弹，造成5%伤害，并扣除角色30点(成体)/10点(幼体)能量，若能量不足则扣除一定比例的生命值。"/>
+	<mx:Text styleName="textStyle9" x="736" y="512" width="448" alpha="0.9" text="(仅成体)吞雷将尾部插入地面，在一定区域内不断生成雷棘，造成60%,30%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" alpha="0.9" text="吞雷后撤，向前翻滚，用尾部扫两圈，造成2段30%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="960" width="448" alpha="0.9" text="吞雷翘起尾部，召唤雷球，雷球破裂产生3个雷刺，造成30%,15%,7.5%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" text="涤霆喷吐-妨害"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" text="电奔跃集-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" text="如霆之响-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" text="浄紫濑箭-远程"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="0" y="1151" width="64" text="成体"/>
+	<mx:Text styleName="textStyle13" x="0" y="1211" width="64" text="幼体"/>
+	<mx:Text styleName="textStyle14" x="64" y="512" width="417" text="盘踞深海的水栖猛兽"/>
+	<mx:Text styleName="textStyle15" x="64" y="555" width="395" alpha="0.75" text="Deep Sea-Dwelling Beast"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="1193" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="596" y="235" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="214" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="886" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="1184" width="448" alpha="0.9" text="(仅幼体)吞雷后撤一步，进行左、右、砸3段攻击，依次造成30%,50%,80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" text="左右开攻-输出"/>
+	<mx:Image source="Image15.png" x="596" y="1131" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="1110" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="64" y="1280" width="449" text="生命值扣除计算公式(幼体见「深海龙蜥·原种」，成体见「深海龙蜥之群」)"/>
+</mx:Application>

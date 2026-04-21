@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1152" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#96673D;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#F8C9A5;
+		}
+		.textStyle11 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#F8C9A5;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="72"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="521" text="神秘大丘²"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="382" text="HP: 1435456 (23.557F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 15590 (5.971B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 150/400"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Mystifying Megachurl"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="736" y="224" width="448" alpha="0.9" text="萨满施法，在玩家处连续生成至多3次的突震，造成60%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="512" width="448" alpha="0.9" text="萨满进行大施法，场地召唤5个日落果，均造成50%伤害；同时萨满开始转圈圈，接触造成70%,35%,7%伤害。使用普攻击破日落果产生粘稠果汁，旋转的萨满经过可摔倒。"/>
+	<mx:Text styleName="textStyle7" x="736" y="800" width="448" alpha="0.9" text="萨满进行振岩杖法，使一定数量的地砖塌陷；同时场地将随机下落以下物品：卷心菜：造成50%伤害；黄金卷心菜：造成100%伤害；鱼骨：造成50%伤害，塌陷周围地砖。使用普攻击回卷心菜等物品可以打断。"/>
+	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="荡地笋突-定点"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" text="引杖成旋-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" text="引杖开山-妨害"/>
+	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="萨满杖击-输出"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" text="引杖傩舞-位移"/>
+	<mx:Text styleName="textStyle8" x="1408" y="736" width="448" text="引杖巽风-协助"/>
+	<mx:Text styleName="textStyle7" x="1408" y="224" width="448" alpha="0.9" text="距离玩家较近时，萨满挥杖击飞玩家，造成80%伤害。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="512" width="448" alpha="0.9" text="萨满进行大施法，场地召唤5个日落果，均造成50%伤害；同时萨满起跳，不断朝玩家处下落，造成70%伤害。使用普攻击破日落果产生粘稠果汁，可使下落至此处的萨满摔倒。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="800" width="448" alpha="0.9" text="萨满进行霍风杖法，在场地内召唤风场，可借其起飞；同时萨满开始持续进行下落攻击，造成70%伤害，范围较大，持续5次后结束。角色进行下落攻击可产生冲击波，此可打断萨满攻击。"/>
+	<mx:Text styleName="textStyle9" x="895" y="61" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="64" y="512" width="502" text="误入秘境迷糊悟道的萨满？"/>
+	<mx:Text styleName="textStyle11" x="64" y="555" width="395" alpha="0.75" text="A Shaman Who Accidentally Gained Domainlightenment"/>
+	<mx:Text styleName="textStyle12" x="1278" y="64" width="578" alpha="0.5" text="元素能量：WP[0],WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle13" x="64" y="1068" width="448" alpha="0.75" text="摔倒：萨满摔倒后，损失18%生命值并瘫痪10s，后续每摔倒一次损失生命值+2%。常驻抗打断0.01，翻6倍重量。振岩杖法：3次卷心菜/1个黄金卷心菜击破，击破后摔倒。霍风杖法：3次下落攻击冲击波击破，击破后摔倒。"/>
+	<mx:Image source="Image5.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1019" width="64" text="摔倒"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>

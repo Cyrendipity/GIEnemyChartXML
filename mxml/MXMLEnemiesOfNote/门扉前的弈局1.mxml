@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1536" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FF9999;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AD4218;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="456"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="663" y="303" width="962" height="890"/>
+	<mx:Image source="Image4.png" x="1268" y="1131" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="1355" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="1131" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="907" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="0" y="54" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="448" width="441" text="「弈局」：王棋&amp;后棋"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="464" text="并非「弈局」的执棋者"/>
+	<mx:Text styleName="textStyle4" x="64" y="992" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="354" text="HP-K: 1187209 (32.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="周本-第一阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="HP-Q: 445203 (12.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="355" text="ATK: 19031 (10.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="912" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="555" width="395" alpha="0.75" text="Chess Game: King&amp;Queen Piece"/>
+	<mx:Text styleName="textStyle9" x="64" y="643" width="395" alpha="0.75" text="Not the One Who Plays at “Chess Games”"/>
+	<mx:Image source="Image16.png" x="64" y="1037" width="484" height="124"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成2" styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="「王」在原地对其攻击范围(3x3)造成100%伤害，也常见于「王」连续进攻后施放。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成22" styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="距离较远时，「王」直接使出3个「马」进攻，每次造成60%伤害。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成23" styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="「王」在C3~F6区域内召唤3个互不相连的孤「兵」，自身则装甲驾「车」连续进攻冲刺，每次造成90%伤害；「兵」也会攻击自身3x3范围内的玩家，每次造成40%伤害。「王」相撞3次后，装甲破损并损失15%/20%/25%生命值。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="闲着·正王势守-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="失格·靡翼推马-远程"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="奇着·悬孤三卒-召唤"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="64" y="1288" width="448" alpha="0.75" text="「象」：14雷盾，属护盾，击破会扣除「王」15%生命值并瘫痪7s。装甲：3次特殊次数盾，「王」每击破一个「兵」扣1，击破会扣除「王」15%生命值并瘫痪7s。"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="「王」朝玩家方向进行至多3次的连续着棋，每次造成72%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="960" width="448" alpha="0.9" text="「后」朝玩家方向对其近身范围以十字和X字形连续着棋2次，每次造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1184" width="448" alpha="0.9" text="「后」伸出双刃，朝玩家方向发动一次进攻，旋转的剑刃造成33%,33%,19.8%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1184" width="448" alpha="0.9" text="「后」在原地对其攻击范围(八个方向)造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1408" width="448" alpha="0.9" text="「后」在原地召唤大量弹幕飞向我方，造成55%,27.5%,9.9%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="「王」迅速驾「车」远离，而后召唤2个「车」进攻，造成75%伤害；大概率补上3个「马」进攻，每次造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="960" width="448" alpha="0.9" text="「王」生命值达6.25%时，将立即召唤「后」援场，自身离场；直至「后」被击倒，低生命值的「王」才会再次出现并处于「将死」的低抗性状态。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="连逐·丹王巧灼-位移"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" text="长逐·孤后高灼-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1120" width="448" text="险着·縻翼短杀-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="1120" width="448" text="妙着·正后持慑-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="1344" width="448" text="威局·恃高凭远-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="易位·逸车御马-位移"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" text="将和·后驿憩王-防御"/>
+	<mx:Image source="Image17.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1248" y="886" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="1110" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="1110" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="576" y="1334" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="64" y="160" width="256" height="256"/>
+	<mx:Image source="Image26.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image27.png" x="576" y="886" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="「王」召唤「象」，并凌于其上，沿对角线移动，每次移动时「象」均进行落雷进攻，造成70%伤害。「象」被破坏后「王」损失15%/20%/25%生命值。"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="纵着·辗转天象-位移"/>
+	<mx:Image source="Image28.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image29.png" x="64" y="1161" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1119" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1179" width="64" text="后援"/>
+	<mx:Image source="Image30.png" x="64" y="1221" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1239" width="64" text="将死"/>
+</mx:Application>

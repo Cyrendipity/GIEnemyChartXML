@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="-41" y="54" width="467" height="468"/>
+	<mx:Image source="Image4.png" x="84" y="174" width="217" height="228"/>
+	<mx:Text styleName="textStyle" x="64" y="448" width="442" text="无相之雷·协奏曲紫电之光"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="「席拉斯」"/>
+	<mx:Text styleName="textStyle" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：EO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="305" text="HP: 433564 (11.0H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 15665 (6.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="561" width="395" alpha="0.75" text="Electro Hypostasis: Violet Lightning Concerto"/>
+	<mx:Text styleName="textStyle8" x="64" y="651" width="395" alpha="0.75" text="「Siras」"/>
+	<mx:Image source="Image5.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="无相之雷进行猜拳三连击攻击，施放石头-剪刀-布，石头和剪刀均造成70%伤害，布造成100%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="无相之雷只出石头，造成70%伤害，随后停止攻击暴露核心。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="928" width="448" alpha="0.9" text="无相之雷贴地高速旋转，在其周围持续造成25%伤害，其顺时针施放雷晶潮，触碰造成75%伤害，后暴露核心，并留下一个雷元素晶球。"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" alpha="0.9" text="无相之雷蜕去外壳，击飞并造成100%伤害，其将雷柱落下，围成牢笼困锁玩家，并在其间进行雷击，雷击造成50%伤害；雷柱之间会形成屏障，触碰屏障造成1-10点伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="672" width="448" alpha="0.9" text="无相之雷蜕去外壳，击飞并造成100%伤害，雷立方围着无相之雷，发射8道逆时针旋转的激光，接触造成40%伤害；激光施放完毕后，无相之雷剧烈收缩造成100%伤害，并留下一个雷元素晶球。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="猜拳把戏-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="猜疑之拳-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="864" width="448" text="雷晶潮漾-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="608" width="448" text="银索卦围-控制"/>
+	<mx:Text styleName="textStyle10" x="1408" y="608" width="448" text="长光霆罚-限制"/>
+	<mx:Text styleName="textStyle10" x="736" y="384" width="448" text="霆闪投击-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="384" width="448" text="墙封·循泳-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="1088" width="448" text="电气紫晶-妨害"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1088" width="448" text="濒亡·如雷-复苏"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" alpha="0.9" text="无相之雷开阵，8个雷立方围成一圈暴露核心，其依次将雷立方转化为雷球发射，雷球碰到造成25%伤害，爆炸造成50%伤害，共计发射3枚雷球。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" alpha="0.9" text="无相之雷将外壳化为成两面墙，随后夹击，造成100%伤害。夹击时生成3个游离的雷球，碰到造成25%伤害，爆炸造成50%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1152" width="448" alpha="0.9" text="存在于至纯无相之雷的场地上，可被雷元素激活，激活后产生脉冲，造成100%伤害，可被元素反应失活。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1152" width="448" alpha="0.9" text="生命值低于5%时，无相之雷召唤3种雷棱镜，复苏持续15s，每个雷棱镜/大雷棱镜恢复9%/12%生命值，每1/2/3个雷立方晶恢复6%/10%/15%生命值。"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="1268" y="875" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="928" width="448" alpha="0.9" text="无相之雷化成钻头向前突进，接触造成50%伤害，若持续接触则额外再造成25%伤害；技能施放完毕后会接上其他技能。"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="448" text="荷雷锥尖-辅助"/>
+	<mx:Image source="Image10.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="1099" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="1078" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="64" y="1104" width="448" alpha="0.75" text="雷柱：4.4雷盾，击破可破坏附近的雷屏障。电气紫晶：2雷盾，击破可使其停用。3种雷棱镜：大雷棱方：4雷盾，击破产生1个雷元素晶球。雷棱镜：3雷盾，击破2个产生1个雷元素晶球。雷立方晶：2雷盾，击破3个产生1个雷元素晶球。"/>
+</mx:Application>

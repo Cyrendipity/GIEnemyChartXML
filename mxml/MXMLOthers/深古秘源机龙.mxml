@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#99440B;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="深古秘源机龙"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 1323651 (56.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="剧情 Lv.80 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 10376 (7.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Primeval Source Dragon Mech"/>
+	<mx:Image source="Image4.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="秘源机龙立即进行划、砸2段普通攻击，依次造成75%,70%伤害；第二段攻击可与小龙共鸣展开护罩，遏制攻击行动。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="若上述技能被小龙遏制，则该爪与小龙将对峙10s，期间另外一爪化为大炮，持续向角色发射火球，造成30%伤害。对峙结束后猛地造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="秘源机龙朝场地内持续喷吐烈焰，逐渐造成15%,20%,30%伤害；可与小龙共鸣展开护罩。"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" alpha="0.9" text="秘源机龙先放射出大量金光织火命中玩家，均造成30%伤害，随后将玩家禁锢，并逐渐持续造成20%,30%,40%伤害。需与小龙共鸣方可解除禁锢状态。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1152" width="448" alpha="0.9" text="秘源机龙初始持有秘源护罩，遭受小龙攻击时会额外失去15%，且在小龙对峙期间尝试破盾则会直接损失50%，护罩破坏后秘源机龙损失20%生命值并瘫痪。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="型装擘爪-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="峙以烬攻-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="镌焰浊焚-猛攻"/>
+	<mx:Text styleName="textStyle9" x="736" y="864" width="448" text="樊金滞纹-限制"/>
+	<mx:Text styleName="textStyle9" x="736" y="1088" width="448" text="深古燃铭-天赋"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="576" y="630" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="秘源护罩：142.86%生命值盾(10/7)。击破后瘫痪14s。"/>
+	<mx:Image source="Image7.png" x="596" y="876" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="856" width="168" height="168"/>
+	<mx:Image source="Image13.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>

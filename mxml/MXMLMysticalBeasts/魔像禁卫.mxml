@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1312" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#99440B;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="魔像禁卫"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：WP[75,50,25],WO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 221840 (4.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 12311 (5.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="512" width="395" text="黄金乐章的守卫者"/>
+	<mx:Text styleName="textStyle8" x="64" y="555" width="439" alpha="0.75" text="Guardian of the Golden Symphony"/>
+	<mx:Text styleName="textStyle9" x="64" y="465" width="395" alpha="0.75" text="Praetorian Guard"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="256" width="448" alpha="0.9" text="禁卫进行2段普通攻击，其依次造成50%,80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="禁卫架势，举起大剑，朝下一劈，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" alpha="0.9" text="禁卫将剑插入地面，在玩家处召唤魔音，持续鼓动造成40%伤害，鼓动数次后爆裂，造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="928" width="448" alpha="0.9" text="禁卫架起大剑，旋转3圈并朝玩家移动，其依次造成60%,80%,100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1152" width="448" alpha="0.9" text="禁卫用力劈出一刀，产生火刃，造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="192" width="448" text="于剑戈舞-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="416" width="448" text="于地焦炎-猛攻"/>
+	<mx:Text styleName="textStyle11" x="736" y="640" width="448" text="于音残响-定点"/>
+	<mx:Text styleName="textStyle11" x="736" y="864" width="448" text="于焰斫毁-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="1088" width="448" text="于锷具形-输出"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="64" y="1128" width="448" alpha="0.75" text="白石之躯：12岩盾，击破后将瘫痪8s。"/>
+	<mx:Image source="Image5.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="64" y="1061" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="940" width="64" text="带甲起身"/>
+	<mx:Text styleName="textStyle14" x="0" y="1019" width="64" text="带甲"/>
+	<mx:Text styleName="textStyle14" x="0" y="1079" width="64" text="破甲"/>
+	<mx:Image source="Image7.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>

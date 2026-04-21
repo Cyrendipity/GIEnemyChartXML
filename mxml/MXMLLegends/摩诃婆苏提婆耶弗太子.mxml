@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1248" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A28631;
+		}
+		.textStyle6 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="168"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="1387" y="64" width="469" alpha="0.5" text="元素能量：GP[75,50,25,0],GO[0]"/>
+	<mx:Text styleName="textStyle3" x="736" y="224" width="448" alpha="0.9" text="太子立即快速冲来，接触后立即翻起，造成60%伤害。"/>
+	<mx:Text styleName="textStyle3" x="736" y="480" width="448" alpha="0.9" text="太子帽盖一亮，迅速旋转一圈，造成60%伤害，可连续施放多次。"/>
+	<mx:Text styleName="textStyle3" x="736" y="736" width="448" alpha="0.9" text="枯焦状态的大招。太子变大，随后翻身一跃，下落同时借力弹起，该过程重复6次，第1-5次造成60%伤害，第6次造成100%伤害，技能结束后不清空计量条。"/>
+	<mx:Text styleName="textStyle3" x="1408" y="224" width="448" alpha="0.9" text="太子发射2枚辛蕈果，造成60%,42%伤害，可连续施放多次。"/>
+	<mx:Text styleName="textStyle3" x="1408" y="480" width="448" alpha="0.9" text="太子用帽盖朝前方迅速顶击一次，造成25%伤害。"/>
+	<mx:Text styleName="textStyle3" x="1408" y="736" width="448" alpha="0.9" text="激化失控的大招，太子变大不移动，在中央胡乱抛洒香弥果，落地造成80%伤害，技能结束后退至枯焦状态，并将计量条重置为一半。"/>
+	<mx:Text styleName="textStyle4" x="736" y="160" width="448" text="西域蕈客-位移  枯焦"/>
+	<mx:Text styleName="textStyle4" x="736" y="416" width="448" text="鲜腴之滋-输出  枯焦"/>
+	<mx:Text styleName="textStyle4" x="736" y="672" width="448" text="印香深刻-爆发  枯焦"/>
+	<mx:Text styleName="textStyle4" x="1408" y="160" width="448" text="有香自来-远程  枯焦"/>
+	<mx:Text styleName="textStyle4" x="1408" y="416" width="448" text="守方正味-输出  正常"/>
+	<mx:Text styleName="textStyle4" x="1408" y="672" width="448" text="沁香妙赐-爆发  活化"/>
+	<mx:Text styleName="textStyle5" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle6" x="64" y="384" width="460" text="摩诃婆苏提婆耶弗太子"/>
+	<mx:Text styleName="textStyle7" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle8" x="64" y="512" width="305" text="HP: 5374476 (88.2F)"/>
+	<mx:Text styleName="textStyle8" x="64" y="704" width="453" text="HP: 1050221 (18.937F) 21.47%"/>
+	<mx:Text styleName="textStyle9" x="64" y="480" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle9" x="64" y="672" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle8" x="64" y="560" width="375" text="ATK: 39162 (15.0B2)"/>
+	<mx:Text styleName="textStyle8" x="64" y="752" width="375" text="ATK: 22160 (9.0B2) 60%"/>
+	<mx:Text styleName="textStyle10" x="64" y="427" width="395" alpha="0.75" text="Prince Mahavasudeva-Yava"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="64" y="608" width="375" text="Wt/Ed: 200/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="800" width="375" text="Wt/Ed: 200/4000"/>
+	<mx:Image source="Image5.png" x="64" y="1033" width="484" height="60"/>
+	<mx:Text styleName="textStyle11" x="64" y="1100" width="448" alpha="0.75" text="草计量条：计量上限300。太子受到草元素攻击后，会根据草元素的量积攒0.05n%(15n)或0.03%(10)计量，攒满后进入正常状态，同时计量条开始衰减，每秒-13(地方传奇)/-17(历经百战)，衰减完毕后转为枯焦状态，衰减期间仍可使用草元素充能。正常状态下，抗打断1000。"/>
+	<mx:Text styleName="textStyle12" x="0" y="990" width="64" text="枯焦"/>
+	<mx:Text styleName="textStyle12" x="0" y="1050" width="64" text="正常"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle4" x="736" y="928" width="448" text="隅古方新-天赋"/>
+	<mx:Text styleName="textStyle3" x="736" y="992" width="1024" alpha="0.9" text="太子初始处于具有高抗的枯焦状态，并存在一草计量条，使得其在枯焦/正常/活化状态之间来回切换。枯焦：默认状态，枯焦或正常状态下受到火元素攻击后，计量条直接清空并转为枯焦状态。正常：使用草元素攻击充能计量条，充满计量条后，移除高抗并眩晕16s，同时计量条开始衰减，衰减的计量依旧可以充能，衰减完毕后转为枯焦状态。活化：正常状态下触发超激化反应可被计数，该激化计数存在3s判定CD，当该计数达3后立即失控，并施放「沁香妙赐」，随后退回枯焦状态。"/>
+	<mx:Image source="Image7.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="918" width="168" height="170"/>
+</mx:Application>

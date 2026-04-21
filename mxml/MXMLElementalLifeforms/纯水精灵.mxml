@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1728" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="648"/>
+	<mx:Image source="Image3.png" x="0" y="214" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="640" width="448" text="纯水精灵"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="768" width="305" text="轻策的净水之主"/>
+	<mx:Text styleName="textStyle4" x="64" y="1088" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HO[0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="928" width="305" text="HP: 551809 (14.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="896" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="976" width="375" text="ATK: 23497 (9.0B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="1024" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="721" width="395" alpha="0.75" text="Oceanid"/>
+	<mx:Text styleName="textStyle9" x="64" y="811" width="395" alpha="0.75" text="Oceanid of Qingce"/>
+	<mx:Image source="Image4.png" x="64" y="1133" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="纯水精灵砸向平台，使该平台沉入水下，被纯水精灵砸到造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="幻形蛙或幻形雀被击败后，被消灭后产生水弹，爆炸造成等同于纯水精灵83.3%攻击力的伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="水土流失-妨害"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="凝幻水弹-亡语"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="64" y="1264" width="448" alpha="0.75" text="纯水幻形：水弹落在角地砖，召唤3个一组的幻形鹤或幻形飞鸢；水弹落在边地砖，召唤1个一组的幻形雀或幻形蛙；水弹落在中心地砖，召唤2个一组的幻形游禽、幻形豕兽、幻形花鼠、幻形蟹；"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="纯水精灵吐出1或2个水泡，水泡在平台上形成对应的纯水幻形。第三次及之后喷吐2个水泡。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="若长时间未击败纯水幻形，纯水精灵在玩家位置生成漩涡，持续造成50%伤害，3s后爆炸，造成200%伤害，以上伤害闪避帧均无效。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="纯水精灵挥动左/右鳍部向下猛击，造成66.6%伤害，二阶段后会在此位置产生水爆，造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="纯水精灵翻空，挥动尾鳍部向下猛击，造成100%伤害，二阶段后会在此位置产生3道水爆，各造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="纯水精灵后空翻贴地冲刺，造成1-2段33.3%伤害，可重复2-4次。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1344" width="448" alpha="0.9" text="纯水精灵用双鳍汇聚出1-3个追踪水弹，水弹可被攻击打碎，水弹接触爆炸造成80%,40%,20%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1568" width="448" alpha="0.9" text="纯水精灵开始蓄力，标记玩家，片刻后喷出巨大喷流，持续造成33.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1344" width="448" alpha="0.9" text="纯水精灵潜地后冒出，并携带2-4个追踪小水泡后发射，水泡可被攻击击碎，造成66.6%,33.3%,16.6%,6.66%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1568" width="448" alpha="0.9" text="纯水精灵蓄力产生巨大的水球，几秒后落地，产生巨大水波，水波造成两段133.3%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="纯水精灵召唤3或5个水漩涡，漩涡将持续造成13.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="纯水精灵挥动左/右鳍部转身猛击，造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="生命值低于81%时，纯水精灵召唤4个纯水幻形，然后隐蔽身形。每击败一个纯水幻形，就会使纯水精灵扣除5%生命值，全击败使其现形进入二阶段。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="林野百态-召唤"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="水刃漩涡-蓄爆"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="纵向水刀-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="竖向水刀-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="1056" width="448" text="洪流翻涌-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="1280" width="448" text="净水濯洗-追踪"/>
+	<mx:Text styleName="textStyle11" x="736" y="1504" width="448" text="巨浪喷流-锁定"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1280" width="448" text="浑水抓鱼-追踪"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1504" width="448" text="杀生潮涌-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1056" width="448" text="苦水翻腾-限制"/>
+	<mx:Image source="Image5.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="横向水刀-防卫"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="林野幻化-隐蔽"/>
+	<mx:Image source="Image7.png" x="64" y="320" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="596" y="1291" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="576" y="1270" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="1268" y="1291" width="128" height="128"/>
+	<mx:Image source="Image29.png" x="1248" y="1270" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="596" y="1515" width="128" height="128"/>
+	<mx:Image source="Image31.png" x="576" y="1494" width="168" height="170"/>
+	<mx:Image source="Image32.png" x="1268" y="1515" width="128" height="128"/>
+	<mx:Image source="Image33.png" x="1248" y="1494" width="168" height="170"/>
+</mx:Application>

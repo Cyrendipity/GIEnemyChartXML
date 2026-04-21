@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1144" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="64"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="644" y="115" width="1147" height="1024"/>
+	<mx:Image source="Image4.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="442" text="影"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="375" text="一心净土的主人"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 2218401 (40.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="341" alpha="0.75" text="首领-梦想一心形态 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 22160 (9.0B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/500"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="Ei"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Master of the Euthymic Plane"/>
+	<mx:Image source="Image5.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="影使用手上的梦想一心，进行至多5段的普通攻击，第4段具有突进和收回两个过程；5段普攻依次造成33.3%,33.3%,33.3%,33.3%+16.6%,50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="离影较远时，影收起梦想一心迅速朝玩家冲击，并施放两段斩击，冲击造成8.3%伤害，两段斩击分别造成8.3%,66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="处于影身后时，影立即转身斩击，造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="影使用手上的梦想一心，进行至多3段的范围横劈攻击，3段普攻依次造成16.6%,16.6%,50%伤害，"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="影依次斩出3个雷轮，每个雷轮造成33.3%伤害，最后水平劈出一道雷刃，造成50%伤害。"/>
+	<mx:Image source="Image6.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="影作刀势，在场地上依次召唤1-3个闪烁的雷眼，接触造成4段5.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="影用梦想一心画圈后将其举向天空，召唤9个雷球在场地边缘以顺时针顺序下落，雷球下落造成66.6%伤害，留下雷痕持续造成12.5%伤害；雷球全落下后影在场地中间施放次元斩，造成4段33.3%伤害(闪避帧无效)，最后碎屏斩造成100%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="夙念如决-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="刀光紫影-位移"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="霆震裁决-防卫"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="寂物刈斩-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="光转爿轮-远程"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="烁光电络-定点"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="四海归寂-爆发"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image8.png" x="79" y="64" width="241" height="256"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="影进行旋斩、冲击、旋斩最多3段的普通攻击，3段攻击依次造成16.6%x2,16.6%,58.3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="尘世如影-输出"/>
+	<mx:Image source="Image21.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="822" width="168" height="170"/>
+</mx:Application>

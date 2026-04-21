@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1144" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#E3D3C4;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#E3D3C4;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="485" text="巴窟纳瓦"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="363" text="HP: 12472648 (200.0F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="剧情首领 Lv.104 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 21272 (8.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 9999999/4000"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Bakunawa"/>
+	<mx:Image source="Image11.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="巴窟纳瓦将玩家吸引至跟前，随后挥一耳光，造成100%伤害，该技能可被「厄水之祸」反制。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="672" width="448" alpha="0.9" text="失去双臂后，巴窟纳瓦抬起下肢，重跺一脚，造成100%伤害。"/>
+	<mx:Image source="Image12.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle9" x="64" y="512" width="305" text="层侵的躯块"/>
+	<mx:Text styleName="textStyle10" x="64" y="555" width="395" alpha="0.75" text="Permeated Body"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="巴窟纳瓦重重锤下右拳，对玩家进行重拳出击，造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" alpha="0.9" text="失去双臂后，巴窟纳瓦从断臂处射出数十枚冰棘，并朝着玩家如数散落，造成70%伤害(难以命中)；冰棘在一段时间后引爆，造成50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="霜炙随巨浪-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="霏雪压荒渊-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="寒锋遮晴霁-远程"/>
+	<mx:Image source="Image13.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="罡风折岩掌-猛攻"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="时闻掷踵声-输出"/>
+	<mx:Image source="Image16.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" alpha="0.9" text="巴窟纳瓦手搓一枚螺旋弹，随即朝玩家施放，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="万烬连踪灭-远程"/>
+	<mx:Image source="Image18.png" x="576" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="672" width="448" alpha="0.9" text="失去双臂后，巴窟纳瓦张开大胃袋，将一切尽数纳入其间，10s后发射寒飓之息，秒杀我方前台角色，该技能可被「厄水之祸」克制。"/>
+	<mx:Text styleName="textStyle8" x="736" y="896" width="1024" alpha="0.9" text="战斗中可以使用「厄水之祸」中的大灵力量战斗。在成功反制巴窟纳瓦的「罡风折岩掌」技能后，「厄水之祸」将会给予其一次重伤攻击，使巴窟纳瓦失去一臂并扣除30%生命值 (但巴窟纳瓦会因此恢复20%生命值)；在巴窟纳瓦「霏雪压荒渊」技能期间可蓄力使用「厄水之祸」的大灵进行克制，能将其打入残血状态，之后「厄水之祸」将会给予其一次致命攻击，封印巴窟纳瓦。未及时克制巴窟纳瓦，其将恢复至50%生命值。"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="厄水之秘引-克制"/>
+	<mx:Image source="Image19.png" x="576" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="1335" y="64" width="521" alpha="0.5" text="元素能量：NA"/>
+</mx:Application>

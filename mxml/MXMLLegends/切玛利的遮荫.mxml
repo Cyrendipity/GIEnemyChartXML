@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2171B1;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="506" text="切玛利的遮荫"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[75,50,25,0],HO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 2193664 (36.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 23497 (9.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 10000/210"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="443" alpha="0.75" text="Chemaris’s Shade"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="导源引理-召唤"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" text="亘缘海泉-定点"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" text="一泓濯界-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="736" width="448" text="败众淮渊-爆发"/>
+	<mx:Text styleName="textStyle9" x="1408" y="736" width="448" text="噬众灏浪-爆发"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="「遮荫」在前方召唤出2枚水泡，水泡缓慢追踪玩家并崩破，每个水泡造成50%伤害。水泡可冻结，可击回破盾。"/>
+	<mx:Text styleName="textStyle10" x="736" y="512" width="448" alpha="0.9" text="「遮荫」在玩家处召唤流泉，造成一次100%伤害。流泉可冻结，可抵挡「败众淮渊」的伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="512" width="448" alpha="0.9" text="「遮荫」朝玩家方向蓄力，迸发水元素冲流，造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="800" width="448" alpha="0.9" text="「遮荫」召出6股流泉，各造成100%伤害；接着进行长达10s的喷流，持续造成250%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="800" width="448" alpha="0.9" text="「遮荫」进行蓄力，重新形成流泉之灵界；场地边缘开始出现缓慢朝其移动的水泡，尝试接触会造成50%伤害；接着进行长达30s的蓄力过程。蓄力完成后，将进行一次涌海裂罚，造成400%伤害。"/>
+	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="水泡：可被冰冻结，冻结后可被重击击回，命中护盾则-64水并造成440%基础倍率的伤害；若在技能「噬众苦泉」期间被「遮荫」吸收，则护盾+64水。流泉：可被冰冻结，冻结后可抵挡「败众淮渊」的伤害，流泉之灵界：320水盾，开局自带，击破后可瘫痪「遮荫」10s，并使其受到的伤害提升100%。"/>
+	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
+	<mx:Image source="Image4.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="「遮荫」飞快使用自身翼片旋转，造成20%x3伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="深翎流尘-输出"/>
+	<mx:Image source="Image10.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>

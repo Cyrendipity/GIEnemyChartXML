@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="200"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="54" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="448" text="无相之水"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="「希伊」"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[0x2],HO[66,33]"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" text="HP: 354734 (9.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 23497 (9.0B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="561" width="395" alpha="0.75" text="Hydro Hypostasis"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="「He」"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="无相之水召唤的天蓝色史莱姆，其周期性喷吐疗愈晶球，晶球追踪无相之水，其治疗量对于角色为50%生命值上限，对于无相之水为10%生命值上限。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="无相之水在空中翻涌，顷刻便扎入地里，造成33.3%伤害(闪避帧无效)。施放该技能后的25s内，场地将随机出现成对的水泡，触碰造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="无相之水生命值低于5%时进行复苏，复苏持续20s，复苏时汇聚的水泡爆炸无伤害，爆炸召唤濒死水滴，水滴落地时造成33.3%伤害，每个水滴恢复无相之水15%生命值。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="无相之水从场地边缘唤出8个水轴，其不断朝中央滚动，每个水轴触碰造成66.6%伤害，水轴最后漏入中心，引起水爆，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="无相之水化为高速旋转的水龙卷，预判玩家并在其下方生成3片雨区，每片雨区持续造成33.3%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="无相之水幻化成群鱼，从远处下潜跃出命中玩家，造成100%伤害(闪避帧无效)，不暴露核心。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="馥郁疗华-愈疗水滴"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="天水共相-控制"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1056" width="448" text="濒亡·涸尽-复苏"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="汇海终囿-爆发"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="浽风溦雨-妨害"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="群鱼之跃-化形"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="初泉成滴-召唤"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="水击鳐形-化形"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="无相之水挤压并汇聚水泡，随后水泡爆炸造成100%伤害(闪避帧无效)，爆炸召唤内鬼水滴和愈疗水滴，水滴着陆造成33.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1407" y="448" width="448" alpha="0.9" text="无相之水幻化成鳐形，向玩家处拍击，同时产生1个方向的水喷，水喷和拍击均造成66.6%,33.3%,16.6%,6.66%伤害。"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle14" x="64" y="1104" width="448" alpha="0.75" text="内鬼水滴：2水盾，击破即击败水滴，靠近即自爆。愈疗水滴：2水盾，击破即击败水滴。濒死水滴：2水盾，全部击破阻止无相之水复苏。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="无相之水汇聚水泡，随后破裂造成66.6%伤害，并暴露核心，同时在场地内召唤跃腾的海豚，海豚跃出造成66.6%伤害，跃入造成16.6%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1056" width="448" text="浮沧起伏-辅助"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="无相之水召唤的深蓝色史莱姆，其始终追踪玩家，靠近时爆炸造成无相之水的31.1%伤害，若爆炸命中无相之水则强制暴露其核心一段时间。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="深藏不露-内鬼水滴"/>
+	<mx:Image source="Image5.png" x="64" y="168" width="255" height="240"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="1077" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="1056" width="168" height="170"/>
+</mx:Application>

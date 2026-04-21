@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/铜锁.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_1.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_2.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_3.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="725" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1379" y="52" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="504" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WP[75,50,25,0x3],WO[0]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="568" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 2924885 <span color="#dddddd">(48.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="535" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">地方传奇 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="616" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 36551<span color="#dddddd"> (14.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="665" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 4000/20000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_4.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="503" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">50</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_5.png')" x="64" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_6.png')" x="64" y="845" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_7.png')" x="184" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_8.png')" x="364" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_9.png')" x="303" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_10.png')" x="244" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_11.png')" x="424" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_12.png')" x="124" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_13.png')" x="66" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/铜锁.assets/Image_15.png')" x="486" y="781">
+			</BitmapImage>
+		</Group>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#96673d" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#96673d">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="912" width="432" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">元素螺栓：储存元素力。以<span color="#ffebbf">上一次清空螺栓开始</span><span>所受到的</span><span color="#ff9999">总和最高</span><span>的</span><span color="#ffebbf">伤害属性</span><span>为准，</span><span color="#99ffcc">不吸收挂着的元素</span><span>，吸收完毕后该元素抗性</span><span color="#ff9999">+120%</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_16.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<RichText x="739" y="223" width="420" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">靠近地巡时，地巡原地旋转一圈，使用尾部齿轮造成<span color="#b8b8b8">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_17.png')" x="720" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_18.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_19.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1411" y="223" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">靠近地巡时，地巡使用头部进行挑击，向左向右各一次，每次造成<span color="#b8b8b8">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">靠近地巡时，地巡使用足部左右各跺一次，每次造成<span color="#b8b8b8">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">远离地巡时，地巡利落的起跳落地，造成<span color="#b8b8b8">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_20.png')" x="1391" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_21.png')" x="1392" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_22.png')" x="720" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_23.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="61" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="192" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">铜锁</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="68" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="174" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">“Bronzelock”</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_24.png')" x="1268" y="620" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_25.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_26.png')" x="596" y="844" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="447" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">离地巡较远时，地巡暴露头部弱点，扭头冲撞过来，造成<span color="#b8b8b8">80%</span><span>伤害，若命中玩家则原地旋转一圈，再造成</span><span color="#b8b8b8">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="428" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">地巡暴露头部弱点，使用两翼汲取元素力或阿索斯能量，向空中抛出13枚散弹，造成<span color="#bfbfff">100%,30%,10%</span><span>对应属性伤害并清空元素螺栓。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">地巡施放「散落洪流」<span color="#ffb299">前</span><span>，会立即吸收合适属性填充</span><span textDecoration="underline">元素螺栓</span><span>，使下一次「散洪流落」技能附上对应属性伤害。瘫痪</span><span color="#ffb299">不</span><span>清空螺栓及其的抗性。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_27.png')" x="719" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_28.png')" x="1391" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_29.png')" x="720" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_30.png')" x="1248" y="600" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_31.png')" x="576" y="824" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_32.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_33.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/铜锁.assets/Image_34.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

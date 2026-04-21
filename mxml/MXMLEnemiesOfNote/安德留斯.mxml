@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1792" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#087D9A;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="712"/>
+	<mx:Image source="Image2.png" x="0" y="1504" width="1920" height="288"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image4.png" x="0" y="424" width="1920" height="1080"/>
+	<mx:Image source="Image5.png" x="682" y="281" width="1024" height="905"/>
+	<mx:Image source="Image6.png" x="0" y="246" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="672" width="460" text="安德留斯"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="800" width="419" text="奔狼的领主"/>
+	<mx:Text styleName="textStyle4" x="64" y="1120" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="928" width="305" alpha="0.75" text="大世界周本 Lv.104 Data"/>
+	<mx:Text styleName="textStyle7" x="64" y="960" width="305" text="HP: 725908 (18.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1008" width="375" text="ATK: 19145 (7.2B1)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1056" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="753" width="395" alpha="0.75" text="Andrius"/>
+	<mx:Text styleName="textStyle9" x="64" y="835" width="395" alpha="0.75" text="Dominator of Wolves"/>
+	<mx:Image source="Image7.png" x="64" y="1165" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="736" y="1184" width="448" alpha="0.9" text="安德留斯抬起身子放出3道风刃，各造成41.6%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1632" width="448" alpha="0.9" text="安德留斯仰起头朝空中咆哮，在全场产生持续性风暴，造成0.416%至8.716%伤害(闪避帧无效)，离安德留斯越远伤害越高(0.166%x距离+0.416%)。"/>
+	<mx:Text styleName="textStyle12" x="736" y="1120" width="448" text="风斫千锷-输出	 二阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1568" width="448" text="荡啸穹帷-爆发	 二阶段"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="安德留斯使用左或右爪迅速划击，造成58.3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="448" width="448" alpha="0.9" text="安德留斯在落地的位置产生寒气，随后跳跃至此，造成83.3%伤害(闪避帧无效)，并产生一个冰元素晶球。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" alpha="0.9" text="安德留斯突然朝前方进行一次疾冲，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" alpha="0.9" text="安德留斯在原地晃动全身，凝聚空气中的水汽，不断产生冰锥下坠，造成25%伤害(闪避帧无效)，持续30s。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1184" width="448" alpha="0.9" text="处在安德留斯身后时，安德留斯甩动尾部，造成58.3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1632" width="448" alpha="0.9" text="生命值低于15%或耗时太久时，安德留斯在玩家附近不断召唤小狼幻影攻击玩家，造成25%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1408" width="448" alpha="0.9" text="安德留斯抬起身子在途经上产生霜面，走在霜面上减速30%，并附着冰元素，随后霜面开始起爆，造成41.6%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" alpha="0.9" text="二阶段时，6个寒石柱出现在场地边缘，若其被安德留斯的风元素技能命中则会延时5s后爆炸，造成66.6%伤害(闪避帧无效)，并产生1-5个冰元素晶球；寒石周围的冰霜持续造成4.16%伤害并减速12%。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="安德留斯在自身位置产生霜气，随后旋转身迅速划击，造成83.3%伤害(闪避帧无效)，并产生一个冰元素晶球。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="安德留斯甩尾，扔出5个冰锥，命中造成25%伤害，同时在命中点产生一个冰簇，片刻后爆炸造成58.3%伤害，留下一个冰元素晶球。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="坚爪涛寒-输出	 一阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="御阵流冰-位移	 一阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="驰间疾袭-位移	 一阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="陨息冻雨-妨害	 二阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1120" width="448" text="阴雪纷尘-防卫	 二阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="1568" width="448" text="魂生凛狼-召唤	 二阶段"/>
+	<mx:Text styleName="textStyle12" x="736" y="1344" width="448" text="白草凇花-妨害	 二阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="冬晶矗石-召唤	 二阶段"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="御阵凕风-输出	 一阶段"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="晶雪重星-远程	 一阶段"/>
+	<mx:Image source="Image8.png" x="64" y="352" width="256" height="256"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" alpha="0.9" text="低于55%生命值或拖太长时间，安德留斯绕场地边缘跑动，跑3圈，前两圈跑完3/4圈直接冲撞，最后一圈跑完起跳下落。被场地边缘跑动的安德留斯撞到造成100%伤害，周围的冰霜地面持续造成16.6%伤害，且减速12%。"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="雾隐遄行-位移	 一阶段"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1408" width="448" alpha="0.9" text="安德留斯使用左或右爪迅速划击，造成58.3%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1344" width="448" text="锋爪翠浪-输出	 二阶段"/>
+	<mx:Text styleName="textStyle14" x="64" y="1296" width="448" alpha="0.75" text="寒石柱：4冻盾，可破坏，但是可再生，受安德留斯风元素技能攻击会进入5s的引信时间，随后爆炸，并清除附近的冰地面。"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="1579" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="1355" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1268" y="1131" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="596" y="1131" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="596" y="1355" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="596" y="1579" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image27.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image29.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image31.png" x="576" y="1110" width="168" height="170"/>
+	<mx:Image source="Image32.png" x="1248" y="1110" width="168" height="170"/>
+	<mx:Image source="Image33.png" x="576" y="1334" width="168" height="170"/>
+	<mx:Image source="Image34.png" x="576" y="1558" width="168" height="170"/>
+	<mx:Image source="Image35.png" x="1248" y="1334" width="168" height="170"/>
+	<mx:Image source="Image36.png" x="1248" y="1558" width="168" height="170"/>
+</mx:Application>

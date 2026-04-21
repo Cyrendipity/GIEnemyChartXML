@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1504" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFE599;
+		}
+		.textStyle5 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#937122;
+		}
+		.textStyle15 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="118" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="544" width="460" text="古岩龙蜥"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1288" width="448" alpha="0.75" text="出场随机获得火水雷冰的一种，并获得20%对应元素的抗性。盾反：护盾必须能扛住该次攻击，方可触发盾反，盾反成功后古岩龙蜥虚弱5s，全抗下降50%。若盾反成功，则按如下扣除古岩龙蜥的生命值：1.若为岩盾或对应元素盾，扣除15%生命值；2.若不为对应元素盾或岩盾，扣除5%生命值。幽谷之庇：40岩盾，继承10/3倍生命值。"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="434" text="曾与「龙王」摇撼山岳的岩龙"/>
+	<mx:Text styleName="textStyle5" x="64" y="992" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle6" x="1387" y="64" width="469" alpha="0.5" text="元素能量：GP[66,33],GO[0]"/>
+	<mx:Text styleName="textStyle7" x="64" y="832" width="305" text="HP: 1182448 (30.0H)"/>
+	<mx:Text styleName="textStyle8" x="64" y="800" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle7" x="64" y="880" width="375" text="ATK: 20886 (8.0B1)"/>
+	<mx:Text styleName="textStyle7" x="64" y="928" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle9" x="64" y="625" width="395" alpha="0.75" text="Primo Geovishap"/>
+	<mx:Text styleName="textStyle10" x="64" y="707" width="407" alpha="0.75" text="Geo Dragon WhoOnce Raged With the King"/>
+	<mx:Image source="Image4.png" x="64" y="1037" width="484" height="124"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="古岩龙蜥使用右爪挥扫，造成40%伤害；古岩龙蜥使用左爪敲地，后拔扯，敲地和拔扯均造成35%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="480" width="448" alpha="0.9" text="古岩龙蜥先用右爪扫击，造成40%伤害，再用左爪划扫，造成50%伤害，最后双爪拍击地面造成62.5%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" alpha="0.9" text="处于古岩龙蜥身后时，古岩龙蜥使用尾部旋扫一圈，造成50%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="古岩龙蜥凝聚自身元素，朝前方扇形区域扫过，造成对应元素的40%,20%,10%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="448" alpha="0.9" text="古岩龙蜥产生的「龙鳞」，不同元素的攻击方式不同：狱火：爆炸造成40%伤害，留下一片熔岩持续造成10%伤害；清涟：在其附近产生7~8次水喷，每个水喷造成20%伤害；青霜：产生三波冰棘，依次造成25%,25%,37.5%伤害；紫电：产生十字雷，造成25%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="704" width="448" alpha="0.9" text="古岩龙蜥翘尾扔出5个对应自身元素的「龙鳞」，没有伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="928" width="448" alpha="0.9" text="当古岩龙蜥的生命值低于20%时，古岩龙蜥抖动全身，飞出数十个对应元素的「龙鳞」，没有伤害。(仅限风来人)晶鳞四处可转换其元素属性，顺序为火水冰雷。"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="离古岩龙蜥较远时，古岩龙蜥深入地下,碰到造成25%伤害，然后冒出捶击地面造成75%伤害，并在途经上留下对应元素的「龙鳞」。(仅限风来人)出地后获得幽谷之庇。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="爪犁天开-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="416" width="448" text="左右开攻-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="640" width="448" text="浮金飘尘-防卫"/>
+	<mx:Text styleName="textStyle12" x="1408" y="416" width="448" text="原素吐息-妨害"/>
+	<mx:Text styleName="textStyle12" x="736" y="864" width="448" text="龙灵残煜-天赋"/>
+	<mx:Text styleName="textStyle12" x="1408" y="640" width="448" text="晶鳞棋布-埋伏"/>
+	<mx:Text styleName="textStyle12" x="1408" y="864" width="448" text="晶鳞四处-埋伏"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="躣岩如沙-瞄准"/>
+	<mx:Text styleName="textStyle14" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image7.png" x="64" y="224" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="64" y="1161" width="484" height="120"/>
+	<mx:Text styleName="textStyle15" x="0" y="1119" width="64" text="起身"/>
+	<mx:Text styleName="textStyle15" x="0" y="1179" width="64" text="正常"/>
+	<mx:Text styleName="textStyle15" x="0" y="1239" width="64" text="弹反"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="428" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="408" width="168" height="168"/>
+	<mx:Image source="Image15.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="652" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="632" width="168" height="168"/>
+	<mx:Image source="Image19.png" x="596" y="876" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="856" width="168" height="168"/>
+	<mx:Text styleName="textStyle11" x="736" y="1312" width="1024" alpha="0.9" text="古岩龙蜥凝聚自身元素之力，朝地面喷射，造成大范围对应元素的100%伤害，若角色受护盾庇护则只受到对应元素的25%伤害。该技能可被盾反。此技能在古岩龙蜥生命值低于15%时不再施放。(仅限风来人)原岩喷吐可转换其元素属性，顺序为火水冰雷。"/>
+	<mx:Text styleName="textStyle12" x="736" y="1248" width="448" text="原岩喷吐-爆发"/>
+	<mx:Image source="Image21.png" x="596" y="1260" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="576" y="1240" width="168" height="168"/>
+	<mx:Image source="Image23.png" x="1268" y="876" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="1248" y="856" width="168" height="168"/>
+</mx:Application>

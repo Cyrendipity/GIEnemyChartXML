@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFBFBF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#96673D;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#F8C9A5;
+		}
+		.textStyle12 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#F8C9A5;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="521" text="木盾丘丘暴徒"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="305" text="HP: 110295 (3.0H)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 5909 (2.4B1)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Wooden Shieldwall Mitachurl"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="736" y="224" width="448" alpha="0.9" text="木盾丘丘持盾朝玩家进行冲击，触碰造成50%伤害，冲击后甩盾，造成100%伤害。该木盾可再生。并且会拍灭燃烧的木盾。"/>
+	<mx:Text styleName="textStyle8" x="736" y="512" width="448" alpha="0.9" text="(无盾)木盾丘丘愤怒拳击两下后冲向玩家，造成50%,100%伤害，最后飞扑过去，造成50%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="800" width="448" alpha="0.9" text="(无盾)木盾丘丘从地里抓出一个草史莱姆，击碎，然后木盾丘丘就有了新的木盾。"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="恶狼奔-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" text="饿狼扑-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="736" width="448" text="碎瓜拳-恢复"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="水牛扫-输出"/>
+	<mx:Text styleName="textStyle7" x="1408" y="224" width="448" alpha="0.9" text="木盾丘丘使用右手进行1段的攻击。有盾：带盾进行挥舞，造成100%伤害；无盾：挥右手，造成75%伤害。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="512" width="448" alpha="0.9" text="木盾丘丘从地里挖出草史莱姆丢出，但造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="512" width="343" text="丘丘暴徒·木盾"/>
+	<mx:Text styleName="textStyle12" x="64" y="555" width="395" alpha="0.75" text="Mitachurl: Wooden Shieldwall"/>
+	<mx:Text styleName="textStyle13" x="1278" y="64" width="578" alpha="0.5" text="元素能量：WP[75,50,25],WO[75,50,25,0]"/>
+	<mx:Image source="Image4.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="726" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" text="胶质布丁-远程"/>
+	<mx:Text styleName="textStyle14" x="64" y="1008" width="448" alpha="0.75" text="木盾：4木盾，烧毁后可再生，可伤害转化。持盾与格挡状态下，抗打断0.65。"/>
+</mx:Application>

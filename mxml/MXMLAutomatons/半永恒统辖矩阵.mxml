@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1728" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#34529E;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#C4C7FB;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#C4C7FB;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="648"/>
+	<mx:Image source="Image3.png" x="0" y="150" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="576" width="508" text="半永恒统辖矩阵"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1024" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WP[0x2],WO[66,33]"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="305" text="HP: 974962 (16.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="832" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="912" width="375" text="ATK: 17231 (6.6B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="960" width="375" text="Wt/Ed: 200/400"/>
+	<mx:Text styleName="textStyle7" x="64" y="628" width="395" alpha="0.75" text="Algorithm of Semi-Intransient Matrix of Overseer Network"/>
+	<mx:Image source="Image4.png" x="64" y="1069" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="矩阵变换出数个折射镜，在领域不断发射并弹射激光，持续造成50%,25%,12.5%,5%伤害，最后发射两束激光持续造成50%,5%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" alpha="0.9" text="矩阵拼接出一个力场屏障并推出，不断推开玩家，接触持续造成40%,20%,10%,4%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="672" width="448" alpha="0.9" text="矩阵在前方汇聚蓄力电磁激光，约4s后发射激光，造成70%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="896" width="448" alpha="0.9" text="矩阵在形成激光发射器，标记瞄准玩家，发射激光持续造成70%,35%,17.5%,7%伤害，激光方向是从玩家左侧到右侧的一个圆弧。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1344" width="448" alpha="0.9" text="垂降部件周期性朝玩家位置进行下落攻击，造成50%伤害；两个垂降部件之间若距离较近，则产生连线，持续造成20%,10%,5%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1600" width="448" alpha="0.9" text="电锯部件周期性朝玩家位置快速移动，持续5s，持续造成50%,25%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1600" width="448" alpha="0.9" text="激光部件周期性朝玩家位置发射激光，造成50%伤害，有穿透性。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1120" width="1024" alpha="0.9" text="矩阵游离出一对电锯部件和激光部件(A)、或者一对锥针和激光部件(B)，进入「不可视」状态，清除自身所有元素附着，所有抗性提升200%，持续60s。对本体使用激化反应或使用雷元素攻击修复中部件即可破除该状态。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="672" width="448" alpha="0.9" text="矩阵蓄力发射大枚锥子，约3s后丢出，造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="896" width="448" alpha="0.9" text="矩阵在累计进入隐蔽状态大于1min后，此时会同时修复6个部件，并在约10s后产生超频冲击，造成100%伤害，使用雷元素命中部件会瘫痪矩阵10s。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" alpha="0.9" text="矩阵架起镜阵，投射12道激光，每个造成50%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="乱镜折射-爆发	 见面"/>
+	<mx:Text styleName="textStyle9" x="736" y="384" width="448" text="力场推进-碰撞	 D"/>
+	<mx:Text styleName="textStyle9" x="736" y="608" width="448" text="电掣流消-输出	 D"/>
+	<mx:Text styleName="textStyle9" x="736" y="832" width="448" text="集束光切-锁定	 A/B"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1280" width="448" text="矩布阵棋-定点	 垂降部件"/>
+	<mx:Text styleName="textStyle9" x="736" y="1536" width="448" text="百辙千旋-跟踪	 电锯部件"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1536" width="448" text="跃闪殛光-瞄准	 激光部件"/>
+	<mx:Text styleName="textStyle9" x="736" y="1056" width="448" text="不可之视-隐蔽"/>
+	<mx:Text styleName="textStyle9" x="1408" y="608" width="448" text="役锥蓦闪-输出	 B"/>
+	<mx:Text styleName="textStyle9" x="1408" y="832" width="448" text="超频冲击-爆发"/>
+	<mx:Text styleName="textStyle9" x="1408" y="384" width="448" text="棱影光幕-输出	 A"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="行锥定凿-定点	 D"/>
+	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="矩阵拼接锥子发射升空，然后坠落造成50%伤害，2s后锥子深凿造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="1320" width="448" alpha="0.75" text="垂降/激光/电锯部件：12盾量的10%生命值盾，继承矩阵生命值上限，其他属性与矩阵相同；每秒消耗0.2直至损毁。修复中的垂降/激光/电锯部件：4草盾，1次雷元素攻击即可，其他元素只反应不消耗。击破后瘫痪矩阵10s。"/>
+	<mx:Text styleName="textStyle12" x="64" y="736" width="416" text="砂原王之梦的守墓者"/>
+	<mx:Text styleName="textStyle13" x="64" y="779" width="395" alpha="0.75" text="Tomb Guard of the Desert King"/>
+	<mx:Image source="Image5.png" x="64" y="1193" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="64" y="1253" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1150" width="64" text="起身"/>
+	<mx:Text styleName="textStyle14" x="0" y="1211" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1271" width="64" text="隐蔽"/>
+	<mx:Image source="Image7.png" x="64" y="256" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="1268" y="1291" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="1248" y="1270" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="1268" y="1547" width="128" height="128"/>
+	<mx:Image source="Image29.png" x="1248" y="1526" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="596" y="1547" width="128" height="128"/>
+	<mx:Image source="Image31.png" x="576" y="1526" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="1344" width="448" alpha="0.9" text="破坏任意类型部件会使该类型部件被一起修复，优先修复电锯与锥针部件。修复时间持续5s。修复后解除矩阵的「不可视」状态。任意部件被损毁后会产生4个全元素晶球。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1280" width="448" text="探伤自愈-恢复"/>
+	<mx:Image source="Image32.png" x="596" y="1291" width="128" height="128"/>
+	<mx:Image source="Image33.png" x="576" y="1270" width="168" height="170"/>
+</mx:Application>

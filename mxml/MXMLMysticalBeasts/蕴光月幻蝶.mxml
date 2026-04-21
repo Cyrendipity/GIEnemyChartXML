@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1536" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FF86;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FF86;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#24A451;
+		}
+		.textStyle14 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="456"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="119" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="544" width="410" text="蕴光月幻蝶"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="672" width="305" text="月下化形的光影"/>
+	<mx:Text styleName="textStyle4" x="64" y="992" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1247" y="64" width="609" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="832" width="305" text="HP: 974962 (16.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="800" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="880" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="928" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="625" width="395" alpha="0.75" text="Radiant Moonfly"/>
+	<mx:Text styleName="textStyle9" x="64" y="715" width="395" alpha="0.75" text="Shifting Shadow Beneath the Moon"/>
+	<mx:Image source="Image4.png" x="64" y="1037" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="幻蝶进行上踢、飞踹连续两段普通攻击，分别造成50%,60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" alpha="0.9" text="幻蝶蓄力，踢出一道翠刃，造成90%伤害，常衔接「死羁咒茧」。"/>
+	<mx:Text styleName="textStyle10" x="736" y="608" width="1024" alpha="0.9" text="幻蝶展开半径25m的苍蕴之域，范围内的玩家全队都会陷入「蕴光之茧」，同时扣除全队角色生命值，将对应角色恢复满生命值才可解除，并转为「出缠」效果。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1168" width="448" alpha="0.75" text="蕴光之茧：暴击率-100%，造成的伤害-50%，受治疗加成-40%；施加时，扣除全队角色10%+1800点生命值，若角色生命值低于7200点，则改为扣除35%生命值，可致命但可开大招躲避；主动治疗清除后获得「出缠」效果。出缠：暴击率+15%，造成的伤害+50%，持续15s。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="蔓杪轻跹-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="352" width="448" text="细裁春风-远程"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="苍莽重蹴-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="352" width="448" text="青轮三叶-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="736" width="448" text="翠蔚馨风-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="1120" width="448" text="繁林微光-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="1312" width="448" text="绚斓一新-爆发"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="幻蝶接近玩家，突然发动踢踹，造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="416" width="448" alpha="0.9" text="幻蝶利用悬骸进行打击，造成60%伤害，接着倏然起身，发射一枚三叶组成的镟轮，造成70%伤害，常衔接「死羁咒茧」。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="800" width="448" alpha="0.9" text="幻蝶倒转地进行扑棱攻击，造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1184" width="448" alpha="0.9" text="幻蝶发射2-4枚焚烨弹，每枚均造成50%伤害，由「繁林微光」期间受到火元素伤害转变。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1376" width="448" alpha="0.9" text="幻蝶凝聚月之下的躁动火元素之力，发生大爆炸，造成100%伤害，并瘫痪15s。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="992" width="448" alpha="0.9" text="幻蝶挥动鳞翅扫出灼灰散弹，造成25%伤害，持续2-4次。"/>
+	<mx:Text styleName="textStyle10" x="736" y="800" width="448" alpha="0.9" text="幻蝶扑腾地旋转进行扫荡，造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1184" width="448" alpha="0.9" text="幻蝶发射2-4枚草叶弹，每枚均造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1376" width="448" alpha="0.9" text="幻蝶凝聚月之下的微光草元素之力，发生大爆炸，造成100%伤害，并瘫痪15s。"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="224" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="1268" y="363" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="364" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="1131" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1268" y="1131" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="555" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="1323" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="1323" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1268" y="939" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="342" width="168" height="170"/>
+	<mx:Text styleName="textStyle14" x="1408" y="736" width="448" text="寂浪焮风-召唤"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1120" width="448" text="萧林焚光-远程"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1312" width="448" text="焕燃一星-爆发"/>
+	<mx:Text styleName="textStyle12" x="1408" y="928" width="448" text="秋火飞明-远程"/>
+	<mx:Image source="Image20.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="576" y="151" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="576" y="343" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="576" y="534" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="736" y="544" width="448" text="死羁咒茧-妨害"/>
+	<mx:Image source="Image24.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="1248" y="918" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" text="春叶飞荧-远程"/>
+	<mx:Text styleName="textStyle10" x="736" y="992" width="448" alpha="0.9" text="幻蝶挥动鳞翅扫出茁辉散弹，造成25%伤害，持续2-4次，由「秋火飞明」期间受到冰/水元素伤害转变。"/>
+	<mx:Image source="Image26.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="576" y="1110" width="168" height="170"/>
+	<mx:Image source="Image29.png" x="576" y="1302" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="1248" y="1110" width="168" height="170"/>
+	<mx:Image source="Image31.png" x="1248" y="1302" width="168" height="170"/>
+</mx:Application>

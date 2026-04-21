@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1248" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#99440B;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle12 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Image source="Image4.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="651" width="128" height="128"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="焚燃·大灵显化身"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：PP[60,0x2]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 388220 (7.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 11326 (4.6B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle7" x="64" y="436" width="395" alpha="0.75" text="Burning-Aflame Wayob Manifestation"/>
+	<mx:Image source="Image8.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="焚燃化身进行蓄力，凝聚燃炎之怒，向前发射9枚带追踪性的火焰弹，造成40%,20%,10%,4%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="焚燃化身朝玩家方向蓄力，迸发燃素湍流，造成70%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="焚燃化身依次在玩家位置召唤6道燃素流束，每道造成30%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" alpha="0.9" text="焚燃化身即刻展开试炼领域，并获得白护盾，从领域内不断产生向外的互相垂直的4道聚曜之光，造成多段23.3%伤害(闪避帧无效)，重复3回，最后收回领域并产生烈阳熔淤，造成100%伤害，所剩的护盾将转为等量花羽之灵御。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="千星挟焰-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="一虹灼界-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="曦阳弥雨-定点"/>
+	<mx:Text styleName="textStyle9" x="736" y="864" width="448" text="煜光潋影-爆发"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="512" width="416" text="夜晚与游灵的代行"/>
+	<mx:Text styleName="textStyle12" x="64" y="555" width="395" alpha="0.75" text="Envoy of Night and Wandering Spirits"/>
+	<mx:Image source="Image9.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="64" y="1008" width="448" alpha="0.75" text="试炼领域：焚燃化身展开的特殊领域，此领域内玩家造成的伤害提升120%，其内的角色造成的夜魂伤害则额外提升60%，但会不断流失元素能量(不影响特殊能量)。白护盾：111.4%生命值盾，击破后返还90元素能量(不含特殊能量)，并瘫痪焚燃化身5s。花羽之灵御：48火盾，击破后可瘫痪焚燃化身5s。一般由等量的白护盾转化而来。重复获得白护盾会使其衰减，其序列为111.4%/73.52%/36.76%；具体的计算公式见「窟岩·大灵显化身」。"/>
+	<mx:Image source="Image13.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>

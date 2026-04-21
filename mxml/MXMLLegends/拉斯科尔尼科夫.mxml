@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1536" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AD4218;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="456"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="466" text="拉斯科尔尼科夫"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：PP[75,50,25,0],PO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="384" text="HP: 5861957 (96.2F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 26108 (10.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="447" text="HP: 1136930 (20.5F) 21.31%"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 12311 (5.0B2) 50%"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Raskolnikov"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="靠近中尉时，中尉立即一个拔刀突袭，造成70%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="中尉架起火长枪，朝玩家发射连续3波的火焰弹，前两波造成50%,5%伤害，第三波造成80%,8%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="中尉冲击而来，并顺势对地猛击，依次造成50%,90%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" alpha="0.9" text="中尉启动武器，进行长达6段的持续攻击，依次造成40%,50%,40%,50%,70%,100%伤害。武器属「单极」物件，可被月矩力干扰。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="转刃突火-防御"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="绳枪游炎-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="逐焰长锋-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="864" width="448" text="戕敌赤影-输出"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="1284" width="448" alpha="0.75" text="实验型多重护罩：生命盾，一共3层，每层继承自身3或6%(深渊)生命值，每0.5s恢复1/30或7/120层(对应0.1%与0.35%生命值)不会跨层恢复，每击破一层会使其失去6%生命值，并掉落6枚雷元素微粒。护罩期间中尉所受的感电和月感电伤害分别提升600%和200%。护罩成功击破后，后续中尉的雷抗将下降，直至下一次成功开启护罩。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1152" width="448" alpha="0.9" text="中尉移至场地中央，展开持续30s的实验型多重护罩，每隔3.5s向场地内召唤3道落雷，造成50%伤害，持续9轮。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1376" width="448" alpha="0.9" text="开启护罩30s后，中尉关闭护罩，转为召唤追踪玩家位置的落雷，依次召唤至多3道，造成100%伤害，一层护罩对应一道。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1088" width="448" text="且试玄位-防御"/>
+	<mx:Text styleName="textStyle9" x="736" y="1312" width="448" text="机霆雷矩-爆发"/>
+	<mx:Image source="Image5.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle13" x="0" y="1106" width="64" text="开盾前摇"/>
+	<mx:Image source="Image6.png" x="64" y="1157" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1174" width="64" text="虚弱"/>
+	<mx:Image source="Image7.png" x="64" y="1217" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="1226" width="64" text="破盾恢复后"/>
+	<mx:Image source="Image8.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="1323" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="1302" width="168" height="170"/>
+</mx:Application>

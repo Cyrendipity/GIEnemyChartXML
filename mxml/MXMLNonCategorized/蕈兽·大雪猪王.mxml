@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1144" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#1595BF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="305" text="HP: 2411055 (99.0H)"/>
+	<mx:Text styleName="textStyle4" x="64" y="512" width="305" alpha="0.75" text="精英 Lv.90 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="592" width="375" text="ATK: 9516 (5.0B1)"/>
+	<mx:Text styleName="textStyle3" x="64" y="640" width="375" text="Wt/Ed: 10000/400"/>
+	<mx:Image source="Image4.png" x="64" y="941" width="484" height="124"/>
+	<mx:Text styleName="textStyle5" x="736" y="256" width="448" alpha="0.9" text="大雪猪王突然猛冲，造成40%伤害。"/>
+	<mx:Text styleName="textStyle5" x="736" y="480" width="448" alpha="0.9" text="大雪猪王锁定蕈兽，朝蕈兽冲来，造成100%伤害，在冲刺终点可造成216.4%伤害。"/>
+	<mx:Image source="Image5.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="630" width="168" height="170"/>
+	<mx:Text styleName="textStyle5" x="736" y="704" width="448" alpha="0.9" text="大雪猪王召唤1个雪猪，雪猪周期性扔出雪球，均造成20%雪猪攻击力的伤害。击败雪猪可获得寒冷祝福。"/>
+	<mx:Text styleName="textStyle5" x="736" y="928" width="448" alpha="0.9" text="大雪猪王锁定蕈兽，在原地猛烈跳动地板，造成100%伤害，并在周围产生诸多下落的雪球，造成100%伤害，有玩家倾向，持续8轮后结束。"/>
+	<mx:Text styleName="textStyle6" x="736" y="192" width="448" text="猪突猛进-位移"/>
+	<mx:Text styleName="textStyle6" x="736" y="416" width="448" text="寒流冲锋-爆发"/>
+	<mx:Text styleName="textStyle6" x="736" y="640" width="448" text="雪猪助阵-召唤输出"/>
+	<mx:Text styleName="textStyle6" x="736" y="864" width="448" text="怒雪地覆-爆发"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="576" y="128" width="629" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle9" x="64" y="384" width="533" text="冷冷冰牙·隆隆雪崩！"/>
+	<mx:Text styleName="textStyle10" x="64" y="436" width="395" alpha="0.75" text="Frigid Fang: Avalanche"/>
+	<mx:Image source="Image7.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" text="HP: 95781 (3.933H)"/>
+	<mx:Text styleName="textStyle4" x="64" y="704" width="305" alpha="0.75" text="动物-雪猪-幻戏召唤 Lv.90 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="784" width="375" text="ATK: 1903 (1.0B1)"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="375" text="Wt/Ed: 10000/210"/>
+	<mx:Image source="Image12.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="182" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="64" y="1072" width="448" alpha="0.75" text="寒冷祝福：获得继承50%生命值的护盾，持续15s。"/>
+</mx:Application>

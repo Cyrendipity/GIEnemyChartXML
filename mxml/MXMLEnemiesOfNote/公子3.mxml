@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1824" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#CCBFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8E1498;
+		}
+		.textStyle15 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="744"/>
+	<mx:Image source="Image3.png" x="0" y="874" width="1920" height="950"/>
+	<mx:Image source="Image4.png" x="736" y="494" width="870" height="905"/>
+	<mx:Image source="Image5.png" x="0" y="246" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="672" width="460" text="「公子」"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="800" width="419" text="别看了这里没有"/>
+	<mx:Text styleName="textStyle4" x="64" y="1120" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1237" y="64" width="619" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="928" width="305" alpha="0.75" text="周本-第三阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle7" x="64" y="960" width="305" text="HP: 243541 (10.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1008" width="375" text="ATK: 26644 (14.0B1)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1056" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="753" width="395" alpha="0.75" text="「Childe」"/>
+	<mx:Text styleName="textStyle9" x="64" y="835" width="395" alpha="0.75" text="Nothing There"/>
+	<mx:Image source="Image6.png" x="64" y="1165" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="公子使用手中的邪刃进行3段普攻，第一段与第二段分别造成25%,35%伤害；第三段扔出邪枪，造成25%伤害；邪枪在前方旋转，持续造成4次15%伤害，命中均施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="处在公子近身时，公子使用手中的邪刃先右斩再左斩，各造成25%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" alpha="0.9" text="公子在每个玩家处召唤并落下4个雷枪，造成一次50%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" alpha="0.9" text="断流效果下，公子使用雷环标记玩家，升空几秒后落在圈的位置，5m内造成100%伤害，外围造成50%伤害(闪避帧均无效)，命中引爆「断流」效果。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="704" width="448" alpha="0.9" text="断流效果下，公子扔出手中的邪枪，邪枪绕场地滚动，触碰造成40%伤害，命中施加「断流·雷」效果，一段时间后邪枪消失。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="公子使用手中的邪枪进行至多5段冲刺，每次均造成37.5%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="480" width="448" alpha="0.9" text="处在公子身后时，公子挥转手中的邪枪向后斩击，造成50%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle13" x="736" y="160" width="448" text="邪闪秽雷-输出"/>
+	<mx:Text styleName="textStyle13" x="736" y="416" width="448" text="银索霎闪-输出"/>
+	<mx:Text styleName="textStyle13" x="736" y="640" width="448" text="霓云雳雨-瞄准"/>
+	<mx:Text styleName="textStyle13" x="736" y="864" width="448" text="殛恶绝陨-爆发"/>
+	<mx:Text styleName="textStyle13" x="1408" y="640" width="448" text="疾电神枪-扰动"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="紫风蹑影-位移"/>
+	<mx:Text styleName="textStyle13" x="1408" y="416" width="448" text="霆时刹那-防卫"/>
+	<mx:Text styleName="textStyle14" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image7.png" x="64" y="352" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="1408" y="928" width="448" alpha="0.9" text="断流效果下，公子移至场地边缘，蓄力召唤一个巨鲸，其跃出造成75%伤害，落下造成更大范围的100%伤害(闪避帧无效)，命中均引爆「断流」效果。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1152" width="448" alpha="0.9" text="公子施放数个水喷，呈折线形移动，每个造成35%伤害，命中施加「断流·水」效果。"/>
+	<mx:Text styleName="textStyle12" x="736" y="1152" width="448" alpha="0.9" text="断流效果下，公子移至场地边缘，蓄力发射一枚巨型水箭，在地面产生4个大范围雨区，随后该处下大雨，造成87.5%伤害(闪避帧无效)，命中引爆「断流」效果。"/>
+	<mx:Text styleName="textStyle12" x="736" y="1408" width="448" alpha="0.9" text="断流效果下，公子使用邪枪朝玩家发射水枪，随后闪现至其他区域重复此过程1-3次，水枪造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1632" width="448" alpha="0.9" text="公子使用邪枪挥出两道水刃，一水刃偏右，另一水刃偏左，水刃造成37.5%伤害，命中施加「断流·水」效果。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1408" width="448" alpha="0.9" text="公子蓄力发射1-3个较粗的水箭，造成40%伤害，命中施加「断流·水」效果。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="864" width="448" text="星海游鲸-爆发"/>
+	<mx:Text styleName="textStyle13" x="1408" y="1088" width="448" text="涌泉交转-妨害"/>
+	<mx:Text styleName="textStyle13" x="736" y="1088" width="448" text="暴雨帘箭-爆发"/>
+	<mx:Text styleName="textStyle13" x="736" y="1344" width="448" text="渤浪滔天-闪现"/>
+	<mx:Text styleName="textStyle13" x="736" y="1568" width="448" text="碧波与共-输出"/>
+	<mx:Text styleName="textStyle15" x="1408" y="1344" width="448" text="绝溦之澜-输出"/>
+	<mx:Image source="Image22.png" x="1268" y="875" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="854" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="1268" y="1109" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="1248" y="1088" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="596" y="1355" width="128" height="128"/>
+	<mx:Image source="Image29.png" x="576" y="1334" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="1268" y="1355" width="128" height="128"/>
+	<mx:Image source="Image31.png" x="1248" y="1334" width="168" height="170"/>
+	<mx:Image source="Image32.png" x="596" y="1579" width="128" height="128"/>
+	<mx:Image source="Image33.png" x="576" y="1558" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1632" width="448" alpha="0.9" text="当已有的断流被施加不同的断流时，原先存在的断流会被引爆，造成对应元素的50%伤害同时施加新的断流。若断流被引爆技能命中，则正常引爆，额外造成对应元素的100%伤害。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="1568" width="448" text="蹈断辙流-天赋"/>
+	<mx:Image source="Image34.png" x="1268" y="1580" width="128" height="128"/>
+	<mx:Image source="Image35.png" x="1248" y="1560" width="168" height="168"/>
+</mx:Application>

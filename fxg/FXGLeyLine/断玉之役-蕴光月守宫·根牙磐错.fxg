@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "2048">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_0.png')" x="1920" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_2.png')" x="627" y="114" blendMode="normal">
+		</BitmapImage>
+		<RichText x="565" y="19" fontFamily="MiSans" fontSize="80" fontStyle="normal" fontWeight="bold" color="#ffffff" width="791" height="90" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="80" fontWeight="bold" color="#ffffff">蕴光月守宫·根牙磐错</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1726" y="148" width="280" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="right" fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">技能变化 <span fontFamily="宋体">◆</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="147" width="479" height="51" d:userLabel="抗性数据◆" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">抗性数据 (单位%)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="499" width="293" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">机制数据</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1703" y="54" width="310" height="47" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffe599">GP<span color="#ffffff">[0x2] </span><span>GO</span><span color="#ffffff">[75,50,25]<br/></span><span fontSize="16" color="#ffffff">Energy Drop</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="818" y="975" width="116" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">26.647</span><span fontSize="18" color="#99ffcc">F</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="972" y="974" width="121" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base ATK：<br/><span fontSize="18" color="#dddddd">7.0</span><span fontSize="18" color="#e599ff">B2</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="720" y="120" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="479" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p textAlign="center" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Radiant Moongecko: Entangled Fangs</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="148" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="208" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="268" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="328" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="388" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="448" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="507" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">70</p>
+				</content>
+			</RichText>
+			<RichText x="568" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_3.png')" x="128" y="320" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_2">
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_4.png')" x="128" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_5.png')" x="248" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_6.png')" x="428" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_7.png')" x="367" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_8.png')" x="308" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_9.png')" x="488" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_10.png')" x="188" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_11.png')" x="130" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_13.png')" x="550" y="256">
+			</BitmapImage>
+		</Group>
+		<RichText x="67" y="736" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="86" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">蕴光之茧：</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="576" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="67" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">月锚岩：</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="ICON__FRAME" d:type="layer" visible="false">
+			<Rect x="640" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="992" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="800" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+			<Rect x="1152" y="832" width="128" height="128" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+		</Group>
+		<RichText x="66" y="762" width="499" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">蕴光之茧：暴击率<span color="#ffdfbf">-100%</span><span>，造成的伤害</span><span color="#ffdfbf">-50%</span><span>，受治疗加成</span><span color="#ffdfbf">-40%</span><span>。<br/>施加蕴光之茧时，扣除全队角色</span><span color="#ffdfbf">10%+1800</span><span>点生命值，若角色生命值低于</span><span color="#ffdfbf">7200</span><span>点，则改为扣除</span><span color="#ffdfbf">35%</span><span>生命值，可致命，该次扣血</span><span color="#ffdfbf">不无视</span><span>无敌帧；主动治疗清除后获得「出缠」效果。<br/>出缠：暴击率</span><span color="#ffdfbf">+15%</span><span>，造成的伤害</span><span color="#ffdfbf">+50%</span><span>，持续15s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="602" width="498" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">蕴光月守宫大招丢下的岩晶块，每层<span color="#ffe599">2.8岩</span><span>盾，共</span><span color="#ffdfbf">9</span><span>层，持续</span><span color="#ffdfbf">25s</span><span>；<br/>破坏第3/6/9层时会对鳞蜥造成</span><span color="#ffbfbf">6%</span><span>/</span><span color="#ffbfbf">6%</span><span>/</span><span color="#ffbfbf">18%生命值</span><span>的伤害，并瘫痪7s。<br/></span><span color="#bfffbf">(N4) </span><span>破坏月锚岩改为对月守宫造成</span><span color="#ffbfbf">4%</span><span>/</span><span color="#ffbfbf">4%</span><span>/</span><span color="#ffbfbf">12%生命值</span><span>的伤害。<br/></span><span color="#ffbfbf">(N5) </span><span>月锚岩每层的厚度变为</span><span color="#ffe599">4岩</span><span>盾，持续时间延长至</span><span color="#ffdfbf">35s</span><span>，且不再按照层数返回伤害，现击破所有9层后造成一次真伤，其值由</span><span color="#ffdfbf">10%所受伤害+70%所受岩伤</span><span>组成，不超过</span><span color="#ffdfbf">40%月守宫生命值</span><span>。瘫痪时间缩短至4s。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_14.png')" x="1166" y="847" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1199" y="934" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="58" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.30196078431372547">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">——</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="608" y="663" width="64" height="43" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "32" y = "0" scaleX = "43" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="611" y="664" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff" width="87" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff">HP</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="612" y="742" width="80" height="34" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "40" y = "0" scaleX = "34" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="616" y="743" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff" width="90" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff">ATK</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<RichText x="650" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="141" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">1186357</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="807" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="146" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">5911488</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="959" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="164" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">10253200</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="665" y="600" width="110" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">困难 - N3<br/><span fontSize="24" color="#ffe599">Lv.90</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="820" y="600" width="119" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">险恶 - N4<br/><span fontSize="24" color="#ffe599">Lv.100</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="982" y="600" width="118" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">无畏 - N5<br/><span fontSize="24" color="#ffe599">Lv.105</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="701" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="64" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 1.2</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="859" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 4.0</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1019" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 6.0</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1119" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="163" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">20950071</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1143" y="600" width="115" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">绝境 - N6<br/><span fontSize="24" color="#ffe599">Lv.110</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1177" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="72" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 11.2</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Rect x="576" y="32" width="768" height="768" alpha="1" visible="false" blendMode="normal" radiusX="0" radiusY="0">
+			<fill>
+				<SolidColor color="#ffffff"/>
+			</fill>
+		</Rect>
+		<RichText x="665" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="111" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">13322</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="986" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="109" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">18971</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="825" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="111" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">17235</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1143" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="114" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">20319</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="67" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#a28631" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#a28631">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_15.png')" x="814" y="846" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_16.png')" x="654" y="846" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_17.png')" x="1006" y="847" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1039" y="934" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="58" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.30196078431372547">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">——</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="660" y="932" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffe599" width="108" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffe599">Geo Adv.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="804" y="932" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#99ff99" width="140" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#99ff99">Healing Adv.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_3">
+			<RichText x="147" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="207" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">70</p>
+				</content>
+			</RichText>
+			<RichText x="267" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">70</p>
+				</content>
+			</RichText>
+			<RichText x="327" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">70</p>
+				</content>
+			</RichText>
+			<RichText x="387" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">70</p>
+				</content>
+			</RichText>
+			<RichText x="447" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">70</p>
+				</content>
+			</RichText>
+			<RichText x="507" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">70</p>
+				</content>
+			</RichText>
+			<RichText x="567" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">70</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_18.png')" x="128" y="380" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="73" y="337" fontFamily="MiSans" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="47" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffffff">本体</p>
+			</content>
+		</RichText>
+		<RichText x="73" y="392" width="46" height="40" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffffff">爆破<br/><span fontFamily="仓耳渔阳体 W03" fontSize="12" color="#bfffcc">(N4)</span></p>
+			</content>
+		</RichText>
+		<RichText x="67" y="448" width="537" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">晖岩之护：鳞蜥展开蕴光领域时，<span color="#ffe599">岩元素</span><span>抗性</span><span color="#ffbfbf">+60%</span><span>，当主动清除任意角色的<br/>「蕴光之茧」时，晖岩之护将被立即破坏，并失去</span><span color="#ffe599">岩抗</span><span>提升。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1538" y="288" width="440" height="87" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="18" fontWeight="bold" color="#ffffff">守宫移动到场地中央，展开穹顶，隐匿自身，并留下「<span textDecoration="underline">月锚岩</span><span>」；穹顶上有三只守宫，其中一只会间歇性发射岩流，造成</span><span color="#ffe599">75%</span><span>伤害；</span><span color="#ffdfbf">35s</span><span>后月锚岩爆炸，造成</span><span color="#ffe599">200%</span><span>伤害，同时全抗性提升60%，持续至下次瘫痪。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_19.png')" x="1519" y="201">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_20.png')" x="1396" y="235" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_21.png')" x="1376" y="214" blendMode="normal">
+		</BitmapImage>
+	</Group>
+	<Group d:userLabel="层_2" d:type="layer">
+	</Group>
+</Graphic>

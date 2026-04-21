@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1408" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#654FA2;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#A3A5FE;
+		}
+		.textStyle15 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#A3A5FE;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="128" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="1080" width="1920" height="328"/>
+	<mx:Image source="Image4.png" x="1920" y="1080" width="128" height="328"/>
+	<mx:Image source="Image5.png" x="0" y="457" width="2048" height="951"/>
+	<mx:Image source="Image6.png" x="790" y="299" width="1019" height="991"/>
+	<mx:Image source="Image7.png" x="0" y="86" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="512" width="484" text="蚀灭的源焰之主"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1024" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1515" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle5" x="64" y="832" width="375" text="HP: 3524527 (95.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="800" width="305" alpha="0.75" text="周本-空中状态 Lv.90 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="880" width="375" text="ATK: 22838 (12.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="976" width="375" text="SHD: 40 (During Skill6)"/>
+	<mx:Text styleName="textStyle5" x="64" y="928" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="574" width="395" alpha="0.75" text="Lord of Eroded Primal Fire"/>
+	<mx:Image source="Image8.png" x="64" y="1069" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="1472" y="480" width="512" alpha="0.9" text="古斯托特起身向前冲，使用铸影之暗和斫阳之曜各进行一次超大范围挥砍，分别造成25%(20),45%伤害；随后巡弋至另一侧，再重复上述过程一次，巡弋期间场地将随机出现大量地喷，造成15%(10)伤害并留下渊泥。"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="512" alpha="0.9" text="古斯托特使用斫阳之曜与铸影之暗进行炎、渊、十字三段普攻，曜与暗的攻击分别造成25%,25%(10)伤害并留下余烬/渊泥；每一段攻击都会产生相应的剑气，造成对应属性的15%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1472" y="416" width="448" text="伏蛟半潭分日影-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" text="焰光淤影共徘徊-输出"/>
+	<mx:Image source="Image9.png" x="64" y="192" width="256" height="256"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image10.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="512" alpha="0.9" text="古斯托特释放寰宇界门，倾下数十秒的沦没黑雨，雨滴造成15%,3.75%,1.5%(5)伤害；黑雨间夹杂间断的磊块，磊块造成35%,8.75%,3.5%(15)伤害。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1200" width="480" alpha="0.75" text="图腾石碑：24虚界盾，破盾后破坏，并恢复全队100点元素能量寂特殊能量；一共有3个，全部击败后可令古斯托特主瘫痪15s并扣除古斯托特10%生命值。虚界护罩：成功破除后扣除古斯托特10%生命值。"/>
+	<mx:Text styleName="textStyle8" x="1472" y="736" width="512" alpha="0.9" text="古斯托特将铸影之暗刺入空瞳，倏然一片虚空，鳞渊气泡如群星般散而又聚，而后湮毁，造成80%(30)伤害(闪避帧无效)；期间古斯托特持有10s的虚界护罩。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1248" width="512" alpha="0.9" text="古斯托特借自垂悬天界的渊隧之门降下，绽放出惑光之叶，造成100%(60)伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle8" x="736" y="992" width="512" alpha="0.9" text="古斯托特将漆黑之翼上的鳞羽大量洒下，造成15%,7.5%,3.75%(2)伤害。"/>
+	<mx:Text styleName="textStyle8" x="1472" y="224" width="512" alpha="0.9" text="继「星寰黑雨天刀磨」后，古斯托特凝聚日炎之力，使用斫阳之曜沿中心圆切线方向切开场地，造成大范围120%伤害。该技能最多施放3次。"/>
+	<mx:Image source="Image12.png" x="1332" y="171" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1312" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="512" alpha="0.9" text="古斯托特将斫阳之曜与铸影之暗插入地面，造成25%/25%(10)伤害并留下余烬/渊泥；随后两剑向前迸裂产生冲击波，造成上述相同效果；同时古斯托特蓄力朝玩家喷吐黑渊蚀光，持续造成50%,12.5%,5%(5)伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="盘虺一啸朝夕映-猛攻"/>
+	<mx:Image source="Image14.png" x="596" y="428" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="408" width="168" height="168"/>
+	<mx:Text styleName="textStyle9" x="1472" y="672" width="448" text="觇尽天辰瞳尚佚-爆发"/>
+	<mx:Text styleName="textStyle12" x="736" y="1184" width="448" text="苍穹悬星万豗雷-爆发"/>
+	<mx:Text styleName="textStyle9" x="736" y="928" width="448" text="乌羽纷来千里寂-远程"/>
+	<mx:Image source="Image16.png" x="596" y="1195" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="1174" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1332" y="428" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1312" y="408" width="168" height="168"/>
+	<mx:Image source="Image20.png" x="596" y="684" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="664" width="168" height="168"/>
+	<mx:Image source="Image22.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="918" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="星寰黑雨天刀磨-爆发"/>
+	<mx:Text styleName="textStyle9" x="1472" y="160" width="448" text="半壁巅城一焱开-输出-转状态"/>
+	<mx:Text styleName="textStyle13" x="1472" y="992" width="512" alpha="0.9" text="古斯托特遁入深寂之霞，同时召唤3个图腾石碑，并吸引玩家，持续造成10%伤害，随后 每隔7s施放一次回响黑潮，造成30%(10)伤害，持续30s；若未及时破坏所有石碑，则古斯托特施放「苍穹悬星万豗雷」。以上伤害闪避帧均无法躲避。"/>
+	<mx:Text styleName="textStyle9" x="1472" y="928" width="448" text="荒霾残烟皆消殒-召唤"/>
+	<mx:Image source="Image24.png" x="1332" y="939" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1312" y="918" width="168" height="170"/>
+	<mx:Text styleName="textStyle14" x="64" y="672" width="340" text="受塑的已死之龙"/>
+	<mx:Text styleName="textStyle15" x="64" y="715" width="395" alpha="0.75" text="The Slain Dragon Molded"/>
+	<mx:Image source="Image26.png" x="1332" y="683" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="1312" y="662" width="168" height="170"/>
+</mx:Application>

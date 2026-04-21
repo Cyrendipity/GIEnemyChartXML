@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A3320C;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#BFFFBF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF9999;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99FF85;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B9B9B9;
+		}
+		.textStyle21 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle22 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="707" y="189" width="560" height="516"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="95" width="666" height="643"/>
+	<mx:Image source="Image4.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Text styleName="textStyle" x="533" y="32" width="832" text="熔岩辉龙像·炽烈流焰"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="576" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="PP[0x2] PO[66,33]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：20.168F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：8.0B2"/>
+	<mx:Text styleName="textStyle5" x="728" y="128" width="438" alpha="0.75" text="Lava Dragon Statue: Blazing Flame"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="64" y="666" width="512" alpha="0.9" text="影响火元素提供热量的系数，不影响无附着火攻击提供的热量。熔岩辉龙像的热效率为95%。热量条的积攒=热效率×元素量×25。「岩之人」状态下受到火元素攻击后，会根据此次攻击的元素量n，在当n&gt;0或n=0时积攒6.786n%(23.75n)或2%(7)热量；「熔焰之龙」状态时则积攒2.969n%(23.75n)或0.875%(7)热量。(N5) 热效率变为45%；当元素量n&gt;0时，「岩之人」状态下积攒的热量降为3.214n%(11.25n)热量；「熔焰之龙」状态则为积攒1.406n%(11.25n)热量。多人模式下的热效率亦存在衰减：1/2/3/4人，热效率为95%/76%/67.857%/63.33%。(N5) 热效率为45%/36%/32.1%/30%。"/>
+	<mx:Image source="Image5.png" x="128" y="256" width="484" height="184"/>
+	<mx:Text styleName="textStyle8" x="64" y="332" width="64" text="岩石(N5)"/>
+	<mx:Text styleName="textStyle8" x="64" y="392" width="64" text="熔焰(N5)"/>
+	<mx:Text styleName="textStyle9" x="64" y="457" width="64" text="瘫痪"/>
+	<mx:Image source="Image6.png" x="1006" y="846" width="100" height="100"/>
+	<mx:Image source="Image7.png" x="654" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle10" x="64" y="640" width="201" text="热效率："/>
+	<mx:Text styleName="textStyle11" x="64" y="512" width="576" alpha="0.9" text="(N3) 抗性：岩石70%，熔焰火70% / 其他-30%，瘫痪-60%。(N4) 抗性：岩石150%，熔焰火150% / 其他45%，瘫痪10%。"/>
+	<mx:Image source="Image8.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image9.png" x="814" y="846" width="100" height="100"/>
+	<mx:Image source="Image10.png" x="1166" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle12" x="640" y="938" width="128" alpha="0.6" text="Pyro Adv."/>
+	<mx:Text styleName="textStyle13" x="800" y="938" width="128" alpha="0.6" text="Dendro Adv."/>
+	<mx:Text styleName="textStyle14" x="992" y="938" width="128" alpha="0.6" text="Hydro Dis."/>
+	<mx:Text styleName="textStyle14" x="1152" y="938" width="128" alpha="0.6" text="Cryo Dis."/>
+	<mx:Text styleName="textStyle15" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle16" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle17" x="640" y="704" width="160" text="897874"/>
+	<mx:Text styleName="textStyle17" x="640" y="768" width="160" text="15225"/>
+	<mx:Text styleName="textStyle17" x="960" y="768" width="160" text="21681"/>
+	<mx:Text styleName="textStyle17" x="800" y="768" width="160" text="19698"/>
+	<mx:Text styleName="textStyle17" x="800" y="704" width="160" text="4474008"/>
+	<mx:Text styleName="textStyle17" x="960" y="704" width="160" text="5690636"/>
+	<mx:Text styleName="textStyle18" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle18" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle18" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle19" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle19" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle19" x="960" y="736" width="160" alpha="0.6" text="× 4.4"/>
+	<mx:Text styleName="textStyle17" x="1120" y="768" width="160" text="23222"/>
+	<mx:Text styleName="textStyle17" x="1120" y="704" width="160" text="11325501"/>
+	<mx:Text styleName="textStyle18" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle20" x="1120" y="736" width="160" alpha="0.6" text="× 8.0"/>
+	<mx:Image source="Image11.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Text styleName="textStyle21" x="1536" y="256" width="448" text="浮溢坚岩-天赋 (N5)"/>
+	<mx:Text styleName="textStyle22" x="1536" y="320" width="448" alpha="0.9" text="辉龙具有2种状态：「岩之人」和「熔焰之龙」；两个状态可互相转化，且受到火元素伤害均会累积热量，且热效率相对于正常难度有所下降；「岩之人」状态下350点；「熔焰之龙」状态下800点，且初始拥有12.5%(100)的热量，自身常驻火元素。「岩之人」状态下积攒热量，攒满后进入「熔焰之龙」状态；「熔焰之龙」状态下攒满热量后辉龙像将直接瘫痪13s，此状态下一旦受冰元素或水元素攻击时，会立即失去18.75%(150)热量。「熔焰之龙」状态下累积热量达50%和100%时，均会损失当前15%生命值；瘫痪结束后，或热量不足会退回「岩之人」状态。(N6) 存在最大扣血伤害1500000点；"/>
+	<mx:Image source="Image12.png" x="1376" y="246" width="168" height="170"/>
+</mx:Application>

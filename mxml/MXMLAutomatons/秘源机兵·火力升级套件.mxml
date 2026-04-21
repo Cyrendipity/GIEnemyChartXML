@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="296"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="484" text="秘源机兵·火力升级套件"/>
+	<mx:Image source="Image3.png" x="0" y="22" width="426" height="468"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="576" width="340" text="建造机关之戍卫"/>
+	<mx:Text styleName="textStyle" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="375" text="HP: 892669 (13.92F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="305" alpha="0.75" text="首领 Lv.105 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="784" width="375" text="ATK: 35063 (12.938B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="832" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="529" width="395" alpha="0.75" text="Secret Source Automaton: Firepower Enhanced"/>
+	<mx:Text styleName="textStyle8" x="64" y="619" width="395" alpha="0.75" text="Mechanism Constructor Guard"/>
+	<mx:Image source="Image4.png" x="64" y="941" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="构型械驻于原地，于自身处缓慢产生2次雷暴脉冲，均造成60%伤害；与此同时2枚浮游炮发射迂回中央的测距激光，造成30%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" alpha="0.9" text="远离构型械时，其将发射持续的雷激光，持续造成40%,20%,12%,4%,0.4%伤害；若在发射激光时靠近构型械，则其立即停止激光发射，转而化为爪掌拍下，造成60%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="构型械驻于原地，于自身炮筒发射3枚雷轰弹，落地爆炸，每枚造成70%伤害，并留下雷地面，持续造成7%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="480" width="448" alpha="0.9" text="过于靠近构型械时，构型械化作巨星爪掌并拍下，造成60%伤害，同时产生6道纵方向中心合拢的激光，持续造成50%伤害，聚拢后发生爆炸，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="736" width="448" alpha="0.9" text="过于靠近构型械时，构型械化作巨星爪掌并划扫，造成60%伤害；此后浮游炮接着发射弹雨，持续造成30%,15%,3%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1248" width="1024" alpha="0.9" text="「应战对策」满后优先施放，构型械横过来，并使用7枚浮游炮组装发射半圆形激光，呈顺时针旋转，接触激光持续造成100%伤害(闪避帧无效)。在另外一半扇形区域内，玩家将会持续获得燃素，且造成的伤害提升5%。"/>
+	<mx:Text styleName="textStyle9" x="736" y="992" width="1024" alpha="0.9" text="构型械开掘出2柱固态燃素，其上有「汲聚械」存在，辅助构型械进行蓄力；蓄力期间的浮游炮不断发射激光，造成50%伤害，并留下造成10%伤害的滞留雷息；15s后，构型械丢出球状雷弹，秒杀在场非无敌状态角色。「应战对策」满后施放，若为此法触发，则在「扫彻方隅」结束后，浮游炮会利用雷激光规划开采场地，激光造成30%伤害；若构型械不发生转身，则固态燃素将出现在激光交点处。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="匝合之视-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="裁月堇光-远程"/>
+	<mx:Text styleName="textStyle11" x="64" y="1192" width="448" alpha="0.75" text="固态燃素：无法直接攀爬，比一般构型械的高一倍，仅「回声之子」成员可直接攀爬。「汲聚械」：进入屏障内以1次攻击击破，屏障外免疫，击破全部可使构型械瘫痪12s，并扣除其15%生命值。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="渊霄丙明-定点"/>
+	<mx:Text styleName="textStyle10" x="1408" y="416" width="448" text="驻于孛辘-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="煟暝紫械-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="1184" width="448" text="扫彻方隅-限制"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" text="鸣烻焚薮-必杀技"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="131" width="256" height="253"/>
+	<mx:Image source="Image6.png" x="64" y="1065" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="64" y="1125" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1022" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1082" width="64" text="蓄力"/>
+	<mx:Text styleName="textStyle14" x="0" y="1142" width="64" text="瘫痪"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="918" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="736" width="448" alpha="0.9" text="构型械自身拥有200点「应战对策」上限。角色进入和维持「夜魂加持」状态时，其充能条均会积攒15充能；当充满时，构型械就会立即中断其他技能，并开始准备球状雷弹。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" text="循觅夜源-天赋"/>
+	<mx:Image source="Image20.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="596" y="1195" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="1174" width="168" height="170"/>
+</mx:Application>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1312" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_2.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="55" y="337" width="273" height="113" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">超重型陆巡舰·<br/><span fontSize="60">机动战垒</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="533" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ff9999" width="309" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ff9999">全地形战争机关</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="817" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1490" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="388" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WO[75,50,25,0]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="660" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1340572 <span color="#dddddd">(22.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="626" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="708" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 20886 <span color="#dddddd">(8.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="757" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 20000/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="455" fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" fontWeight="normal" color="#ffffff" width="399" height="21" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" color="#ffffff">Super-Heavy Landrover: Mechanized Fortress</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="580" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ff9999" width="269" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ff9999">All-Terrain Combat Mek</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="83" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="143" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">70</p>
+				</content>
+			</RichText>
+			<RichText x="203" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">70</p>
+				</content>
+			</RichText>
+			<RichText x="263" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">70</p>
+				</content>
+			</RichText>
+			<RichText x="323" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">70</p>
+				</content>
+			</RichText>
+			<RichText x="383" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">70</p>
+				</content>
+			</RichText>
+			<RichText x="443" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">70</p>
+				</content>
+			</RichText>
+			<RichText x="503" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">70</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_3.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_4.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_5.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_6.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_7.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_8.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_9.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_10.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_11.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_13.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="223" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">陆巡舰使用攻坚锯进行两次来回挥锯，依次造成<span color="#ff9999">50%,60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="767" width="442" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于陆巡舰后方时，陆巡迅速使用攻坚锯挥舞一圈，造成1-2次<span color="#ff9999">60%</span><span>伤害，随后起飞并转身面朝玩家，缓缓落地，造成</span><span color="#b8b8b8">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1055" width="428" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">自身存在「高热」计量条，满计量<span color="#ffdfbf">600</span><span>点。陆巡舰在受到</span><span color="#ff9999">火元素</span><span>攻击后，将积攒</span><span color="#ffdfbf">5</span><span>高热，每额外n单位火元素额外积攒</span><span color="#ffdfbf">5n</span><span>高热，计量过半后进入「红温过载」状态，计量满后进行「降控温御」，持续减少高热计量。<br/>本高热计量不受</span><span color="#99ffff">冰</span><span color="#7fbfff">水</span><span>影响。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_14.png')" x="1391" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_15.png')" x="720" y="681">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_16.png')" x="1391" y="969">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ad4218" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ad4218">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">交替进行下列两种攻击：<br/>陆巡舰使用舰炮轰击，造成<span color="#99ffff">70%</span><span>伤害；<br/>陆巡舰使用攻坚锯进行一次挥锯，造成</span><span color="#ff9999">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1055" width="440" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">未成功击破护罩时，陆巡舰升空，利用舰炮轰击，造成<span color="#99ffff">100%</span><span>伤害并留下冰地面；随后利用攻坚锯下劈重重坠落，造成</span><span color="#ff9999">150%</span><span>伤害；落地后持续切锯造成</span><span color="#ff9999">25%</span><span>伤害；坠落时将冰地面替换为持续12s的火地面，并持续造成</span><span color="#ff9999">6%</span><span>伤害；升空与坠落伤害</span><span color="#ffbfbf">闪避帧均无法躲避</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1128" width="441" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">深渊抗性：正常150%，红温过载状态50%，瘫痪为-20%。<br/>高热：满计量600点。受到<span color="#ff9999">火元素</span><span>攻击后，积攒</span><span color="#ffdfbf">0.833%</span><span>(5)高热，每额外1U火元素量积攒</span><span color="#ffdfbf">0.833%</span><span>(5)高热，计量过半后进入「红温过载」状态，计量满后进行「降控温御」。<br/>散热套件：</span><span color="#99ffff">28冻</span><span>盾，持续18s，存在期间将持续减少高热计量条，击破后瘫痪16s，填满热量，全抗下降，恢复后清空热量。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_17.png')" x="719" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_18.png')" x="720" y="969">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_19.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="84" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_20.png')" x="64" y="1001" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_3">
+			<RichText x="77" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-60</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-60</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-60</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-60</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">-60</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-60</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-60</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-60</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_21.png')" x="64" y="1061" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_22.png')" x="1268" y="715" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_23.png')" x="1268" y="1003" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_24.png')" x="596" y="715" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_25.png')" x="596" y="1004" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_26.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_27.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_28.png')" x="596" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_29.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<RichText x="6" y="949" width="52" height="42" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">常态<br/><span fontSize="14">深渊+80</span></p>
+			</content>
+		</RichText>
+		<RichText x="6" y="1009" width="52" height="42" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">红温<span fontSize="14">深渊+40</span></p>
+			</content>
+		</RichText>
+		<RichText x="6" y="1069" width="52" height="42" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">瘫痪<span fontSize="14">深渊+40</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="428" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">陆巡舰使用舰炮朝空中发射2枚迫击弹，依次在玩家处落下，造成<span color="#99ffff">80%</span><span>伤害并飞溅出10枚霜核，接触造成</span><span color="#99ffff">40%</span><span>伤害；此外命中处留下冰地面，持续造成</span><span color="#99ffff">6%</span><span>伤害，持续12s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="767" width="442" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">高热计量满时，陆巡舰立即展开持续<span color="#ffdfbf">18s </span><span>的</span><span textDecoration="underline">散热套件</span><span>护罩，持续减少高热计量；若成功击破护罩，则其将立即受到</span><span color="#ffdfbf">当前30%生命值</span><span>的</span><span color="#ff9999">火元素</span><span>真伤并瘫痪15s；否则施放「断明颓敝」，期间抗性不变。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_30.png')" x="720" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_31.png')" x="1392" y="682">
+		</BitmapImage>
+		<RichText x="1410" y="479" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于较远的位置时，陆巡舰起飞并缓缓降落至预警位置，造成<span color="#b8b8b8">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_32.png')" x="1391" y="394">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_33.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_34.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_35.png')" x="1248" y="694" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_36.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_37.png')" x="576" y="152" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_38.png')" x="576" y="984" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_39.png')" x="576" y="694" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/超重型陆巡舰%B7机动战垒.assets/Image_40.png')" x="1248" y="982" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

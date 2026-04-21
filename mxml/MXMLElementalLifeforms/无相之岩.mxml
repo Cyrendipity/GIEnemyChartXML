@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFE599;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#937122;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="-41" y="54" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="410" text="无相之岩"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="「基末尔」"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：GO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" text="HP: 275905 (7.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 15665 (6.0B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="561" width="395" alpha="0.75" text="Geo Hypostasis"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="「Gimel」"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="无相之岩脱去外壳，短暂暴露核心，在自身和周围3个位置升起玄武岩柱，生成玄武岩柱的区域造成25%伤害(无数字)。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="无相之岩暴露核心，施放岩封印标记同步于玩家，随后岩封印触发崩破，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="928" width="448" alpha="0.9" text="无相之岩化作成大锤，蓄力后重重砸下，造成150%伤害，锤击处扩散出3个碎岩波，每个造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="928" width="448" alpha="0.9" text="无相之岩升空，激发其下方的玄武岩柱，使其产生一个冲击波，造成100%伤害(闪避帧无效)，但据说可以跳起来躲冲击波。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="无相之岩盘旋升空，激发所有玄武岩柱，玄武岩柱产生共鸣波，每次造成100%伤害(闪避帧无效)，持续8-9次，其下方会产生一个黄岩块，击破以获得躲避冲击波的护罩"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="玄岩立阵-辅助"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="敕岩之罚-瞄准"/>
+	<mx:Text styleName="textStyle11" x="1408" y="864" width="448" text="隳岳之锤-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="864" width="448" text="柱石晶振-控制"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="晶岩谐鸣-爆发"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="无处岩锋-追踪"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="墙封·裂石-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="1088" width="448" text="濒亡·散沙-复苏"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="无相之岩升空开阵，8个岩立方围一圈暴露核心，连续发射20个砂岩弹，每个砂岩弹造成25%伤害，砂岩弹对玄武岩柱有自噬作用。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="无相之岩将外壳化为成两面墙，随后夹击，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1152" width="448" alpha="0.9" text="生命值低于5%时，无相之岩召唤3个复苏玄武岩柱，复苏持续15s，每个玄武岩柱恢复无相之岩15%生命值。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="66" y="166" width="254" height="245"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="854" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="无相之岩脱去外壳暴露核心，在场上生成4团三角形岩雨区，其持续落下碎石造成25%伤害(闪避帧无效)，岩雨区间断下落巨石，造成75%伤害；岩雨区的位置与原先玄武岩柱的位置一致。"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="砂云石雨-限制"/>
+	<mx:Image source="Image16.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="875" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="854" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="64" y="1104" width="448" alpha="0.75" text="玄武岩柱：24岩盾，击破可产生1-2个岩元素晶球；受到突刺/穿刺-0.2岩，切割-0.28岩。复苏玄武岩柱：8岩盾，击破可产生1-2个岩元素晶球；受到突刺/穿刺-0.24岩，切割-0.32岩。黄岩块：3岩盾，击破可产生持续14.4s的护罩；受到突刺/穿刺-0.2岩，切割-0.28岩。"/>
+</mx:Application>

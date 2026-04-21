@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFBFBF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#7FBFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF9999;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFEBBF;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle21 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle22 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle23 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B9B9B9;
+		}
+		.textStyle24 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="128" height="1080"/>
+	<mx:Text styleName="textStyle" x="531" y="32" width="832" text="水形幻人·极旋湍流"/>
+	<mx:Image source="Image3.png" x="627" y="95" width="666" height="643"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="544" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="HP[0x2] HO[66,33]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：23.418F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：8.0B2"/>
+	<mx:Text styleName="textStyle5" x="762" y="128" width="372" alpha="0.75" text="Hydro Tulpa: Turbulent Vortex"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="64" y="762" width="512" alpha="0.9" text="继承水形幻人8.85%生命值上限，破坏后扣除幻人护盾等量生命值。展开白盾时，重置我方所有角色的元素战技和元素爆发的CD，恢复所有角色的元素能量与特殊能量。"/>
+	<mx:Image source="Image4.png" x="128" y="256" width="484" height="184"/>
+	<mx:Text styleName="textStyle8" x="64" y="336" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="64" y="456" width="64" text="强化"/>
+	<mx:Text styleName="textStyle9" x="64" y="391" width="64" text="吸收(N5)"/>
+	<mx:Text styleName="textStyle10" x="64" y="608" width="96" text="半幻人："/>
+	<mx:Text styleName="textStyle11" x="64" y="928" width="148" text="(N5) 位移："/>
+	<mx:Text styleName="textStyle10" x="64" y="832" width="128" text="吸收半幻人："/>
+	<mx:Image source="Image5.png" x="1006" y="846" width="100" height="100"/>
+	<mx:Image source="Image6.png" x="814" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle11" x="64" y="736" width="160" text="(N5) 白盾："/>
+	<mx:Text styleName="textStyle12" x="64" y="634" width="512" alpha="0.9" text="1水盾，击破后消失；允许伤害转换(4倍)；半幻人继承幻人20%的攻击力和12%生命值，每15s生成一只半幻人。(N5) 12水盾，击破后消失，或被冻结/石化后立即消失；半幻人继承幻人25%的攻击力和12%生命值，每30s生成2只半幻人。"/>
+	<mx:Text styleName="textStyle7" x="64" y="858" width="512" alpha="0.9" text="场上存在半幻人时，水形幻人会尝试吸收它们，进入15~25s的强化状态， 吸收期间及之后全抗提升45%，技能伤害得到提升，(N5) 吸收半幻人期间全抗提升200%，且恢复12.5%生命值。"/>
+	<mx:Text styleName="textStyle7" x="64" y="960" width="512" alpha="0.9" text="水形幻人不会移动，只会待在场地中央。"/>
+	<mx:Text styleName="textStyle13" x="1536" y="320" width="448" alpha="0.9" text="幻人扔出纯水制成的标枪，落地造成60%伤害，并产生内外2层激波，造成60%伤害，可连续施放3次；强化：伤害倍率提升，造成90%伤害。"/>
+	<mx:Text styleName="textStyle14" x="1536" y="256" width="448" text="濯漾梭枪-远程"/>
+	<mx:Image source="Image7.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="1536" y="512" width="448" alpha="0.9" text="幻人挥舞纯水制成的短刀，进行2次攻击，依次造成60%,65%伤害；第一段攻击产生剑气，造成50%伤害。强化：伤害倍率提升，挥舞造成90%,95%伤害。"/>
+	<mx:Text styleName="textStyle14" x="1536" y="448" width="448" text="涤浸青刃-输出"/>
+	<mx:Image source="Image9.png" x="1396" y="459" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1376" y="438" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="1536" y="704" width="448" alpha="0.9" text="幻人旋转纯水制成的榔锤，进行3次攻击，依次造成60%,62.5%,65%伤害；第三段攻击产生激波，造成90%伤害。强化：伤害倍率提升，挥舞造成90%,92.5%,95%伤害，不产生激波。"/>
+	<mx:Text styleName="textStyle14" x="1536" y="640" width="448" text="净域洄榔-输出"/>
+	<mx:Image source="Image11.png" x="1396" y="651" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1376" y="630" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="1536" y="896" width="448" alpha="0.9" text="幻人蓄力，附属白盾；幻人掀起澜海激潮，在场地内下起小雨，造成20%伤害；12s后白盾消失，溅起的潮水凝结成3把水枪，并一起在自身周围降下，造成100%伤害，并产生一道冲击波引爆所有半幻人，造成100%伤害，冲击波将会秒杀在场非无敌状态的角色，持续5s。"/>
+	<mx:Text styleName="textStyle14" x="1536" y="832" width="448" text="坏蔑锋雨-必杀技 (N5)"/>
+	<mx:Image source="Image13.png" x="1396" y="843" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1376" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle15" x="800" y="938" width="128" alpha="0.6" text="Pyro Adv."/>
+	<mx:Text styleName="textStyle16" x="992" y="938" width="128" alpha="0.6" text="Hydro Dis."/>
+	<mx:Image source="Image15.png" x="654" y="847" width="100" height="99"/>
+	<mx:Image source="Image16.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle17" x="640" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle16" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle18" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle19" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle20" x="640" y="704" width="160" text="1042556"/>
+	<mx:Text styleName="textStyle20" x="640" y="768" width="160" text="15225"/>
+	<mx:Text styleName="textStyle20" x="960" y="768" width="160" text="21681"/>
+	<mx:Text styleName="textStyle20" x="800" y="768" width="160" text="19698"/>
+	<mx:Text styleName="textStyle20" x="800" y="704" width="160" text="5194944"/>
+	<mx:Text styleName="textStyle20" x="960" y="704" width="160" text="7658830"/>
+	<mx:Text styleName="textStyle21" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle21" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle21" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle22" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle22" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle23" x="960" y="736" width="160" alpha="0.6" text="× 5.1"/>
+	<mx:Text styleName="textStyle20" x="1120" y="768" width="160" text="23222"/>
+	<mx:Text styleName="textStyle20" x="1120" y="704" width="160" text="17260003"/>
+	<mx:Text styleName="textStyle21" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle24" x="1120" y="736" width="160" alpha="0.6" text="× 10.5"/>
+	<mx:Image source="Image17.png" x="128" y="440" width="484" height="60"/>
+</mx:Application>

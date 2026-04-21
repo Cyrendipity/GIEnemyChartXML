@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		Label {
+			fontFamily:MiSans-Bold;
+			fontSize:300;
+			color:#FFFFFF;
+		}
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFDFBF;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99E5FF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="114" width="666" height="604"/>
+	<mx:Text styleName="textStyle" x="309" y="32" width="1280" text="深黯魇语之主·袭掠锋刃"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Label x="1544" y="288" alpha="0.3" text="暂无"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="480" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WP[75,50,25,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：31.7953F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：6.0B2"/>
+	<mx:Text styleName="textStyle5" x="529" y="123" width="835" alpha="0.75" text="Lord of the Hidden Depths: Whisperer of Nightmares — Ravager’s Edge"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="128" y="256" width="484" height="64"/>
+	<mx:Text styleName="textStyle3" x="64" y="338" width="64" text="本体"/>
+	<mx:Text styleName="textStyle3" x="64" y="398" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle7" x="64" y="544" width="128" text="深黯护盾："/>
+	<mx:Text styleName="textStyle7" x="64" y="704" width="128" text="深黯钓客："/>
+	<mx:Text styleName="textStyle8" x="64" y="576" width="512" alpha="0.9" text="黯主蓄力期间展开，护盾厚度为45%生命值，持续18s，击破后黯主损失20%生命值，并瘫痪16s。对该护盾造成伤害可跳字，但只接受元素伤害，并免疫物理伤害；受到的月曜伤害将造成原来300%的伤害。(N5) 护盾持续28s，首次受到月曜反应伤害时，掉落6枚无元素晶球。"/>
+	<mx:Text styleName="textStyle8" x="64" y="730" width="512" alpha="0.9" text="由黯主蓄力期间召唤，一共4只，每只为黯主18%生命值，期间这些「深黯钓客」不附属「深黯护盾」，只会发射激光；随后被黯主献祭。"/>
+	<mx:Image source="Image7.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image8.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle9" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle10" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle11" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle12" x="640" y="704" width="160" text="1415539"/>
+	<mx:Text styleName="textStyle12" x="800" y="704" width="160" text="7053480"/>
+	<mx:Text styleName="textStyle12" x="960" y="704" width="160" text="12437830"/>
+	<mx:Text styleName="textStyle13" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle13" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle13" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle14" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle14" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle15" x="960" y="736" width="160" alpha="0.6" text="× 6.1"/>
+	<mx:Text styleName="textStyle12" x="1120" y="704" width="160" text="23658107"/>
+	<mx:Text styleName="textStyle13" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle15" x="1120" y="736" width="160" alpha="0.6" text="× 10.6"/>
+	<mx:Text styleName="textStyle12" x="640" y="768" width="160" text="11419"/>
+	<mx:Text styleName="textStyle12" x="960" y="768" width="160" text="16260"/>
+	<mx:Text styleName="textStyle12" x="800" y="768" width="160" text="14773"/>
+	<mx:Text styleName="textStyle12" x="1120" y="768" width="160" text="17417"/>
+	<mx:Text styleName="textStyle9" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle16" x="640" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle17" x="800" y="938" width="128" alpha="0.6" text="Lunar eaction Adv. √"/>
+	<mx:Image source="Image9.png" x="654" y="847" width="100" height="99"/>
+	<mx:Image source="Image10.png" x="819" y="847" width="91" height="98"/>
+</mx:Application>

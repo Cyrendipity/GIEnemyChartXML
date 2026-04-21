@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1504" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_2.png')" x="0" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="56" y="530" width="290" height="113" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">无相之火·三部曲<br/><span fontSize="60">燃灼之炉</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="77" y="693" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#ff9999" width="166" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#ff9999">「亚因」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="1009" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1497" y="48" width="381" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#ff9999">PO</span><span>[75,50,25,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="852" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 548416 <span color="#dddddd">(9.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="818" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="900" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 15665 <span color="#dddddd">(6.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="949" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="647" fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" fontWeight="normal" color="#ffffff" width="410" height="21" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" color="#ffffff">Pyro Hypostasis: Ternary of the Blazing Hearth</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="76" y="741" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ff9999" width="88" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ff9999">「Ayin」</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="73" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="46" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">IMM</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_3.png')" x="64" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_4.png')" x="64" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_5.png')" x="184" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_6.png')" x="364" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_7.png')" x="303" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_8.png')" x="244" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_9.png')" x="424" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_10.png')" x="124" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_11.png')" x="66" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_13.png')" x="486" y="1069">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="223" width="437" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火拳击地面，拳击后从内向外扩散出3道震波，锤击与震波均造成<span color="#ff9999">100%,50%,20%,10%</span><span>伤害，该技能将连续施放3次，施放时将出现在玩家上方。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火朝向玩家并化成球滚动，造成<span color="#ff9999">80%</span><span>伤害；来回滚向玩家至多3次，接触造成</span><span color="#ff9999">50%</span><span>伤害；滚动路径上留下熔岩地面，接触造成</span><span color="#ff9999">15%,7.5%,5%,3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="439" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火包围核心，从「贯地万焰」技能留下的不灭熔口中升起5个<span textDecoration="underline">火种</span><span>，熄灭所有火种可中断其复燃进程。<br/>复燃成功后将恢复复燃值，其值遵循该式：</span><span color="#ff9999">40%+25%火种数量</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="427" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火移到场地中央，蜷缩成球状，8s后爆炸，造成<span color="#ff9999">250%</span><span>大范围伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">被无相之火的任意攻击命中后，前台角色会被施加<span color="#ffb299">「特殊的阴燃之火」</span><span>，每秒造成</span><span color="#ff9900">4%</span><span>伤害，20sD，可被元素反应消去。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="437" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火在场地上形成3个不灭熔口，间歇升起<span textDecoration="underline">火种</span><span>，每个火种每2s为无相之火的</span><span textDecoration="underline" color="#ff9999">无殚焰胄</span><span>补充1元素量。该熔口在无相之火熄灭后消失。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_14.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_15.png')" x="719" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_16.png')" x="1391" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_17.png')" x="1391" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_18.png')" x="1392" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_19.png')" x="719" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_20.png')" x="720" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_21.png')" x="1393" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_22.png')" x="720" y="1289">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_23.png')" x="1391" y="1290">
+		</BitmapImage>
+		<RichText x="738" y="447" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火化成蛇，向玩家喷出火球，喷球落地位置依次为玩家左、中、右处，每次喷3个火球，每个火球造成<span color="#ff9999">100%,50%,20%,10%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1409" y="447" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火依次变形呈成公牛、鲤鱼、蝴蝶进行攻击，公牛顶造成<span color="#ff9999">100%</span><span>伤害，鲤鱼跃出和跃入造成</span><span color="#ff9999">100%</span><span>伤害，出地爆炸造成</span><span color="#ff9999">100%</span><span>伤害，蝴蝶舞造成</span><span color="#ff9999">33%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1375" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火开阵，8个火立方外壳围一圈暴露核心，一次性发射所有火立方追踪玩家，每个造成<span color="#ff9999">50%,25%,12.5%,5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1375" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火将外壳化为成两面墙，随后夹击，造成<span color="#ff9999">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ad4218" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ad4218">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1200" width="305" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">无殚焰胄：<span color="#ff9999">48火</span><span>盾，击破可熄灭无相之火。<br/>火种：</span><span color="#ff9999">6火</span><span>盾，全部击破阻止无相之火复燃。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="438" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之火移到场地中央，暴露核心，不断产生炎柱，造成<span color="#ff9999">100%</span><span>伤害，炎柱在距离无相之火一定范围外会追踪玩家生成。首次升起5根炎柱，并留下5个不灭熔口。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_24.png')" x="720" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_25.png')" x="64" y="262" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_26.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_27.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="223" width="435" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">燃烧状态下的无相之火形成<span textDecoration="underline" color="#ff9999">无殚焰胄</span><span>，当复燃次数为</span><span color="#ff9999">1/2/&gt;2</span><span>时，无相之火每5s恢复</span><span color="#ff9999">5%/2.5%/0%</span><span>生命值，最大恢复至</span><span color="#ff9999">50%/25%/不恢复</span><span>生命值。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_28.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_29.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_30.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_31.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_32.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_33.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_34.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_35.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_36.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_37.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_38.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_39.png')" x="1268" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_40.png')" x="1248" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_41.png')" x="596" y="1323" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_42.png')" x="1268" y="1323" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_43.png')" x="576" y="1302" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_44.png')" x="1248" y="1302" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_45.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_46.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_47.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_48.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_49.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/无相之火%B7三部曲%B7燃灼之炉.assets/Image_50.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

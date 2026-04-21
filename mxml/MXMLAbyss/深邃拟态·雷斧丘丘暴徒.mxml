@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1144" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#A3A5FE;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#A3A5FE;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#654FA2;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="484" text="深邃拟态·雷斧丘丘暴徒"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="340" text="虚界浮灭气泡"/>
+	<mx:Text styleName="textStyle" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WP[75,50,25,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="704" width="375" text="HP: 244024 (4.4F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="752" width="375" text="ATK: 7387 (3.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="848" width="375" text="SHD: 70/35/14"/>
+	<mx:Text styleName="textStyle5" x="64" y="800" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Tenebrous Mimesis：Crackling Axe Mitachurl"/>
+	<mx:Text styleName="textStyle8" x="64" y="587" width="395" alpha="0.75" text="Void Obliterator Bubble"/>
+	<mx:Image source="Image4.png" x="64" y="941" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="雷斧进行至多3段的4种普通攻击：旋-劈；挑-劈；旋-旋-劈；挑-旋；每段攻击都造成50%伤害。强化版本命中将施加7级「蚀破」。"/>
+	<mx:Text styleName="textStyle9" x="736" y="512" width="448" alpha="0.9" text="雷斧从地里挖出雷史莱姆丢出，造成62.5%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="800" width="448" alpha="0.9" text="雷斧横拿斧子转圈圈，触碰造成12.5%伤害，持续3s，旋转结束后施放尾刀，造成50%伤害。强化版本命中将施加7级「蚀破」。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="512" width="448" alpha="0.9" text="雷斧用力将斧子往地上砸，造成50%伤害，顺势将自己挑起，然后落地坐下，造成75%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="距离玩家较远时，雷斧拿着斧子跳起来下落，造成100%伤害。强化版本命中将施加14级「蚀破」。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="斧砍树-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" text="布丁飞-远程"/>
+	<mx:Text styleName="textStyle10" x="736" y="736" width="448" text="龙卷摧-猛攻"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" text="虎鹰掠-妨害"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="飞象坠-爆发"/>
+	<mx:Image source="Image5.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="152" width="168" height="168"/>
+	<mx:Image source="Image7.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="172" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="152" width="168" height="168"/>
+	<mx:Image source="Image12.png" x="596" y="748" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="728" width="168" height="168"/>
+	<mx:Image source="Image14.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="800" width="448" alpha="0.9" text="拟态雷斧将进行一次闪现，显形时立即无视条件施放以下3个技能的随机一个火元素强化版本：「龙卷摧」/「飞象坠」/「斧砍树」。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="736" width="448" text="虚燎罅-强化"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image16.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="726" width="168" height="170"/>
+</mx:Application>

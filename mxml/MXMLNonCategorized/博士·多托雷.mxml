@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1088" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="8"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="博士"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="460" text="「愚人众」执行官第二席"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="339" text="HP: 12403160 (210.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="剧情首领 Lv.102 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 14035 (5.5B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/500"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="The Doctor"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Second of the Fatui Harbingers"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="博士利用浮游机关在自身四个方向处扫射，造成10%伤害，并留下潮水裂隙，随后裂隙迸发，造成50%伤害，重复5次，为持久技。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="512" width="448" alpha="0.9" text="博士召唤独立浮游机关，自身附属「于此锢身」。该浮游机关会同时向玩家发射射线，造成50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="512" width="448" alpha="0.9" text="博士利用浮游机关在空中绘制圆隅，随后这些圆从里到外依次崩落，在相邻两个圆隅的范围内造成50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="800" width="448" alpha="0.9" text="博士于此锢身期间，玩家离得较近会触发博士近身攻击，造成50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="800" width="448" alpha="0.9" text="博士施放全部技能，并令正二十面体装置在中间持续施放冰锥，每次5枚，均造成造成20%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="博士召出2架弩台，随后锁定玩家并依次发射冰镞，造成50%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="涤濯四象荡深铡-持续"/>
+	<mx:Text styleName="textStyle12" x="1408" y="448" width="448" text="身流水变凝四方-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="448" width="448" text="罢如天隅落离毁-猛攻"/>
+	<mx:Text styleName="textStyle13" x="64" y="1008" width="448" alpha="0.75" text="于此锢身：4次特化盾，需俘游机关攻击4次破坏。独立浮游机关：40水盾，但触发一次月感电/月绽放后立即被转化为俘游机关，并朝博士攻击。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Text styleName="textStyle12" x="736" y="736" width="448" text="欲穷其技不及此-防御"/>
+	<mx:Text styleName="textStyle12" x="1408" y="736" width="448" text="却为异端愿以偿-爆发"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="且观飞雪送冰零-锁定"/>
+	<mx:Image source="Image12.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1248" y="150" width="168" height="170"/>
+</mx:Application>

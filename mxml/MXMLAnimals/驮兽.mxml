@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1248" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AAAAAA;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image3.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image4.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="牦牦/骆骆驮兽"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="992" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 7353 (0.2H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="动物-野生小型 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 2462 (1.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle5" x="416" y="576" width="305" text="HP: 22059 (0.6H)"/>
+	<mx:Text styleName="textStyle5" x="768" y="576" width="305" text="HP: 36765 (1.0H)"/>
+	<mx:Text styleName="textStyle6" x="416" y="544" width="305" alpha="0.75" text="动物-野生中型 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="768" y="544" width="305" alpha="0.75" text="动物-野生大型 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="416" y="624" width="375" text="ATK: 3447 (1.4B1)"/>
+	<mx:Text styleName="textStyle5" x="768" y="624" width="375" text="ATK: 4431 (1.8B1)"/>
+	<mx:Text styleName="textStyle5" x="416" y="672" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle5" x="768" y="672" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle5" x="64" y="800" width="305" text="HP: 29412 (0.8H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" alpha="0.75" text="动物-丘丘人型 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="848" width="375" text="ATK: 2462 (1.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="896" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle5" x="416" y="800" width="305" text="HP: 44118 (1.2H)"/>
+	<mx:Text styleName="textStyle5" x="768" y="800" width="305" text="HP: 58824 (1.6H)"/>
+	<mx:Text styleName="textStyle6" x="416" y="768" width="328" alpha="0.75" text="动物-盗宝团/镀金旅团型 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="768" y="768" width="305" alpha="0.75" text="动物-愚人众型 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="416" y="848" width="375" text="ATK: 3447 (1.4B1)"/>
+	<mx:Text styleName="textStyle5" x="768" y="848" width="375" text="ATK: 4431 (1.8B1)"/>
+	<mx:Text styleName="textStyle5" x="416" y="896" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle5" x="768" y="896" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Shaggy/Desert Sumpter Beast"/>
+	<mx:Image source="Image5.png" x="64" y="1037" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="驮兽朝前狂奔很长一段时间，接触持续造成100%,10%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="驮兽之行-控制"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image6.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="65" y="65" width="253" height="255"/>
+</mx:Application>

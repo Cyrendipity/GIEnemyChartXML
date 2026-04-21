@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#1595BF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Image source="Image3.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="64" y="768" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="64" y="576" width="305" text="HP: 4692003 (77.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="624" width="375" text="ATK: 23497 (9.0B2)"/>
+	<mx:Text styleName="textStyle3" x="64" y="672" width="375" text="Wt/Ed: 100/150"/>
+	<mx:Text styleName="textStyle3" x="64" y="720" width="375" text="EM: 800"/>
+	<mx:Image source="Image4.png" x="64" y="813" width="484" height="124"/>
+	<mx:Text styleName="textStyle5" x="736" y="448" width="448" alpha="0.9" text="莉莱朝空中发射一枚大冰雹，随后立即炸裂，裂成8根追踪冰刺，造成35%,21%,10.5%,3.5%伤害。该过程重复两次，以闪现衔接。"/>
+	<mx:Text styleName="textStyle5" x="1408" y="224" width="448" alpha="0.9" text="莉莱立即使用炮筒发射4枚带追踪性的冰雹，造成45%,9%伤害"/>
+	<mx:Text styleName="textStyle5" x="1408" y="448" width="448" alpha="0.9" text="莉莱驱使灵力，使炮筒凝聚寒气，并产生冰雾震，造成60%伤害并进入强化状态。仅开局施放。强化状态无特殊效果。"/>
+	<mx:Text styleName="textStyle5" x="736" y="896" width="448" alpha="0.9" text="莉莱于场地中央，持续在场地内召唤冰之崩破，均造成100%伤害；同时场地随机出现燃素炸药桶，被击中后延迟1s引爆，对范围内目标造成100%伤害；技能结束后闪现接上「质量久耐」砸击。"/>
+	<mx:Text styleName="textStyle5" x="736" y="672" width="448" alpha="0.9" text="莉莱将炮筒滞空，命令其连续发射4枚从天而降的冰锥，依次下落在玩家处，均造成100%伤害。"/>
+	<mx:Text styleName="textStyle6" x="736" y="384" width="448" text="蔽日寂寒-追踪"/>
+	<mx:Text styleName="textStyle6" x="1408" y="160" width="448" text="逐夜星点-远程"/>
+	<mx:Text styleName="textStyle6" x="1408" y="384" width="448" text="奇秘巧寒-强化"/>
+	<mx:Text styleName="textStyle6" x="736" y="832" width="448" text="熔冱灾星-爆发"/>
+	<mx:Text styleName="textStyle6" x="736" y="608" width="448" text="骄阳凛晶-定点"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="1387" y="64" width="469" alpha="0.5" text="元素能量：CP[75,50,25,0],CO[0]"/>
+	<mx:Text styleName="textStyle9" x="64" y="384" width="490" text="莉莱"/>
+	<mx:Text styleName="textStyle10" x="64" y="465" width="395" alpha="0.75" text="Rilai"/>
+	<mx:Text styleName="textStyle11" x="65" y="944" width="448" alpha="0.75" text="常驻抗打断0.1875。"/>
+	<mx:Text styleName="textStyle5" x="736" y="224" width="448" alpha="0.9" text="莉莱拿着炮筒进行划、闪现、砸的攻击，其中划和砸分别造成50%,70%伤害。"/>
+	<mx:Text styleName="textStyle5" x="1408" y="672" width="448" alpha="0.9" text="莉莱拿着炮筒进行格挡，格挡一次计数1或2(各50%)，计数满4时立即触发闪现，并施放「奔逸假身」或「逐夜星点」。格挡冷却19s。"/>
+	<mx:Text styleName="textStyle6" x="736" y="160" width="448" text="质量久耐-输出"/>
+	<mx:Text styleName="textStyle6" x="1408" y="608" width="448" text="捷卫身武-防御"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image17.png" x="596" y="844" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="824" width="168" height="168"/>
+	<mx:Image source="Image20.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle5" x="1408" y="896" width="448" alpha="0.9" text="莉莱闪走，立即在原地留下一个燃素炸药桶，并朝玩家发射2枚追踪性炸药桶，均造成100%伤害。"/>
+	<mx:Text styleName="textStyle6" x="1408" y="832" width="448" text="奔逸假身-反击"/>
+</mx:Application>

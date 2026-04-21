@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "2048">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_0.png')" x="707" y="189" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_2.png')" x="627" y="95" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_3.png')" x="1920" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="565" y="18" fontFamily="MiSans" fontSize="80" fontStyle="normal" fontWeight="bold" color="#ffffff" width="791" height="90" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="80" fontWeight="bold" color="#ffffff">熔岩辉龙像·炽烈流焰</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1726" y="148" width="280" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="right" fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">技能变化 <span fontFamily="宋体">◆</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="147" width="479" height="51" d:userLabel="抗性数据◆" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">抗性数据 (单位%)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="66" y="563" width="293" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="宋体" fontSize="48" color="#ffffff">◆ <span fontFamily="仓耳渔阳体 W04">机制数据</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1742" y="54" width="271" height="47" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ff9999">PP<span color="#ffffff">[0x2] </span><span>PO</span><span color="#ffffff">[66,33]<br/></span><span fontSize="16" color="#ffffff">Energy Drop</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="818" y="975" width="115" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">20.168</span><span fontSize="18" color="#99ffcc">F</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="972" y="974" width="121" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base ATK：<br/><span fontSize="18" color="#dddddd">8.0</span><span fontSize="18" color="#e599ff">B2</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="734" y="120" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="451" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p textAlign="center" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Lava Dragon Statue: Blazing Flame</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="67" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#a3320c" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#a3320c">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="666" width="505" height="212" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">影响<span color="#ff9999">火元素</span><span>提供热量的系数，不影响无附着火攻击提供的热量。<br/>熔岩辉龙像的热效率为95%。<br/>热量条的积攒=</span><span color="#ffdfbf">热效率×元素量×25</span><span>。<br/>「岩之人」状态下受到</span><span color="#ff9999">火元素</span><span>攻击后，会根据此次攻击的元素量n，在当n&gt;0或n=0时积攒</span><span color="#ffdfbf">6.786n%</span><span>(23.75n)或</span><span color="#ffdfbf">2%</span><span>(7)热量；「熔焰之龙」状态时则积攒</span><span color="#ffdfbf">2.969n%</span><span>(23.75n)或</span><span color="#ffdfbf">0.875%</span><span>(7)热量。<br/></span><span color="#ffbfbf">(N5) </span><span>热效率变为45%；当元素量n&gt;0时，「岩之人」状态下积攒的热量降为</span><span color="#ffdfbf">3.214n%</span><span>(11.25n)热量；「熔焰之龙」状态则为积攒</span><span color="#ffdfbf">1.406n%</span><span>(11.25n)热量。<br/>多人模式下的热效率亦存在衰减：1/2/3/4人，热效率为</span><span color="#ffdfbf">95%</span><span>/</span><span color="#ffdfbf">76%</span><span>/<br/></span><span color="#ffdfbf">67.857%</span><span>/</span><span color="#ffdfbf">63.33%</span><span>。</span><span color="#ffbfbf">(N5) </span><span>热效率为</span><span color="#ffdfbf">45%</span><span>/</span><span color="#ffdfbf">36%</span><span>/</span><span color="#ffdfbf">32.1%</span><span>/</span><span color="#ffdfbf">30%</span><span>。</span></p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="139" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">200</p>
+				</content>
+			</RichText>
+			<RichText x="199" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">200</p>
+				</content>
+			</RichText>
+			<RichText x="259" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">200</p>
+				</content>
+			</RichText>
+			<RichText x="319" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">200</p>
+				</content>
+			</RichText>
+			<RichText x="379" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">200</p>
+				</content>
+			</RichText>
+			<RichText x="439" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">200</p>
+				</content>
+			</RichText>
+			<RichText x="499" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">200</p>
+				</content>
+			</RichText>
+			<RichText x="559" y="338" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">200</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_4.png')" x="128" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_5.png')" x="128" y="320" blendMode="normal">
+			</BitmapImage>
+			<Group d:userLabel="Group_2">
+				<RichText x="139" y="398" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">200</p>
+					</content>
+				</RichText>
+				<RichText x="206" y="399" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">45</p>
+					</content>
+				</RichText>
+				<RichText x="266" y="399" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">45</p>
+					</content>
+				</RichText>
+				<RichText x="326" y="399" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">45</p>
+					</content>
+				</RichText>
+				<RichText x="386" y="399" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">45</p>
+					</content>
+				</RichText>
+				<RichText x="446" y="399" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">45</p>
+					</content>
+				</RichText>
+				<RichText x="506" y="399" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">45</p>
+					</content>
+				</RichText>
+				<RichText x="566" y="399" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+					<content>
+						<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">45</p>
+					</content>
+				</RichText>
+				<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_6.png')" x="128" y="380" blendMode="normal">
+				</BitmapImage>
+			</Group>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_7.png')" x="248" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_8.png')" x="428" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_9.png')" x="367" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_10.png')" x="308" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_11.png')" x="488" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_12.png')" x="188" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_13.png')" x="130" y="256" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_15.png')" x="550" y="256">
+			</BitmapImage>
+		</Group>
+		<RichText x="72" y="332" width="47" height="40" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffffff">岩石<br/><span fontFamily="仓耳渔阳体 W03" fontSize="12" color="#ffbfbf">(N5)</span></p>
+			</content>
+		</RichText>
+		<RichText x="73" y="392" width="45" height="40" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffffff">熔焰<br/><span fontFamily="仓耳渔阳体 W03" fontSize="12" color="#ffbfbf">(N5)</span></p>
+			</content>
+		</RichText>
+		<RichText x="72" y="457" fontFamily="MiSans" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="47" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffffff">瘫痪</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="ICON__FRAME" d:type="layer" visible="false">
+			<Rect x="640" y="832" width="128" height="128" alpha="1" d:userLabel="1" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="800" y="832" width="128" height="128" alpha="1" d:userLabel="2" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+			<Rect x="992" y="832" width="128" height="128" alpha="1" d:userLabel="3" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#ffffff"/>
+				</fill>
+			</Rect>
+			<Rect x="1152" y="832" width="128" height="128" alpha="1" d:userLabel="4" blendMode="normal" radiusX="0" radiusY="0">
+				<fill>
+					<SolidColor color="#d6d6d6"/>
+				</fill>
+			</Rect>
+		</Group>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_16.png')" x="1006" y="846" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_17.png')" x="654" y="846" blendMode="normal">
+		</BitmapImage>
+		<RichText x="67" y="640" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="66" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">热效率：</p>
+			</content>
+		</RichText>
+		<RichText x="68" y="512" width="436" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#bfffbf">(N3) <span color="#ffffff">抗性：岩石70%，熔焰</span><span color="#ff9999">火70% </span><span color="#ffffff">/ 其他-30%，瘫痪-60%。<br/></span><span>(N4) </span><span color="#ffffff">抗性：岩石150%，熔焰</span><span color="#ff9999">火150% </span><span color="#ffffff">/ 其他45%，瘫痪10%。</span></p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_3">
+			<RichText x="148" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="208" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="268" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="328" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="388" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">10</p>
+				</content>
+			</RichText>
+			<RichText x="448" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="508" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="568" y="458" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_18.png')" x="128" y="440" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_19.png')" x="814" y="846" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_20.png')" x="1166" y="846" blendMode="normal">
+		</BitmapImage>
+		<RichText x="656" y="932" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff9999" width="115" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff9999">Pyro Adv.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="805" y="932" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#99ff85" width="138" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#99ff85">Dendro Adv.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1006" y="931" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="121" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">Hydro Dis.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1172" y="931" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ff4c4c" width="109" height="22" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ff4c4c">Cryo Dis.</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="608" y="663" width="64" height="43" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "32" y = "0" scaleX = "43" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="599" y="654" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff" width="87" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="36" fontStyle="italic" fontWeight="bold" color="#ffffff">HP</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="612" y="742" width="80" height="34" alpha="0.6" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "40" y = "0" scaleX = "34" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<RichText x="607" y="733" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff" width="87" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+				<content>
+					<p textAlign="center" fontFamily="MiSans" fontSize="28" fontStyle="italic" fontWeight="bold" color="#ffffff">ATK</p>
+				</content>
+				<filters>
+					<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+				</filters>
+			</RichText>
+		</Group>
+		<RichText x="653" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="134" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">897874</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="665" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="112" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">15225</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="985" y="750" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="111" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">21681</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="823" y="750" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="116" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">19698</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="806" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="149" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">4474008</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="963" y="686" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="153" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">5690636</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="665" y="600" width="110" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">困难 - N3<br/><span fontSize="24" color="#ff9999">Lv.90</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="820" y="600" width="119" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">险恶 - N4<br/><span fontSize="24" color="#ff9999">Lv.100</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="982" y="600" width="118" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">无畏 - N5<br/><span fontSize="24" color="#ff9999">Lv.105</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="701" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="64" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 1.2</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="859" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 4.0</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1019" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 4.4</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1143" y="749" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="115" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">23222</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1123" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="155" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">11325501</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1143" y="600" width="115" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">绝境 - N6<br/><span fontSize="24" color="#ff9999">Lv.110</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1179" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b9b9b9" width="68" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+			<content>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b9b9b9">× 8.0</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_21.png')" x="1396" y="267" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_22.png')" x="1520" y="233">
+		</BitmapImage>
+		<RichText x="1538" y="320" width="443" height="303" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="18" fontWeight="bold" color="#ffffff">辉龙具有2种状态：「岩之人」和「熔焰之龙」；两个状态可互相转化，且受到<span color="#ff9999">火元素</span><span>伤害均会累积热量，且热效率相对于正常难度有所下降；<br/>「岩之人」状态下</span><span color="#ffdfbf">350</span><span>点；「熔焰之龙」状态下</span><span color="#ffdfbf">800</span><span>点，且初始拥有</span><span color="#ffdfbf">12.5%</span><span>(100)的热量，自身常驻</span><span color="#ff9999">火元素</span><span>。<br/>「岩之人」状态下积攒热量，攒满后进入「熔焰之龙」状态；<br/>「熔焰之龙」状态下攒满热量后辉龙像将直接瘫痪13s，此状态下一旦受</span><span color="#99ffff">冰元素</span><span>或</span><span color="#7fbfff">水元素</span><span>攻击时，会立即失去</span><span color="#ffdfbf">18.75%</span><span>(150)热量。<br/>「熔焰之龙」状态下累积热量达50%和100%时，均会损失当前</span><span color="#ffbfbf">15%</span><span>生命值；瘫痪结束后，或热量不足会退回「岩之人」状态。<br/></span><span color="#ffbfff">(N6) </span><span>存在</span><span color="#ff9999">最大扣血伤害</span><span>1500000点；</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/驱侵之役-熔岩辉龙像%B7炽烈流焰.assets/Image_23.png')" x="1376" y="246" blendMode="normal">
+		</BitmapImage>
+		<Rect x="576" y="32" width="768" height="768" alpha="1" visible="false" blendMode="normal" radiusX="0" radiusY="0">
+			<fill>
+				<SolidColor color="#ffffff"/>
+			</fill>
+		</Rect>
+	</Group>
+	<Group d:userLabel="层_2" d:type="layer">
+	</Group>
+</Graphic>

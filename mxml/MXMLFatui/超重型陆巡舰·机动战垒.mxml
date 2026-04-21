@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1312" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AD4218;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="232"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="466" text="超重型陆巡舰·机动战垒"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="416" text="全地形战争机关"/>
+	<mx:Text styleName="textStyle" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="384" text="HP: 1340572 (22.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Super-Heavy Landrover: Mechanized Fortress"/>
+	<mx:Text styleName="textStyle8" x="64" y="587" width="395" alpha="0.75" text="All-Terrain Combat Mek"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="陆巡舰使用攻坚锯进行两次来回挥锯，依次造成50%,60%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="768" width="448" alpha="0.9" text="处于陆巡舰后方时，陆巡迅速使用攻坚锯挥舞一圈，造成1-2次60%伤害，随后起飞并转身面朝玩家，缓缓落地，造成70%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="1056" width="448" alpha="0.9" text="自身存在「高热」计量条，满计量600点。陆巡舰在受到火元素攻击后，将积攒5高热，每额外n单位火元素额外积攒5n高热，计量过半后进入「红温过载」状态，计量满后进行「降控温御」，持续减少高热计量。本高热计量不受冰水影响。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="赤铦华光-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" text="逆折穿壑-位移"/>
+	<mx:Text styleName="textStyle11" x="1408" y="992" width="448" text="温变热媒-天赋"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="交替进行下列两种攻击：陆巡舰使用舰炮轰击，造成70%伤害；陆巡舰使用攻坚锯进行一次挥锯，造成60%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1056" width="448" alpha="0.9" text="未成功击破护罩时，陆巡舰升空，利用舰炮轰击，造成100%伤害并留下冰地面；随后利用攻坚锯下劈重重坠落，造成150%伤害；落地后持续切锯造成25%伤害；坠落时将冰地面替换为持续12s的火地面，并持续造成6%伤害；升空与坠落伤害闪避帧均无法躲避。"/>
+	<mx:Text styleName="textStyle13" x="64" y="1128" width="448" alpha="0.75" text="深渊抗性：正常150%，红温过载状态50%，瘫痪为-20%。高热：满计量600点。受到火元素攻击后，积攒0.833%(5)高热，每额外1U火元素量积攒0.833%(5)高热，计量过半后进入「红温过载」状态，计量满后进行「降控温御」。散热套件：28冻盾，持续18s，存在期间将持续减少高热计量条，击破后瘫痪16s，填满热量，全抗下降，恢复后清空热量。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="烈铓残霜-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="992" width="448" text="断明颓敝-爆发"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="64" y="1061" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="1268" y="715" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="1003" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="715" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="1004" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Text styleName="textStyle14" x="0" y="951" width="64" text="常态深渊+80"/>
+	<mx:Text styleName="textStyle14" x="0" y="1011" width="64" text="红温深渊+40"/>
+	<mx:Text styleName="textStyle14" x="0" y="1071" width="64" text="瘫痪深渊+40"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" alpha="0.9" text="陆巡舰使用舰炮朝空中发射2枚迫击弹，依次在玩家处落下，造成80%伤害并飞溅出10枚霜核，接触造成40%伤害；此外命中处留下冰地面，持续造成6%伤害，持续12s。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="768" width="448" alpha="0.9" text="高热计量满时，陆巡舰立即展开持续18s 的散热套件护罩，持续减少高热计量；若成功击破护罩，则其将立即受到当前30%生命值的火元素真伤并瘫痪15s；否则施放「断明颓敝」，期间抗性不变。"/>
+	<mx:Text styleName="textStyle11" x="736" y="416" width="448" text="冰期谶辞-定点"/>
+	<mx:Text styleName="textStyle11" x="1408" y="704" width="448" text="降控温御-防护"/>
+	<mx:Text styleName="textStyle9" x="1408" y="480" width="448" alpha="0.9" text="处于较远的位置时，陆巡舰起飞并缓缓降落至预警位置，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="416" width="448" text="驰越崔嵬-位移"/>
+	<mx:Image source="Image16.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1248" y="694" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="152" width="168" height="168"/>
+	<mx:Image source="Image21.png" x="576" y="984" width="168" height="168"/>
+	<mx:Image source="Image22.png" x="576" y="694" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1248" y="982" width="168" height="170"/>
+</mx:Application>

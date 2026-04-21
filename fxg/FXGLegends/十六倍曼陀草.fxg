@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="917" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1394" y="52" width="488" height="70" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#99ff85">DP</span><span>[75,50,25,0],</span><span color="#99ff85">DO</span><span>[0]；</span><span color="#99ff85">DP</span><span>[60,0](小)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="568" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 3899847 <span color="#dddddd">(64.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="760" width="399" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 958349 <span color="#dddddd">(17.28F) </span><span color="#99ff86">27%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="535" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">地方传奇 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="727" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="219" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">历经百战 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="616" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 31329<span color="#dddddd"> (12.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="808" width="378" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 16251<span color="#dddddd"> (6.6B2) </span><span color="#99ff86">55%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="665" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 200/150</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="857" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 200/150</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="458" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="359" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Hexadecatonic Mandragora</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">135</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1055" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_3.png')" x="64" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_4.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_5.png')" x="184" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_6.png')" x="364" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_7.png')" x="303" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_8.png')" x="244" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_9.png')" x="424" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_10.png')" x="124" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_11.png')" x="66" y="973" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_13.png')" x="486" y="973">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="255" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">曼陀草原地蓄力，孢囊发光，而后迅速进行多次弹射，接触造成<span color="#99ff85">55%,16.5%,<br/>5.5%</span><span>伤害；接着重重坠地，造成</span><span color="#99ff85">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="255" width="431" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">曼陀草进行1-3次的跳跃攻击，造成<span color="#99ff85">50%,20%</span><span>伤害，「脆性」状态会经常施放失败，表现为突然的倒地。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="543" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，曼陀草向前方发射6枚曲轨孢弹，造成<span color="#99ff85">40%,20%,7.2%</span><span>伤害，会重复施放2-3次；「脆性」状态下只发射3枚孢弹，且只连续施放一次。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="543" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">曼陀草开始倒立并朝玩家方向旋转，移动一小段距离，接触造成<span color="#99ff85">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，孢子抛射一枚草球，造成<span color="#99ff85">80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="799" width="1017" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">曼陀草初始处于「刚性」聚合状态，首次<span textDecoration="underline">分裂倒计时</span><span>为</span><span color="#ffdfbf">35s</span><span>，后续为</span><span color="#ffdfbf">38s</span><span>；倒计时结束后，在9-12m范围内分裂为10个</span><span textDecoration="underline">孢子</span><span>，持续17s；之后恢复。若期间击败8个及以上孢子，则会使曼陀草恢复后退出「刚性」状态，进入「脆性」聚合状态，并使分裂倒计时延长至</span><span color="#ffdfbf">44s</span><span>。<br/>低于</span><span color="#ffebbf">20%生命值</span><span>则根据剩余生命分裂对应数量的孢子(2%/个)；低于</span><span color="#ffebbf">2%生命值</span><span>则不再分裂。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="349" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">孢子轻轻撞击，造成<span color="#99ff85">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1167" width="435" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">孢子：生命值为曼陀草的<span color="#ffdfbf">10%</span><span>，攻击力为</span><span color="#ffdfbf">18275</span><span>(7.0B2 Lv.103)或为</span><span color="#ffdfbf">6894</span><span>(2.8B2 Lv.100 历经百战)，重/韧为45/50<br/>每击败一只扣除曼陀草</span><span color="#ffdfbf">2%生命值</span><span>。<br/>分裂倒计时：可被</span><span color="#ffacff">雷</span><span>与</span><span color="#ff9999">火</span><span>元素攻击加速，根据其元素量扣除</span><span color="#ffdfbf">n*1s</span><span>或</span><span color="#ffdfbf">0.15s</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_14.png')" x="1392" y="170">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_15.png')" x="719" y="170">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_16.png')" x="719" y="457">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_17.png')" x="1392" y="457">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_18.png')" x="1393" y="1033">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#38993e" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#38993e">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="65" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="506" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">十六倍曼陀草</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_2">
+			<RichText x="82" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">80</p>
+				</content>
+			</RichText>
+			<RichText x="142" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">80</p>
+				</content>
+			</RichText>
+			<RichText x="202" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">80</p>
+				</content>
+			</RichText>
+			<RichText x="262" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">80</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">205</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">80</p>
+				</content>
+			</RichText>
+			<RichText x="442" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">80</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="1115" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">80</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_19.png')" x="64" y="1097" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1052" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">脆性</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1112" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">刚性</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_20.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_21.png')" x="1268" y="491" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_22.png')" x="1268" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_23.png')" x="596" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_24.png')" x="596" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_25.png')" x="596" y="491" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_26.png')" x="576" y="470" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_27.png')" x="1248" y="470" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_28.png')" x="1248" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_29.png')" x="1248" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_30.png')" x="576" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_31.png')" x="1268" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_32.png')" x="719" y="713">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_33.png')" x="576" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_34.png')" x="719" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_35.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/十六倍曼陀草.assets/Image_36.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="928" width="937" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">孢子分裂范围：中心范围<span color="#ffdfbf">0-0.3m</span><span>，1个孢子；内层范围</span><span color="#ffdfbf">2-4.5m</span><span>，3个孢子；中层范围</span><span color="#ffdfbf">5-8m</span><span>，3个孢子；外层范围</span><span color="#ffdfbf">9-12m</span><span>，3个孢子。<br/>处于「刚性」聚合状态时，抗打断0.12。</span></p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

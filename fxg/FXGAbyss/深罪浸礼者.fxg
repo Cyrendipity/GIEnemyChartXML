@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1856" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="0" y="840" width="1920" height="1080" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "960" y = "68" scaleX = "964" rotation = "90">
+								<GradientEntry color="#000000" ratio="0" alpha="1"/>
+								<GradientEntry color="#ffffff" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_2.png')" x="0" y="916" d:locked="true" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_3.png')" x="0" y="86" blendMode="normal">
+		</BitmapImage>
+		<RichText x="62" y="497" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="430" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">深罪浸礼者</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="629" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" fontWeight="normal" color="#ffacff" width="286" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" color="#ffacff">漆黑乐园的引路人</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="1141" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1495" y="52" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="388" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WO[75,50,25,0]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="758" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="950" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="246" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领-雅各布 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="792" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 609351 <span color="#dddddd">(10.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="984" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 554600 <span color="#dddddd">(10.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="840" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 20886 <span color="#dddddd">(8.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="1032" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 9848 <span color="#dddddd">(4.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="889" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 200/400</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="1081" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 200/400</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="585" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="241" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Iniquitous Baptist</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="668" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ffacff" width="341" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ffacff">The Guide to the Dark Paradise</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#efbfff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="75" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">210</p>
+				</content>
+			</RichText>
+			<RichText x="135" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">210</p>
+				</content>
+			</RichText>
+			<RichText x="195" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">210</p>
+				</content>
+			</RichText>
+			<RichText x="255" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">210</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">210</p>
+				</content>
+			</RichText>
+			<RichText x="375" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">210</p>
+				</content>
+			</RichText>
+			<RichText x="435" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">210</p>
+				</content>
+			</RichText>
+			<RichText x="495" y="1279" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">210</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_4.png')" x="64" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_5.png')" x="64" y="1261" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_6.png')" x="184" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_7.png')" x="364" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_8.png')" x="303" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_9.png')" x="244" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_10.png')" x="424" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_11.png')" x="124" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_12.png')" x="66" y="1197" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_14.png')" x="486" y="1197">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="442" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">深罪浸礼者出场时携带3种<span textDecoration="underline">异界核心</span><span>，挂在其背后并逆时针转动，且按顺序</span><span fontWeight="normal">开启</span><span textDecoration="underline">元素护罩</span><span>，破盾后会有约</span><span color="#ffccbf">4s</span><span>的轻瘫时间，全破后重瘫</span><span color="#ffccbf">12s</span><span>。重瘫之后，会重新再生成3个核心。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffacff">(雷元素盾)<span color="#ffffff">深罪浸礼者施放出3个连续的雷球，每个造成</span><span>50%,25%,10%</span><span color="#ffffff">伤害，若命中无护盾庇护的玩家，则产生</span><span textDecoration="underline">紫电</span><span color="#ffffff">的效果。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="703" width="405" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffacff">(雷元素盾)<span color="#ffffff">深罪浸礼者上肢拿着雷锥，一左一右地朝玩家丢过来，每个造成</span><span>70%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="479" width="421" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffacff">(雷元素盾)<span color="#ffffff">深罪浸礼者咏唱，朝玩家发射长激光，造成</span><span>100%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="703" width="436" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ff9999">(火元素盾)<span color="#ffffff">深罪浸礼者从地面上唤出4个火陨石，然后依次朝玩家扔过来，每个造成</span><span>80%,40%,16%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="927" width="436" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#7fbfff">(水元素盾)<span color="#ffffff">深罪浸礼者从地面上唤出4个水球，然后依次朝玩家扔过来，每个造成</span><span>80%,40%,16%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1151" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ffff">(冰元素盾)<span color="#ffffff">距离玩家比较近时，深罪浸礼者用碎冰壳包围自己，随后炸开，造成</span><span>100%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1407" width="436" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ffff">(冰元素盾)<span color="#ffffff">深罪浸礼者从周围发射4个追踪冰锥，每个造成</span><span>78%</span><span color="#ffffff">伤害，若命中无护盾庇护的玩家，则产生</span><span textDecoration="underline">霜落</span><span color="#ffffff">的效果。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1407" width="423" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ffff">(冰元素盾)<span color="#ffffff">深罪浸礼者附魔</span><span>冰元素</span><span color="#ffffff">，然后朝玩家施放数刀冰刃，每个造成</span><span>50%</span><span color="#ffffff">伤害，最后施放一刀十字冰刃，造成</span><span>70%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1151" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#7fbfff">(水元素盾)<span color="#ffffff">深罪浸礼者附魔</span><span>水元素</span><span color="#ffffff">，然后朝玩家施放数刀水刃，每个造成</span><span>50%</span><span color="#ffffff">伤害，最后施放十字水刃，造成</span><span>70%</span><span color="#ffffff">伤害。若命中无护盾庇护的玩家，则产生</span><span textDecoration="underline">激流</span><span color="#ffffff">的效果。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="927" width="436" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ff9999">(火元素盾)<span color="#ffffff">深罪浸礼者在玩家处召唤7个地喷火，排成蜂巢状，每个造成</span><span>50%</span><span color="#ffffff">伤害，若命中无护盾庇护的玩家，则产生</span><span textDecoration="underline">渊火</span><span color="#ffffff">的效果。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="442" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">核心数量<span color="#dfffbf">为剩余护罩数量</span><span>。深罪浸礼者将自己所剩的</span><span textDecoration="underline">核心</span><span>放置于地面，核心可摧毁，全摧毁后会重瘫；若未及时摧毁，其将在12s后全部爆炸，每个造成对应元素的</span><span color="#ffff99">200%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_15.png')" x="719" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_16.png')" x="719" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_17.png')" x="719" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_18.png')" x="1395" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_19.png')" x="1390" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_20.png')" x="1392" y="841">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_21.png')" x="1392" y="1066">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_22.png')" x="1392" y="1321">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_23.png')" x="719" y="1322">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_24.png')" x="719" y="1066">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_25.png')" x="721" y="842">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_26.png')" x="1392" y="138">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#8e1498" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#8e1498">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1388" width="443" height="231" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">异界核心：深罪浸礼者出场携带核心顺序如下，每日轮换：<span color="#ff9999">火</span><span color="#99ffff">冰</span><span color="#ffacff">雷</span><span>，</span><span color="#99ffff">冰</span><span color="#7fbfff">水</span><span color="#ff9999">火</span><span>，</span><span color="#ffacff">雷</span><span color="#ff9999">火</span><span color="#7fbfff">水</span><span>，</span><span color="#7fbfff">水</span><span color="#99ffff">冰</span><span color="#ffacff">雷</span><span>。<br/>元素核心：</span><span color="#ff9999">2火</span><span>/</span><span color="#7fbfff">2水</span><span>/</span><span color="#ffacff">2雷</span><span>/</span><span color="#99ffff">2冻</span><span>盾，击毁可阻止其引爆，全部击毁可重瘫浸礼者。<br/>元素护罩：</span><span color="#ff9999">12火</span><span>/</span><span color="#7fbfff">12水</span><span>/</span><span color="#ffacff">8雷</span><span>/</span><span color="#99ffff">12冻</span><span>盾，击破使其瘫痪，瘫痪或使其再次施放元素法阵会使盾量减半，至多减半2次。<br/></span><span color="#ffacff">紫电</span><span>：扣除前台角色20点元素能量，1s触发一次，特殊能量不受影响。<br/></span><span color="#ff9999">渊火</span><span>：施加「渊火烙印」，扣除全队角色生命值，大小为15%角色生命值+13.3%浸礼者攻击力。<br/></span><span color="#7fbfff">激流</span><span>：前台角色处在CD中的技能的CD增加6s，1s触发一次。<br/></span><span color="#99ffff">霜落</span><span>：扣除80点体力，3s内再次命中则扣除25点体力。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_27.png')" x="64" y="192" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="84" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1339" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_28.png')" x="64" y="1321" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="5" y="1258" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="54" height="57" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">入战<br/>/开阵</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1337" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_29.png')" x="596" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_30.png')" x="576" y="152" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_31.png')" x="1268" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_32.png')" x="1248" y="152" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_33.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_34.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_35.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_36.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_37.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_38.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_39.png')" x="1268" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_40.png')" x="1248" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_41.png')" x="596" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_42.png')" x="576" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_43.png')" x="1268" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_44.png')" x="1248" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_45.png')" x="596" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_46.png')" x="576" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_47.png')" x="1268" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_48.png')" x="1248" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_49.png')" x="596" y="1355" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_50.png')" x="576" y="1334" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_51.png')" x="1268" y="1355" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_52.png')" x="1248" y="1334" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="1631" width="439" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#dfffbf">护罩持续时间超时后(30s)<span color="#ffffff">，深罪浸礼者链接两个核心，并在前方分别产生2个对应的元素球</span><span color="#bfffbf">(左下右上)</span><span color="#ffffff">，片刻后爆炸，每个元素球造成对应元素的</span><span color="#ffff99">100%</span><span color="#ffffff">伤害，然后换至下一个元素护罩，技能施放期间无元素护罩庇护。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_53.png')" x="720" y="1546">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_54.png')" x="596" y="1580" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_55.png')" x="576" y="1560" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="1631" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffacff">(雷元素盾)<span color="#ffffff">深罪浸礼者离场地较远时，或者要返回中心，安置核心时，会通过倒三角的传送门闪现(类似于藏镜仕女)。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_56.png')" x="1391" y="1546">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_57.png')" x="1268" y="1579" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/深罪浸礼者.assets/Image_58.png')" x="1248" y="1558" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

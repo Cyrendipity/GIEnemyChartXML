@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="64" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="348" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">遗迹猎者</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="1013" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="665" width="295" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 220591 <span color="#dddddd">(6.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="857" width="295" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 481520 <span color="#dddddd">(9.0H)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="631" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="180" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">精英 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="823" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="267" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">精英-靖世九柱 Lv.110 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="712" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 34471<span color="#dddddd"> (14.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="904" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 40638<span color="#dddddd"> (14.0B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="761" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="953" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="176" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Ruin Hunter</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="503" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">50</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_3.png')" x="64" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_4.png')" x="64" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_5.png')" x="184" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_6.png')" x="364" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_7.png')" x="303" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_8.png')" x="244" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_9.png')" x="424" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_10.png')" x="124" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_11.png')" x="66" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/遗迹猎者.assets/Image_13.png')" x="486" y="1069">
+			</BitmapImage>
+		</Group>
+		<RichText x="739" y="223" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">遗迹猎者使用一侧肢体进行划击，造成<span color="#b9b9b9">15%</span><span>和</span><span color="#b9b9b9">25%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="425" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">遗迹猎者使用右肢蓄力，4s后直接冲刺攻击，造成<span color="#b9b9b9">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="735" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">远离遗迹猎者使其进入「空袭」状态，往空中发射8枚导弹，片刻后下落在玩家周围，每枚导弹造成<span color="#b9b9b9">25%</span><span>伤害，最多可持续10轮。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="991" width="423" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处在处于「空袭」状态够久的遗迹猎者下方时，遗迹猎者朝下方发射激光轰炸地面，激光和爆炸均造成<span color="#b8b8b8">50%</span><span>伤害，并退出「空袭」状态。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="735" width="442" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离「空袭」状态的遗迹猎者过远时，遗迹猎者朝玩家发射4批子弹，每批子弹造成<span color="#b9b9b9">10%</span><span>伤害，持续2-4轮后施放</span><span color="#ffa54c">「机光飞火」</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="991" width="442" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「空袭」状态下，遗迹猎者发射8个螺旋飞的追踪弹，每枚导弹造成<span color="#b9b9b9">5%</span><span>伤害，接着使用4个炮筒蓄力，4s后发射巨大火炮造成</span><span color="#ff9999">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_14.png')" x="720" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_15.png')" x="719" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_16.png')" x="720" y="649">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_17.png')" x="720" y="906">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_18.png')" x="1392" y="649">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_19.png')" x="1391" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_20.png')" x="1391" y="394">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="425" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">遗迹猎者进行4段普通攻击：右划，左划，旋转，右劈，四段攻击依次造成<span color="#b9b9b9">15%,15%,10%x2,20%</span><span>伤害，当其</span><span color="#ffdfbf">生命值低于60%</span><span>后，有概率会后接一段水平或垂直的旋转，均造成</span><span color="#b9b9b9">15%x4</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="479" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当玩家直线距离遗迹猎者30m以上或者遗迹猎者够不到玩家时，遗迹猎者直接进入「空袭」状态，强制推开15m内的玩家。</p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#96673d" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#96673d">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="63" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#f8c9a5" width="194" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#f8c9a5">遗迹猎者</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="549" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#f8c9a5" width="150" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#f8c9a5">Ruin Hunter</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_21.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_22.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_23.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_24.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_25.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1310" y="52" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="573" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WP[75,50,25],WO[75,50,25,0]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_26.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_27.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_28.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_29.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_30.png')" x="596" y="683" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_31.png')" x="576" y="662" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_32.png')" x="1268" y="683" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_33.png')" x="1248" y="662" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_34.png')" x="1391" y="906">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_35.png')" x="596" y="939" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_36.png')" x="576" y="918" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_37.png')" x="1268" y="939" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/遗迹猎者.assets/Image_38.png')" x="1248" y="918" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

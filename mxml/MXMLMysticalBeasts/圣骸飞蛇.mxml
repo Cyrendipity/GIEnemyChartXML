@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1216" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFE5;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFE5;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#00AE83;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="136"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="410" text="圣骸飞蛇"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="424" text="啃噬伟大生命的风之兽"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：AP[66x2,33x2,0x2]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 388220 (7.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 14773 (6.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/400"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="Consecrated Flying Snake"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="The Whirling One, Devourer of the Mighty"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="圣骸飞蛇进行突刺、甩尾、上升气流三段攻击，分别造成50%,70%,90%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="圣骸飞蛇在自身处产生风眼吸引玩家，持续造成10%伤害(闪避帧无效)，并盘旋空中，5s后突然朝玩家冲出，造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="736" width="448" alpha="0.9" text="距离玩家较远时，圣骸飞蛇使用尾部尖端扔出飞轮，造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="992" width="448" alpha="0.9" text="每45s-60s，圣骸飞蛇盘旋产生一个大型风弹，其具有中追踪性，命中造成100%伤害，产生风弹后形成「噬骸能量块·风」；此时飞蛇失去强化，6s后则会被飞蛇吸收恢复强化。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="736" width="448" alpha="0.9" text="玩家处于后方时，圣骸飞蛇进行一个后空翻，使用尾部纵切，造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="992" width="448" alpha="0.9" text="圣骸飞蛇从开局、瘫痪恢复后或者吸收「噬骸能量块·风」之后，将进行抗性强化：风抗+60%，其他抗性+30%，并且全身变亮；该效果持续到其施放「龙戏珠」技能后，或被携带有「噬骸能量块·风」的玩家命中后失效。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1068" width="448" alpha="0.75" text="噬骸能量块·风：1次风元素攻击，或6次其他元素攻击可拾取，命中可瘫痪圣骸飞蛇。其存在6s，超时则会被圣骸飞蛇夺取。持有噬骸能量块·风时命中圣骸飞蛇则会令其强制瘫痪10s，并移除抗性提升，同时扣除15%生命值；噬骸能量块携带时，会反噬全队：每秒损失2%生命值，持续10s，穿盾不致死。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="天街蛇-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="416" width="448" text="蛇形步-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="锯子尾-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" text="龙戏珠-噬骸爆发"/>
+	<mx:Text styleName="textStyle12" x="1408" y="672" width="448" text="黄鳝鞭-防卫"/>
+	<mx:Text styleName="textStyle12" x="1408" y="928" width="448" text="飞蛇兜风-天赋"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="蛇盘旋-闪现"/>
+	<mx:Text styleName="textStyle12" x="1408" y="416" width="448" text="鳝摆尾-远程"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="距离玩家较远时，圣骸飞蛇在玩家处产生风眼，吸引玩家，持续造成10%伤害(闪避帧无效)，随后飞蛇出现在风眼处，产生气暴，造成90%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="480" width="448" alpha="0.9" text="距离玩家更远时，圣骸飞蛇在原地翻动，分批发射风弹，批次为1/2/3，每个风弹造成60%伤害。"/>
+	<mx:Image source="Image5.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1019" width="64" text="噬骸"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="939" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="918" width="168" height="170"/>
+</mx:Application>

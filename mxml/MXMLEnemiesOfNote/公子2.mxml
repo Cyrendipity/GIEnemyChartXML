@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#DC72FF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="725" y="252" width="870" height="905"/>
+	<mx:Image source="Image4.png" x="-41" y="54" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="410" text="「公子」"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="邪眼解放"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" text="HP: 146125 (6.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="周本-第二阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 19031 (10.0B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 150/500"/>
+	<mx:Text styleName="textStyle8" x="64" y="561" width="395" alpha="0.75" text="「Childe」"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="Delusion Unleashed"/>
+	<mx:Image source="Image5.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="公子进行至多5段的普通攻击，但一般只放2、3段。该5段普攻分别造成25%,27.5%,30%,35%,40%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="处在公子身后时，公子使用雷枪转身扫击，造成50%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="距离公子过远时，公子瞬移使用雷刃斩击造成62.5%伤害，命中引爆「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="在公子空闲时若对其进行普通攻击，则公子会产生雷元素盾抵挡伤害，每次受击都有13%概率进行反击，造成50%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="公子有时候双手一摊，不施放任何技能，进行近身攻击可削其韧，削韧后公子进入虚弱状态，当公子恢复后产生雷爆击飞玩家，无伤害，无其他效果。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="在公子空闲时若对其进行近战雷元素攻击，则公子瞬间施放反击，造成150%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="公子的某些技能施加的「断流·雷」效果，在玩家身上持续30s，若被引爆断流技能命中，则引爆「断流·雷」效果，将额外造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="公子进行2-5段的冲刺攻击，每段冲刺造成37.5%伤害，命中施加「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="断流效果下，公子使用雷环标记玩家，升空，数秒后下落在环的位置，造成100%伤害(闪避帧无效)，命中引爆「断流·雷」效果。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="奔雷刃尖-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="势如万钧-防卫"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="止变息霆-靠近"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="赐予紫雷-反击"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="霆潮波漾-恢复"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="覆以霍闪-反击"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="断流·雷-天赋"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="祟行遽影-位移"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="星裁夤灭-爆发"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image6.png" x="64" y="160" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1115" width="64" text="虚弱"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="576" y="1046" width="168" height="170"/>
+</mx:Application>

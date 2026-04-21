@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#4C79FF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#4C79FF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#1E63AE;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="200" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="857"/>
+	<mx:Image source="Image3.png" x="-41" y="415" width="539" height="204"/>
+	<mx:Image source="Image4.png" x="702" y="171" width="982" height="978"/>
+	<mx:Image source="Image5.png" x="-41" y="54" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="410" text="脉博"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Image source="Image6.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="373" text="弥罪俟时白枝生"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="384" text="HP: 3561628 (96.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="周本-第一阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 22838 (12.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 150/390"/>
+	<mx:Text styleName="textStyle8" x="64" y="561" width="395" alpha="0.75" text="desc.DrData.name"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="desc.monster.subtitle"/>
+	<mx:Image source="Image7.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image8.png" x="64" y="160" width="256" height="254"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="博士背身，立即用右手蓄力，立即在前方区域散布满地的冰棘，造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" alpha="0.9" text="距离较远时，博士升空，并在玩家附近生成3处冰羽环，并依次爆发，均造成55%攻击力的伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" alpha="0.9" text="博士站在中间，双手一挥，两侧立即出现拟造墙体，随后两墙进行夹击，造成100%攻击力的伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="彻骨凝锋-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="凯尔特的霜之结-定点"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="回转-位移"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="二次原-猛攻"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="博士使用右手朝玩家方向直线生成5枚地脊，五枚地脊分别造成25%,30%,35%,45%,55%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="博士立即使用右手用力敲击地面，在方形区域内产生扩散激波，造成75%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="五界-定点"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="摇滚-输出"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成2" styleName="textStyle11" x="736" y="448" width="448" alpha="0.9" text="博士操纵异立方，在远处发射2团净能量团，均造成65%伤害。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成22" styleName="textStyle11" x="1408" y="896" width="448" alpha="0.9" text="距离较远时，博士立即化身能量团并进行z字位移到达玩家身旁。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成23" styleName="textStyle11" x="736" y="1120" width="448" alpha="0.9" text="处于博士侧方时，博士突然闪现，在原地迅速回转一圈，造成70%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="异方的净讳-远程"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="风回路转-位移"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" alpha="0.9" text="博士打个响指，在自身处产生一面橙色故障墙体，同时内部的弹幕短时间内持续飞出，接触造成85%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="太阳风-猛攻"/>
+	<mx:Image source="Image9.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="576" y="822" width="168" height="170"/>
+</mx:Application>

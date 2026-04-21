@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1216" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#E84F7C;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#E84F7C;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AA2252;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="136" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="383" width="498" height="204"/>
+	<mx:Image source="Image4.png" x="702" y="171" width="982" height="978"/>
+	<mx:Image source="Image5.png" x="0" y="22" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="448" width="410" text="脉博"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="576" width="373" text="弥罪俟时白枝生"/>
+	<mx:Text styleName="textStyle4" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="384" text="HP: 2374419 (64.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="704" width="305" alpha="0.75" text="周本-第二阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="784" width="375" text="ATK: 22838 (12.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="832" width="375" text="Wt/Ed: 150/390"/>
+	<mx:Text styleName="textStyle8" x="64" y="529" width="395" alpha="0.75" text="desc.DrData.name"/>
+	<mx:Text styleName="textStyle9" x="64" y="619" width="395" alpha="0.75" text="desc.monster.subtitle"/>
+	<mx:Image source="Image6.png" x="64" y="941" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image7.png" x="64" y="128" width="256" height="254"/>
+	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="博士凝聚「拟像·祸津御建鸣神命」，使用恶曜太刀短时蓄力后立即下劈，造成100%伤害并向两侧挤开玩家。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="416" width="448" text="无想一槊·拟-猛攻"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成2" styleName="textStyle11" x="736" y="480" width="448" alpha="0.9" text="博士在场地四边放置4枚激光器，产生激光束并向对面进行移动，到终点消失，接触激光束持续造成35%伤害。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成22" styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="博士在玩家身旁四个位置产生方形脉冲波，均造成35%伤害。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成23" styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="博士立即摆臂，产生3股黑潮浅浪，造成45%伤害。仅入场施放一次。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成24" styleName="textStyle11" x="736" y="992" width="448" alpha="0.9" text="博士立即移至边缘，并展开壁障，同时全抗性+300%；35s后施放「万有成灰此世无」。壁障每隔6s将玩家猛地推向另一侧，钻入壁障上的缺口可避免被推走，一共有3种孔型。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成25" styleName="textStyle11" x="1408" y="992" width="448" alpha="0.9" text="博士将利用世界树的能力，造成150%伤害同时秒杀前台角色。壁障击破后，博士将拥有蓄能进度，进度归零后中断蓄力，并瘫痪12s。"/>
+	<mx:Text styleName="textStyle12" x="736" y="416" width="448" text="磁盘清理-限制"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="扇区侵入-定点"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="遍历故障-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" text="羽毛球网-蓄力"/>
+	<mx:Text styleName="textStyle12" x="1408" y="928" width="448" text="万有成灰念皆无-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="736" width="448" alpha="0.9" text="壁障破坏后，博士将在自身两侧依次凝成「拟像·王棋」、「拟像·后棋」，王棋先进行冲撞，接着后棋突旋，依次造成75%,60%伤害，本技能持续至爆发施放。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="672" width="448" text="凤凰传棋·拟-输出"/>
+	<mx:Image source="Image8.png" x="64" y="1065" width="484" height="60"/>
+	<mx:Text styleName="textStyle11" x="736" y="736" width="448" alpha="0.9" text="博士凝聚「拟像·修库特尔」，并向前依次斩出火刀域霜刀剑气，依次造成80%,80%伤害，随后发射密集弹幕，造成35%伤害，部分子弹造成100%伤害。伤害均带有(1,0.6,0.3,0.1)的衰减。"/>
+	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="焰光天影·拟-猛攻"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="939" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="684" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1248" y="918" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="576" y="664" width="168" height="168"/>
+	<mx:Text styleName="textStyle13" x="64" y="1132" width="448" alpha="0.75" text="壁障：任意壁障两端需要3次任意攻击击破，方可解除壁障。蓄能进度：初始为满，需30次任意攻击方可清空，同时中断爆发技的准备。"/>
+	<mx:Text styleName="textStyle14" x="0" y="1022" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1082" width="64" text="蓄力"/>
+</mx:Application>

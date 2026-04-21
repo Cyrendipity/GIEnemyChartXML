@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="960" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2171B1;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#BFEDFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="960"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="506" text="幻形花鼠·水"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：HP[0];HP[60,0](活动)"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="480" text="HP: 51471 (1.4H) / 82804 (3.4H)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="480" alpha="0.75" text="其他-纯水幻形-常规 Lv.100 Data / 活动 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="480" text="ATK: 7387 (3.0B2) / 7387 (3.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Hydro Mimic Squirrel"/>
+	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="流尾罚击-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="溅水飞刃-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="无汲之卷-妨害"/>
+	<mx:Text styleName="textStyle10" x="736" y="256" width="448" alpha="0.9" text="水鼠跳起，用尾重重击地，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="水鼠用尾部从左/右横扫，造成100%伤害。(仅限活动)扫尾的同时产生激波，激波造成50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" alpha="0.9" text="(仅限活动)水鼠腾空翻滚，落地造成100%伤害，落地位置产生水喷造成80%伤害。"/>
+	<mx:Image source="Image4.png" x="107" y="72" width="170" height="248"/>
+	<mx:Image source="Image5.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="630" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="64" y="912" width="448" alpha="0.75" text="活动版花鼠全抗性均为10%。"/>
+</mx:Application>

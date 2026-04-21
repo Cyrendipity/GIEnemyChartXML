@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1152" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AD4218;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="72"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="449" text="金焰绒翼龙暴君"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="416" text="失约的金焰暴君"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：PO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 755595 (12.4F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 26107 (10.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="446" width="395" alpha="0.75" text="Goldflame Qucusaur Tyrant"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Golden Tyrant of the Broken Oath"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="距离较远时，暴君伏地进行潜游，触碰造成60%伤害并立即跃出，顺势进行2次爪划击，分别造成45%,22.5%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="暴君迸发出强烈耀光，变为金焰形态升空，此时其身覆有金焰胄身护盾；一段时间后暴君耗尽力量会跌落瘫痪3s。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="贯石穿罅-位移"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="咒阳金焰-强化"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="暴君至多进行右划、振地两段攻击，其分别造成40%,55%伤害，可单独施放。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="暴君身转一圈，造成50%,25%伤害，接着朝玩家方向突进一段距离，造成55%,11%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="金焰暴君丢下一枚(特化2枚)炽风之翎，造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="金焰暴君不断发射金翎碎片进行攻击，每个碎片均造成40%,16%,4%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="金焰暴君俯冲下来，引爆此处的炽风之翎，造成100%伤害并高高升空；若无翎羽引爆，则只造成一次气爆，造成65%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="谕以疾焚-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="燔武燎悍-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="烨风熠翎-召唤"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="鎏絮缲丝-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="诅焰撷光-爆发"/>
+	<mx:Image source="Image5.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="959" width="64" text="入战"/>
+	<mx:Text styleName="textStyle13" x="0" y="1019" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="64" y="1068" width="448" alpha="0.75" text="金焰胄身：24火盾，击破后会强制瘫痪暴君10s。炽风之翎：2火盾，击破后暴君将无法利用其升空。"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="822" width="168" height="170"/>
+</mx:Application>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#96673D;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#F8C9A5;
+		}
+		.textStyle11 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#F8C9A5;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="遗迹猎者"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="1024" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="305" text="HP: 220591 (6.0H)"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" text="HP: 481520 (9.0H)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="832" width="305" alpha="0.75" text="精英-靖世九柱 Lv.110 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 34471 (14.0B1)"/>
+	<mx:Text styleName="textStyle4" x="64" y="912" width="375" text="ATK: 40638 (14.0B1)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle4" x="64" y="960" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Ruin Hunter"/>
+	<mx:Image source="Image4.png" x="64" y="1069" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="736" y="224" width="448" alpha="0.9" text="遗迹猎者使用一侧肢体进行划击，造成15%和25%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="480" width="448" alpha="0.9" text="遗迹猎者使用右肢蓄力，4s后直接冲刺攻击，造成100%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="736" width="448" alpha="0.9" text="远离遗迹猎者使其进入「空袭」状态，往空中发射8枚导弹，片刻后下落在玩家周围，每枚导弹造成25%伤害，最多可持续10轮。"/>
+	<mx:Text styleName="textStyle7" x="736" y="992" width="448" alpha="0.9" text="处在处于「空袭」状态够久的遗迹猎者下方时，遗迹猎者朝下方发射激光轰炸地面，激光和爆炸均造成50%伤害，并退出「空袭」状态。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="736" width="448" alpha="0.9" text="距离「空袭」状态的遗迹猎者过远时，遗迹猎者朝玩家发射4批子弹，每批子弹造成10%伤害，持续2-4轮后施放「机光飞火」。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="992" width="448" alpha="0.9" text="「空袭」状态下，遗迹猎者发射8个螺旋飞的追踪弹，每枚导弹造成5%伤害，接着使用4个炮筒蓄力，4s后发射巨大火炮造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="切械尖刃-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="416" width="448" text="尖利穿刺-爆发"/>
+	<mx:Text styleName="textStyle8" x="736" y="672" width="448" text="空袭散落-爆发 	空袭"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" text="降陨余光-转变 	空袭"/>
+	<mx:Text styleName="textStyle8" x="1408" y="672" width="448" text="重膛机枪-爆发 	空袭"/>
+	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="裁镶之刃-输出"/>
+	<mx:Text styleName="textStyle8" x="1408" y="416" width="448" text="热炽凌空-转变"/>
+	<mx:Text styleName="textStyle7" x="1408" y="224" width="448" alpha="0.9" text="遗迹猎者进行4段普通攻击：右划，左划，旋转，右劈，四段攻击依次造成15%,15%,10%x2,20%伤害，当其生命值低于60%后，有概率会后接一段水平或垂直的旋转，均造成15%x4伤害。"/>
+	<mx:Text styleName="textStyle7" x="1408" y="480" width="448" alpha="0.9" text="当玩家直线距离遗迹猎者30m以上或者遗迹猎者够不到玩家时，遗迹猎者直接进入「空袭」状态，强制推开15m内的玩家。"/>
+	<mx:Text styleName="textStyle9" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="64" y="512" width="343" text="遗迹猎者"/>
+	<mx:Text styleName="textStyle11" x="64" y="555" width="395" alpha="0.75" text="Ruin Hunter"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="1278" y="64" width="578" alpha="0.5" text="元素能量：WP[75,50,25],WO[75,50,25,0]"/>
+	<mx:Image source="Image10.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="1408" y="928" width="448" text="机光飞火-爆发	空袭"/>
+	<mx:Image source="Image18.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="939" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="918" width="168" height="170"/>
+</mx:Application>

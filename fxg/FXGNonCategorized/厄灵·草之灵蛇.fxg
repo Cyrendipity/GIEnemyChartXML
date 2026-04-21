@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1080" viewWidth= "1248">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<RichText x="62" y="371" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="453" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">厄灵·草之灵蛇</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="725" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="116" width="295" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#99ff85">DP</span><span>[60,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="568" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 83190 <span color="#dddddd">(1.5F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="535" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="180" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">普通 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="616" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 7879<span color="#dddddd"> (3.2B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="665" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="252" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 150/400</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="438" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="298" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Spirit of Omen: <br/>Dendro Spirit-Serpent</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">-50</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="863" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ece5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ece5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_2.png')" x="64" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_3.png')" x="64" y="845" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_4.png')" x="184" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_5.png')" x="364" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_6.png')" x="303" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_7.png')" x="244" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_8.png')" x="424" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_9.png')" x="124" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_10.png')" x="66" y="781" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_12.png')" x="486" y="781">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="255" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">叶轮舞者与草之灵蛇一同进行：草之灵蛇在玩家处产生临时屏障，并在其中撒下大量花弹，造成<span color="#99ff86">30%,15%,3%</span><span>伤害，随后屏障破碎；叶轮舞者则施放「轮飞</span><span fontFamily="HP Simplified Hans">廻</span><span>斜」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="511" width="407" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">草之灵蛇朝前方突进，造成<span color="#99ff87">60%</span><span>伤害，接着甩尾攻击，造成</span><span color="#99ff87">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="735" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">草之灵蛇转将自己盘成环状，发射一枚草棱镜弹，造成<span color="#99ff87">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="959" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">草之灵蛇闪现，然后出现在玩家处，使用充满能量的尾针用力扎地，造成<span color="#99ff86">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_13.png')" x="720" y="169">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_14.png')" x="719" y="426">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_15.png')" x="720" y="649">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_16.png')" x="720" y="873">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#389a3e" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#389a3e">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_17.png')" x="596" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_18.png')" x="576" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_19.png')" x="596" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_20.png')" x="576" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_21.png')" x="596" y="683" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_22.png')" x="576" y="662" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_23.png')" x="596" y="907" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_24.png')" x="576" y="886" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/厄灵%B7草之灵蛇.assets/Image_25.png')" x="81" y="64" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

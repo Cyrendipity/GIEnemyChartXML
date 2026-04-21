@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#99FF85;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_TW_Web-Medium;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_TW_Web-Medium;
+			fontSize:20;
+			color:#99FF85;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#24A451;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image3.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="贪食匿叶龙山王"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="388" text="「山王」康加玛托"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1247" y="64" width="609" alpha="0.5" text="元素能量：GO[66,33,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 1645247 (27.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 21931 (8.4B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="447" width="395" alpha="0.75" text="Gluttonous Yumkasaur Mountain Lord"/>
+	<mx:Text styleName="textStyle9" x="64" y="548" width="410" alpha="0.75" text="Kongamanto the Mountain King "/>
+	<mx:Image source="Image5.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="山王至多进行践踏、甩尾2段攻击，分别造成50%,65%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="山王借助长舌纵身一跃，重重下落造成80%伤害，并产生一次相同伤害的振波。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="山王喷吐一枚草弹，造成50%伤害，可重复施放3次。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="掷步衔尾-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="引索垂星-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="丛庞涎芬-远程"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="樊林倬影-位移"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="难支鞠硕-位移"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="山王拍拍肚子，扑倒并朝玩家方向开始旋转，持续造成35%,17.5%,8.75%,3.5%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="山王借助长舌抵达高处，缓慢下落，造成80%伤害。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image6.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="1024" alpha="0.9" text="山王周期性地在地上散落1或3枚火榴果，数秒后将其吞下。使用火元素可以点燃火榴果，每颗火榴果对玩家造成30%伤害，对山王造成5%生命值的真伤，若山王吞下被点燃的火榴果，则在反噬的同时使其瘫坐在地上6s。若被匿叶龙或基尼奇发射的火榴果命中山王时，除了火榴果基础的伤害外，也会对山王造成5%生命值的真伤。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="山王吐出火榴果，造成100%伤害并留下6%伤害的燃烬；山王吞下全部3火榴果后，将吐出2枚火弹和一次热力喷发，喷发造成250%伤害并留下燃烬。"/>
+	<mx:Text styleName="textStyle13" x="736" y="832" width="448" text="如吞㮯枣-蓄力"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="腹盈丹若-爆发"/>
+	<mx:Image source="Image15.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="598" width="168" height="170"/>
+</mx:Application>

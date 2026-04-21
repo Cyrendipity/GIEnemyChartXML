@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#BFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="463" text="丘丘霜铠王"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="394" text="冰霜刻印的丘丘王者"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1247" y="64" width="609" alpha="0.5" text="元素能量：WP[75x3,50x3,25x3,0x3],WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="384" text="HP: 330886 (9.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 29547 (12.0B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/400"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="Frostarm Lawachurl"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Ice-Sealed Lawachurl"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="192" width="448" text="冰霜嵌-强化"/>
+	<mx:Text styleName="textStyle10" x="1408" y="416" width="448" text="掌掴蝇-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="640" width="448" text="乌鸦坐-爆发"/>
+	<mx:Text styleName="textStyle10" x="736" y="864" width="448" text="布丁飞-远程"/>
+	<mx:Text styleName="textStyle11" x="1408" y="256" width="448" alpha="0.9" text="冰丘丘王进行扩胸运动，全身变冰霜发亮，进入魔化状态，并附属冰铠。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="480" width="448" alpha="0.9" text="(魔化)冰丘丘王左手蓄力一挥，造成37.5%伤害，并留下冰晶，冰晶迸裂造成50%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="704" width="448" alpha="0.9" text="(魔化)冰丘丘王侧身蓄力起跳，重重下落造成100%伤害，并留下结冰地面，接触造成15%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="1024" alpha="0.9" text="冰丘丘王从地上挖并抛出3只冰史莱姆，每个造成50%伤害。魔化状态：抛出一只大冰史莱姆，造成62.5%伤害；"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="736" y="256" width="448" alpha="0.9" text="冰丘丘王进行勾拳、捶地2段的普通攻击，分别造成37.5%,40%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="480" width="448" alpha="0.9" text="(魔化)冰丘丘王蓄力冲过来，造成50%伤害，并在其路径上留下6个冰簇，冰簇接触爆炸造成25%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="704" width="448" alpha="0.9" text="冰丘丘王进行1-2次的双手锤击地面攻击，两次分别造成50%,62.5%伤害，第二次锤击的范围更大。"/>
+	<mx:Text styleName="textStyle10" x="736" y="192" width="448" text="黑虎掏-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="鹤捕虾-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="640" width="448" text="地震拳-输出"/>
+	<mx:Image source="Image4.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image5.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="203" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1248" y="182" width="168" height="170"/>
+	<mx:Text styleName="textStyle14" x="64" y="1008" width="448" alpha="0.75" text="冰铠：30冻盾，持续90s。该状态下，抗打断0，免疫风场力，且获得80%的减伤。"/>
+	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="652" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="632" width="168" height="168"/>
+	<mx:Image source="Image13.png" x="1268" y="428" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="408" width="168" height="168"/>
+	<mx:Image source="Image15.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="854" width="168" height="170"/>
+</mx:Application>

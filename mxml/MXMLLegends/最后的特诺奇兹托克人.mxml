@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1344" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9324AA;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="264"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="最后的特诺奇兹托克人"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：EP[75,50,25,0],EO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="363" text="HP: 5118549 (84.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="512" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="592" width="375" text="ATK: 26107 (10.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle5" x="64" y="832" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="436" width="437" alpha="0.75" text="The Last Survivor of Tenochtzitoc"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="64" y="941" width="484" height="124"/>
+	<mx:Image source="Image5.png" x="64" y="1065" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="64" y="1125" width="484" height="60"/>
+	<mx:Text styleName="textStyle9" x="64" y="1192" width="448" alpha="0.75" text="感电条：100点进度，每触发一次感电/月感电反应积攒7；进度满后将促使其施放「恣舞戏醉人」技能。帽子：也拥有100点进度的感电条，每触发一次感电/月感电反应积攒20，帽子进度满后则扣除本体22%的白盾，然后清空。帽子护罩：生命值盾，继承本体36.2%/40%(深渊)生命值，承受帽子所受伤害，击破可令本体瘫痪13s，期间全抗大幅下降。"/>
+	<mx:Text styleName="textStyle10" x="0" y="1022" width="64" text="本体"/>
+	<mx:Text styleName="textStyle10" x="0" y="1082" width="64" text="帽子"/>
+	<mx:Text styleName="textStyle10" x="0" y="1142" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="「特诺」向前撞击一下，造成60%伤害，接着摘下帽子挥舞一圈，造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="「特诺」将上半身缩进帽内，进行至多5次的翻跃攻击，前几次均造成60%伤害；最后一击造成更大范围的100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="554" width="448" alpha="0.9" text="「特诺」连续丢出3顶帽子，帽子旋转一段时间后飞回「特诺」处，触碰帽子造成80%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="864" width="448" alpha="0.9" text="「特诺」跳回场地前方，并召唤3顶帽子，展开帽子护罩，自己遁入其中一顶并开始随机变换，持续10s，首次进行5次变换；变换后的帽子会暂停变换；停止变换时，帽子会间歇性施放冲击波，造成40%伤害。若45s内没击破帽子护罩，则「特诺」将谢幕，造成250%伤害。当击破帽子护罩时，「特诺」会受到一次真实伤害，其值由绎演期间的水&amp;雷伤+12%非水&amp;雷伤构成。本体帽子提示：带胡子、金边AoE、移动时有金色特效。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="554" width="448" alpha="0.9" text="「特诺」将帽子倒置在地面，不断丢出大量小帽子，在场地内随机下落，每枚帽子造成60%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="864" width="448" alpha="0.9" text="「特诺」自身具有感电条，触发感电/月感电反应后会积攒进度，填满后将使其麻痹一小会，随即施放「恣舞戏醉人」技能。绎演期间，帽子受到的感电/月感电的伤害提升150%；在受到感电/月感电伤害后会暂停变换10s，且会累计帽子自身的感电条，感电条填满后将扣除一定量的帽子护罩。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="缘君扫花堂-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="五步众宾欢-位移"/>
+	<mx:Text styleName="textStyle12" x="736" y="490" width="448" text="冠陈满君案-远程"/>
+	<mx:Text styleName="textStyle12" x="736" y="800" width="448" text="恣舞戏醉人-召唤"/>
+	<mx:Text styleName="textStyle12" x="1408" y="490" width="448" text="落幕携君观-限制"/>
+	<mx:Text styleName="textStyle12" x="1408" y="800" width="448" text="月影颓我身-天赋"/>
+	<mx:Image source="Image7.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="1268" y="811" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="501" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="501" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="811" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="480" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="790" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1248" y="480" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1248" y="790" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="425" text="HP: 1064832 (19.2F) 8/35"/>
+	<mx:Text styleName="textStyle5" x="64" y="784" width="417" text="ATK: 13542 (5.5B2) 55%"/>
+</mx:Application>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1408" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/女士2.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_2.png')" x="0" y="86" blendMode="normal">
+		</BitmapImage>
+		<RichText x="57" y="495" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="449" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">焚尽的炎之魔女</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="629" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" fontWeight="normal" color="#ff9999" width="482" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" color="#ff9999">罗莎琳·克鲁兹希卡·洛厄法特</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="945" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="788" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 742006 <span color="#dddddd">(20.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="755" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="254" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">周本-第二阶段 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="836" width="288" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 9135 <span color="#dddddd">(4.8B1)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="885" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 20000/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="562" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="339" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Crimson Witch of Embers</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="669" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#ff9999" width="333" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#ff9999">Rosalyne-Kruzchka Lohefalter</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="83" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/女士2.assets/Image_3.png')" x="64" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_4.png')" x="64" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_5.png')" x="184" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_6.png')" x="364" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_7.png')" x="303" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_8.png')" x="244" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_9.png')" x="424" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_10.png')" x="124" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_11.png')" x="66" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/女士2.assets/Image_13.png')" x="486" y="1005">
+			</BitmapImage>
+		</Group>
+		<RichText x="1410" y="223" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳使劲挥动手中的火鞭，以5种方式施放：近弧、远直、双连、倒直、倒弧，不论怎么施放，都造成<span color="#ff9999">50%</span><span>伤害，命中+</span><span color="#ffdfbf">5%</span><span>炎热值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳张开双翼，扇一下挥出一个暗红色的火球，火球沿直线移动，碰到造成<span color="#ff9999">62.5%</span><span>伤害，并在途经上留下余烬，命中+</span><span color="#ffdfbf">5%</span><span>炎热值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1411" y="671" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳张开双翼哀嚎，召唤数个火陨命中地面，有较弱的玩家倾向，每个火陨造成<span color="#ff9999">100%</span><span>伤害，命中+</span><span color="#ffdfbf">5%</span><span>炎热值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="420" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳传送转移的时候化为暗红的火球，触碰造成<span color="#ff9999">37.5%</span><span>伤害，命中+</span><span color="#ffdfbf">5%</span><span>炎热值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="435" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当罗莎琳本次受到的伤害超过本阶段<span color="#99e5ff">生命值的20.1%</span><span>时，罗莎琳施放一次大范围爆炸，造成</span><span color="#ff9999">125%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，</span><span color="#ff9999">充满</span><span>炎热值；<br/>该次伤害超过罗莎琳生命值20.1%的部分无效(即受到的最高伤害只能是罗莎琳</span><span color="#99e5ff">生命值的20.1%</span><span>)。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/女士2.assets/Image_14.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_15.png')" x="1391" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_16.png')" x="1392" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_17.png')" x="1391" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_18.png')" x="1392" y="1034">
+		</BitmapImage>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ad4218" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ad4218">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1136" width="443" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">霜之眼：7次次数盾，位于场地四角，靠近每秒<span color="#ffcebf">-20%</span><span>炎热值，击破后清除</span><span color="#ffbfbf">半径12.5m</span><span>内的余烬，且清空玩家炎热值；最大可再生数量为2。<br/>炎热：正常每秒积攒</span><span color="#ffcdbf">3%</span><span>，满后每秒流失</span><span color="#ffcdbf">(3%+150)</span><span>生命值，火/燃附着</span><span color="#ffcdbf">+20%</span><span>积攒速度，冰/水附着</span><span color="#ffcdbf">-20%</span><span>积攒速度。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" width="407" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳的部分攻击命中地面会产生余烬，其持续造成<span color="#ff9999">6.25%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，命中+</span><span color="#ffdfbf">2.5%</span><span>炎热值，余烬永久存在，只能被</span><span textDecoration="underline" color="#99e5ff">霜之眼</span><span>破坏。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳张开双翼，召唤一堆的火之蝶坠向地面，造成<span color="#ff9999">25%</span><span>伤害，并留下余烬，命中+</span><span color="#ffdfbf">2%</span><span>炎热值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳召唤一个较大的红莲蛾，红莲蛾追逐玩家，具有一定追踪性，会穿墙，碰到造成<span color="#ff9999">25%</span><span>伤害，命中+</span><span color="#ffdfbf">5%</span><span>炎热值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳挥舞火鞭，插入地面，呈三叉状，造成<span color="#ff9999">50%</span><span>伤害，之后罗莎琳用力拔出，造成</span><span color="#ff9999">75%</span><span>伤害，命中+</span><span color="#ffdfbf">5%</span><span>炎热值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="424" height="229" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">罗莎琳位于场地中央，旋转自身变成大火龙卷，触碰造成<span color="#ff9999">75%</span><span>伤害，该大火龙卷会不断分出4个小火龙卷，各造成</span><span color="#ff9999">37.5%</span><span>伤害，大火龙卷经过的地方会留下余烬；被大火龙卷命中+</span><span color="#ffdfbf">5%</span><span>炎热值，被小火龙卷则+</span><span color="#ffdfbf">2%</span><span>炎热值；<br/>持续时间结束后大火龙卷重新变为罗莎琳，会</span><span color="#ff9999">充满</span><span>一半的炎热值。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/女士2.assets/Image_19.png')" x="719" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_20.png')" x="719" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_21.png')" x="720" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_22.png')" x="719" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_23.png')" x="720" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_24.png')" x="64" y="192" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_25.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_26.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_27.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_29.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_30.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_31.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_32.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_33.png')" x="664" y="212" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_34.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_35.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_36.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_37.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_38.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_39.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_40.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_41.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_42.png')" x="1268" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_43.png')" x="1248" y="1046" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_44.png')" x="596" y="1067" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/女士2.assets/Image_45.png')" x="576" y="1046" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

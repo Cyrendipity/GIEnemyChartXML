@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFDFBF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99E5FF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle12 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#B1599B;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle16 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle18 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="104" width="666" height="625"/>
+	<mx:Text styleName="textStyle" x="392" y="33" width="1112" text="历经百战的执灯人·哀恸回响"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="448" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WP[75,50,25,0x3] WO[0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：10.314F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：5.5B2"/>
+	<mx:Text styleName="textStyle5" x="608" y="672" width="130" alpha="0.6" text="HP X2"/>
+	<mx:Text styleName="textStyle6" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle7" x="640" y="704" width="160" text="459197"/>
+	<mx:Text styleName="textStyle7" x="640" y="768" width="160" text="10467"/>
+	<mx:Text styleName="textStyle7" x="960" y="768" width="160" text="14905"/>
+	<mx:Text styleName="textStyle7" x="800" y="768" width="160" text="13542"/>
+	<mx:Text styleName="textStyle7" x="800" y="704" width="160" text="2288131"/>
+	<mx:Text styleName="textStyle7" x="960" y="704" width="160" text="3307214"/>
+	<mx:Text styleName="textStyle8" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle8" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle8" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle9" x="640" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle10" x="800" y="938" width="128" alpha="0.6" text="Moonsign:Asc.Gleam √"/>
+	<mx:Text styleName="textStyle11" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle11" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image4.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Image source="Image5.png" x="654" y="847" width="100" height="99"/>
+	<mx:Image source="Image6.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle12" x="615" y="128" width="666" alpha="0.75" text="Battle-Hardened Lightkeeper: Mourning Echoes"/>
+	<mx:Text styleName="textStyle13" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image7.png" x="128" y="256" width="484" height="124"/>
+	<mx:Text styleName="textStyle14" x="64" y="640" width="217" text="失色哀恸(临界状态)："/>
+	<mx:Text styleName="textStyle14" x="64" y="512" width="217" text="悲余残念："/>
+	<mx:Text styleName="textStyle14" x="64" y="896" width="217" text="荒野幽徒："/>
+	<mx:Text styleName="textStyle15" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle15" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle15" x="960" y="736" width="160" alpha="0.6" text="× 5.0"/>
+	<mx:Text styleName="textStyle7" x="1120" y="768" width="160" text="15965"/>
+	<mx:Text styleName="textStyle7" x="1120" y="704" width="160" text="8181446"/>
+	<mx:Text styleName="textStyle8" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle15" x="1120" y="736" width="160" alpha="0.6" text="× 11.3"/>
+	<mx:Text styleName="textStyle16" x="1536" y="320" width="448" alpha="0.9" text="执灯人从心膛掏出魔火，丢在面前，落地召唤2个「荒野幽徒」，且造成20%伤害。"/>
+	<mx:Text styleName="textStyle17" x="1536" y="256" width="448" text="业痴心魔-召唤"/>
+	<mx:Image source="Image8.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="819" y="847" width="91" height="98"/>
+	<mx:Text styleName="textStyle18" x="64" y="672" width="448" alpha="0.75" text="若队伍不处于 「满辉」，则只能通过清空红血，才可使其陷入临界状态，从而继续削减生命上限，期间狂猎所受伤害的65%会用于削减上限；若队伍处于「满辉」，施放被「满辉」强化的技能，附近的狂猎会直接进入临界状态，期间狂猎所受伤害的90%会用于削减上限，注意该临界状态也只持续10s，并且不能中途续杯。狂猎进入因清空红血所致的临界状态时，会立即减少10%生命上限，此后每次进入状态都会额外削减8%生命上限，即：第一次清空红血会立即削减10%生命上限，第二次18%，第三次26%……以此类推。"/>
+	<mx:Text styleName="textStyle18" x="64" y="544" width="448" alpha="0.75" text="执灯人一阶段处于「游荡」状态，不具有狂猎相关性质，将其第一条血清空后，可以令其陷入「狂猎」状态。执灯人转阶段的「失色哀恸」状态只持续4s。"/>
+	<mx:Text styleName="textStyle18" x="64" y="928" width="448" alpha="0.75" text="共2只，每只为执灯人2/15生命值。「荒野幽徒」的15%生命上限用于回复执灯人自身的生命上限；若召唤物生命上限已遭削减，则取其7.5%生命上限作为回复；执灯人单次最高回复上限不超过30%生命值。"/>
+</mx:Application>

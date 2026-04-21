@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="960" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="960"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="410" text="盗宝团·火之药剂师"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle" x="64" y="768" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="HP: 58824 (1.6H)"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="305" alpha="0.75" text="普通 Lv.100 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="656" width="375" text="ATK: 3940 (1.6B1)"/>
+	<mx:Text styleName="textStyle3" x="64" y="704" width="375" text="Wt/Ed: 80/50"/>
+	<mx:Text styleName="textStyle5" x="64" y="465" width="410" alpha="0.75" text="Treasure Hoarder: Pyro Potioneer"/>
+	<mx:Image source="Image3.png" x="64" y="813" width="484" height="124"/>
+	<mx:Text styleName="textStyle6" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="576" y="128" width="469" alpha="0.5" text="元素能量：WP[66,33,0x2]"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="火之药剂师丢出一瓶燃烧弹，造成70%伤害，余下一片燃烧的地面，持续造成30%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="火之药剂师踹一脚，造成70%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="转身扫堂-输出"/>
+	<mx:Image source="Image4.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="182" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="瓶中烈焰-妨害"/>
+</mx:Application>

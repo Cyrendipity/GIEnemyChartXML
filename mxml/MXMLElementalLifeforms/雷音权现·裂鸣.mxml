@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1920" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A30DDB;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="310" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="736" width="460" text="雷音权现·裂鸣"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="864" width="419" text="霆雷的忿恨意志"/>
+	<mx:Text styleName="textStyle4" x="64" y="1184" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1237" y="64" width="619" alpha="0.5" text="元素能量：EO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="992" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle7" x="64" y="1024" width="305" text="HP: 1096832 (18.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1072" width="375" text="ATK: 18798 (7.2B2)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1120" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="798" width="395" alpha="0.75" text="Cracking Thunder Manifestation"/>
+	<mx:Text styleName="textStyle9" x="64" y="899" width="395" alpha="0.75" text="Stormy Resentment"/>
+	<mx:Image source="Image4.png" x="64" y="1229" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="雷音权现首先放出3个雷霆探针，每个探针击中造成16.6%伤害。探针检测自身半径8m、高3m圆柱内的玩家，满即标记。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="距离雷音权现很近时，雷音权现在自身处产生一次雷暴轰击，造成83.3%伤害，其会标记玩家。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="当雷音权现成功标记到玩家时，随即进行一次高声怒喝，同时施放12道落雷，每道可造成1至2段的50%伤害，同时摧毁所有探针，造成27.7%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="雷音权现标记玩家后，被标记的玩家每秒受到125%×E伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="处在雷音权现后方时，雷音权现挥动左或右翼造成55.5%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1344" width="448" alpha="0.9" text="雷音权现召唤2个幻影，同时进行攻击，从左到右依次发射5个雷球，均造成28.8%,14.4%,7.7%,2.88%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1568" width="448" alpha="0.9" text="雷音权现俯下朝玩家冲刺，共冲刺2次，每次均造成83.3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="雷霆探针-妨害	未怒"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="离雷标记-探测	未怒"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="忿雷具现-转换	已怒"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="焦雷之记-持续	已怒"/>
+	<mx:Text styleName="textStyle11" x="736" y="1056" width="448" text="循声躁动-防卫	已怒"/>
+	<mx:Text styleName="textStyle11" x="736" y="1280" width="448" text="交相映影-输出	已怒"/>
+	<mx:Text styleName="textStyle11" x="736" y="1504" width="448" text="怒刈空原-输出	已怒"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="啸雷八方-输出	未怒"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="笼治四方-限制	未怒"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1280" width="448" text="循位电笼-追踪	已怒"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="雷音权现升空，施放8道落雷，总计施放2轮，每道造成43.3%伤害，其会标记玩家，8道落雷的位置与玩家共圆，并且不会出现在中心。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="雷音权现在场地边缘处召唤4个随机游走的电笼，不会追踪，持续20s，接触持续造成27.7%伤害，其会标记玩家。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1344" width="448" alpha="0.9" text="雷音权现在已标记的玩家处召唤一个追踪玩家的长方形电笼，接触持续造成27.7%伤害，持续7s。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="距离雷音权现较近时，雷音权现在周围召唤3个幻影，同时进行攻击：旋转自身，施放短程旋转造成27.7%,13.85%,6.925%,2.77%伤害，其会标记玩家。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="雷音权现在场地的四周处召唤相对的2组雷墙，其慢慢朝中间移动，触碰持续造成100%,70%,50%,25%,10%伤害，其会标记玩家。"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="丙影肆旋-输出	未怒"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="围嶂四合-包围	未怒"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="雷音权现召唤两面相对的雷墙，雷墙缓慢向中间合拢，消失，触碰持续造成100%,70%,50%,25%,10%伤害；有时也可能召唤两道平行同向的雷墙。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1056" width="448" text="裂嶂相并-输出	已怒"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1568" width="448" alpha="0.9" text="靠近雷音权现时，雷音权现召唤2个幻影，同时进行攻击，旋转自身，施放长程旋转造成27.7%,13.85%,6.925%,2.77%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1504" width="448" text="声震浮尘-输出"/>
+	<mx:Image source="Image5.png" x="64" y="416" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="1291" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="1270" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="1515" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="1494" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="1515" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="1494" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image29.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image31.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="64" y="1360" width="448" alpha="0.75" text="雷霆探针：1雷盾(极限3雷盾)，可击破。"/>
+	<mx:Image source="Image32.png" x="596" y="1291" width="128" height="128"/>
+	<mx:Image source="Image33.png" x="576" y="1270" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="1792" width="448" alpha="0.9" text="雷音权现升空，在所有已标记玩家处召唤3道落雷，持续3轮，每道落雷造成43.3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1728" width="448" text="天云之怒-输出	已怒"/>
+	<mx:Image source="Image34.png" x="596" y="1739" width="128" height="128"/>
+	<mx:Image source="Image35.png" x="576" y="1718" width="168" height="170"/>
+</mx:Application>

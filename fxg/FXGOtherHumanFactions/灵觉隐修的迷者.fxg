@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_2.png')" x="0" y="-10" blendMode="normal">
+		</BitmapImage>
+		<RichText x="59" y="398" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="448" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">灵觉隐修的迷者</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="533" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ffff" width="234" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#99ffff">索居的祭司</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="881" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1414" y="48" width="464" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#99ffff">CP</span><span>[0x2],</span><span color="#99ffff">CO</span><span>[75,50,25]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="692" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1035897 <span color="#dddddd">(17.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="658" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="740" width="390" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 20886<span color="#dddddd"> (8.0B2) (Self) </span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="788" width="432" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 23497<span color="#dddddd"> (9.0B2) (Illusion) </span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="837" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="468" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="429" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Wayward Hermetic Spiritspeaker</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="580" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ffff" width="222" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ffff">Sequestered Priest</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="84" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="383" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">70</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1023" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_3.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_4.png')" x="64" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_5.png')" x="184" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_6.png')" x="364" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_7.png')" x="303" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_8.png')" x="244" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_9.png')" x="424" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_10.png')" x="124" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_11.png')" x="66" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_13.png')" x="486" y="941">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_14.png')" x="1391" y="169">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_15.png')" x="1392" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_16.png')" x="1391" y="618">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_17.png')" x="720" y="169">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_18.png')" x="723" y="393">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_19.png')" x="719" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_20.png')" x="719" y="841">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_21.png')" x="719" y="1065">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_22.png')" x="1392" y="841">
+		</BitmapImage>
+		<RichText x="1410" y="255" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">迷者旋转画笔，转身向前方泼洒凝霜彩漆，依次造成<span color="#99ffff">25%,100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="479" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">迷者突然起身，造成<span color="#99ffff">36%</span><span>伤害，并朝着玩家飞去，然后挥舞画笔两下，均造成</span><span color="#99ffff">85%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="703" width="441" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">迷者移至中央，荡起寒雾，造成<span color="#99ffff">75%</span><span>伤害，又游引四处，生4道灵觉隐修的</span><span textDecoration="underline">浮彩分身</span><span>，并在迷者隐去和分身现形的位置再次鸣荡，造成</span><span color="#99ffff">25%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="255" width="413" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">迷者使用笔刷进行2段普攻，依次造成<span color="#99ffff">60%,75%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="479" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">迷者甩出追踪性的一滴晨露，造成<span color="#99ffff">95%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="703" width="403" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">迷者在玩家下方生成1-3枚灵空印记，均造成<span color="#99ffff">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="927" width="413" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">分身使用笔刷进行2段普攻，依次造成<span color="#99ffff">60%,75%</span><span>伤害。单独施放。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1151" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">分身转身向前方泼洒凝霜彩漆，造成<span color="#99ffff">100%</span><span>伤害。作为谜影循环的结尾技能施放。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="927" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">分身使用笔刷进行1段下滑普攻，造成<span color="#99ffff">85%</span><span>伤害。作为谜影循环开始的持续循环技能。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2686a2" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2686a2">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1132" width="438" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">浮彩分身：<span color="#99ffff">8冻</span><span>盾，一共4个，击破会使本体现身4s，全部击破则瘫痪本体12s；使用烟谜主/暝视龙的能力扫瞄一个分身，则可以硬控所有分身15s，并使全部分身-2</span><span color="#99ffff">冻</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_23.png')" x="64" y="96" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_2">
+			<RichText x="77" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-30</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-30</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-30</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-30</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">-30</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">30</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-30</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1083" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_24.png')" x="64" y="1065" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1021" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1081" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">瘫痪</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_25.png')" x="596" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_26.png')" x="596" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_27.png')" x="1268" y="875" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_28.png')" x="576" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_29.png')" x="1268" y="203" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_30.png')" x="596" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_31.png')" x="1248" y="182" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_32.png')" x="596" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_33.png')" x="576" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_34.png')" x="1268" y="427" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_35.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_36.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_37.png')" x="1248" y="406" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_38.png')" x="1268" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_39.png')" x="1248" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_40.png')" x="576" y="854" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_41.png')" x="576" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/灵觉隐修的迷者.assets/Image_42.png')" x="1248" y="854" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

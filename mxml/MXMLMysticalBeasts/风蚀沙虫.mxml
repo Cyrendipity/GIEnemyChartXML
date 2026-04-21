@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FFFD7;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FFFD7;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#268E62;
+		}
+		.textStyle14 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FF9999;
+		}
+		.textStyle15 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FBFFF;
+		}
+		.textStyle16 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FFFD7;
+		}
+		.textStyle17 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFACFF;
+		}
+		.textStyle18 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FF86;
+		}
+		.textStyle19 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FFFF;
+		}
+		.textStyle20 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFE599;
+		}
+		.textStyle21 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#EBE5D8;
+		}
+		.textStyle22 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="-41" y="54" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="490" text="风蚀沙虫"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="437" text="一万万砂砾最后的亲王"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1345" y="64" width="511" alpha="0.5" text="元素能量：AO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" text="HP: 853091 (14.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 15665 (6.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 500/4000"/>
+	<mx:Text styleName="textStyle8" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="0" y="1115" width="64" text="深渊"/>
+	<mx:Text styleName="textStyle9" x="64" y="561" width="395" alpha="0.75" text="Setekh Wenut"/>
+	<mx:Text styleName="textStyle10" x="64" y="651" width="395" alpha="0.75" text="The Last Prince of the Sands"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="风蚀沙虫使用尾部的鞘翼发射4-5枚风尘弹，每个造成50%,25%,5%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" alpha="0.9" text="风蚀沙虫快速钻出地面，不断从两侧气孔施放风蚀子弹，子弹有较强的追踪性，每个造成50%,25%,10%,5%伤害，可贴近沙虫躲避。"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" alpha="0.9" text="风蚀沙虫使用尾部鞘翼朝地面发射激光进行攻击，造成100%,25%,12.5%,1%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1120" width="1024" alpha="0.9" text="每70-80s，或者生命值低于50%时，风蚀沙虫游离地面，依次产生6个风蚀弹。若未及时清除风蚀弹，风蚀沙虫将吸收所有风蚀弹，升空朝地施放大约50个风蚀弹幕，每个造成100%,50%,20%,10%伤害，并趁机钻入地面。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" alpha="0.9" text="风蚀沙虫使用尾部鞘翼朝前方扇形区域吹大风，造成100%,25%,12.5%,1%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="靠近风蚀沙虫时，其将使用尾部进行横扫攻击，范围恰好是半个圆，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="448" width="448" alpha="0.9" text="开局约25s后或生命值低于97.5%时，风蚀沙虫缓缓冒出地面，在空中划出完美的弧形后潜入地面，之后由露尾状态转为全身状态。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="风蚀沙虫会不定期的从冒出地面钻入地面，行动缓慢，该技能可连续施放2-3次。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" alpha="0.9" text="风蚀沙虫使用头部突然钻出地面，造成100%伤害，该技能有时候可连续施放2次。"/>
+	<mx:Image source="Image5.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="风沙霰弹-输出	 露尾"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="低风蚀弹-猛攻	 全身"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="激风纵切-输出	 全身"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="高风蚀弹-爆发	 全身"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="暴风啸鸣-输出	 全身"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="扬沙起尘-驱逐	 露尾"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="蟒蛇出洞-转换"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="伏沙之虫-白给"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="破顶突钻-突袭	 全身"/>
+	<mx:Image source="Image7.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle14" x="64" y="1114" width="64" text="55"/>
+	<mx:Text styleName="textStyle15" x="124" y="1114" width="64" text="55"/>
+	<mx:Text styleName="textStyle16" x="184" y="1114" width="64" text="90"/>
+	<mx:Text styleName="textStyle17" x="244" y="1114" width="64" text="55"/>
+	<mx:Text styleName="textStyle18" x="304" y="1114" width="64" text="55"/>
+	<mx:Text styleName="textStyle19" x="364" y="1114" width="64" text="55"/>
+	<mx:Text styleName="textStyle20" x="424" y="1114" width="64" text="55"/>
+	<mx:Text styleName="textStyle21" x="484" y="1114" width="64" text="55"/>
+	<mx:Image source="Image9.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Image source="Image10.png" x="64" y="160" width="256" height="256"/>
+	<mx:Image source="Image11.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Text styleName="textStyle22" x="64" y="1164" width="448" alpha="0.75" text="风蚀弹：使用火/水/雷/冰以破除，每破除一个将降低风蚀沙虫一次对应属性的抗性(同种属性至多一次)，连续破坏两个将瘫痪风蚀沙虫10s。"/>
+</mx:Application>

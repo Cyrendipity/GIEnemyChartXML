@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FF9999;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A3320C;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="296"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="1268" y="1035" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="1035" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="530" text="熔岩辉龙像"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="451" text="石心流焰的终型"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：PP[0x2],PO[66,33]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 1645248 (27.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="Lava Dragon Statue"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="439" alpha="0.75" text="Stone-Hearted Final Form of Flowing Flame"/>
+	<mx:Image source="Image11.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="辉龙至多进行2段攻击：身转一周，造成40%伤害，而后顺带将碗内的浓汤倒出，造成50%伤害，洒在地上留下的浓汤将持续一段时间，并造成30%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="燠汤氽元-远程 	岩之人"/>
+	<mx:Text styleName="textStyle11" x="1408" y="736" width="448" text="流脉横丝-输出 	熔焰之龙"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1024" width="448" text="溢于岩表-天赋"/>
+	<mx:Text styleName="textStyle11" x="736" y="736" width="448" text="气燔焦涌-猛攻 	熔焰之龙"/>
+	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" text="烬底游犁-位移 	熔焰之龙"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="煨炙羹饮-输出 	岩之人"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="距离较远时，辉龙装弹，准备进行迫击：抛出4-5颗汤圆，均造成30%,4.5%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="800" width="448" alpha="0.9" text="辉龙进行蓄力，而后喷吐燃素熔流，顺时针自转一圈，造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1088" width="448" alpha="0.9" text="辉龙具有2种状态：「岩之人」和「熔焰之龙」；两个状态可互相转化，且受到火元素伤害均会累积热量，但后者受到冰元素或水元素伤害时会失去大量热量，直至回退「岩之人」状态。「熔焰之龙」状态下累积热量达50%和100%时，均会损失当前15%生命值，而后者将瘫痪13s，苏醒后回退至「岩之人」。"/>
+	<mx:Text styleName="textStyle10" x="736" y="800" width="448" alpha="0.9" text="辉龙进行3段攻击：分别使用左右岩壳进行攻击，依次造成40%,60%伤害，最后使岩泉横流，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1088" width="448" alpha="0.9" text="距离较远时，辉龙搓着岩壳朝玩家方向推进，接触造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="512" width="448" alpha="0.9" text="辉龙用力重击，造成30%伤害，随后借力跃起至玩家上方，然后重重下落，造成70%伤害。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image12.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="959" width="64" text="常态"/>
+	<mx:Text styleName="textStyle13" x="0" y="1019" width="64" text="熔焰"/>
+	<mx:Image source="Image13.png" x="64" y="1061" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="1079" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle14" x="64" y="1128" width="448" alpha="0.75" text="深渊抗性：正常150%，熔焰状态火150% / 其他45%，瘫痪10%。热量：「岩之人」状态下350点；「熔焰之龙」状态下800点，且初始拥有12.5%(100)的热量，自身常驻火元素。「岩之人」状态下受到火元素攻击后，会根据火元素的量积攒6.786n%(23.75n)或2%(7)热量，攒满后进入「熔焰之龙」状态；「熔焰之龙」状态下受到火元素攻击后，会根据火元素的量积攒2.969n%(23.75n)或0.875%(7)热量，该状态下一旦受冰元素或水元素攻击时，会立即失去18.75%(150)热量，热量不足会退回「岩之人」状态。"/>
+	<mx:Image source="Image14.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1248" y="1014" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="1014" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image20.png" x="576" y="152" width="168" height="168"/>
+	<mx:Image source="Image21.png" x="576" y="438" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="736" y="448" width="448" text="铿晶戛岩-输出 	岩之人"/>
+	<mx:Text styleName="textStyle10" x="1408" y="512" width="448" alpha="0.9" text="辉龙挥舞双爪不断进行旋转突进，持续造成30%伤害。"/>
+	<mx:Image source="Image22.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Text styleName="textStyle15" x="1408" y="448" width="448" text="捲尘浮灰-位移 	岩之人"/>
+</mx:Application>

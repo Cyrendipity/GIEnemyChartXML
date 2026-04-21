@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#A3A5FE;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#A3A5FE;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#654FA2;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="538" width="1920" height="542"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="484" text="流灰之城的魔龙"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="340" text="受垢者"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="375" text="HP: 686784 (12.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="剧情 Lv.101 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 11446 (8.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="SHD: 1000"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="446" width="395" alpha="0.75" text="Dragon of the City of Flowing Ash"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="The Tainted One"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="64" y="1040" width="512" alpha="0.75" text="凝露：魔龙吸收后恢复150点虚界护罩。拾取后角色将获得光环。"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle12" x="1408" y="224" width="448" alpha="0.9" text="魔龙连续发射4枚火球，每枚造成50%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="800" width="448" alpha="0.9" text="魔龙伏地进行蓄力，在其周围产生3枚凝露，此时其身覆有虚界护罩；10s后吸收凝露并发动震地攻击，造成80%伤害，爆炸还将扩散到凝露所在的位置。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="烬星飞火-远程"/>
+	<mx:Text styleName="textStyle13" x="736" y="736" width="448" text="秽炎凝露-蓄力"/>
+	<mx:Text styleName="textStyle12" x="736" y="224" width="448" alpha="0.9" text="魔龙进行右划攻击，其分别造成40%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="512" width="448" alpha="0.9" text="处于魔龙侧方或后方时， 魔龙自身转一圈，造成50%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="512" width="448" alpha="0.9" text="魔龙朝前方扇形区域喷吐怨流焚火，持续造成60%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="160" width="448" text="拂以蔑炎-输出"/>
+	<mx:Text styleName="textStyle13" x="736" y="448" width="448" text="燔武不疾-输出"/>
+	<mx:Text styleName="textStyle13" x="1408" y="448" width="448" text="焚风贤火-输出"/>
+	<mx:Image source="Image6.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="150" width="168" height="170"/>
+</mx:Application>

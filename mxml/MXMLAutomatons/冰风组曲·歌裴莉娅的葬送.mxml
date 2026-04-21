@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1344" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#80FFD7;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FFFD7;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#268E62;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#B299FF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="264"/>
+	<mx:Image source="Image3.png" x="0" y="22" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="490" text="冰风组曲·歌裴莉娅的葬送"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="冰风组曲·阴面"/>
+	<mx:Text styleName="textStyle" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1345" y="64" width="511" alpha="0.5" text="元素能量：WP[0x3],WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="305" text="HP: 914027 (15.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="784" width="375" text="ATK: 13054 (5.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="832" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="0" y="1023" width="64" text="登场"/>
+	<mx:Text styleName="textStyle7" x="0" y="1083" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="64" y="529" width="395" alpha="0.75" text="Icewind Suite: Dirge of Coppelia"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="Icewind Suite: Duality, Side A"/>
+	<mx:Image source="Image4.png" x="64" y="941" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="歌裴莉娅和科培琉司依次进行一次划击，均造成对应元素的60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="科培琉司旋转魔杖在前方生成大块冰簇，造成80%伤害，随后冰簇消散。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="告别科培琉司后，歌裴莉娅进行一次气暴，造成90%伤害同时暴露荒性核心，持续至组曲结束，随后便等待科培琉司回归。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="1024" alpha="0.9" text="歌裴莉娅和科培琉司开始进行表演，主角为歌裴莉娅，场地内形成顺时针游动的3个风之心，其不断牵引玩家造成15%伤害，其可被科培琉司的冰刃染色，染冰后造成25%+25%伤害。该技能分三个阶段：送别，独奏，回归，持续3个循环、8/3个回合。每回合开始时，其将获得25%全抗性加成。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="冰风旋舞-协同"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="霜峰一现-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="风波荒露-独奏"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="557" text="歌裴莉娅的风之葬曲-组曲"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="凝霜旋舞-妨害"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="寒苦冰棘-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="1056" width="448" text="寒波凌锐-独奏"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1056" width="448" text="风葬回旋-回归"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="科培琉司顺时针溜冰一圈，造成70%伤害，其行动轨迹留下冰块，将以逆时针顺序依次引爆，造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="科培琉司旋转魔杖施放出若干个冰锥，每个造成75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="科培琉司在场地外挥出2刀冰刃，均造成100%伤害，随后滑冰准备回归，冰刃会将其划过的风之心染色。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="科培琉司在场地高速滑冰，溅射的冰碎持续造成40%伤害，同时在场地中央进行旋舞，进行4段普通攻击，均造成92%伤害，最后产生2次气暴，造成90%伤害并推开玩家，可被削弱 (芒削效果：造成60%伤害且推力消失)。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="歌裴莉娅将科培琉司送出，送出时将进行辞离颂舞：均进行多段划击，均造成对应元素的60%,30%伤害；科培琉司滑冰移走，造成2段80%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="832" width="448" text="皙飏畛域-送别"/>
+	<mx:Image source="Image5.png" x="64" y="1065" width="484" height="60"/>
+	<mx:Text styleName="textStyle7" x="0" y="1143" width="64" text="高潮"/>
+	<mx:Image source="Image6.png" x="64" y="1125" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="64" y="128" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="152" width="168" height="168"/>
+	<mx:Image source="Image10.png" x="1268" y="172" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="844" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="824" width="168" height="168"/>
+	<mx:Image source="Image16.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Text styleName="textStyle14" x="64" y="1192" width="448" alpha="0.75" text="荒性核心：累计受到3次芒性攻击方可打断瘫痪组曲，每次芒性攻击方可削弱歌裴莉娅在本回合中的技能风葬回旋-气暴下的风场推力，并使其伤害倍率下降50%，移除该回合的抗性提升。回合：完整进行独奏、回归、送别三个阶段称为一个回合。循环：完整进行送别、独奏、回归三个阶段称为一个循环。"/>
+	<mx:Image source="Image23.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="1046" width="168" height="170"/>
+</mx:Application>

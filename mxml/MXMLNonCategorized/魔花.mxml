@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FCACE5;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#ACF8F8;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle16 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="200"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="22" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="448" width="435" text="魔花"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1247" y="64" width="609" alpha="0.5" text="元素能量：CP[0x2],CO[75,50,25]"/>
+	<mx:Text styleName="textStyle5" x="64" y="704" width="305" text="HP: 670286 (11.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="752" width="375" text="ATK: 10443 (4.0B1)"/>
+	<mx:Text styleName="textStyle5" x="64" y="800" width="375" text="Wt/Ed: 150/100"/>
+	<mx:Text styleName="textStyle7" x="64" y="529" width="395" alpha="0.75" text="Fellflower"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="魔实冰璃-协同远程"/>
+	<mx:Text styleName="textStyle8" x="1408" y="384" width="448" text="魔实晶粹-反噬"/>
+	<mx:Text styleName="textStyle8" x="1408" y="608" width="448" text="浮风坠雪-定点"/>
+	<mx:Text styleName="textStyle8" x="1408" y="832" width="448" text="根巡·雪覆-位移"/>
+	<mx:Text styleName="textStyle8" x="1408" y="1056" width="448" text="升雹落雪-远程"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="魔花果实发射碎片袭击玩家，每个碎片造成50%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" alpha="0.9" text="击碎魔花果实后，会反噬并暂时瘫痪魔花，同时掉落5个魔花精粹；一段时间后魔花会吸收魔花精粹并恢复。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="(缩小前)魔花不断产生雪球下坠，每个造成50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" alpha="0.9" text="(缩小后)魔花钻入地面，再在玩家处快速钻出，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1120" width="448" alpha="0.9" text="(缩小后)魔花朝玩家扔出3个雪球，每个造成60%伤害。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="魔花果实对玩家进行连续的下落攻击，每次造成100%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" alpha="0.9" text="魔花果实召唤1-2个大型冰史莱姆，无伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" alpha="0.9" text="魔花旋转其花叶，造成100%伤害，不论大小状态均会施放。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="(缩小前)魔花使用花冠不断放出3排的雪球滚落，接触造成100%,50%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1120" width="448" alpha="0.9" text="(缩小后)魔花朝玩家连续发射总计9个的冰弹，每个造成20%伤害。"/>
+	<mx:Image source="Image5.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="魔实天冻-协同输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="384" width="448" text="魔实纵形-召唤"/>
+	<mx:Text styleName="textStyle8" x="736" y="608" width="448" text="风扇·冰蕊-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="832" width="448" text="辊雪阵排-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="1056" width="448" text="急链冰砬-远程"/>
+	<mx:Image source="Image7.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="64" y="1100" width="448" alpha="0.75" text="魔花：100冻盾，击破使其永久缩小。魔花果实：7次(下落/召唤型)2次(攻击型)次数盾，击破后魔花-32冻。魔花精粹：拾取前台角色-1.5%HP/s，可叠加独立计算。被魔花吸收后，每颗恢复魔花10冻。"/>
+	<mx:Image source="Image9.png" x="64" y="1033" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="991" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="1051" width="64" text="缩小"/>
+	<mx:Image source="Image10.png" x="64" y="128" width="256" height="256"/>
+	<mx:Text styleName="textStyle15" x="64" y="576" width="394" text="阿贝花·花贝多"/>
+	<mx:Text styleName="textStyle16" x="64" y="619" width="395" alpha="0.75" text="Floralbedo: Anthoalbedoid"/>
+	<mx:Image source="Image11.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image26.png" x="1248" y="1046" width="168" height="170"/>
+</mx:Application>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="960" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#BFECFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#0F94BF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="960"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="冰飘浮灵"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：CP[60,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 88736 (1.6F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="普通 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 4309 (1.75B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 80/100"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Cryo Specter"/>
+	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="冰飘浮灵发射1个弱追踪性的冰锥，移动速度较慢，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="(满怒施放)冰飘浮灵连续朝玩家抛出6个大雪块，每个造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="冰飘浮灵朝地面喷出一颗冰球，冰球爆炸造成80%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="480" width="448" alpha="0.9" text="冰飘浮灵死亡。未满怒：直接爆炸，造成100%伤害；满怒：蓄力爆炸，造成120%伤害，并留下一地的冰霜，接触造成40%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="俱寒冰角-远程"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="陨冰崩雪-猛攻"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="霜荚圆晶-输出"/>
+	<mx:Text styleName="textStyle10" x="1408" y="416" width="448" text="迸裂寒尘-亡语"/>
+	<mx:Image source="Image4.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="406" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image8.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" alpha="0.9" text="飘浮灵在受到超过自身生命值上限一定比例的单次伤害时，会积攒「怒气」。满怒状态下，免疫风场力、击飞，重量翻3倍。所受单次伤害与自身生命上限的区间关系如右侧："/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" text="怒气积攒-天赋"/>
+	<mx:Image source="Image13.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="662" width="168" height="170"/>
+	<mx:Text styleName="textStyle8" x="1312" y="736" width="150" alpha="0.9" text="&lt;18.75%HP&gt;18.75%HP&gt;31.25%HP&gt;43.75%HP&gt;56.25%HP"/>
+	<mx:Text styleName="textStyle8" x="1632" y="736" width="224" alpha="0.9" text="0~1663816639~2773027731~3882238823~49914&gt;49914"/>
+	<mx:Text styleName="textStyle8" x="1504" y="736" width="128" alpha="0.9" text="+0%+20%+40%+70%+100%"/>
+	<mx:Text styleName="textStyle12" x="1312" y="672" width="150" text="伤害比例"/>
+	<mx:Text styleName="textStyle12" x="1504" y="672" width="99" text="怒气"/>
+	<mx:Text styleName="textStyle12" x="1632" y="672" width="281" text="区间参考(Lv.100)"/>
+</mx:Application>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Image source="Image3.png" x="69" y="72" width="248" height="240"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="463" text="无相之冰·奏鸣曲霜锐之阵"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="305" text="「塔勒特」"/>
+	<mx:Text styleName="textStyle" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1247" y="64" width="609" alpha="0.5" text="元素能量：CP[0x2],CO[66,33]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 548416 (9.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 15665 (6.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Cryo Hypostasis: Sonata of the Snowy Path"/>
+	<mx:Text styleName="textStyle8" x="64" y="555" width="395" alpha="0.75" text="「Daleth」"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" alpha="0.9" text="无相之冰化成棘轮，不断朝玩家处滚动，接触造成50%伤害，滚到太边上会破碎暴露核心，持续1-3轮。"/>
+	<mx:Text styleName="textStyle9" x="736" y="960" width="448" alpha="0.9" text="无相之冰复苏时，召唤1至2层绕其转动的冰墙，每层由3面冰墙组成，每面冰墙可以承受2个霜之实的攻击。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="704" width="448" alpha="0.9" text="无相之冰抛出5个霜之实，落地造成25%伤害，依次落在玩家的中、右、左、右、左处，用重击将霜之实打回无相之冰处以破盾阻止恢复生命值。"/>
+	<mx:Text styleName="textStyle10" x="64" y="1008" width="448" alpha="0.75" text="极冰外壳：168冻盾，击破使无相之冰虚弱。霜之实：使用重击以启动，命中时-80冻。冰墙：6冻盾，用于阻挡霜之实前进，霜之实命中时-3冻。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="480" width="448" alpha="0.9" text="无相之冰脱去外壳，3簇冰棘呈逆时针样围绕其旋转，接触造成50%伤害，另有在圈外追踪玩家的冰棘，同样造成50%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="704" width="448" alpha="0.9" text="无相之冰生命值低于5%时进行复苏，收拢并形成极冰外壳，复苏持续30s，当复苏次数为1/2/&gt;2时，无相之冰每3s恢复5%/2.5%/1.25%生命值，最大恢复至50%/25%/12.5%生命值。"/>
+	<mx:Text styleName="textStyle11" x="736" y="416" width="448" text="寒轶棘轮-碾压"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" text="绝路冰嶂-防卫"/>
+	<mx:Text styleName="textStyle11" x="1408" y="640" width="448" text="幽生霜实-辅助"/>
+	<mx:Text styleName="textStyle11" x="1408" y="416" width="448" text="寒蕨缠绕-限制"/>
+	<mx:Text styleName="textStyle11" x="736" y="640" width="448" text="濒亡·封冻-复苏"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="织寒碎冰-追踪"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="无相之冰开阵，8个冰立方外壳围一圈暴露核心，从上到下发射8根追踪玩家的冰锥，每个冰锥造成50%伤害；冰锥发射一段时间后，将分裂成3个更细的冰针，造成25%,10%,2.5%伤害。"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="406" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="无相之冰悬于空中，向地面连续轰炸冰刺，共轰炸3次，每次造成100%伤害，第三次轰炸留下霜覆地面，接触造成30%伤害；技能持续期间将持续随机抛出冰针，造成25%,10%,2.5%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="寒花冰雨-输出"/>
+	<mx:Image source="Image7.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="886" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="150" width="168" height="170"/>
+</mx:Application>

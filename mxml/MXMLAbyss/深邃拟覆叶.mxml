@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#654FA2;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="410" text="深邃拟覆叶"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="768" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="608" width="561" text="HP: 188564 (3.4F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="656" width="545" text="ATK: 7387 (3.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="704" width="456" text="Wt/Ed: 300/150 "/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Tenebrous Mimiflora"/>
+	<mx:Image source="Image3.png" x="64" y="813" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="576" y="128" width="469" alpha="0.5" text="元素能量：WP[60,0]"/>
+	<mx:Text styleName="textStyle9" x="736" y="256" width="448" alpha="0.9" text="拟覆叶发射3枚白渊飞叶，每枚造成20%(1)伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="480" width="448" alpha="0.9" text="拟覆叶在前方区域召唤尖刺，造成20%(1)伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="704" width="448" alpha="0.9" text="拥有拟态能力的拟覆叶将重新变形为先前的拟态体并重新获得虚界护罩，虚界护盾击破后现出本体。"/>
+	<mx:Text styleName="textStyle10" x="736" y="192" width="448" text="白蜡之叶-远程"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="昼暝之篱-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="640" width="448" text="虚界之幻-变化"/>
+	<mx:Image source="Image4.png" x="90" y="64" width="203" height="256"/>
+	<mx:Text styleName="textStyle11" x="736" y="864" width="448" alpha="0.75" text="「蚀破」：角色被附加「蚀破」时，将在1s后扣除前台角色一定的生命值，其有不同的等级，n级「蚀破」扣除(1%+50)*n点生命值；若在间隔T内施加多种「蚀破」，则它们的等级会相加，并在脱离伤害的1s后结算蚀破总伤害。间隔 T∈(0.1,1] s虚界护罩：每次元素攻击可削减该护盾1点，夜魂性质的攻击则削减3点。这种护罩在被击破之前，敌人将免疫所有伤害。"/>
+	<mx:Image source="Image5.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="651" width="128" height="128"/>
+</mx:Application>

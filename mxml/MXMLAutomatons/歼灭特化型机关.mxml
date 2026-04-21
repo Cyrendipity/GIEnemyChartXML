@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="960" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#CEBFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#96673D;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="960"/>
+	<mx:Image source="Image2.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image3.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="歼灭特化型机关"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WP[75,50,25],WO[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 288392 (5.2F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="普通 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 11326 (4.6B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Annihilation Specialist Mek"/>
+	<mx:Image source="Image8.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="歼灭机关进行剑劈、蹴劈至多2段的攻击，其依次造成30%,40%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="672" width="448" alpha="0.9" text="(强化)歼灭机关开局在身后召唤一个与自身芒荒属性相同的「机关·区域警戒型」。"/>
+	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="锋刃尖裁-近战"/>
+	<mx:Text styleName="textStyle10" x="1408" y="608" width="448" text="战术辅助-召唤   芒荒"/>
+	<mx:Text styleName="textStyle10" x="1408" y="384" width="448" text="湿刃漩舞-输出   荒"/>
+	<mx:Text styleName="textStyle10" x="736" y="608" width="448" text="戏水飞轮-妨害   荒"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" alpha="0.9" text="歼灭机关使用左足。金鸡独立般不断进行旋水攻击，接触持续造成60%,30%,12%,6%伤害，该技能可连续施放2次。"/>
+	<mx:Text styleName="textStyle8" x="736" y="672" width="448" alpha="0.9" text="歼灭机关进行2段飞踢，均造成50%伤害，随后后撤，朝前施放出3个水轮，接触造成35%伤害。"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="64" y="912" width="448" alpha="0.75" text="荒芒性质：2次芒荒攻击可以瘫痪相反属性的歼灭机关，约25s-30s后恢复荒芒属性。"/>
+	<mx:Image source="Image11.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image12.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="雷驭腾极-输出   芒"/>
+	<mx:Text styleName="textStyle10" x="736" y="384" width="448" text="散引线雷-控制   芒"/>
+	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="歼灭机关使用雷剑，进行戳、旋、落至多3段的攻击，其依次造成50%,60%,70%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" alpha="0.9" text="歼灭机关使用雷剑，朝上放电，引出数道呈线性分布的落雷，造成70%,21%,7%伤害，该技能可连续施放2次。"/>
+	<mx:Image source="Image15.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="374" width="168" height="170"/>
+</mx:Application>

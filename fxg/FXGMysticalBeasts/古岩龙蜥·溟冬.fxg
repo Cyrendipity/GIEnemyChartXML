@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1248" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_0.png')" x="0" y="168" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="0" y="0" width="1920" height="1080" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "1102" y = "288" scaleX = "692" rotation = "90">
+								<GradientEntry color="#ffffff" ratio="0" alpha="1"/>
+								<GradientEntry color="#000000" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_2.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="60" y="367" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="449" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">古岩龙蜥·溟冬</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="497" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ffff" width="235" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#99ffff">圆滚滚肚皮</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="817" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="660" width="366" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1554760 <span color="#dddddd">(25.515F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="626" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="708" width="364" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 33778<span color="#dddddd"> (12.938B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="757" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="434" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="321" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Wintry Primo Geovishap</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="548" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ffff" width="279" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ffff">Round Tummy Tum Tum</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffe5" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2686a2" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2686a2">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_3.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1445" y="52" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="438" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WP[66,33],WO[0x2]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffe599" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="738" y="223" width="423" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">古岩龙蜥使用右爪挥扫，造成对应元素的<span color="#99e5ff">40%</span><span>伤害；古岩龙蜥使用左爪敲地，后拔扯，敲地和拔扯依次造成对应元素的</span><span color="#99e5ff">35%,15%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="428" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">古岩龙蜥进行右爪扫-左爪划-双爪拍三段攻击，其依次造成对应元素的<span color="#99e5ff">40%,<br/>50%,62.5%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于古岩龙蜥身后时，古岩龙蜥使用尾部旋扫一圈，造成<span color="#ffe599">80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">古岩龙蜥凝聚自身元素，朝前方扇形区域扫过，造成对应元素的<span color="#99e5ff">40%,20%,10%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="927" width="442" height="258" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">古岩龙蜥会依据自身属性产生「龙鳞」，不同元素的攻击方式不同：<br/><span color="#7fbfff">清涟</span><span>：朝玩家方向产生7~8次水喷，每个水喷造成</span><span color="#7fbfff">16%</span><span>伤害；<br/></span><span color="#99ffff">青霜</span><span>：产生三波冰棘，依次造成</span><span color="#99ffff">25%,<br/>25%,37.5%</span><span>伤害。<br/>「龙鳞」将在古岩龙蜥施放「原岩喷吐」或「晶鳞四处」或被某些攻击打断时立即消失。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="437" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">古岩龙蜥抖动全身，飞出8个对应元素的「龙鳞」，落地后绕龙蜥围成一圈，然后敲一下地板造成对应元素的<span color="#99e5ff">80%</span><span>伤害。<br/>施放后可转换元素属性，顺序为</span><span color="#99ffff">冰</span><span color="#7fbfff">水</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="223" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">古岩龙蜥大跳移步，落地造成对应元素的<span color="#99e5ff">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_4.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_5.png')" x="720" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_6.png')" x="720" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_7.png')" x="1392" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_8.png')" x="1393" y="842">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_9.png')" x="1392" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_10.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_11.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_12.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="927" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">古岩龙蜥凝聚自身元素之力，朝地面喷射，造成大范围对应元素的<span color="#99e5ff">200%</span><span>伤害。若角色受护盾庇护则只受到对应元素的</span><span color="#99e5ff">40%</span><span>伤害。<br/>该技能可被</span><span textDecoration="underline">盾反</span><span>。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_13.png')" x="720" y="842">
+		</BitmapImage>
+		<RichText x="66" y="1128" width="435" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">出场时额外获得<span color="#ffbfbf">100%</span><span>对应元素的常驻抗性。出场默认冰属性，技能会在冰水两个属性间转换。<br/>盾反：护盾必须能扛住该次攻击，方可触发盾反，盾反成功后古岩龙蜥虚弱6s。若盾反成功，则削减全抗性，并</span><span color="#ffebbf">扣除10%生命值(异元素盾为3%)</span><span>。</span></p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="75" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">210</p>
+				</content>
+			</RichText>
+			<RichText x="135" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">270</p>
+				</content>
+			</RichText>
+			<RichText x="195" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">210</p>
+				</content>
+			</RichText>
+			<RichText x="255" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">210</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">210</p>
+				</content>
+			</RichText>
+			<RichText x="375" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">270</p>
+				</content>
+			</RichText>
+			<RichText x="435" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">270</p>
+				</content>
+			</RichText>
+			<RichText x="495" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">230</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_14.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_15.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_16.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_17.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_18.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_19.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_20.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_21.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_22.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_24.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<Group d:userLabel="Group_2">
+			<RichText x="84" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="143" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">70</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="383" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">70</p>
+				</content>
+			</RichText>
+			<RichText x="443" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">70</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_25.png')" x="64" y="1001" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="957" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">起身</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1017" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_3">
+			<RichText x="77" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-40</p>
+				</content>
+			</RichText>
+			<RichText x="142" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">20</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-40</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-40</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">-40</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">20</p>
+				</content>
+			</RichText>
+			<RichText x="442" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">20</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-20</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_26.png')" x="64" y="1061" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="10" y="1077" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="45" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">盾反</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_27.png')" x="596" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_28.png')" x="576" y="152" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_29.png')" x="1268" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_30.png')" x="1248" y="152" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_31.png')" x="596" y="396" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_32.png')" x="576" y="376" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_33.png')" x="1268" y="396" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_34.png')" x="1248" y="376" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_35.png')" x="1268" y="620" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_36.png')" x="1248" y="600" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_37.png')" x="596" y="876" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_38.png')" x="576" y="856" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_39.png')" x="1268" y="876" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/古岩龙蜥%B7溟冬.assets/Image_40.png')" x="1248" y="856" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

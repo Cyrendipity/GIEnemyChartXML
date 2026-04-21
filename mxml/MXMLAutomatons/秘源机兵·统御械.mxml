@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1344" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="264"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="1003" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="秘源机兵·统御械"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="423" text="深古遗迹辖制机关"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 1316198 (21.6F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="448" width="395" alpha="0.75" text="Secret Source Automaton: Overseer Device"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Ancient Ruins Master Terminal"/>
+	<mx:Image source="Image11.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="统御械张嘴，在其前方生成水漩涡，牵引玩家，位于其内将持续造成30%伤害；3s后漩涡喷发，造成90%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="480" width="448" alpha="0.9" text="统御械瞄准玩家，标记并禁锢落点位置，随后发射一枚水球落在范围处，造成85%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="736" width="448" alpha="0.9" text="构型械自身拥有180点「应战对策」上限。角色进入「夜魂加持」状态时，会积攒30充能，维持时每秒积攒10充能，充满时进入「应战对策」模式：其将产生一不断追踪玩家的泉眼，并间歇喷出1-4次的水柱，持续造成45%伤害；「动量」越多，泉眼移速越快。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="吞覆圆渊-定点"/>
+	<mx:Text styleName="textStyle11" x="1408" y="416" width="448" text="津海天露-远程"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" text="急湍瀑泉-定点"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="统御械捏出一把水刀，进行左划、右划、纵合至多三段的攻击，依次造成60%,60%,75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="统御械进行俯冲，朝玩家方向袭来，接触造成80%伤害，至多重复3次。"/>
+	<mx:Text styleName="textStyle10" x="736" y="736" width="448" alpha="0.9" text="统御械立即移至场地中央，进入「荡除」状态，期间其身旁的2个水龙头将沿顺时针方向持续喷洒水流；当「动量」累积至7.4%/22.2%/44.4%时，其水柱将持续造成20%/50%/100%伤害。喷水持续30s，与「急湍瀑泉」共享时间。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="流锋舞涟-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="416" width="448" text="晨昏迅翮-位移"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" text="潺澜逝水-爆发"/>
+	<mx:Image source="Image12.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle13" x="0" y="1019" width="64" text="荡除"/>
+	<mx:Image source="Image13.png" x="64" y="1061" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="1139" width="64" text="夜魂"/>
+	<mx:Image source="Image14.png" x="64" y="1121" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1190" width="64" text="不破机制惩罚"/>
+	<mx:Image source="Image15.png" x="64" y="1181" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="1078" width="64" text="凝滞"/>
+	<mx:Text styleName="textStyle15" x="64" y="1248" width="448" alpha="0.75" text="深渊抗性：战前380%，开局280%，荡除210%，若期间未进入过「凝滞」或「夜魂」状态，则结束时全抗将升至80%。液流动量：总量135，每0.4s积攒1.481%(2)，每次冰元素攻击减少2.963%(4)，初始自带23.7%(32)。"/>
+	<mx:Image source="Image16.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle16" x="736" y="1056" width="1024" alpha="0.9" text="「液流动量」初始拥有一定值，随时间持续增长，受到冰元素攻击后会回退；当动量积蓄至不同进度时，所产生的效果不同：当「动量」累积至&lt;7.4%/7.4%/22.2%/44.4%/≥88.9%时，统御械将：减抗并「凝滞」 / 加抗并开始喷水 / 水柱伤害提升至50% / 水柱伤害提升至100% / 额外多2枚水龙头，同时水龙头转速随着阶段进行不断增加；当进入「应战对策」的特殊攻击模式后，仍会累积「动量」，将其打空仍可进入「凝滞」；同样，在「动量」&lt;7.4%时，不会进入「应战对策」状态。"/>
+	<mx:Text styleName="textStyle11" x="736" y="992" width="448" text="低温消蚀-天赋"/>
+	<mx:Image source="Image23.png" x="576" y="982" width="168" height="170"/>
+</mx:Application>

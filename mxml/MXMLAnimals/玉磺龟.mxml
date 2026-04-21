@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="960" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AAAAAA;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="960"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="玉磺龟"/>
+	<mx:Text styleName="textStyle2" x="64" y="465" width="395" alpha="0.75" text="Jade Tortoise"/>
+	<mx:Text styleName="textStyle3" x="736" y="320" width="448" alpha="0.9" text="部分玉磺龟身上附有璃月区域特产清水玉，击破即可获得。"/>
+	<mx:Text styleName="textStyle4" x="576" y="224" width="448" text="不攻击"/>
+	<mx:Image source="Image3.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="485" alpha="0.9" text="抗性数据(单位%) (Nonsense)"/>
+	<mx:Text styleName="textStyle6" x="64" y="576" width="382" text="HP: 55460 (1.0F) (LockHP)"/>
+	<mx:Text styleName="textStyle7" x="64" y="544" width="305" alpha="0.75" text="动物 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="624" width="375" text="ATK: 4924 (2.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="375" text="Wt/Ed: 80/50"/>
+	<mx:Image source="Image4.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle9" x="576" y="128" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="589" y="325" width="111" height="86"/>
+	<mx:Image source="Image6.png" x="584" y="296" width="144" height="143"/>
+	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="清水玉：4岩盾，击破可获得相应特产。"/>
+</mx:Application>

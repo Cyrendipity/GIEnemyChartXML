@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FF86;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FF86;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFB299;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#99FF99;
+		}
+		.textStyle15 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#24A451;
+		}
+		.textStyle16 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="200"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="480" text="亚稳态翠翎恐蕈"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="305" text="讨厌爆炎树果实"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1247" y="64" width="609" alpha="0.5" text="元素能量：DP[0],DO[66,33,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="333" text="HP: 1009085 (16.56F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 36376 (13.933B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 250/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="446" width="395" alpha="0.75" text="Metastable Jadeplume Terrorshroom"/>
+	<mx:Text styleName="textStyle9" x="64" y="587" width="395" alpha="0.75" text="Hates Pyro Regisvine Fruits"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="翠翎恐蕈进行左划、啄地至多2段的普通攻击，左划与啄地依次造成75%,85%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="翠翎恐蕈进行左扫、右扫、翻扫至多3段的攻击，每一扫都扔出5个孢弹，且均自身附着草，每个孢弹造成30%,15%,3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" alpha="0.9" text="枯焦状态下，翠翎恐蕈产生菌雾，在地面蔓延毒素，持续造成6%伤害；此后翠翎恐蕈向空中吟叫3次后引爆，造成100%伤害，并向外产生2道扩散震波，也造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="960" width="448" alpha="0.9" text="翠翎恐蕈发射5个孢子，落地造成30%伤害，全程自身附着草。每个孢子可主动引爆，爆炸对角色及翠翎恐蕈均造成50%伤害；孢子外观为草爆爆瓜，自身会随机引爆。"/>
+	<mx:Text styleName="textStyle12" x="64" y="1132" width="448" alpha="0.75" text="怒气：100草充能盾，受到雷元素攻击+2/次，触发任意激化+15/次，受到火元素攻击-100/次并直接枯焦。蕈王之御；10草盾，击破后移除抗性提升，与怒气结算互相独立；怒气值满后，进入活化状态，该护盾将直接移除。眩晕后恢复护盾。"/>
+	<mx:Text styleName="textStyle13" x="736" y="160" width="448" text="蕈王掀尘-输出"/>
+	<mx:Text styleName="textStyle13" x="736" y="384" width="448" text="尾羽飞扇-追踪"/>
+	<mx:Text styleName="textStyle13" x="736" y="640" width="448" text="真稳孢云-猛攻"/>
+	<mx:Text styleName="textStyle13" x="736" y="896" width="448" text="孢棋弹布-妨害"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="不羁之行-猛攻"/>
+	<mx:Text styleName="textStyle13" x="1408" y="384" width="448" text="孢羽囊扇-爆发"/>
+	<mx:Text styleName="textStyle13" x="1408" y="640" width="448" text="蕈王狂舞-猛攻"/>
+	<mx:Text styleName="textStyle13" x="1408" y="896" width="448" text="护蕈之森-防御"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="翠翎恐蕈尖叫，后疯狂向玩家冲来，触碰依次造成100%伤害，来回撞击2次，全程自身附着草。"/>
+	<mx:Text styleName="textStyle14" x="1408" y="448" width="448" alpha="0.9" text="激化状态下，翠翎恐蕈猛地朝玩家进行2次大跳，每次造成100%伤害，落地后即施放巨量孢子，孢子弱追踪玩家，每个孢子造成30%,15%,3%,0.3%伤害，技能结束眩晕16s。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="704" width="448" alpha="0.9" text="翠翎恐蕈尖叫，后在原地疯狂进行挑动3次，造成90%,45%伤害，然后进行1次大跳，造成100%伤害，全程自身附着草，该过程重复2遍。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="960" width="448" alpha="0.9" text="翠翎恐蕈初始附属蕈王之御，并获得小幅抗性提升。蕈王之御将在翠翎恐蕈眩晕恢复后，或从枯焦状态恢复后再次出现。"/>
+	<mx:Text styleName="textStyle15" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="64" y="1061" width="484" height="60"/>
+	<mx:Text styleName="textStyle16" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle16" x="0" y="1079" width="64" text="眩晕"/>
+	<mx:Image source="Image6.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle16" x="0" y="1019" width="64" text="带盾"/>
+	<mx:Image source="Image7.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1268" y="907" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="886" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="576" y="886" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="374" width="168" height="170"/>
+</mx:Application>

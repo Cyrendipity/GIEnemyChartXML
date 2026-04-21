@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1664" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="584"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="724" y="205" width="1023" height="944"/>
+	<mx:Image source="Image4.png" x="0" y="150" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="576" width="442" text="祸津御建鸣神命"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="704" width="305" text="雷电之稻妻殿"/>
+	<mx:Text styleName="textStyle4" x="64" y="1024" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="305" text="HP: 1484012 (40.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="832" width="305" alpha="0.75" text="周本-恶耀影向天魔 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="912" width="375" text="ATK: 22838 (12.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="960" width="375" text="Wt/Ed: 450/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="638" width="395" alpha="0.75" text="Magatsu Mitake Narukamino Mikoto"/>
+	<mx:Text styleName="textStyle9" x="64" y="747" width="395" alpha="0.75" text="Raiden no Inazuma Tono"/>
+	<mx:Image source="Image5.png" x="64" y="1069" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="祸津进行两段斩击，分别造成16.6%,25%伤害，之后中手丢出雷钴，造成16.6%伤害，片刻后雷钴爆炸，造成33.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="处在祸津后方时，其转身用刀斩造成66.6%伤害，在斩击的轨迹上将降下落雷，每道造成8.3%伤害，之后中手丢出雷钴，造成16.6%伤害，片刻后雷钴爆炸，造成33.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" alpha="0.9" text="祸津先朝上纵劈，产生5道快速移动的纵雷刃，造成25%伤害，再朝右横劈一刀，产生1道慢速的横雷刃，造成50%伤害；在近处，若被刀劈到则每次额外造成25%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="960" width="448" alpha="0.9" text="施放时，50%概率为该技能；祸津召唤两个手眼，手眼位置同步于玩家，几秒后两个手眼合击造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1216" width="448" alpha="0.9" text="祸津移至场地中心，召唤3个大型的雷钴落下，造成25%伤害，其呈三角形摆布；雷钴将持续产生地波扩散，其造成50%伤害。地波沿顺时针方向产生，持续2轮，第3轮中，3个雷钴将全部产生地波，随后全部损坏。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1536" width="1024" alpha="0.9" text="祸津御建转变为对付「永恒」之敌的形态，进入恶耀影向天魔状态，击飞附近的玩家不造成伤害，展开恶耀魔甲，每5s汲取玩家20能量(特殊能量不受影响)。退出状态后恢复全队元素能量与特殊能量。"/>
+	<mx:Image source="Image6.png" x="1268" y="1163" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1248" y="1142" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1216" width="448" alpha="0.9" text="祸津移至场地中心，清空角色的所有元素能量和特殊能量并消失，留下一个「追忆花团」，并随机标记一名玩家；稍后无想的一刀降下，并产生碎屏特效。若在护罩外，被标记的玩家将直接被击败，未被标记的玩家受到66.6%伤害，若在护罩内，则所有玩家只受到1伤害，以上伤害闪避帧均无效。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="960" width="448" alpha="0.9" text="施放时，50%概率为该技能；祸津召唤一道黑影原地跟踪玩家，接触持续造成8.3%伤害，片刻后黑影处钻出手眼，造成16.6%伤害，再拍下，造成33.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="祸津握住刀柄，施放拔刀斩，造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="祸津高举刀，在前方长矩形区域劈下，造成116.6%伤害；在周身产生持续的等离子场，持续造成8.3%伤害"/>
+	<mx:Text styleName="textStyle10" x="1408" y="704" width="448" alpha="0.9" text="距离祸津较远时，其立即冲过来劈一刀，造成16.6%伤害，劈后立即产生次元斩，依次造成8.3%,8.3%,33.3%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="祓除诸恶-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="降愚圣雷-防卫"/>
+	<mx:Text styleName="textStyle11" x="736" y="640" width="448" text="分断溃灭-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" text="祸神之牢-追踪"/>
+	<mx:Text styleName="textStyle11" x="736" y="1152" width="448" text="恶耀三钴-爆发"/>
+	<mx:Text styleName="textStyle11" x="736" y="1472" width="448" text="影向天魔-转换"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1152" width="448" text="万劫一梦-斩杀"/>
+	<mx:Image source="Image8.png" x="596" y="1163" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="1142" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" text="祸神之黯-追踪"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="愠恚不弭-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="断梁绝槊-猛攻"/>
+	<mx:Text styleName="textStyle11" x="1408" y="640" width="448" text="裁绸断碎-位移"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="64" y="1320" width="448" alpha="0.75" text="恶耀魔甲：96雷盾，击破可移除抗性，使祸津退出恶耀影向天魔状态并眩晕；与其发生元素反应可产生3枚全元素微粒，CD1.5s；每10s，将失去8雷盾。追忆花团：25雷充能盾，雷元素攻击+25/次，其他元素攻击+6.5/次，其他攻击无效，击破展开护罩。"/>
+	<mx:Image source="Image10.png" x="64" y="1253" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1151" width="64" text="恶耀"/>
+	<mx:Text styleName="textStyle14" x="0" y="1271" width="64" text="眩晕"/>
+	<mx:Image source="Image11.png" x="64" y="1193" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1211" width="64" text="无盾"/>
+	<mx:Image source="Image12.png" x="64" y="256" width="256" height="256"/>
+	<mx:Image source="Image13.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image26.png" x="576" y="886" width="168" height="170"/>
+	<mx:Image source="Image27.png" x="1268" y="907" width="128" height="128"/>
+	<mx:Image source="Image28.png" x="1248" y="886" width="168" height="170"/>
+	<mx:Image source="Image29.png" x="596" y="1483" width="128" height="128"/>
+	<mx:Image source="Image30.png" x="576" y="1462" width="168" height="170"/>
+</mx:Application>

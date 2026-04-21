@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1024" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:50;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#389A3E;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="守护的增殖生命体"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 118721 (3.2F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="352" alpha="0.75" text="其他-守望者二阶段衍生物 Lv.90 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 1903 (1.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 300/400"/>
+	<mx:Text styleName="textStyle7" x="64" y="436" width="395" alpha="0.75" text="ProtectiveProliferating Organism"/>
+	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="守护型给10m范围内的基础型赋予缠蔓域嶂，在该领域内每0.5s刷新一次盾量，离开范围盾即消失。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="护藤生蔓-防御"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="缠蔓域嶂：8草盾，且在领域内每半秒刷新盾量，可伤害转化。该状态下，抗打断0，免疫风场力。核心守塔机制：击败守护型推进11%(220)进度，恢复全队20能量。"/>
+	<mx:Image source="Image4.png" x="64" y="65" width="256" height="255"/>
+	<mx:Image source="Image5.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="182" width="168" height="170"/>
+</mx:Application>

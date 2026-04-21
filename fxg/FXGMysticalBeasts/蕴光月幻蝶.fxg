@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1536" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_2.png')" x="0" y="119" blendMode="normal">
+		</BitmapImage>
+		<RichText x="62" y="528" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="432" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">蕴光月幻蝶</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="661" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ff86" width="315" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#99ff86">月下化形的光影</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="981" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1495" y="52" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="388" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WO[75,50,25,0]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="824" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 974962 <span color="#dddddd">(16.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="790" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="872" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 20886<span color="#dddddd"> (8.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="921" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 20000/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="617" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="226" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Radiant Moonfly</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="708" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ff86" width="377" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ff86">Shifting Shadow Beneath the Moon</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="83" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="323" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">70</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_3.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_4.png')" x="64" y="1101" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_5.png')" x="184" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_6.png')" x="364" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_7.png')" x="303" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_8.png')" x="244" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_9.png')" x="424" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_10.png')" x="124" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_11.png')" x="66" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_13.png')" x="486" y="1037">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶进行上踢、飞踹连续两段普通攻击，分别造成<span color="#99ff85">50%,60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="415" width="422" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶蓄力，踢出一道翠刃，造成<span color="#99ff85">90%</span><span>伤害，常衔接「死羁咒茧」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="607" width="997" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶展开半径<span color="#ffdfbf">25m</span><span>的苍蕴之域，范围内的玩家全队都会陷入「蕴光之茧」，同时扣除全队角色生命值，将对应角色</span><span color="#ffbfbf">恢复满生命值</span><span>才可解除，并转为「出缠」效果。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1168" width="441" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">蕴光之茧：暴击率<span color="#ffdfbf">-100%</span><span>，造成的伤害</span><span color="#ffdfbf">-50%</span><span>，受治疗加成</span><span color="#ffdfbf">-40%</span><span>；施加时，扣除全队角色</span><span color="#ffdfbf">10%+1800</span><span>点生命值，若角色生命值低于</span><span color="#ffdfbf">7200</span><span>点，则改为扣除</span><span color="#ffdfbf">35%</span><span>生命值，可致命但可开大招躲避；主动治疗清除后获得「出缠」效果。<br/>出缠：暴击率</span><span color="#ffdfbf">+15%</span><span>，造成的伤害</span><span color="#ffdfbf">+50%</span><span>，持续15s。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_14.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_15.png')" x="719" y="329">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_16.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_17.png')" x="1392" y="330">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_18.png')" x="720" y="713">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_19.png')" x="721" y="1097">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_20.png')" x="719" y="1289">
+		</BitmapImage>
+		<RichText x="1411" y="223" width="398" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶接近玩家，突然发动踢踹，造成<span color="#99ff85">70%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="415" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶利用悬骸进行打击，造成<span color="#99ff85">60%</span><span>伤害，接着倏然起身，发射一枚三叶组成的镟轮，造成</span><span color="#99ff85">70%</span><span>伤害，常衔接「死羁咒茧」。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1411" y="799" width="422" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶倒转地进行扑棱攻击，造成<span color="#ff9999">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1183" width="443" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶发射2-4枚焚烨弹，每枚均造成<span color="#ff9999">50%</span><span>伤害，由「繁林微光」期间受到</span><span color="#ff9999">火元素</span><span>伤害转变。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1411" y="1375" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶凝聚月之下的躁动火元素之力，发生大爆炸，造成<span color="#ff9999">100%</span><span>伤害，并瘫痪15s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="991" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶挥动鳞翅扫出灼灰散弹，造成<span color="#ff9999">25%</span><span>伤害，持续2-4次。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="799" width="422" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶扑腾地旋转进行扫荡，造成<span color="#99ff85">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1183" width="443" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶发射2-4枚草叶弹，每枚均造成<span color="#99ff85">50%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="739" y="1375" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶凝聚月之下的微光草元素之力，发生大爆炸，造成<span color="#99ff85">100%</span><span>伤害，并瘫痪15s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#24a451" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#24a451">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_21.png')" x="64" y="224" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_22.png')" x="1268" y="363" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_23.png')" x="596" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_24.png')" x="596" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_25.png')" x="596" y="364" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_26.png')" x="596" y="1131" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_27.png')" x="1268" y="1131" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_28.png')" x="596" y="555" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_29.png')" x="596" y="1323" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_30.png')" x="1268" y="1323" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_31.png')" x="1268" y="747" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_32.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_33.png')" x="1268" y="939" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_34.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_35.png')" x="1248" y="342" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_36.png')" x="1391" y="713">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_37.png')" x="1392" y="1097">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_38.png')" x="1391" y="1289">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_39.png')" x="1391" y="906">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_40.png')" x="576" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_41.png')" x="576" y="151" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_42.png')" x="576" y="343" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_43.png')" x="576" y="534" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_44.png')" x="720" y="521">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_45.png')" x="1248" y="726" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_46.png')" x="1248" y="918" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_47.png')" x="719" y="905">
+		</BitmapImage>
+		<RichText x="738" y="991" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻蝶挥动鳞翅扫出茁辉散弹，造成<span color="#99ff85">25%</span><span>伤害，持续2-4次，由「秋火飞明」期间受到</span><span color="#99ffff">冰</span><span>/</span><span color="#7fbfff">水元素</span><span>伤害转变。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_48.png')" x="596" y="939" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_49.png')" x="576" y="918" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_50.png')" x="576" y="1110" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_51.png')" x="576" y="1302" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_52.png')" x="1248" y="1110" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/蕴光月幻蝶.assets/Image_53.png')" x="1248" y="1302" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

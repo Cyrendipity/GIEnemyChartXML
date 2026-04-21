@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1856" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFACFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FF9999;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#7FBFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#99FFFF;
+		}
+		.textStyle15 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8E1498;
+		}
+		.textStyle18 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle19 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#DFFFBF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="776"/>
+	<mx:Image source="Image3.png" x="0" y="916" width="1920" height="940"/>
+	<mx:Image source="Image4.png" x="0" y="86" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="512" width="460" text="深罪浸礼者"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="640" width="419" text="漆黑乐园的引路人"/>
+	<mx:Text styleName="textStyle4" x="64" y="1152" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1237" y="64" width="619" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="960" width="305" alpha="0.75" text="首领-雅各布 Lv.100 Data"/>
+	<mx:Text styleName="textStyle7" x="64" y="800" width="305" text="HP: 609351 (10.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="992" width="305" text="HP: 554600 (10.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="848" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle7" x="64" y="1040" width="375" text="ATK: 9848 (4.0B2)"/>
+	<mx:Text styleName="textStyle7" x="64" y="896" width="375" text="Wt/Ed: 200/400"/>
+	<mx:Text styleName="textStyle7" x="64" y="1088" width="375" text="Wt/Ed: 200/400"/>
+	<mx:Text styleName="textStyle8" x="64" y="593" width="395" alpha="0.75" text="Iniquitous Baptist"/>
+	<mx:Text styleName="textStyle9" x="64" y="675" width="395" alpha="0.75" text="The Guide to the Dark Paradise"/>
+	<mx:Image source="Image5.png" x="64" y="1197" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="深罪浸礼者出场时携带3种异界核心，挂在其背后并逆时针转动，且按顺序开启元素护罩，破盾后会有约4s的轻瘫时间，全破后重瘫12s。重瘫之后，会重新再生成3个核心。"/>
+	<mx:Text styleName="textStyle11" x="736" y="480" width="448" alpha="0.9" text="(雷元素盾)深罪浸礼者施放出3个连续的雷球，每个造成50%,25%,10%伤害，若命中无护盾庇护的玩家，则产生紫电的效果。"/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" alpha="0.9" text="(雷元素盾)深罪浸礼者上肢拿着雷锥，一左一右地朝玩家丢过来，每个造成70%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="(雷元素盾)深罪浸礼者咏唱，朝玩家发射长激光，造成100%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="704" width="448" alpha="0.9" text="(火元素盾)深罪浸礼者从地面上唤出4个火陨石，然后依次朝玩家扔过来，每个造成80%,40%,16%伤害。"/>
+	<mx:Text styleName="textStyle13" x="1408" y="928" width="448" alpha="0.9" text="(水元素盾)深罪浸礼者从地面上唤出4个水球，然后依次朝玩家扔过来，每个造成80%,40%,16%伤害。"/>
+	<mx:Text styleName="textStyle14" x="1408" y="1152" width="448" alpha="0.9" text="(冰元素盾)距离玩家比较近时，深罪浸礼者用碎冰壳包围自己，随后炸开，造成100%伤害。"/>
+	<mx:Text styleName="textStyle14" x="1408" y="1408" width="448" alpha="0.9" text="(冰元素盾)深罪浸礼者从周围发射4个追踪冰锥，每个造成78%伤害，若命中无护盾庇护的玩家，则产生霜落的效果。"/>
+	<mx:Text styleName="textStyle14" x="736" y="1408" width="448" alpha="0.9" text="(冰元素盾)深罪浸礼者附魔冰元素，然后朝玩家施放数刀冰刃，每个造成50%伤害，最后施放一刀十字冰刃，造成70%伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="1152" width="448" alpha="0.9" text="(水元素盾)深罪浸礼者附魔水元素，然后朝玩家施放数刀水刃，每个造成50%伤害，最后施放十字水刃，造成70%伤害。若命中无护盾庇护的玩家，则产生激流的效果。"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" alpha="0.9" text="(火元素盾)深罪浸礼者在玩家处召唤7个地喷火，排成蜂巢状，每个造成50%伤害，若命中无护盾庇护的玩家，则产生渊火的效果。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="核心数量为剩余护罩数量。深罪浸礼者将自己所剩的核心放置于地面，核心可摧毁，全摧毁后会重瘫；若未及时摧毁，其将在12s后全部爆炸，每个造成对应元素的200%伤害。"/>
+	<mx:Text styleName="textStyle15" x="736" y="160" width="448" text="此曾三度为祭-天赋"/>
+	<mx:Text styleName="textStyle15" x="736" y="416" width="448" text="蒙圣者的菲仪-吸能"/>
+	<mx:Text styleName="textStyle15" x="736" y="640" width="448" text="聆谛眷的教省-输出"/>
+	<mx:Text styleName="textStyle16" x="1408" y="416" width="448" text="自侜名的罪戾-输出"/>
+	<mx:Text styleName="textStyle15" x="1408" y="640" width="448" text="拾慧火的往迹-追踪"/>
+	<mx:Text styleName="textStyle15" x="1408" y="864" width="448" text="瞢雨中的回汐-追踪"/>
+	<mx:Text styleName="textStyle15" x="1408" y="1088" width="448" text="阐叙冬的幽寂-猛攻"/>
+	<mx:Text styleName="textStyle15" x="1408" y="1344" width="448" text="诌言外的深秘-扣体"/>
+	<mx:Text styleName="textStyle15" x="736" y="1344" width="448" text="凇与雪的极意-输出"/>
+	<mx:Text styleName="textStyle15" x="736" y="1088" width="448" text="潮与波的随绎-延时"/>
+	<mx:Text styleName="textStyle15" x="736" y="864" width="448" text="向茔烛的献礼-烧血"/>
+	<mx:Text styleName="textStyle15" x="1408" y="160" width="448" text="颂予诸界之理-爆发"/>
+	<mx:Text styleName="textStyle17" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle18" x="64" y="1388" width="448" alpha="0.75" text="异界核心：深罪浸礼者出场携带核心顺序如下，每日轮换：火冰雷，冰水火，雷火水，水冰雷。元素核心：2火/2水/2雷/2冻盾，击毁可阻止其引爆，全部击毁可重瘫浸礼者。元素护罩：12火/12水/8雷/12冻盾，击破使其瘫痪，瘫痪或使其再次施放元素法阵会使盾量减半，至多减半2次。紫电：扣除前台角色20点元素能量，1s触发一次，特殊能量不受影响。渊火：施加「渊火烙印」，扣除全队角色生命值，大小为15%角色生命值+13.3%浸礼者攻击力。激流：前台角色处在CD中的技能的CD增加6s，1s触发一次。霜落：扣除80点体力，3s内再次命中则扣除25点体力。"/>
+	<mx:Image source="Image6.png" x="64" y="192" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="64" y="1321" width="484" height="60"/>
+	<mx:Text styleName="textStyle19" x="0" y="1260" width="64" text="入战/开阵"/>
+	<mx:Text styleName="textStyle19" x="0" y="1339" width="64" text="正常"/>
+	<mx:Image source="Image8.png" x="596" y="172" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="152" width="168" height="168"/>
+	<mx:Image source="Image10.png" x="1268" y="172" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1248" y="152" width="168" height="168"/>
+	<mx:Image source="Image12.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="651" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="630" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1268" y="875" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="1248" y="854" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="1268" y="1099" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="1248" y="1078" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="596" y="1355" width="128" height="128"/>
+	<mx:Image source="Image29.png" x="576" y="1334" width="168" height="170"/>
+	<mx:Image source="Image30.png" x="1268" y="1355" width="128" height="128"/>
+	<mx:Image source="Image31.png" x="1248" y="1334" width="168" height="170"/>
+	<mx:Text styleName="textStyle20" x="736" y="1632" width="448" alpha="0.9" text="护罩持续时间超时后(30s)，深罪浸礼者链接两个核心，并在前方分别产生2个对应的元素球(左下右上)，片刻后爆炸，每个元素球造成对应元素的100%伤害，然后换至下一个元素护罩，技能施放期间无元素护罩庇护。"/>
+	<mx:Text styleName="textStyle15" x="736" y="1568" width="448" text="命途重汇之时-轮换"/>
+	<mx:Image source="Image32.png" x="596" y="1580" width="128" height="128"/>
+	<mx:Image source="Image33.png" x="576" y="1560" width="168" height="168"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1632" width="448" alpha="0.9" text="(雷元素盾)深罪浸礼者离场地较远时，或者要返回中心，安置核心时，会通过倒三角的传送门闪现(类似于藏镜仕女)。"/>
+	<mx:Text styleName="textStyle15" x="1408" y="1568" width="448" text="待轻静的隐逸-闪避"/>
+	<mx:Image source="Image34.png" x="1268" y="1579" width="128" height="128"/>
+	<mx:Image source="Image35.png" x="1248" y="1558" width="168" height="170"/>
+</mx:Application>

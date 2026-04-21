@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1216" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:32;
+			color:#B2D8FF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="136"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="深渊使徒·激流"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="423" text="操纵激流的漆黑先兆"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[0x2],HO[66,33]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 294121 (8.0H)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 14773 (6.0B1)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/840"/>
+	<mx:Text styleName="textStyle8" x="64" y="446" width="395" alpha="0.75" text="Abyss Herald: Wicked Torrents"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Dark Usher of Wicked Torrents"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="激流使用双手上的水刀进行2/3/5段的普通攻击，全五段普通攻击依次造成25%,25%,35%,35%,50%伤害。不同阶段下，施放方式也不同：前3(阶段1-4)，前2(阶段1-3)，后3(阶段3-4)，全5(阶段4)。"/>
+	<mx:Text styleName="textStyle11" x="736" y="512" width="448" alpha="0.9" text="激流劈出十字水刃，造成25%伤害，命中造成「暗潮」效果：命中角色后，若其任意技能正在CD状态，并且未被护盾有效庇护，则将其CD额外延长6s。1s内至多触发一次效果。"/>
+	<mx:Text styleName="textStyle11" x="736" y="800" width="448" alpha="0.9" text="当激流的生命值低于20%时，踉跄并释放大范围的水爆，造成100%伤害，并附属渊源加护，使用草和冰破盾有奇效，盾破后激流立即死亡。"/>
+	<mx:Text styleName="textStyle12" x="736" y="960" width="1024" alpha="0.9" text="固有天赋：踏池依据激流的血量、盾量，其出招方式也有不同，其分为4个战斗阶段：阶段1：生命值大于等于60%；阶段2：生命值低于60%，但尚未开盾；阶段3：已开盾，盾量大于等于33%；阶段4：盾量低于33%。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="激流不断旋转自身进行攻击，造成40%,20%,10%伤害，旋转完毕后停下，重复1-4次。处在第几阶段就旋转几次。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="512" width="448" alpha="0.9" text="激流使用水刀连续斩出1-2道水刃，造成50%伤害，若近处被水刀命中则造成25%伤害。不同阶段下，施放方式也不同：1段(阶段1)，2段(阶段2-3)，2段连续2次(阶段4)。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="800" width="448" alpha="0.9" text="激流不断在原地街舞，不断的摆姿势，当摆到第八个姿势时，从8个方向发射水刃，造成25%伤害，水刃命中同样造成「暗潮」效果。"/>
+	<mx:Text styleName="textStyle13" x="736" y="160" width="448" text="流刃于形-输出"/>
+	<mx:Text styleName="textStyle13" x="736" y="448" width="448" text="交织滞流-妨害"/>
+	<mx:Text styleName="textStyle13" x="736" y="736" width="448" text="濯渊之水-防护"/>
+	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="暗渊卷潮-碾压"/>
+	<mx:Text styleName="textStyle13" x="1408" y="448" width="448" text="刃行泉涌-远程"/>
+	<mx:Text styleName="textStyle13" x="1408" y="736" width="448" text="浪斩八方-爆发"/>
+	<mx:Text styleName="textStyle14" x="64" y="1008" width="448" alpha="0.75" text="渊源加护：36水盾，击破后激流立即死亡，可伤害转化。该状态下，抗打断0，免疫风场力。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1248" y="726" width="168" height="170"/>
+</mx:Application>

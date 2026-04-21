@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2171B1;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle12 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="506" text="浊水喷吐幻灵"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[66,33,0x2]"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 221840 (4.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 12311 (5.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 101/400"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="428" alpha="0.75" text="Tainted Water-Spouting Phantasm"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="浊水凝珠-干扰"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="浊浪喷流-追踪"/>
+	<mx:Text styleName="textStyle9" x="736" y="448" width="448" text="水刑巨弹-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="736" width="448" text="无源浊水-天赋"/>
+	<mx:Text styleName="textStyle9" x="1408" y="448" width="448" text="水刑臌胀-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="平息状态的喷吐幻灵凝聚浊水，慢速发射，造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="喷吐幻灵朝玩家处不断且连续地一直喷水，持续造成40%,20%,4%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="512" width="448" alpha="0.9" text="喷吐幻灵幻化成水壶，从壶嘴出发射1枚水弹，造成100%伤害。强化技能：发射水弹数量增加至5枚，且水弹造成100%,25%,10%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="800" width="448" alpha="0.9" text="常驻水元素，抗打断0.01。每隔15s，喷吐幻灵会在平息和狂怒状态切换：平息状态下被冻结时间不超过8s，超时强制解除冻结；狂怒状态下不可冻结。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="512" width="448" alpha="0.9" text="接近喷吐幻灵时，喷吐幻灵蜷缩自身，产生较大的爆炸，造成100%伤害，该技能可以打断其他技能施放。强化技能：爆炸后在周围产生4道扩散型水喷，造成100%,25%,10%伤害。"/>
+	<mx:Image source="Image4.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="64" y="512" width="382" text="无源之水"/>
+	<mx:Text styleName="textStyle12" x="64" y="555" width="395" alpha="0.75" text="Water Without Source"/>
+</mx:Application>

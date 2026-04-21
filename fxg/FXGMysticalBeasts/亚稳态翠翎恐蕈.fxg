@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1280" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_2.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="64" y="370" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="447" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">亚稳态翠翎恐蕈</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="65" y="532" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ff86" width="313" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#99ff86">讨厌爆炎树果实</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="821" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1466" y="52" width="417" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#99ff86">DP</span><span>[0],</span><span color="#99ff86">DO</span><span>[66,33,0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="664" width="347" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1009085 <span color="#dddddd">(16.56F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="630" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="712" width="364" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 36376<span color="#dddddd"> (13.933B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="761" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 250/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="439" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="304" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Metastable Jadeplume Terrorshroom</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="581" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ff86" width="308" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ff86">Hates Pyro Regisvine Fruits</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ffb3" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="82" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">30</p>
+				</content>
+			</RichText>
+			<RichText x="142" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">30</p>
+				</content>
+			</RichText>
+			<RichText x="202" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">30</p>
+				</content>
+			</RichText>
+			<RichText x="262" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">30</p>
+				</content>
+			</RichText>
+			<RichText x="322" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">80</p>
+				</content>
+			</RichText>
+			<RichText x="382" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">30</p>
+				</content>
+			</RichText>
+			<RichText x="442" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">30</p>
+				</content>
+			</RichText>
+			<RichText x="502" y="959" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="28" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">30</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_3.png')" x="64" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_4.png')" x="64" y="941" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_5.png')" x="184" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_6.png')" x="364" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_7.png')" x="303" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_8.png')" x="244" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_9.png')" x="424" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_10.png')" x="124" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_11.png')" x="66" y="877" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_13.png')" x="486" y="877">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">翠翎恐蕈进行左划、啄地至多2段的普通攻击，左划与啄地依次造成<span color="#99ff86">75%,85%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">翠翎恐蕈进行左扫、右扫、翻扫至多3段的攻击，每一扫都扔出5个孢弹，且均<span color="#bfffbf">自身附着草</span><span>，每个孢弹造成</span><span color="#99ff86">30%,15%,<br/>3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="703" width="432" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffb299">枯焦<span color="#ffffff">状态下，翠翎恐蕈产生菌雾，在地面蔓延毒素，持续造成</span><span color="#99ff86">6%</span><span color="#ffffff">伤害；此后翠翎恐蕈向空中吟叫3次后引爆，造成</span><span color="#99ff86">100%</span><span color="#ffffff">伤害，并向外产生2道扩散震波，也造成</span><span color="#99ff86">100%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="959" width="438" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">翠翎恐蕈发射5个孢子，落地造成<span color="#99ff85">30%</span><span>伤害，全程</span><span color="#bfffbf">自身附着草</span><span>。每个孢子可主动引爆，爆炸对角色及翠翎恐蕈均造成</span><span color="#99ff85">50%</span><span>伤害；孢子外观为草爆爆瓜，自身会随机引爆。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1132" width="436" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">怒气：<span color="#99ff85">100草</span><span>充能盾，受到雷元素攻击</span><span color="#99ff85">+2</span><span>/次，触发任意激化</span><span color="#99ff85">+15</span><span>/次，受到火元素攻击</span><span color="#99ff85">-100</span><span>/次并直接枯焦。<br/>蕈王之御；</span><span color="#99ff85">10草</span><span>盾，击破后移除抗性提升，与怒气结算互相独立；怒气值满后，进入活化状态，该护盾将直接移除。眩晕后恢复护盾。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_14.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_15.png')" x="720" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_16.png')" x="720" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_17.png')" x="719" y="873">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_18.png')" x="1392" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_19.png')" x="1391" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_20.png')" x="1392" y="617">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_21.png')" x="1390" y="873">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">翠翎恐蕈尖叫，后疯狂向玩家冲来，触碰依次造成<span color="#99ff85">100%</span><span>伤害，来回撞击2次，全程</span><span color="#bfffbf">自身附着草</span><span>。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="440" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ff99">激化<span color="#ffffff">状态下，翠翎恐蕈猛地朝玩家进行2次大跳，每次造成</span><span color="#99ff85">100%</span><span color="#ffffff">伤害，落地后即施放巨量孢子，孢子弱追踪玩家，每个孢子造成</span><span color="#99ff85">30%,15%,3%,0.3%</span><span color="#ffffff">伤害，技能结束眩晕16s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="703" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">翠翎恐蕈尖叫，后在原地疯狂进行挑动3次，造成<span color="#99ff85">90%,45%</span><span>伤害，然后进行1次大跳，造成</span><span color="#99ff85">100%</span><span>伤害，全程</span><span color="#bfffbf">自身附着草</span><span>，该过程重复2遍。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="959" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">翠翎恐蕈初始附属<span textDecoration="underline">蕈王之御</span><span>，并获得小幅抗性提升。</span><span textDecoration="underline">蕈王之御</span><span>将在翠翎恐蕈眩晕恢复后，或从枯焦状态恢复后再次出现。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#24a451" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#24a451">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_2">
+			<RichText x="90" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">0</p>
+				</content>
+			</RichText>
+			<RichText x="150" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">0</p>
+				</content>
+			</RichText>
+			<RichText x="210" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">0</p>
+				</content>
+			</RichText>
+			<RichText x="270" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">0</p>
+				</content>
+			</RichText>
+			<RichText x="323" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">50</p>
+				</content>
+			</RichText>
+			<RichText x="390" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">0</p>
+				</content>
+			</RichText>
+			<RichText x="450" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">0</p>
+				</content>
+			</RichText>
+			<RichText x="510" y="1079" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">0</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_22.png')" x="64" y="1061" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="957" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1077" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">眩晕</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_3">
+			<RichText x="83" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="143" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">70</p>
+				</content>
+			</RichText>
+			<RichText x="203" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">70</p>
+				</content>
+			</RichText>
+			<RichText x="263" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">70</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">160</p>
+				</content>
+			</RichText>
+			<RichText x="383" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">70</p>
+				</content>
+			</RichText>
+			<RichText x="443" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">70</p>
+				</content>
+			</RichText>
+			<RichText x="503" y="1019" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">70</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_23.png')" x="64" y="1001" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1017" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="45" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">带盾</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_24.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_25.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_26.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_27.png')" x="596" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_28.png')" x="1268" y="907" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_29.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_30.png')" x="1248" y="886" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_31.png')" x="576" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_32.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_33.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_34.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_35.png')" x="596" y="907" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_36.png')" x="576" y="886" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_37.png')" x="1268" y="651" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_38.png')" x="1248" y="630" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_39.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/亚稳态翠翎恐蕈.assets/Image_40.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

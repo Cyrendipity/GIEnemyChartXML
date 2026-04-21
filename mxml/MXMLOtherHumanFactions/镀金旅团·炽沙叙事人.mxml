@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFB299;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#AD4218;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="352" width="410" text="镀金旅团·炽沙叙事人"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="1387" y="64" width="469" alpha="0.5" text="元素能量：PP[75,50,25,0]"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="384" text="HP: 244024 (4.4F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="普通 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 12311 (5.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 80/210"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Eremite: Scorching Loremaster"/>
+	<mx:Text styleName="textStyle7" x="1408" y="224" width="448" alpha="0.9" text="炽沙叙事人展开法器，发射4枚烟弹，片刻后落在玩家处，造成80%,20%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" alpha="0.9" text="(扈从协同)炽沙叙事人闪现出现在玩家身边，趁机施放火蜂刺，造成80%伤害。"/>
+	<mx:Image source="Image3.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="祭天炎陨-输出"/>
+	<mx:Text styleName="textStyle9" x="1408" y="384" width="448" text="灸炎针刺-偷袭"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="736" y="224" width="448" alpha="0.9" text="炽沙叙事人用法器发射4枚短程强追踪性的棱弹，均造成25%伤害，是虚弱后施放的唯一技能。"/>
+	<mx:Text styleName="textStyle7" x="736" y="448" width="448" alpha="0.9" text="距离玩家较远时，炽沙叙事人使用法器发射热能射线，射线命中爆炸，造成100%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="672" width="448" alpha="0.9" text="离玩家太近时，炽沙叙事人将闪现至较远的地方，也可用此靠近玩家。"/>
+	<mx:Text styleName="textStyle7" x="736" y="896" width="1024" alpha="0.9" text="当炽沙叙事人的生命值低于70%(特化为100%)时，其会唤出武器内的炎之魔蝎，进入魔化状态，全抗性提升50%。击破炎之魔蝎会使炽沙叙事人受到当前生命值的37.5%的火元素真伤，并虚弱10s，一次战斗内仅会施放一次该技能。"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="飞火逐蛾-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="384" width="448" text="灼炎之光-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="608" width="448" text="烁火微光-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="832" width="448" text="厄灵解放·炎之魔蝎-召唤"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="254" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle11" x="64" y="1032" width="448" alpha="0.75" text="处于魔化状态下，抗打断0，质量翻6倍。虚弱状态下抗打断0。"/>
+	<mx:Image source="Image7.png" x="64" y="905" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="64" y="965" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="863" width="64" text="正常"/>
+	<mx:Text styleName="textStyle12" x="0" y="924" width="64" text="魔化"/>
+	<mx:Text styleName="textStyle12" x="0" y="984" width="64" text="虚弱"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="822" width="168" height="170"/>
+</mx:Application>

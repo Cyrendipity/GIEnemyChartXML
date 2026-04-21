@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		Label {
+			fontFamily:MiSans-Bold;
+			fontSize:300;
+			color:#FFFFFF;
+		}
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99E5FF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle16 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99FF99;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="104" width="666" height="625"/>
+	<mx:Text styleName="textStyle" x="505" y="33" width="885" text="霜夜巡天灵主·惊恨憎愤"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Label x="1544" y="288" alpha="0.3" text="暂无"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="576" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WO[75,50,25,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：19.483F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：5.5B2"/>
+	<mx:Text styleName="textStyle5" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle6" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle7" x="640" y="704" width="160" text="867373"/>
+	<mx:Text styleName="textStyle7" x="640" y="768" width="160" text="10467"/>
+	<mx:Text styleName="textStyle7" x="960" y="768" width="160" text="14905"/>
+	<mx:Text styleName="textStyle7" x="800" y="768" width="160" text="13542"/>
+	<mx:Text styleName="textStyle7" x="800" y="704" width="160" text="4322026"/>
+	<mx:Text styleName="textStyle7" x="960" y="704" width="160" text="7246473"/>
+	<mx:Text styleName="textStyle8" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle8" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle8" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle9" x="960" y="938" width="128" alpha="0.6" text="Lunar Reaction Adv."/>
+	<mx:Text styleName="textStyle10" x="685" y="128" width="524" alpha="0.75" text="Frostnight Herra: Hatred and Rage"/>
+	<mx:Image source="Image4.png" x="128" y="256" width="484" height="124"/>
+	<mx:Text styleName="textStyle11" x="64" y="640" width="183" text="晦色之月："/>
+	<mx:Text styleName="textStyle12" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle12" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle13" x="960" y="736" width="160" alpha="0.6" text="× 5.8"/>
+	<mx:Text styleName="textStyle7" x="1120" y="768" width="160" text="15965"/>
+	<mx:Text styleName="textStyle7" x="1120" y="704" width="160" text="12855409"/>
+	<mx:Text styleName="textStyle8" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle13" x="1120" y="736" width="160" alpha="0.6" text="× 9.4"/>
+	<mx:Text styleName="textStyle14" x="64" y="666" width="512" alpha="0.9" text="战斗开始时会进入「晦隐」状态，全抗提升120%：需要50次伤害来退出此状态，其中月曜伤害算作6次。退出状态后，灵主将瘫痪15s，并按此期间所受伤害最高的伤害属性，获得此元素的免疫效果和永久4单位元素附着；若月曜伤害或物理伤害为最高值，则不会产生免疫效果。(计算总伤害时，月曜伤害按1.3倍计算)55s后会再次进入「晦隐」状态。"/>
+	<mx:Text styleName="textStyle15" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image5.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle14" x="64" y="508" width="576" alpha="0.9" text="吸收「晦隐」内所受伤害最高的元素，并免疫该元素，物理与月曜伤害除外。"/>
+	<mx:Text styleName="textStyle3" x="64" y="338" width="64" text="出场"/>
+	<mx:Text styleName="textStyle3" x="64" y="398" width="64" text="正常"/>
+	<mx:Text styleName="textStyle3" x="64" y="458" width="64" text="晦隐"/>
+	<mx:Image source="Image6.png" x="979" y="847" width="91" height="98"/>
+	<mx:Text styleName="textStyle16" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image7.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image9.png" x="814" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle17" x="800" y="938" width="128" alpha="0.6" text="High-Freq DMG Adv."/>
+	<mx:Text styleName="textStyle17" x="640" y="938" width="128" alpha="0.6" text="Multiple Elements Adv."/>
+	<mx:Image source="Image10.png" x="654" y="846" width="100" height="100"/>
+</mx:Application>

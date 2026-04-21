@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1208" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#34529E;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#C4C6FA;
+		}
+		.textStyle12 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#C4C6FA;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1248" height="128"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="508" text="元能构装体·重塑仪"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="576" y="128" width="469" alpha="0.5" text="元素能量：WP[75,50,25,0]"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="305" text="HP: 188564 (3.4F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 8864 (3.6B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 200/400"/>
+	<mx:Text styleName="textStyle6" x="64" y="497" width="395" alpha="0.75" text="Primal Construct: Reshaper"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="736" y="256" width="448" alpha="0.9" text="重塑仪使用锥针部件叠加发射，落地造成50%伤害，2s后二次凿地造成70%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="480" width="448" alpha="0.9" text="游离的锥针部件依次落地，造成50%伤害，两个锥针部件还会产生电弧，触碰造成20%,10%,5%伤害。"/>
+	<mx:Text styleName="textStyle7" x="736" y="704" width="448" alpha="0.9" text="重塑仪游离出两个电锯部件，自己进入隐蔽状态，驱散所有元素附着，全抗性提升50%，每个部件继承10%的重塑仪生命值，状态持续10-20s。在本体上进行激化反应或其使被「真识波」命中，可解除该状态并使其瘫痪。"/>
+	<mx:Text styleName="textStyle7" x="736" y="992" width="448" alpha="0.9" text="隐蔽状态下，若击破任意一个锥针部件，则会使重塑仪进入修复部件状态。"/>
+	<mx:Text styleName="textStyle8" x="736" y="192" width="448" text="考古锥凿-远程"/>
+	<mx:Text styleName="textStyle8" x="736" y="416" width="448" text="辅助钻探-协同 	部件N"/>
+	<mx:Text styleName="textStyle8" x="736" y="640" width="448" text="不可之视-隐蔽"/>
+	<mx:Text styleName="textStyle8" x="736" y="928" width="448" text="部件检修-恢复"/>
+	<mx:Text styleName="textStyle9" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="64" y="1068" width="448" alpha="0.75" text="锥针部件：12盾量的10%生命值盾，继承召唤者的生命值上限，其他属性相同；每秒消耗0.2直至损毁。修复中的锥针部件：4草盾，1次雷元素攻击即可，其他元素只反应不消耗。击破后瘫痪构装体。"/>
+	<mx:Text styleName="textStyle11" x="64" y="544" width="416" text="砂原王都的建造者"/>
+	<mx:Text styleName="textStyle12" x="64" y="587" width="395" alpha="0.75" text="Architect of the Desert Palace"/>
+	<mx:Image source="Image5.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="959" width="64" text="正常"/>
+	<mx:Text styleName="textStyle13" x="0" y="1019" width="64" text="隐蔽"/>
+	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="182" width="168" height="170"/>
+</mx:Application>

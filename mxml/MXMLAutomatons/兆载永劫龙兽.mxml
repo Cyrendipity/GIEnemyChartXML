@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#96673D;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#F8C9A5;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#F9C9A5;
+		}
+		.textStyle14 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FF9999;
+		}
+		.textStyle15 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#80C0FF;
+		}
+		.textStyle16 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FFFD7;
+		}
+		.textStyle17 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFACFF;
+		}
+		.textStyle18 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FF88;
+		}
+		.textStyle19 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FFFF;
+		}
+		.textStyle20 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFE699;
+		}
+		.textStyle21 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#EBE5D8;
+		}
+		.textStyle22 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="200"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="596" y="1068" width="128" height="128"/>
+	<mx:Image source="Image4.png" x="1268" y="844" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="0" y="54" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="508" text="兆载永劫龙兽"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WP[0x2],WO[66,33]"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="305" text="HP: 1035897 (17.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 15665 (6.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="561" width="395" alpha="0.75" text="Aeonblight Drake"/>
+	<mx:Image source="Image6.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="兆载龙兽使用两翼各朝前施放一排的子弹，命中造成60%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" alpha="0.9" text="兆载龙兽瞄准玩家，暴露腹部弱点，使用两翼施放总共28个追踪弹，造成80%,24%,8%,0.8%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="672" width="448" alpha="0.9" text="靠近兆载龙兽时，兆载龙兽使用头部进行挑击，向左向右各一次，每次造成60%伤害，极大概率接扫尾。"/>
+	<mx:Text styleName="textStyle8" x="736" y="896" width="448" alpha="0.9" text="靠近兆载龙兽时，兆载龙兽原地旋转一圈，使用尾部齿轮造成75%伤害，可能接翼坠。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="672" width="448" alpha="0.9" text="兆载龙兽使用双翼分别朝地面砸去，均造成75%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="896" width="448" alpha="0.9" text="每30s，兆载龙兽暴露头部弱点，汲取元素锚栓的力量，向空中抛出20枚散弹，造成对应元素的100%,30%,10%伤害，清空锚栓并吸收元素，之后转换空地巡状态，降落地面造成30%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="1120" width="896" alpha="0.9" text="施放「散落洪流」后，会立即吸收元素填充元素螺栓，使下一次该技能附上元素伤害，元素的种类以上一周期所受总和最高的伤害为准(物伤则无属性)，不吸收附着的元素。元素吸收完毕后该元素抗性+60%，瘫痪清空抗性。"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="重式机枪-远程	空巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="384" width="448" text="高效打击-锁定	空巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="608" width="448" text="垦土撅岩-输出	地巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="832" width="448" text="尾链牵旋-防卫	地巡"/>
+	<mx:Text styleName="textStyle9" x="1408" y="608" width="448" text="沉翼耘泥-输出	地巡"/>
+	<mx:Text styleName="textStyle9" x="1408" y="832" width="448" text="散落洪流-爆发"/>
+	<mx:Text styleName="textStyle9" x="736" y="1056" width="448" text="能量转化-天赋"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="尾行摩托-位移	空巡"/>
+	<mx:Text styleName="textStyle9" x="1408" y="384" width="448" text="低空游巡-位移	地巡"/>
+	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="靠近兆载龙兽时，兆载龙兽用尾部齿轮碾过，暴露头部弱点，造成60%伤害，若命中玩家则立即扫尾造成60%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" alpha="0.9" text="兆载龙兽朝玩家冲来，暴露头部弱点，冲刺命中造成75%伤害，若命中玩家则立即扫尾造成75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="1164" width="448" alpha="0.75" text="元素锚栓：吸收元素后，增加60%该元素抗性。"/>
+	<mx:Text styleName="textStyle12" x="64" y="608" width="416" text="永续永动·Gl-Faf"/>
+	<mx:Text styleName="textStyle13" x="64" y="651" width="395" alpha="0.75" text="Perpetual Motion GL-Faf"/>
+	<mx:Text styleName="textStyle14" x="64" y="1114" width="64" text="10"/>
+	<mx:Text styleName="textStyle15" x="124" y="1114" width="64" text="10"/>
+	<mx:Text styleName="textStyle16" x="184" y="1114" width="64" text="10"/>
+	<mx:Text styleName="textStyle17" x="244" y="1114" width="64" text="10"/>
+	<mx:Text styleName="textStyle18" x="304" y="1114" width="64" text="10"/>
+	<mx:Text styleName="textStyle19" x="364" y="1114" width="64" text="10"/>
+	<mx:Text styleName="textStyle20" x="424" y="1114" width="64" text="10"/>
+	<mx:Text styleName="textStyle21" x="484" y="1114" width="64" text="70"/>
+	<mx:Image source="Image7.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle22" x="0" y="1055" width="64" text="起身"/>
+	<mx:Text styleName="textStyle22" x="0" y="1115" width="64" text="正常"/>
+	<mx:Image source="Image8.png" x="64" y="160" width="256" height="256"/>
+	<mx:Image source="Image9.png" x="1248" y="824" width="168" height="168"/>
+	<mx:Image source="Image10.png" x="576" y="1048" width="168" height="168"/>
+	<mx:Image source="Image11.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="576" y="822" width="168" height="170"/>
+</mx:Application>

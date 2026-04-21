@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1440" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:60;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFEBBF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="360" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1050"/>
+	<mx:Image source="Image3.png" x="690" y="280" width="1002" height="969"/>
+	<mx:Image source="Image4.png" x="0" y="54" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="442" text="七叶寂照秘密主"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="305" text="「正机之神」"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" text="HP: 667806 (18.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="周本-第二阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 11419 (6.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="542" width="395" alpha="0.75" text="Everlasting Lord ofArcane Wisdom"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="Shouki no Kami, the Prodigal"/>
+	<mx:Image source="Image5.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="1224" width="448" alpha="0.75" text="大能量块：恢复虚空终端50%能量。小能量块：恢复虚空终端25%能量。正机虚甲：240次特化次数盾，虚空终端普通攻击-0.04/发，虚空终端蓄力攻击-72/发。风元素弹：7次次数盾，击破留下1个大能量块，已废弃。火元素弹：2火盾，击破留下1个大能量块。水元素弹：2水盾，击破留下1个大能量块，免疫感电。冰元素弹：2冰盾，击破留下1个大能量块。灭度机激光部件：1雷盾，击破留下1个小能量块。灭度机炮台部件：5雷盾，击破留下1个小能量块。"/>
+	<mx:Image source="Image6.png" x="64" y="160" width="256" height="256"/>
+	<mx:Text styleName="textStyle12" x="736" y="224" width="448" alpha="0.9" text="正机将雷针插入地面，造成100%伤害，插针所引发的雷痕地面持续造成25%伤害，总计插2次雷针，最后掉落1个大能量块。"/>
+	<mx:Text styleName="textStyle12" x="736" y="448" width="448" alpha="0.9" text="正机召唤数个黑洞，持续发射雷晶，在前方圆形区域造成100%,50%,25%,10%伤害，该区域追踪玩家；约10s后召唤大批激雷，造成100%伤害，并掉落大能量块和小能量块各1个。"/>
+	<mx:Text styleName="textStyle12" x="736" y="704" width="448" alpha="0.9" text="正机抛射8-10个元素弹，嵌入地面并造成对应元素的50%伤害，随后施放满天星，星弹命中造成对应元素的100%,50%,25%,10%伤害。元素弹安置15s后爆炸，造成对应元素的100%伤害(闪避帧无效)。(有水火、冰火、水冰3个组合)"/>
+	<mx:Text styleName="textStyle12" x="736" y="1024" width="448" alpha="0.9" text="正机在前方的X形区域，分别召唤风、水元素的线型爆震，造成对应元素的75%,37.5%,18.75%,7.5%伤害，并掉落1个小能量块。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="704" width="448" alpha="0.9" text="正机在远处朝玩家冲来，持续2轮，先火后冰。冲撞造成对应元素的50%伤害，并在路径上产生爆破，造成对应元素的62.5%伤害，同时地面上留下对应元素的残余地面，持续造成25%伤害，技能完整结束后掉落1个小能量块。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="224" width="448" alpha="0.9" text="正机进行右脚跺、左地拳、拳爆破共3段的普通攻击，分别造成75%,75%,100%伤害，第三段产生地波，造成50%伤害，并掉落1个小能量块。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="448" width="448" alpha="0.9" text="正机转身一挥，产生并发射5个雷球，其命中均造成50%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1024" width="448" alpha="0.9" text="中断刹那生灭后，将瘫痪30s。正机从瘫痪后恢复，中间的平台立即消失，该技能无伤害。"/>
+	<mx:Text styleName="textStyle13" x="736" y="1248" width="1024" alpha="0.9" text="(盾破时施放)清空虚空终端能量，并在场上形成灭度机：3个激光部件、1个炮台部件。激光部件的激光造成37.5%伤害，炮台部件的炮弹造成25%,12.5%,6.25%,2.5%伤害。此时击破弱点即可中断技能，瘫痪正机之神。若40s内未击破弱点，将时停并锁定，直接击败随机一个玩家，其他玩家均受到100%伤害；施放时停瞬间清空角色的所有元素能量与特殊能量，其瘫痪的时候充满角色的所有元素能量与特殊能量。"/>
+	<mx:Text styleName="textStyle14" x="736" y="160" width="448" text="霍杵作堀复却-妨害"/>
+	<mx:Text styleName="textStyle14" x="736" y="384" width="448" text="藏界百摄爆轰-猛攻"/>
+	<mx:Text styleName="textStyle14" x="736" y="640" width="448" text="匿镜千粼渊花-猛攻"/>
+	<mx:Text styleName="textStyle14" x="736" y="960" width="448" text="倾风荡泉幻寂-输出"/>
+	<mx:Text styleName="textStyle14" x="1408" y="640" width="448" text="壑熔冰凿之径-位移"/>
+	<mx:Text styleName="textStyle14" x="1408" y="160" width="448" text="百蹈陨锻锤曜-输出"/>
+	<mx:Text styleName="textStyle14" x="1408" y="384" width="448" text="辄彼移慑星烁-防卫"/>
+	<mx:Text styleName="textStyle14" x="1408" y="960" width="448" text="神诞余威再现-恢复"/>
+	<mx:Text styleName="textStyle14" x="736" y="1184" width="448" text="刹那生灭·将至-斩杀"/>
+	<mx:Text styleName="textStyle15" x="0" y="1055" width="64" text="带甲"/>
+	<mx:Text styleName="textStyle15" x="0" y="1115" width="64" text="无甲"/>
+	<mx:Text styleName="textStyle15" x="0" y="1175" width="64" text="核心"/>
+	<mx:Image source="Image7.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="64" y="1157" width="484" height="60"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1268" y="652" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1248" y="632" width="168" height="168"/>
+	<mx:Image source="Image21.png" x="596" y="972" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="576" y="952" width="168" height="168"/>
+	<mx:Image source="Image23.png" x="1268" y="971" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="1248" y="950" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="596" y="1195" width="128" height="128"/>
+	<mx:Image source="Image26.png" x="576" y="1174" width="168" height="170"/>
+</mx:Application>

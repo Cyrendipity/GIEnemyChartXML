@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1312" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2171B1;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1248" height="232"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="506" text="蕴光璇蛸"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="663" alpha="0.5" text="元素能量：HP[66x2,33x2,0x2]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 554600 (10.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 16251 (6.6B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/400"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="441" alpha="0.75" text="Radiant Lunapod"/>
+	<mx:Image source="Image4.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="潮花轻蘸-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="洄水飞浪-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="抽滔断水-位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="864" width="448" text="断浪长袭-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="1088" width="448" text="露流彩沫-位移"/>
+	<mx:Text styleName="textStyle10" x="736" y="256" width="448" alpha="0.9" text="璇蛸轻轻地扒拉两下，依次造成40%,60%伤害，容易后接「洄水飞浪」。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="璇蛸划拉转圈袭来，持续造成20%伤害，最后用力再转一圈，造成90%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" alpha="0.9" text="璇蛸突然朝玩家袭来，用力砸一下，造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="928" width="448" alpha="0.9" text="璇蛸展开半径15m的蕴光领域，朝玩家方向斩出两道水刃，造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1152" width="448" alpha="0.9" text="璇蛸展开半径15m的蕴光领域，并且朝玩家钻旋袭来，途径造成30%伤害，行至目标处释放水涌，造成100%伤害。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="蕴光领域：展开时施加「蕴光之茧」状态，扣除全队角色10%+1800点生命值，若角色生命值低于7200点，则改为扣除35%生命值，可致命但可开大招躲避；主动治疗清除后获得「出缠」效果。若范围内前台角色仍处于「蕴光之茧」状态，璇蛸则不会施放「断浪长袭」、「露流彩沫」。蕴光之茧：暴击率-10%，造成的伤害-10%，受治疗加成-10%。出缠：暴击率+15%，造成的伤害+50%，持续15s。"/>
+</mx:Application>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFE599;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFE599;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#937122;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="778" y="91" width="1024" height="1024"/>
+	<mx:Image source="Image4.png" x="-41" y="54" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="410" text="若陀龙王"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="373" text="被封印的岩龙之王"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="384" text="HP: 876747 (36.0H 100%)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="周本-第一阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 17128 (9.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="561" width="395" alpha="0.75" text="Azhdaha"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="Sealed Lord of Vishaps"/>
+	<mx:Image source="Image5.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="若陀龙王抖出身上的龙鳞，龙鳞呈直线排列，落下造成16.6%伤害，一段时间后爆炸，造成33.3%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="若陀龙王使用头部重重敲击地面，造成33.3%伤害，产生向前扩散的岩震波，造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="处在若陀龙王侧身时，若陀龙王侧倾身子，造成66.6%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="处在若陀龙王尾部后方时，若陀龙王摇晃尾部重重下击，造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="处在若陀龙王较近的周围时，若陀龙王使用一个前肢或后肢，拍击地面产生震波，造成33.3%伤害，震波持续2波，造成16.6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="若陀龙王转阶段时，使用前肢交互拍地5下，每下造成大范围50%伤害，随后强力拍地，造成更大范围的66.6%伤害，以上伤害闪避帧均无效。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="处在若陀龙王尾部侧后方时，若陀龙王摇晃尾部旋转身子，造成大范围66.6%伤害(闪避帧无效)。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="若陀龙王跳起重重下落，产生两次地震，都造成50%伤害，第二次地震范围比第一次稍大。"/>
+	<mx:Image source="Image6.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="若陀龙王蓄力冲向玩家，造成33.3%伤害，然后挑起，造成66.6%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="固石翡鳞-召唤"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="震地而峙-控制"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="晃山沉峦-控制"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="屮尾铡笞-防卫"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="蹈践蹀足-持续"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1056" width="448" text="耸壑隳靡-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="屮尾惩砂-防卫"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="峯塌岳罅-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="岫摧壑倒-输出"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image8.png" x="64" y="160" width="256" height="256"/>
+	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="若陀龙王潜入地下，不断产生下落的石块，造成33.3%伤害，碰到游走的若陀龙王造成33.3%伤害，其会钻出袭击玩家，造成66.6%伤害；一段时间后若陀龙王会在中心钻出，造成8.3%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="鎏岩躣沙-游动"/>
+	<mx:Image source="Image23.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image26.png" x="1248" y="1046" width="168" height="170"/>
+</mx:Application>

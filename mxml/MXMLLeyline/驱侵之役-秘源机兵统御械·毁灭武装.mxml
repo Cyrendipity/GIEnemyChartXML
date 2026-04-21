@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFEBBF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99FFFF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#BFFFBF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle21 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B9B9B9;
+		}
+		.textStyle22 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="128" height="1080"/>
+	<mx:Text styleName="textStyle" x="484" y="32" width="928" text="秘源机兵统御械·毁灭武装"/>
+	<mx:Image source="Image3.png" x="627" y="95" width="666" height="643"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="736" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WO[75,50,25,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：24.710F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：8.0B2"/>
+	<mx:Text styleName="textStyle5" x="563" y="128" width="768" alpha="0.75" text="Secret Source Automaton: Overseer Device - Obliterator"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="64" y="922" width="512" alpha="0.9" text="「应战对策」充能总值180，角色进入「夜魂加持」状态时，每次积攒30充能；角色维持「夜魂加持」状态时，每秒积攒10充能。充能填满后转换攻击方式。"/>
+	<mx:Text styleName="textStyle7" x="64" y="1018" width="512" alpha="0.9" text="荡除模式总时间持续35s，「潺澜逝水」和「急汹瀑涌」共享该时间。(N5) 荡除模式总时间延长至55s。"/>
+	<mx:Image source="Image4.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="256" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="64" y="331" width="64" text="入场(N5)"/>
+	<mx:Text styleName="textStyle8" x="64" y="451" width="64" text="荡除(N5)"/>
+	<mx:Image source="Image6.png" x="128" y="380" width="484" height="60"/>
+	<mx:Text styleName="textStyle3" x="64" y="397" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="64" y="511" width="64" text="凝滞(N5)"/>
+	<mx:Text styleName="textStyle9" x="64" y="800" width="128" text="液流动量："/>
+	<mx:Text styleName="textStyle9" x="64" y="896" width="160" text="夜魂机制："/>
+	<mx:Text styleName="textStyle9" x="64" y="992" width="160" text="荡除模式："/>
+	<mx:Text styleName="textStyle7" x="64" y="826" width="512" alpha="0.9" text="总量135，每0.4s积攒1.481%(2)，每次冰元素攻击减少2.963%(4)，初始自带23.7%(32)。(N5) 每次冰元素攻击减少2.222%(3)。"/>
+	<mx:Image source="Image7.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Image source="Image8.png" x="654" y="847" width="100" height="99"/>
+	<mx:Image source="Image9.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image10.png" x="814" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle10" x="640" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle11" x="800" y="938" width="128" alpha="0.6" text="Cryo Adv."/>
+	<mx:Text styleName="textStyle12" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle12" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image11.png" x="128" y="500" width="484" height="60"/>
+	<mx:Text styleName="textStyle8" x="64" y="571" width="64" text="夜魂(N5)"/>
+	<mx:Image source="Image12.png" x="128" y="560" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="64" y="640" width="576" alpha="0.9" text="(N4) 抗性：入战前310%，入场280%，荡除210%，夜魂50%，凝滞冰-40%/其他0%。若期间未进入过「凝滞」或「夜魂」状态，则退出荡除模式时，全抗将升至80%。(N5) 入场时短时间380%。"/>
+	<mx:Image source="Image13.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Text styleName="textStyle14" x="1536" y="320" width="448" alpha="0.9" text="处于「应战对策」状态时，其将产生2个高速强追踪玩家的泉眼，移至玩家处立即生成水柱，高频造成45%伤害；「液流动量」越多，泉眼移速越快。该模式下，仍会累积「动量」，将其打空仍可进入「凝滞」；同样，在「动量」&lt;7.4%(10) 时，不会进入「应战对策」状态。"/>
+	<mx:Image source="Image14.png" x="1396" y="523" width="128" height="128"/>
+	<mx:Text styleName="textStyle15" x="1536" y="576" width="448" alpha="0.9" text="「液流动量」初始拥有一定值，随时间持续增长，受到冰元素攻击后会回退；当动量积蓄至不同进度时，所产生的效果不同：当「动量」累积至&lt;7.4%(10) / 7.4%(10) / 22.2%(30) / 44.4%(60) / ≥88.9%(120) 时，统御械将：减抗并「凝滞」 / 加抗并开始喷水 / 水柱伤害提升至50% / 水柱伤害提升至100% / 额外产生2枚水柱，同时水龙头转速随着阶段进行不断增加；「凝滞」状态下，统御械停止攻击，所有抗性大幅降低，冰抗额外降低；「动量」高于10时退出该状态。(N5) 首次进入凝滞状态时角色恢复36元素能量。"/>
+	<mx:Text styleName="textStyle16" x="1536" y="512" width="448" text="低温消蚀-天赋"/>
+	<mx:Image source="Image15.png" x="1376" y="502" width="168" height="170"/>
+	<mx:Text styleName="textStyle16" x="1536" y="256" width="448" text="急汹瀑涌-定点 (N5)"/>
+	<mx:Image source="Image16.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Text styleName="textStyle17" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle18" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle19" x="640" y="704" width="160" text="1100076"/>
+	<mx:Text styleName="textStyle19" x="640" y="768" width="160" text="15225"/>
+	<mx:Text styleName="textStyle19" x="960" y="768" width="160" text="21681"/>
+	<mx:Text styleName="textStyle19" x="800" y="768" width="160" text="19698"/>
+	<mx:Text styleName="textStyle19" x="800" y="704" width="160" text="5481561"/>
+	<mx:Text styleName="textStyle19" x="960" y="704" width="160" text="7606009"/>
+	<mx:Text styleName="textStyle20" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle20" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle21" x="960" y="736" width="160" alpha="0.6" text="× 4.8"/>
+	<mx:Text styleName="textStyle19" x="1120" y="768" width="160" text="23222"/>
+	<mx:Text styleName="textStyle19" x="1120" y="704" width="160" text="14916723"/>
+	<mx:Text styleName="textStyle21" x="1120" y="736" width="160" alpha="0.6" text="× 8.6"/>
+	<mx:Text styleName="textStyle22" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle22" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle22" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle22" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+</mx:Application>

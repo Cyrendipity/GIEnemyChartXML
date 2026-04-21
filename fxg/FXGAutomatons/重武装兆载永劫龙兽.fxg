@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1536" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_0.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_1.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_2.png')" x="596" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_3.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_4.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_5.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_6.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_7.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_8.png')" x="1268" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_9.png')" x="596" y="843" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_10.png')" x="596" y="1068" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_11.png')" x="596" y="1323" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_12.png')" x="0" y="150" blendMode="normal">
+		</BitmapImage>
+		<RichText x="63" y="564" fontFamily="仓耳渔阳体 W04" fontSize="50" fontStyle="normal" fontWeight="normal" color="#ffffff" width="480" height="52" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="50" color="#ffffff">重武装兆载永劫龙兽</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="575" y="52" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="60" y="1013" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1445" y="52" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="438" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：WP[0x2],WO[66,33]</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="856" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 914027 <span color="#dddddd">(15.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="822" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="179" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">首领 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="904" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 18798<span color="#dddddd"> (7.2B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="953" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="63" y="622" fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" fontWeight="normal" color="#ffffff" width="331" height="21" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" color="#ffffff">Heavy Assault Pack Aeonblight Drake</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="77" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">110</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">110</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">110</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">110</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">110</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">110</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="39" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">110</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1151" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="40" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">170</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_13.png')" x="64" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_14.png')" x="64" y="1133" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_15.png')" x="184" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_16.png')" x="364" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_17.png')" x="303" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_18.png')" x="244" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_19.png')" x="424" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_20.png')" x="124" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_21.png')" x="66" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_23.png')" x="486" y="1069">
+			</BitmapImage>
+		</Group>
+		<RichText x="738" y="223" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">兆载龙兽使用两翼各朝前施放一排的子弹，命中造成<span color="#bababa">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">兆载龙兽瞄准玩家，<span color="#ffcdbf">暴露腹部弱点</span><span>，使用两翼施放总共28个追踪弹，造成</span><span color="#b9b9b9">80%,24%,8%,0.8%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="425" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">靠近兆载龙兽时，兆载龙兽使用头部进行挑击，左右各一次，每次造成<span color="#b9b9b9">60%</span><span>伤害，每次挑击时扔出3块石头，造成</span><span color="#bababa">80%,40%,16%</span><span>伤害，极大概率接扫尾。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">靠近兆载龙兽时，兆载龙兽原地旋转一圈，使用尾部齿轮造成<span color="#b9b9b9">75%</span><span>伤害，可能接翼坠。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">兆载龙兽<span color="#ffcebf">暴露头、胸部弱点</span><span>，使用核心朝地上发射大范围冲击，造成</span><span color="#bababa">100%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，空地巡状态皆可施放。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_24.png')" x="1248" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_25.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="671" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">兆载龙兽使用双翼分别朝地面砸去，均造成<span color="#b8b8b8">75%</span><span>伤害，每个翼落地后还将在外圈产生冲击波，造成</span><span color="#bababa">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1119" width="429" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">兆载龙兽<span color="#ffcebf">暴露头部弱点</span><span>，汲取</span><span textDecoration="underline">元素锚栓</span><span>的力量，向空中抛出20枚散弹，造成对应元素的</span><span color="#d8ffcc">100%,30%,10%</span><span>伤害，每个散弹有</span><span color="#ffcebf">33%</span><span>概率留下</span><span color="#bfdfff">元素氛</span><span>，之后转换空地巡状态，降落地面造成</span><span color="#b9b9b9">30%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1319" y="1108" width="53" height="160" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p textAlign="center" direction="rtl" blockProgression= "rl" fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#bfdfff">元素氛<span color="#ffffff">如右<br/>对应元素的</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1374" width="998" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">施放「散落洪流」前，会立即吸收元素填充元素螺栓，使该次技能附上元素伤害，元素的种类以<span color="#ffebbf">上一周期</span><span>所受</span><span color="#ffbfbf">总和最高</span><span>的</span><span color="#ffeebf">伤害</span><span>为准</span><span color="#ffeebf">(物伤则无属性)</span><span>，</span><span color="#ffbfbf">不吸收附着的元素</span><span>。元素吸收完毕后该元素抗性</span><span color="#ffbfbf">+60%</span><span>，提升的抗性仅能通过吸收其他属性来转移。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_26.png')" x="720" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_27.png')" x="721" y="362">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_28.png')" x="721" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_29.png')" x="720" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_30.png')" x="1392" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_31.png')" x="1391" y="586">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_32.png')" x="719" y="1033">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_33.png')" x="720" y="1288">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_34.png')" x="1392" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_35.png')" x="1392" y="361">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">靠近兆载龙兽时，兆载龙兽用尾部齿轮碾过，<span color="#ffcebf">暴露头部弱点</span><span>，造成</span><span color="#bababa">60%</span><span>伤害，若命中玩家则立即扫尾造成</span><span color="#bababa">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="421" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">兆载龙兽朝玩家冲来，<span color="#ffcebf">暴露头部弱点</span><span>，冲刺命中造成</span><span color="#bababa">75%</span><span>伤害，若命中玩家则立即扫尾造成</span><span color="#bababa">75%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#96673d" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#96673d">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1260" width="441" height="97" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">元素锚栓：吸收元素后，增加<span color="#ffbfbf">60%</span><span>该元素抗性。<br/>轻巡武装：升空后提供的护盾，2次特化次数盾，击破任意弱点-1次，耗尽后落地。<br/>重胄武装：升空后提供的护盾，不定次特化次数盾，击破双翼弱点需6次，击破头、胸弱点需3次，耗尽后落地。</span></p>
+			</content>
+		</RichText>
+		<RichText x="64" y="725" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#f9c9a5" width="367" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#f9c9a5">永续永动·Gl-Faf</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="61" y="773" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#f8c9a5" width="277" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#f8c9a5">Perpetual Motion GL-Faf</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="84" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+			</content>
+		</RichText>
+		<RichText x="144" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+			</content>
+		</RichText>
+		<RichText x="204" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+			</content>
+		</RichText>
+		<RichText x="264" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+			</content>
+		</RichText>
+		<RichText x="324" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+			</content>
+		</RichText>
+		<RichText x="384" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+			</content>
+		</RichText>
+		<RichText x="444" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe699" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe699">10</p>
+			</content>
+		</RichText>
+		<RichText x="503" y="1211" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">70</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_36.png')" x="64" y="1193" blendMode="normal">
+		</BitmapImage>
+		<RichText x="5" y="1130" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="54" height="57" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">起身<br/>/升空</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1209" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_37.png')" x="64" y="256" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_38.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_39.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_40.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_41.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_42.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_43.png')" x="576" y="822" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_44.png')" x="576" y="1048" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_45.png')" x="576" y="1303" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="1055" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ff9999">火：<span color="#ffffff">留下大片熔岩，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1411" y="1151" width="383" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffacff">雷：<span color="#ffffff">产生交闪雷叉，造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1119" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ff85">草：<span color="#ffffff">留下一片毒雾，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1087" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#7fbfff">水：<span color="#ffffff">留下湍急水涡，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1183" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ffff">冰：<span color="#ffffff">留下冰霜地面，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1215" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#7fffd7">风：<span color="#ffffff">留下牵引风涡，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1247" width="384" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffe599">岩：<span color="#ffffff">产生震荡地波，造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+			</content>
+		</RichText>
+	</Group>
+</Graphic>

@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1760" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<Group maskType='clip'>
+			<mask>
+				<Group>
+					<Rect x="0" y="680" width="1920" height="1080" alpha="1" blendMode="normal" radiusX="0" radiusY="0">
+						<fill>
+							<LinearGradient x = "945" y = "35" scaleX = "606" rotation = "90">
+								<GradientEntry color="#000000" ratio="0" alpha="1"/>
+								<GradientEntry color="#ffffff" ratio="1" alpha="1"/>
+							</LinearGradient>
+						</fill>
+					</Rect>
+				</Group>
+			</mask>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_2.png')" x="0" y="720" d:locked="true" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_3.png')" x="637" y="427" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_4.png')" x="596" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_5.png')" x="596" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_6.png')" x="596" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_7.png')" x="596" y="1132" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_8.png')" x="596" y="1452" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_9.png')" x="1268" y="1451" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_10.png')" x="596" y="844" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_11.png')" x="1268" y="844" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_12.png')" x="1268" y="395" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_13.png')" x="1268" y="619" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_14.png')" x="1268" y="1132" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_15.png')" x="0" y="22" blendMode="normal">
+		</BitmapImage>
+		<RichText x="59" y="402" width="464" height="93" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="24" color="#ffffff">「弈局」：<br/><span fontSize="50">升扬之王</span><span fontSize="40"> </span><span fontSize="20">&amp;</span><span fontSize="40"> </span><span fontSize="50">升华之后</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="65" y="565" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" fontWeight="normal" color="#ff9999" width="351" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="italic" color="#ff9999">并非「弈局」的执棋者</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="945" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="724" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1855014 <span color="#dddddd">(50.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="691" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="301" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">周本-第二阶段-单只 Lv.90 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="772" width="333" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK-K: 20935 <span color="#dddddd">(11.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="820" width="336" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK-Q: 19031 <span color="#dddddd">(10.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="869" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="271" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 300/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="498" fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" fontWeight="normal" color="#ffffff" width="412" height="21" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" color="#ffffff">Chess Game: Ascended King&amp;Sublimated Queen</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="604" fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" fontWeight="normal" color="#ff9999" width="357" height="21" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="16" fontStyle="italic" color="#ff9999">Not the One Who Plays at “Chess Games”</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#ffb399" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="83" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">70</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1087" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_16.png')" x="64" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_17.png')" x="64" y="1069" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_18.png')" x="184" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_19.png')" x="364" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_20.png')" x="303" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_21.png')" x="244" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_22.png')" x="424" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_23.png')" x="124" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_24.png')" x="66" y="1005" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_26.png')" x="486" y="1005">
+			</BitmapImage>
+		</Group>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ad4218" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ad4218">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1316" width="436" height="174" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">复活期间，双方<span color="#ffdfbf">+300%</span><span>全抗；一方杀着蓄力期间，另一方</span><span color="#ffdfbf">+300%</span><span>全抗。<br/>冻结条：总进度100%。受到</span><span color="#99ffff">冰元素</span><span>攻击</span><span color="#bfffff">+2%</span><span>，在第</span><span color="#99ffff">1</span><span>/</span><span color="#99ffff">2</span><span>/</span><span fontFamily="SDK_TW_Web" color="#99ffff">≥</span><span color="#99ffff">3</span><span>次大招期间，触发冻结</span><span color="#bfffff">+30%</span><span>/</span><span color="#bfffff">+50%</span><span>/</span><span color="#bfffff">+90%</span><span>，在2.6s内继续触发冻结只会</span><span color="#bfffff">+6%</span><span>/</span><span color="#bfffff">+10%</span><span>/</span><span color="#bfffff">+18%</span><span>；<br/>上述进度会受到多人模式影响(×1/0.9/0.83/0.8)；<br/>若受到</span><span color="#ff9999">火元素</span><span>攻击，或者在后的杀着蓄力期间自身超时解冻，则</span><span color="#ffbfbf">-50%</span><span>。<br/>填满后若成功触发机制，则对应敌方将瘫痪10s。</span></p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1504" width="433" height="135" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">秒杀：若为多人模式，则随机击败一名玩家的前台，剩余玩家的前台<span color="#ffcc99">扣除60%</span><span>生命值。<br/>持续恢复生命值：每0.4s恢复</span><span color="#ffb299">3.2%</span><span>生命值。<br/>在「升扬之王」第</span><span color="#ffcc99">1</span><span>/</span><span color="#ffcc99">2</span><span>/</span><span fontFamily="宋体" color="#ffcc99">≥</span><span color="#ffcc99">3</span><span>次杀着期间，所受伤害总和的</span><span color="#ffcc99">50%</span><span>若大于「升扬之王」的</span><span color="#ffcc99">10%</span><span>/</span><span color="#ffcc99">15%</span><span>/</span><span color="#ffcc99">20%</span><span>生命值，则采用前者作为最终扣血伤害，最大不超过「升扬之王」</span><span color="#ffcc99">20%</span><span>/</span><span color="#ffcc99">25%</span><span>/</span><span color="#ffcc99">30%</span><span>的生命值。</span></p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_2">
+			<RichText x="77" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-70</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-10</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-70</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-10</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">-70</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-70</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-70</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1267" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-70</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_27.png')" x="64" y="1249" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1265" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">后怒</p>
+			</content>
+		</RichText>
+		<RichText x="738" y="223" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">王抡起大剑，朝玩家方向砍下，造成<span color="#ff9999">75%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="447" width="398" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">王突然朝玩家方向突进，造成<span color="#ff9999">70%</span><span>伤害；接着原地旋转，持续造成</span><span color="#ff9999">33%,<br/>19.8%,9.9%,3.3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="671" width="437" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">王背上「象」，持剑一跃落地，造成<span color="#ff9999">100%</span><span>伤害；接着王将剑拔出，产生的冲击波造成</span><span color="#ff9999">60%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="895" width="422" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">王指使后一同进行一连串攻击：<br/>后进行近战划击，造成<span color="#ffacff">75%</span><span>伤害；王掏出「象」置于地面，造成</span><span color="#ff9999">80%</span><span>伤害；后发射连续的雷片子弹，造成</span><span color="#ffacff">28%,<br/>14%~2.8%</span><span>伤害；王扔出的「象」落地爆炸，对落点范围内造成</span><span color="#ff9999">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1503" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">后协助王进行下落攻击：<br/>王跳至「车」上，后引爆「车」将王炸飞，并引剑重重下落，造成<span color="#ff9999">100%</span><span>伤害。引爆「车」将造成</span><span color="#ff9999">75%</span><span>的超载伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_28.png')" x="719" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_29.png')" x="720" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_30.png')" x="720" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_31.png')" x="719" y="809">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_32.png')" x="720" y="1417">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_33.png')" x="576" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_34.png')" x="576" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_35.png')" x="576" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_36.png')" x="64" y="128" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_3">
+			<RichText x="84" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">10</p>
+				</content>
+			</RichText>
+			<RichText x="143" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">70</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="263" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">70</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1147" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_37.png')" x="64" y="1129" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="21" y="1086" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="22" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">王</p>
+			</content>
+		</RichText>
+		<RichText x="21" y="1145" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="22" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">后</p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="447" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">后扔下一枚「马」并爆裂，造成<span color="#7fbfff">80%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="671" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">后从地上唤出6枚排成环状的「兵」，造成<span color="#7fbfff">80%</span><span>伤害，然后「兵」又落回地面，造成</span><span color="#7fbfff">100%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="895" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">后协助王进行烧灼攻击：<br/>后召唤一个水漩涡，持续牵引角色并持续施加<span color="#7fbfff">水元素</span><span>附着，同时王手持「马」作喷火器，持续造成</span><span color="#ff9999">30%,15%,7.5%,<br/>3%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1183" width="440" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">王移至场地中央，高举大剑并开始蓄力，期间双方将持续附着<span color="#7fbfff">水元素</span><span>，后在场地降下小雨，造成</span><span color="#7fbfff">28%</span><span>伤害；12s王蓄力完成，大剑落下，造成</span><span color="#ff9999">125%</span><span>伤害并</span><span textDecoration="underline" color="#ffccbf">秒杀</span><span>前台。期间王会</span><span textDecoration="underline" color="#ffccbf">持续恢复生命值</span><span>。<br/></span><span color="#ffe599">破解方法：</span><span>只需将</span><span textDecoration="underline">冻结条</span><span>填满即可，王损失</span><span color="#ffdfbf">10%</span><span>/</span><span color="#ffdfbf">15%</span><span>/</span><span color="#ffdfbf">20%</span><span>生命值。</span></p>
+			</content>
+		</RichText>
+		<RichText x="1410" y="1183" width="425" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">后移至场地中央，开始吟诵，四周出现巨大水幕，期间我方将持续附着<span color="#7fbfff">水元素</span><span>，王在场地内横冲直撞，接触造成</span><span color="#ff9999">40%</span><span>伤害；16s后吟唱完成，水幕奔涌，</span><span color="#ffccbf">秒杀</span><span>前台。<br/></span><span color="#ffe599">破解方法：</span><span>将</span><span textDecoration="underline">冻结条</span><span>填满并引导王撞击即可，后损失</span><span color="#ffdfbf">18%</span><span>/</span><span color="#ffdfbf">23%</span><span>/</span><span color="#ffdfbf">28%</span><span>生命值。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_38.png')" x="1392" y="361">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_39.png')" x="1392" y="585">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_40.png')" x="1391" y="810">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_41.png')" x="720" y="1098">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_42.png')" x="1392" y="1097">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_43.png')" x="1248" y="374" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_44.png')" x="1248" y="598" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_45.png')" x="576" y="824" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_46.png')" x="576" y="1432" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_47.png')" x="1248" y="824" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_48.png')" x="576" y="1112" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_49.png')" x="1248" y="1112" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="1503" width="438" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当一方倒下后，另一方会消耗当前50%生命值将其复活等同于消耗量的生命值，期间抗性大幅提升；治疗方处于<span color="#ffbfbf">20%</span><span>生命值时不再消耗，若其低于</span><span color="#ffbfbf">20%</span><span>则放弃治疗进入狂暴，任由另一方消亡，并将自身攻击力永久提升</span><span color="#ffccbf">100%</span><span>，降低抗性。王进入狂暴时造成</span><span color="#ff9999">40%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_50.png')" x="1391" y="1417">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_51.png')" x="1248" y="1430" blendMode="normal">
+		</BitmapImage>
+		<Group d:userLabel="Group_4">
+			<RichText x="77" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="37" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">-10</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-70</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-70</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-70</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff85" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff85">-70</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-70</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-70</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1207" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-70</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_52.png')" x="64" y="1189" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1205" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">王怒</p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_53.png')" x="1268" y="171" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1410" y="223" width="439" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">后召唤4枚雷电棘刺，对前方的目标造成<span color="#ffacff">40%,20%,8%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_54.png')" x="1392" y="137">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/门扉前的弈局2.assets/Image_55.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

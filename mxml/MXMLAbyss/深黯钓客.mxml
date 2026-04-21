@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1216" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle11 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9224AA;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1248" height="136"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="深黯钓客"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="549" alpha="0.5" text="元素能量：WP[66,33,0] ; NA(黯主召唤)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="305" text="HP: 166380 (3.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="640" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="720" width="375" text="ATK: 7386 (3.0B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="SHD: 332760 (200%)"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="375" text="Wt/Ed: 75/150"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Fisher of Hidden Depths"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="钓客进行一段爪击，造成40%伤害。增幅后，强化为颃以辉翼，进行一段爪击与一段敲击，依次造成50%,70%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="钓客发射长程激光，持续造成60%,18%,6%伤害。增幅后，强化为恒晦危光，并可发射两次，第一次造成75%,22.5%,7.5%伤害，第二次造成90%,27%,9%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" alpha="0.9" text="钓客进行一段冲刺，造成80%伤害。强化为衍妄之羁，冲刺距离加长，造成100%伤害；非强化状态下为罕见技。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="颉以盔翎-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="长喙微光-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" text="自绐之行-位移"/>
+	<mx:Text styleName="textStyle10" x="64" y="512" width="305" text="异界栖兽"/>
+	<mx:Text styleName="textStyle11" x="64" y="555" width="395" alpha="0.75" text="Eyrie Beast of Another World"/>
+	<mx:Text styleName="textStyle12" x="0" y="991" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="736" y="960" width="448" alpha="0.9" text="钓客会一同展开「深黯护盾」，该护盾为生命盾，并且只接受元素伤害，免疫物理伤害；月曜伤害将造成原来300%的伤害。在场钓客少于2个时不能开启护盾，且进攻性下降；非深渊特化的个体，第二次及之后展开护盾，盾量只有原来的1/4。"/>
+	<mx:Text styleName="textStyle13" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image5.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image6.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="576" y="662" width="168" height="170"/>
+	<mx:Text styleName="textStyle9" x="736" y="896" width="448" text="隙中谵呓-天赋"/>
+	<mx:Image source="Image8.png" x="576" y="886" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle14" x="64" y="1040" width="448" alpha="0.75" text="深黯护盾：200%生命值盾，击破后同时清除其他「深黯钓客」的护盾，开盾间隔约15s。黯主召唤深黯钓客(103级)：特殊的钓客，生命值296145(4.86F)，攻击力7832(3.0B2)，无护盾，只会发射激光。获得护盾时，抗打断0.05，重量-50%，质量翻10倍。"/>
+	<mx:Image source="Image10.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="427" width="128" height="128"/>
+</mx:Application>

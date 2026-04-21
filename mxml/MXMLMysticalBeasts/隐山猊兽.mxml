@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1376" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#15A7AE;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FF9999;
+		}
+		.textStyle14 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FBFFF;
+		}
+		.textStyle15 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#7FFFD7;
+		}
+		.textStyle16 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFACFF;
+		}
+		.textStyle17 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FF86;
+		}
+		.textStyle18 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#99FFFF;
+		}
+		.textStyle19 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFE599;
+		}
+		.textStyle20 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#EBE5D8;
+		}
+		.textStyle21 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle22 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="328" width="1920" height="1048"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1063"/>
+	<mx:Text styleName="textStyle" x="64" y="480" width="448" text="隐山猊兽"/>
+	<mx:Image source="Image3.png" x="0" y="54" width="426" height="468"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="608" width="423" text="悠古的群山之主"/>
+	<mx:Text styleName="textStyle4" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="305" text="HP: 1011523 (16.6F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="736" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="816" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="864" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="561" width="395" alpha="0.75" text="Solitary Suanni"/>
+	<mx:Text styleName="textStyle9" x="64" y="651" width="395" alpha="0.75" text="Ancient Lord of the Mountains"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="猊兽凌空翻卷，朝玩家发射2刀水镜波刃，均造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="猊兽蜷尾，扫吹出数个锦标，与风蚀沙虫类似，其环围有余，每个均造成60%,30%,12%,6%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="992" width="448" alpha="0.9" text="猊兽前足一蹬，扬起暴风，造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="猊兽使唤风之仙力，召唤3个逆时针旋转的灵风珠，猊兽在原地持续鼓风，造成60%伤害；10s后，猊兽施放碎玉翠尘，造成大范围的200%伤害。尚存的灵风珠将转为移动的风涡，持续控制玩家的同时持续造成30%伤害。生命值低于40%时，会施放一次。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="镜水清刃-远程"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="猊兽击尾，在玩家处生成一个泉喷，造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="猊兽进行宁神嚣灭，汲取水之仙力，在原地产生的泉眼处，泉眼持续造成70%伤害；泉眼还将在周围不断产生泉涌，造成70%伤害；10s后，猊兽降下涂炭怒涛，生成7波潮涌，造成200%伤害。生命值低于70%时，会施放一次。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="992" width="448" alpha="0.9" text="猊兽进行一次宁神嚣灭，朝玩家处游走一段距离，该技能也可作为技能「鸿泷山涧」的前摇。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="猊兽引风凌空，造成80%伤害，后以迅雷之势下落，一发激起千层浪，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="粼泉潮湃-定点"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="鸿泷山涧-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="928" width="448" text="游川行泽-位移"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="纵云缀波-输出"/>
+	<mx:Text styleName="textStyle13" x="64" y="1114" width="64" text="210"/>
+	<mx:Text styleName="textStyle14" x="124" y="1114" width="64" text="270"/>
+	<mx:Text styleName="textStyle15" x="184" y="1114" width="64" text="270"/>
+	<mx:Text styleName="textStyle16" x="244" y="1114" width="64" text="210"/>
+	<mx:Text styleName="textStyle17" x="304" y="1114" width="64" text="210"/>
+	<mx:Text styleName="textStyle18" x="364" y="1114" width="64" text="210"/>
+	<mx:Text styleName="textStyle19" x="424" y="1114" width="64" text="210"/>
+	<mx:Text styleName="textStyle20" x="484" y="1114" width="64" text="210"/>
+	<mx:Image source="Image5.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle21" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle22" x="64" y="1164" width="448" alpha="0.75" text="宁神嚣灭：附着常驻的水元素与4风元素，此时允许被冻结。被冻结后，若采用碎冰等手段解除冻结状态，则会瘫痪9s。灵风珠：与风蚀沙虫一样，该珠可使用火/水/雷/冰破除，全部破除后会瘫痪9s。"/>
+	<mx:Image source="Image6.png" x="64" y="160" width="256" height="256"/>
+	<mx:Text styleName="textStyle21" x="0" y="1096" width="64" text="起身/爆发"/>
+	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="596" y="396" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="376" width="168" height="168"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="绾巽万镖-追踪"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="448" text="空伫碧流-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="翠风珑玉-爆发"/>
+	<mx:Image source="Image13.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image20.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1268" y="939" width="128" height="128"/>
+	<mx:Image source="Image22.png" x="1248" y="918" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="1216" width="448" alpha="0.9" text="猊兽在施放首次爆发后会召唤「氲气源像」，持续造成20%伤害，并于下次爆发吸收，依据吸收氲气的个数，每个氲气提高其5%攻击力，持续至爆发结束。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1152" width="448" text="灵脉移涌-剧情强化"/>
+	<mx:Image source="Image23.png" x="596" y="1163" width="128" height="128"/>
+	<mx:Image source="Image24.png" x="576" y="1142" width="168" height="170"/>
+</mx:Application>
