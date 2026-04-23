@@ -42,9 +42,9 @@
 				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="1681" y="54" width="332" height="47" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+		<RichText x="1712" y="54" width="301" height="47" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
 			<content>
-				<p textAlign="right" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#99ffff">CP<span color="#ffffff">[75,50,25,0x2]</span><span> CO</span><span color="#ffffff">[0]<br/></span><span fontSize="16" color="#ffffff">Energy Drop</span></p>
+				<p textAlign="right" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#99ffff">CP<span color="#ffffff">[75,50,25,0]</span><span> CO</span><span color="#ffffff">[0]<br/></span><span fontSize="16" color="#ffffff">Energy Drop</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>

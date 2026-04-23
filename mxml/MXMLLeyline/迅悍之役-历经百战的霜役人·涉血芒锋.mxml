@@ -108,7 +108,7 @@
 	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
 	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
 	<mx:Text styleName="textStyle2" x="64" y="448" width="522" text="◆ 机制数据"/>
-	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="CP[75,50,25,0x2] CO[0]Energy Drop"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="CP[75,50,25,0] CO[0]Energy Drop"/>
 	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：21.399F"/>
 	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：2.0B2"/>
 	<mx:Text styleName="textStyle5" x="608" y="672" width="64" alpha="0.6" text="HP"/>

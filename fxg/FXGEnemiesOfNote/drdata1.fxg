@@ -189,17 +189,17 @@
 		</BitmapImage>
 		<RichText x="738" y="223" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士背身，立即用右手蓄力，立即在前方区域散布满地的冰棘，造成<span color="#99ffff">80%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士背身，立即用右手蓄力，立即在前方区域散布满地的冰棘，造成<span color="#99ffff">80%</span><span>伤害，常作为闪现后第一个施放的技能。</span></p>
 			</content>
 		</RichText>
-		<RichText x="738" y="671" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="671" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，博士升空，并在玩家附近生成3处冰羽环，并依次爆发，均造成<span color="#99ffff">55%</span><span>攻击力的伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，博士升空，并在玩家附近生成3处冰羽环，依次爆发，均造成<span color="#99ffff">55%</span><span>攻击力的伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="671" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="671" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士站在中间，双手一挥，两侧立即出现拟造墙体，随后两墙进行夹击，造成<span color="#99ffff">100%</span><span>攻击力的伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士站在中间，双手一挥，两侧立即出现拟造墙体，随后两墙进行夹击，造成<span color="#99ffff">100%</span><span>攻击力的伤害，极大概率突然闪现发射雷</span><span>立方，</span><span>造成</span><span color="#ffacff">80%</span><span>攻击力的伤害。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/drdata1.assets/Image_19.png')" x="719" y="137">
@@ -210,28 +210,28 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/drdata1.assets/Image_22.png')" x="1393" y="586">
 		</BitmapImage>
-		<RichText x="1410" y="223" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="223" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士使用右手朝玩家方向直线生成5枚地脊，五枚地脊分别造成<span color="#ffacff">25%,30%,35%,<br/>45%,55%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士使用右手朝玩家方向直线生成5枚1排的地脊，五枚地脊分别造成<span color="#ffacff">25%,30%,<br/>35%,45%,55%</span><span>伤害，当博士生命值低于</span><span color="#ffdfbf">50%</span><span>时，地脊数量变为3排。</span></p>
 			</content>
 		</RichText>
 		<RichText x="1410" y="447" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士立即使用右手用力敲击地面，在方形区域内产生扩散激波，造成<span color="#ffacff">75%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士立即使用右手用力敲击地面，在方形区域内产生扩散激波，造成<span color="#ffacff">75%</span><span>伤害，闪现后概率施放。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/drdata1.assets/Image_23.png')" x="1392" y="138">
 		</BitmapImage>
 		<BitmapImage source="@Embed('/drdata1.assets/Image_24.png')" x="1390" y="362">
 		</BitmapImage>
-		<RichText x="738" y="447" width="439" height="56" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="447" width="438" height="85" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士操纵异立方，在远处发射2团净能量团，均造成<span color="#b8b8b8">65%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，<span>博士操纵异立方，在远处发射2团净能量团，均造成</span><span color="#b8b8b8">65%</span><span>伤害，大概率闪现并后接「彻骨凝锋」。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="895" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="424" height="56" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="895" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="436" height="85" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，博士立即化身能量团并进行z字位移到达玩家身旁。</p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远且博士不使用正常闪现连招时，博士立即化身能量团并进行z字位移到达玩家身旁。</p>
 			</content>
 		</RichText>
 		<RichText x="738" y="1119" width="423" height="56" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
@@ -264,25 +264,25 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/drdata1.assets/Image_34.png')" x="1268" y="843" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_35.png')" x="1268" y="619" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_35.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_36.png')" x="576" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_36.png')" x="576" y="598" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_37.png')" x="576" y="598" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_37.png')" x="576" y="1046" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_38.png')" x="576" y="1046" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_38.png')" x="1248" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_39.png')" x="1248" y="598" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_39.png')" x="1248" y="374" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_40.png')" x="1248" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_40.png')" x="576" y="374" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_41.png')" x="1248" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_41.png')" x="1248" y="822" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_42.png')" x="576" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_42.png')" x="576" y="822" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_43.png')" x="1248" y="822" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_43.png')" x="1268" y="620" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/drdata1.assets/Image_44.png')" x="576" y="822" blendMode="normal">
+		<BitmapImage source="@Embed('/drdata1.assets/Image_44.png')" x="1248" y="600" blendMode="normal">
 		</BitmapImage>
 	</Group>
 </Graphic>

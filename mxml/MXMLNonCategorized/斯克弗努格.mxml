@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="499" text="斯克弗努格"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="441" text="血蛇的断锋"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 1335610 (36.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="剧情 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 5329 (2.8B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="433" alpha="0.75" text="Skofnungr"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Blood Serpent’s Broken Edge"/>
+	<mx:Image source="Image3.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="幻影以不规则的攻击连招使用阔剑进行攻击，一共有2种：左扫一圈，造成80%伤害；纵劈一下，造成90%伤害；此外，每次挥剑都会在原地留下停滞的裂缝，片刻后崩裂造成50%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="512" width="448" alpha="0.9" text="幻影旋转阔剑并丢出，造成100%伤害；该技能容易与普攻形成连招。"/>
+	<mx:Text styleName="textStyle10" x="736" y="800" width="448" alpha="0.9" text="低于75%生命值时，幻影消失，并在场地留下2处涡眼，涡眼带有星锥，其中的涡眼将慢慢变大，16s后变为幻形牙兽·雷，其立即扫尾并产生剑气，两者均造成100%牙兽攻击力的伤害。(牙兽的攻击力约3510(3.7854B2))"/>
+	<mx:Text styleName="textStyle10" x="1408" y="800" width="448" alpha="0.9" text="低于50%生命值时，幻影消失，并在场地留下3处星隙，其将锁定玩家，6s后变为鲸刺并依次发射，造成100%尖刺攻击力的伤害。低于25%生命值时将与「噬涡黑牙」一起施放，且出现4处星隙。(鲸刺的攻击力约1003(1.0816B2))"/>
+	<mx:Text styleName="textStyle10" x="1408" y="512" width="448" alpha="0.9" text="幻影闪现，并在传送门后出现，进行挥剑并产生剑气，挥剑造成60%伤害，剑气造成80%伤害。通常在现身时施放。"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="幻影自身旋转一圈，造成60%伤害，同时在地面挑起3道扩散的荆棘，触碰造成60%,30%,15%,6%伤害。容易在普攻后施放。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="阔剑雷尖-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="448" width="448" text="雷索重剑-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="736" width="448" text="噬涡黑牙-蓄力"/>
+	<mx:Text styleName="textStyle11" x="1408" y="736" width="448" text="窃承漆角-蓄力"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" text="分断生界-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="锋引黑蔓-输出"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="64" y="1008" width="448" alpha="0.75" text="星锥：2单位特化盾，2次攻击或1次重击可破坏，每处涡眼有三枚星锥。"/>
+	<mx:Image source="Image4.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="64" y="64" width="256" height="256"/>
+</mx:Application>
