@@ -66,10 +66,6 @@
 			fontSize:24;
 			color:#24A451;
 		}
-		.textStyle14 {
-			fontSize:40;
-			color:#FFFFFF;
-		}
 	</mx:Style>
 	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="456"/>
 	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
@@ -122,7 +118,7 @@
 	<mx:Image source="Image17.png" x="1268" y="939" width="128" height="128"/>
 	<mx:Image source="Image18.png" x="1248" y="150" width="168" height="170"/>
 	<mx:Image source="Image19.png" x="1248" y="342" width="168" height="170"/>
-	<mx:Text styleName="textStyle14" x="1408" y="736" width="448" text="寂浪焮风-召唤"/>
+	<mx:Text styleName="textStyle12" x="1408" y="736" width="448" text="寂浪焮风-输出"/>
 	<mx:Text styleName="textStyle12" x="1408" y="1120" width="448" text="萧林焚光-远程"/>
 	<mx:Text styleName="textStyle12" x="1408" y="1312" width="448" text="焕燃一星-爆发"/>
 	<mx:Text styleName="textStyle12" x="1408" y="928" width="448" text="秋火飞明-远程"/>

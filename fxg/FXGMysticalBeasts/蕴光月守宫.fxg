@@ -182,7 +182,7 @@
 		</RichText>
 		<RichText x="738" y="799" width="425" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">开局或瘫痪恢复后施放，鳞蜥为自身附上<span color="#ffdfbf">晖岩之护</span><span>，岩抗提升</span><span color="#ffdfbf">60%</span><span>；展开半径</span><span color="#ffdfbf">25m</span><span>的</span><span textDecoration="underline">蕴光领域</span><span>；清除前台角色的「蕴光之茧」时，晖岩之护将被立即破坏。<br/>施放「行虚空荡」之前，全队的「蕴光之茧」会被移除(仅移除，无增益)。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">开局或瘫痪恢复后施放，鳞蜥为自身附上<span color="#ffdfbf">晖岩之护</span><span>，岩抗提升</span><span color="#ffdfbf">60%</span><span>；展开半径</span><span color="#ffdfbf">25m</span><span>的</span><span textDecoration="underline">蕴光领域</span><span>；清除任意角色的「蕴光之茧」时，晖岩之护将被立即破坏。<br/>施放「行虚空荡」之前，全队的「蕴光之茧」会被移除(仅移除，无增益)。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/蕴光月守宫.assets/Image_14.png')" x="719" y="138">
