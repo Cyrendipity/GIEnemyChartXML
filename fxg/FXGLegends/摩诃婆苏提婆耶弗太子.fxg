@@ -31,7 +31,7 @@
 		</RichText>
 		<RichText x="738" y="479" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子帽盖一亮，迅速旋转一圈，造成<span color="#ffe599">60%</span><span>伤害，可连续施放多次。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子帽盖一亮，迅速旋转一圈，造成<span color="#ffe599">50%</span><span>伤害，可连续施放多次。</span></p>
 			</content>
 		</RichText>
 		<RichText x="738" y="735" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
