@@ -71,7 +71,7 @@
 	<mx:Text styleName="textStyle3" x="736" y="736" width="448" alpha="0.9" text="枯焦状态的大招。太子变大，随后翻身一跃，下落同时借力弹起，该过程重复6次，第1-5次造成60%伤害，第6次造成100%伤害，技能结束后不清空计量条。"/>
 	<mx:Text styleName="textStyle3" x="1408" y="224" width="448" alpha="0.9" text="太子发射2枚辛蕈果，造成60%,42%伤害，可连续施放多次。"/>
 	<mx:Text styleName="textStyle3" x="1408" y="480" width="448" alpha="0.9" text="太子用帽盖朝前方迅速顶击一次，造成25%伤害。"/>
-	<mx:Text styleName="textStyle3" x="1408" y="736" width="448" alpha="0.9" text="激化失控的大招，太子变大不移动，在中央胡乱抛洒香弥果，落地造成80%伤害，技能结束后退至枯焦状态，并将计量条重置为一半。"/>
+	<mx:Text styleName="textStyle3" x="1408" y="736" width="448" alpha="0.9" text="活化状态失控的大招，太子变大不移动，在中央胡乱抛洒香弥果，落地造成80%伤害，技能结束后退至枯焦状态，并将计量条重置为一半。"/>
 	<mx:Text styleName="textStyle4" x="736" y="160" width="448" text="西域蕈客-位移  枯焦"/>
 	<mx:Text styleName="textStyle4" x="736" y="416" width="448" text="鲜腴之滋-输出  枯焦"/>
 	<mx:Text styleName="textStyle4" x="736" y="672" width="448" text="印香深刻-爆发  枯焦"/>
@@ -93,12 +93,12 @@
 	<mx:Text styleName="textStyle8" x="64" y="608" width="375" text="Wt/Ed: 200/4000"/>
 	<mx:Text styleName="textStyle8" x="64" y="800" width="375" text="Wt/Ed: 200/4000"/>
 	<mx:Image source="Image5.png" x="64" y="1033" width="484" height="60"/>
-	<mx:Text styleName="textStyle11" x="64" y="1100" width="448" alpha="0.75" text="草计量条：计量上限300。太子受到草元素攻击后，会根据草元素的量积攒0.05n%(15n)或0.03%(10)计量，攒满后进入正常状态，同时计量条开始衰减，每秒-13(地方传奇)/-17(历经百战)，衰减完毕后转为枯焦状态，衰减期间仍可使用草元素充能。正常状态下，抗打断1000。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1100" width="448" alpha="0.75" text="草计量条：计量上限300。太子受到草元素攻击后，会根据草元素的量积攒5n%(15n)或3.33%(10)计量，攒满后进入正常状态，同时计量条开始衰减，每秒-13(地方传奇)/-17(历经百战)，衰减完毕后转为枯焦状态，衰减期间仍可使用草元素充能。正常状态下，抗打断1000。"/>
 	<mx:Text styleName="textStyle12" x="0" y="990" width="64" text="枯焦"/>
 	<mx:Text styleName="textStyle12" x="0" y="1050" width="64" text="正常"/>
 	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
 	<mx:Text styleName="textStyle4" x="736" y="928" width="448" text="隅古方新-天赋"/>
-	<mx:Text styleName="textStyle3" x="736" y="992" width="1024" alpha="0.9" text="太子初始处于具有高抗的枯焦状态，并存在一草计量条，使得其在枯焦/正常/活化状态之间来回切换。枯焦：默认状态，枯焦或正常状态下受到火元素攻击后，计量条直接清空并转为枯焦状态。正常：使用草元素攻击充能计量条，充满计量条后，移除高抗并眩晕16s，同时计量条开始衰减，衰减的计量依旧可以充能，衰减完毕后转为枯焦状态。活化：正常状态下触发超激化反应可被计数，该激化计数存在3s判定CD，当该计数达3后立即失控，并施放「沁香妙赐」，随后退回枯焦状态。"/>
+	<mx:Text styleName="textStyle3" x="736" y="992" width="1024" alpha="0.9" text="太子初始处于具有高抗的枯焦状态，并存在一草计量条，使得其在枯焦/正常/活化状态之间来回切换。枯焦：默认状态，枯焦或正常状态下受到火元素攻击后，计量条直接清空并转为枯焦状态。正常：使用草元素攻击充能计量条，充满计量条后，移除高抗并眩晕16s，同时计量条开始衰减，衰减的计量依旧可以充能，衰减完毕后转为枯焦状态。活化：正常状态下受到雷元素攻击可被计数，该雷击计数存在3s判定CD，当该计数达3后立即失控，并施放「沁香妙赐」，随后退回枯焦状态。"/>
 	<mx:Image source="Image7.png" x="596" y="939" width="128" height="128"/>
 	<mx:Image source="Image8.png" x="596" y="683" width="128" height="128"/>
 	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>

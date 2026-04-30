@@ -51,7 +51,7 @@
 		</RichText>
 		<RichText x="1410" y="735" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">激化失控的大招，太子变大不移动，在中央胡乱抛洒香弥果，落地造成<span color="#ffe599">80%</span><span>伤害，技能结束后退至</span><span color="#ffbfbf">枯焦</span><span>状态，并将计量条重置为一半。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">活化状态失控的大招，太子变大不移动，在中央胡乱抛洒香弥果，落地造成<span color="#ffe599">80%</span><span>伤害，技能结束后退至</span><span color="#ffbfbf">枯焦</span><span>状态，并将计量条重置为一半。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_2.png')" x="720" y="137">
@@ -267,9 +267,9 @@
 			<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_20.png')" x="64" y="1033" blendMode="normal">
 			</BitmapImage>
 		</Group>
-		<RichText x="66" y="1100" width="442" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="66" y="1100" width="440" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">草计量条：计量上限300。太子受到<span color="#99ff85">草元素</span><span>攻击后，会根据草元素的量积攒</span><span color="#ffdfbf">0.05n%</span><span>(15n)或</span><span color="#ffdfbf">0.03%</span><span>(10)计量，攒满后进入正常状态，同时计量条开始衰减，每秒</span><span color="#ffdfbf">-13</span><span>(地方传奇)/</span><span color="#ffdfbf">-17</span><span>(历经百战)，衰减完毕后转为枯焦状态，衰减期间仍可使用</span><span color="#99ff85">草元素</span><span>充能。<br/>正常状态下，抗打断1000。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">草计量条：计量上限300。太子受到<span color="#99ff85">草元素</span><span>攻击后，会根据草元素的量积攒</span><span color="#ffdfbf">5n%</span><span>(15n)或</span><span color="#ffdfbf">3.33%</span><span>(10)计量，攒满后进入正常状态，同时计量条开始衰减，每秒</span><span color="#ffdfbf">-13</span><span>(地方传奇)/</span><span color="#ffdfbf">-17</span><span>(历经百战)，衰减完毕后转为枯焦状态，衰减期间仍可使用</span><span color="#99ff85">草元素</span><span>充能。<br/>正常状态下，抗打断1000。</span></p>
 			</content>
 		</RichText>
 		<RichText x="9" y="988" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
@@ -288,7 +288,7 @@
 		</BitmapImage>
 		<RichText x="738" y="991" width="1017" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子初始处于具有高抗的枯焦状态，并存在一<span textDecoration="underline">草计量条</span><span>，使得其在</span><span color="#ffbfbf">枯焦</span><span>/</span><span color="#ffffbf">正常</span><span>/</span><span color="#bfffbf">活化</span><span>状态之间来回切换。<br/></span><span color="#ffbfbf">枯焦：</span><span>默认状态，枯焦或正常状态下受到</span><span color="#ff9999">火元素</span><span>攻击后，计量条直接清空并转为枯焦状态。<br/></span><span color="#ffffbf">正常：</span><span>使用</span><span color="#99ff85">草元素</span><span>攻击充能计量条，充满计量条后，移除高抗并眩晕16s，同时计量条开始衰减，衰减的计量依旧可以充能，衰减完毕后转为枯焦状态。<br/></span><span color="#ccffbf">活化：</span><span>正常状态下触发</span><span color="#ffacff">超激化反应</span><span>可被计数，该激化计数存在</span><span color="#ffdfbf">3s</span><span>判定CD，当该计数达</span><span color="#ffdfbf">3</span><span>后立即失控，并施放「沁香妙赐」，随后退回枯焦状态。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">太子初始处于具有高抗的枯焦状态，并存在一<span textDecoration="underline">草计量条</span><span>，使得其在</span><span color="#ffbfbf">枯焦</span><span>/</span><span color="#ffffbf">正常</span><span>/</span><span color="#bfffbf">活化</span><span>状态之间来回切换。<br/></span><span color="#ffbfbf">枯焦：</span><span>默认状态，枯焦或正常状态下受到</span><span color="#ff9999">火元素</span><span>攻击后，计量条直接清空并转为枯焦状态。<br/></span><span color="#ffffbf">正常：</span><span>使用</span><span color="#99ff85">草元素</span><span>攻击充能计量条，充满计量条后，移除高抗并眩晕16s，同时计量条开始衰减，衰减的计量依旧可以充能，衰减完毕后转为枯焦状态。<br/></span><span color="#ccffbf">活化：</span><span>正常状态下受到</span><span color="#ffacff">雷元素</span><span>攻击可被计数，该雷击计数存在</span><span color="#ffdfbf">3s</span><span>判定CD，当该计数达</span><span color="#ffdfbf">3</span><span>后立即失控，并施放「沁香妙赐」，随后退回枯焦状态。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/摩诃婆苏提婆耶弗太子.assets/Image_23.png')" x="596" y="939" blendMode="normal">
