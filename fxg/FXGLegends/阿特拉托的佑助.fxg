@@ -64,9 +64,9 @@
 				<DropShadowFilter angle="40" color="#ffefbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="62" y="438" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="235" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="69" y="438" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="233" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Atrato’s Blessing</p>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">“Atlatl’s Blessing”</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#ffefbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>

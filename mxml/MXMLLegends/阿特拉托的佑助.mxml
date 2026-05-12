@@ -66,7 +66,7 @@
 	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
 	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 15665 (6.0B2)"/>
 	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
-	<mx:Text styleName="textStyle6" x="64" y="446" width="375" alpha="0.75" text="Atrato’s Blessing"/>
+	<mx:Text styleName="textStyle6" x="64" y="446" width="375" alpha="0.75" text="“Atlatl’s Blessing”"/>
 	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
 	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Text styleName="textStyle8" x="64" y="384" width="460" text="阿特拉托的佑助"/>

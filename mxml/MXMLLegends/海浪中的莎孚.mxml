@@ -72,7 +72,7 @@
 	<mx:Text styleName="textStyle5" x="64" y="816" width="394" text="ATK: 17235 (7.0B2) 87.5%"/>
 	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 100/50"/>
 	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 100/50"/>
-	<mx:Text styleName="textStyle7" x="64" y="465" width="428" alpha="0.75" text="Japu Amidst the Waves"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="428" alpha="0.75" text="“Sappho Amidst the Waves”"/>
 	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
 	<mx:Text styleName="textStyle9" x="64" y="1104" width="448" alpha="0.75" text="冰元素喷罐：2冻盾，8s后爆炸。"/>

@@ -10,32 +10,104 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_3.png')" x="49" y="358">
+		<RichText x="58" y="364" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="508" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">海浪中的莎孚</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_3.png')" x="46" y="906">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_4.png')" x="560" y="40">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_5.png')" x="46" y="906">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_6.png')" x="1407" y="41">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_7.png')" x="47" y="556">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_8.png')" x="47" y="748">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_9.png')" x="47" y="523">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_10.png')" x="47" y="714">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_11.png')" x="48" y="604">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_12.png')" x="48" y="796">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_13.png')" x="47" y="652">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_14.png')" x="47" y="844">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_15.png')" x="48" y="445">
-		</BitmapImage>
+		<RichText x="1417" y="48" width="461" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：<span color="#7fbfff">HP</span><span>[75,50,25,0],</span><span color="#7fbfff">HO</span><span>[0]</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="564" width="328" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 4570133 <span color="#dddddd">(75.0F)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="756" width="425" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 937274 <span color="#dddddd">(16.9F) </span><span color="#7fbfff">22.53%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="531" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">地方传奇 Lv.103 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="723" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="219" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">历经百战 Lv.100 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="612" width="307" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 20886<span color="#dddddd"> (8.0B2)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="804" width="404" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 17235<span color="#dddddd"> (7.0B2) </span><span color="#7fbfff">87.5%</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="661" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 100/50</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="853" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="233" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 100/50</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="64" y="453" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="354" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">“Sappho Amidst the Waves”</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99ccff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
 		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2171b1" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
 				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2171b1">制图@Csxylic米游社</p>
@@ -82,25 +154,25 @@
 					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-20</p>
 				</content>
 			</RichText>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_16.png')" x="64" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_4.png')" x="64" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_17.png')" x="64" y="1037" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_5.png')" x="64" y="1037" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_18.png')" x="184" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_6.png')" x="184" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_19.png')" x="364" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_7.png')" x="364" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_20.png')" x="303" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_8.png')" x="303" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_21.png')" x="244" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_9.png')" x="244" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_22.png')" x="424" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_10.png')" x="424" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_23.png')" x="124" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_11.png')" x="124" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_24.png')" x="66" y="973" blendMode="normal">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_12.png')" x="66" y="973" blendMode="normal">
 			</BitmapImage>
-			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_26.png')" x="486" y="973">
+			<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_14.png')" x="486" y="973">
 			</BitmapImage>
 		</Group>
 		<RichText x="66" y="1104" width="227" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
@@ -108,9 +180,9 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰元素喷罐：<span color="#99ffff">2冻</span><span>盾，8s后爆炸。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_27.png')" x="1392" y="137">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_15.png')" x="1392" y="137">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_28.png')" x="719" y="425">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_16.png')" x="719" y="425">
 		</BitmapImage>
 		<RichText x="1411" y="223" width="438" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
@@ -127,23 +199,23 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">莎孚拿着弹弓进行至多3段攻击，分别造成<span color="#b8b8b8">70%,70%,80%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_29.png')" x="719" y="138">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_17.png')" x="719" y="138">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_30.png')" x="596" y="459" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_18.png')" x="596" y="459" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_31.png')" x="1268" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_19.png')" x="1268" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_32.png')" x="576" y="438" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_20.png')" x="576" y="438" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_33.png')" x="596" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_21.png')" x="596" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_34.png')" x="576" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_22.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_35.png')" x="1248" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_23.png')" x="1248" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_36.png')" x="1391" y="425">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_24.png')" x="1391" y="425">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_37.png')" x="1391" y="714">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_25.png')" x="1391" y="714">
 		</BitmapImage>
 		<RichText x="1410" y="511" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
@@ -155,26 +227,26 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">角色附着冻元素时，莎孚会立即飞过来进行一次重重打击，造成<span color="#7fbfff">90%</span><span>伤害并可触发碎冰，碎冰造成的伤害提升</span><span color="#ffdfbf">500%</span><span>。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_38.png')" x="1268" y="459" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_26.png')" x="1268" y="459" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_39.png')" x="1248" y="438" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_27.png')" x="1248" y="438" blendMode="normal">
 		</BitmapImage>
 		<RichText x="738" y="799" width="425" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">低于<span color="#ffcebf">85%生命值</span><span>后，莎孚丢出一枚</span><span textDecoration="underline">冰元素喷罐</span><span>，落地时造成</span><span color="#99ffff">40%</span><span>伤害，展开冰元素领域造成</span><span color="#99ffff">50%</span><span>伤害；喷罐在原地旋转，产生冰脉冲，持续造成</span><span color="#99ffff">10%</span><span>伤害；一段时间后引爆，造成</span><span color="#99ffff">100%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_40.png')" x="720" y="713">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_28.png')" x="720" y="713">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_41.png')" x="596" y="747" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_29.png')" x="596" y="747" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_42.png')" x="576" y="726" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_30.png')" x="576" y="726" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_43.png')" x="1268" y="747" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_31.png')" x="1268" y="747" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_44.png')" x="1248" y="726" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_32.png')" x="1248" y="726" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_45.png')" x="64" y="64" blendMode="normal">
+		<BitmapImage source="@Embed('/海浪中的莎孚.assets/Image_33.png')" x="64" y="64" blendMode="normal">
 		</BitmapImage>
 	</Group>
 </Graphic>

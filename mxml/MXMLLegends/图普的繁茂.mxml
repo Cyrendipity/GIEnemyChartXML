@@ -74,7 +74,7 @@
 	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
 	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 28719 (11.0B2)"/>
 	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
-	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Tupu’s Lushness"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="“Tupu’s Lushness”"/>
 	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Image source="Image5.png" x="64" y="781" width="484" height="124"/>
 	<mx:Image source="Image6.png" x="64" y="905" width="484" height="60"/>

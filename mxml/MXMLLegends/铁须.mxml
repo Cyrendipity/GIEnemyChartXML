@@ -75,7 +75,7 @@
 	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
 	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 31329 (12.0B2)"/>
 	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 300/4000"/>
-	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Ironbeard"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="“Ironbeard”"/>
 	<mx:Image source="Image6.png" x="64" y="781" width="484" height="124"/>
 	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="铁须使用锤后端砸向地面，造成50%伤害，之后锤头爆炸，造成80%伤害，铁须顺势后撤。"/>
 	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="铁须的第三段普攻砸击地面时，将会召唤「熔裂突刺」；使用下落攻击破坏它将会引爆，对铁须造成10%生命值的真伤(无火附着)。"/>

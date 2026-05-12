@@ -172,9 +172,9 @@
 				<DropShadowFilter angle="40" color="#eebbff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="61" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="80" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="68" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="88" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Reji</p>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">“Reji”</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#eebbff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>

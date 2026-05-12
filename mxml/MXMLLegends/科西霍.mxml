@@ -72,7 +72,7 @@
 	<mx:Text styleName="textStyle5" x="64" y="816" width="417" text="ATK: 24622 (10.0B2) 10/11"/>
 	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 20000/4000"/>
 	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 20000/4000"/>
-	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Cosijo"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Cocijo"/>
 	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="科西霍放出一枚雷球，缓慢追踪玩家，接触爆炸造成100%伤害"/>
 	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="科西霍需处于狂暴状态。若玩家在距其13m范围内对其造成伤害，则科西霍会立即反击，造成25%,6.75%伤害，多少次伤害就反击多少次。"/>
 	<mx:Text styleName="textStyle8" x="736" y="928" width="448" alpha="0.9" text="科西霍导引震雷，于地面持续召唤落雷，造成50%伤害。"/>

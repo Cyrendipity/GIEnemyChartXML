@@ -81,7 +81,7 @@
 	<mx:Text styleName="textStyle4" x="64" y="752" width="441" text="ATK1: 33940 (13.0B2) (战羊)"/>
 	<mx:Text styleName="textStyle4" x="64" y="800" width="418" text="ATK2: 26108 (10.0B2) (铁爪)"/>
 	<mx:Text styleName="textStyle4" x="64" y="848" width="375" text="Wt/Ed: 150/4000"/>
-	<mx:Text styleName="textStyle6" x="64" y="593" width="395" alpha="0.75" text="Battlegoat &amp; Ironclaw"/>
+	<mx:Text styleName="textStyle6" x="64" y="593" width="395" alpha="0.75" text="“Battlegoat” &amp; “Ironclaw”"/>
 	<mx:Image source="Image13.png" x="64" y="957" width="484" height="124"/>
 	<mx:Text styleName="textStyle7" x="736" y="224" width="448" alpha="0.9" text="战羊进行拱、角觗2段攻击，依次造成45%,75%伤害。"/>
 	<mx:Text styleName="textStyle8" x="736" y="448" width="448" alpha="0.9" text="战羊开始蓄力，出现冲刺轨迹，4s后冲刺，对玩家造成100%伤害，对铁爪造成暴击伤害为30%的必定暴击伤害。"/>

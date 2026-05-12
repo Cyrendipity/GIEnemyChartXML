@@ -80,7 +80,7 @@
 	<mx:Text styleName="textStyle10" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
 	<mx:Text styleName="textStyle9" x="64" y="624" width="375" text="ATK: 39162 (15.0B2)"/>
 	<mx:Text styleName="textStyle9" x="64" y="672" width="375" text="Wt/Ed: 120/4000"/>
-	<mx:Text styleName="textStyle11" x="64" y="465" width="439" alpha="0.75" text="Reji"/>
+	<mx:Text styleName="textStyle11" x="64" y="465" width="439" alpha="0.75" text="“Reji”"/>
 	<mx:Image source="Image9.png" x="64" y="64" width="256" height="256"/>
 	<mx:Image source="Image10.png" x="596" y="203" width="128" height="128"/>
 	<mx:Text styleName="textStyle5" x="736" y="256" width="448" alpha="0.9" text="雷吉拿着弹弓进行至多3段的攻击，依次造成50%,50%,100%伤害。"/>

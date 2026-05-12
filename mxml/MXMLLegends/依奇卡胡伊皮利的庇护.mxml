@@ -66,7 +66,7 @@
 	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
 	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 23497 (9.0B2)"/>
 	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
-	<mx:Text styleName="textStyle6" x="64" y="427" width="411" alpha="0.75" text="Ichcahuipilli’s Aegis"/>
+	<mx:Text styleName="textStyle6" x="64" y="427" width="411" alpha="0.75" text="“Ichcahuipilli’s Aegis”"/>
 	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
 	<mx:Text styleName="textStyle7" x="736" y="224" width="448" alpha="0.9" text="「庇护」标记玩家，在原地进行吟唱，并在标记处产生爆炸，爆炸和冲击波都造成90%,22.5%伤害，同时产生2枚较小的图纹，爆裂造成80%伤害。"/>
 	<mx:Text styleName="textStyle7" x="1408" y="224" width="448" alpha="0.9" text="「庇护」召唤7枚图纹，呈三叉样分布，图纹迸裂造成80%伤害。"/>

@@ -76,7 +76,7 @@
 	<mx:Text styleName="textStyle4" x="64" y="816" width="424" text="ATK: 19698 (8.0B2) 2/3"/>
 	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 100/210"/>
 	<mx:Text styleName="textStyle4" x="64" y="864" width="375" text="Wt/Ed: 100/210"/>
-	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="He Never Dies"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="“He Never Dies”"/>
 	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
 	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Text styleName="textStyle8" x="576" y="128" width="469" alpha="0.5" text="元素能量：NA"/>

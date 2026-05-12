@@ -82,7 +82,7 @@
 	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 22160 (9.0B2) 100%"/>
 	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/10000"/>
 	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 150/10000"/>
-	<mx:Text styleName="textStyle7" x="64" y="465" width="441" alpha="0.75" text="Cinius"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="441" alpha="0.75" text="Cineas"/>
 	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
 	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Text styleName="textStyle9" x="736" y="224" width="448" text="涤渊喷吐-妨害"/>

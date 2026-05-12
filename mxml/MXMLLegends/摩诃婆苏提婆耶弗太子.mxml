@@ -88,7 +88,7 @@
 	<mx:Text styleName="textStyle9" x="64" y="672" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
 	<mx:Text styleName="textStyle8" x="64" y="560" width="375" text="ATK: 39162 (15.0B2)"/>
 	<mx:Text styleName="textStyle8" x="64" y="752" width="375" text="ATK: 22160 (9.0B2) 60%"/>
-	<mx:Text styleName="textStyle10" x="64" y="427" width="395" alpha="0.75" text="Prince Mahavasudeva-Yava"/>
+	<mx:Text styleName="textStyle10" x="64" y="427" width="395" alpha="0.75" text="“Maha Vasudevayaputra”"/>
 	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
 	<mx:Text styleName="textStyle8" x="64" y="608" width="375" text="Wt/Ed: 200/4000"/>
 	<mx:Text styleName="textStyle8" x="64" y="800" width="375" text="Wt/Ed: 200/4000"/>

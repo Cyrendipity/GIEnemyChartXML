@@ -82,7 +82,7 @@
 	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
 	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 17235 (7.0B2) 70%"/>
 	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 80/210"/>
-	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Barachico"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="“Balachko”"/>
 	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
 	<mx:Text styleName="textStyle8" x="736" y="736" width="448" alpha="0.9" text="隐蔽状态下的巴拉奇科进行一次穿刺攻击，造成100%伤害，并在冲刺起点放置一个幻影。"/>
 	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="入战立即施放且仅施放一次。巴拉奇科召唤6个幻影，从每个幻影的位置依次冲向玩家，每次造成50%伤害，冲刺结束后从天而降下落，造成85%伤害。技能期间持续附着火元素。"/>

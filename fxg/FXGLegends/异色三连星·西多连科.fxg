@@ -212,7 +212,7 @@
 		</RichText>
 		<RichText x="61" y="457" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="294" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Polychrome Tri-Stars: <br/>Sydorenko</p>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Polychrome Tri-Stars: <br/>Sidorenko</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#bfefff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>

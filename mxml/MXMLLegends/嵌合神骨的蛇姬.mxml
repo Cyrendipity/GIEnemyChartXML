@@ -72,7 +72,7 @@
 	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
 	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 18275 (7.0B2)"/>
 	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 300/4000"/>
-	<mx:Text styleName="textStyle6" x="64" y="446" width="395" alpha="0.75" text="Serpent Princess of Chimeric Bone"/>
+	<mx:Text styleName="textStyle6" x="64" y="446" width="395" alpha="0.75" text="Cihuacoatl of Chimeric Bone"/>
 	<mx:Image source="Image4.png" x="64" y="781" width="484" height="124"/>
 	<mx:Text styleName="textStyle7" x="736" y="480" width="448" alpha="0.9" text="蛇姬扔出钩锁进行一段位移，立即接开炮发射8枚籽弹，每枚籽弹造成30%,15%,7.5%,3%伤害。"/>
 	<mx:Text styleName="textStyle7" x="736" y="704" width="448" alpha="0.9" text="距离较远时，蛇姬将装弹炮筒，发射1枚迫击草球，造成80%伤害。"/>

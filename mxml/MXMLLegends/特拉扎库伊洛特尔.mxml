@@ -72,7 +72,7 @@
 	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="夜魂试炼 Lv.103 Data"/>
 	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 28719 (11.0B2)"/>
 	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 300/4000"/>
-	<mx:Text styleName="textStyle6" x="64" y="436" width="395" alpha="0.75" text="Tlacalhuazcuahuitl"/>
+	<mx:Text styleName="textStyle6" x="64" y="436" width="395" alpha="0.75" text="“Tlatzacuilotl”"/>
 	<mx:Image source="Image4.png" x="64" y="781" width="484" height="184"/>
 	<mx:Text styleName="textStyle7" x="736" y="480" width="448" alpha="0.9" text="伊洛特尔使劲将飞锯敲入地面，产生振波造成100%伤害。"/>
 	<mx:Text styleName="textStyle7" x="736" y="928" width="448" alpha="0.9" text="伊洛特尔怒而起舞，挥舞飞锯进行连续不断的5段攻击，其依次造成33%,33%,33%,50%,70%伤害。"/>
