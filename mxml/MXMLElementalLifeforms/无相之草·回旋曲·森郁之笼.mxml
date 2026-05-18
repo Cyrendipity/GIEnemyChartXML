@@ -96,7 +96,7 @@
 	<mx:Image source="Image9.png" x="1248" y="150" width="168" height="170"/>
 	<mx:Image source="Image10.png" x="596" y="427" width="128" height="128"/>
 	<mx:Image source="Image11.png" x="576" y="406" width="168" height="170"/>
-	<mx:Text styleName="textStyle9" x="736" y="992" width="448" alpha="0.9" text="无相之草在场上产生3个枯焦状态的「愈疗草芯」，不同状态有不同效果：火-枯焦：每1s扣除3%(极限9%)生命值，敌人恢复1.5%(极限6%)生命值；草-正常：每2s恢复2%生命值；雷-活化：每1s恢复5点元素能量并提升50%攻击力，10sD。"/>
+	<mx:Text styleName="textStyle9" x="736" y="992" width="448" alpha="0.9" text="无相之草在场上产生3个枯焦状态的「愈疗草芯」，不同状态有不同效果：火-枯焦：每1s扣除3%(极限9%)生命值，敌人恢复1.5%(极限6%)生命值；草-正常：每2s恢复2%生命值；雷-活化：每2s恢复5点元素能量并提升50%攻击力，10sD。"/>
 	<mx:Text styleName="textStyle11" x="736" y="928" width="448" text="愈疗芯丛-辅助"/>
 	<mx:Image source="Image12.png" x="1268" y="427" width="128" height="128"/>
 	<mx:Image source="Image13.png" x="1248" y="406" width="168" height="170"/>

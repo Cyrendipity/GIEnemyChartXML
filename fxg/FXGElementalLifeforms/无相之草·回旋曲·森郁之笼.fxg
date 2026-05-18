@@ -221,7 +221,7 @@
 		</BitmapImage>
 		<RichText x="738" y="991" width="439" height="200" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之草在场上产生3个枯焦状态的「愈疗草芯」，不同状态有不同效果：<br/><span color="#ff9999">火-枯焦：</span><span>每1s扣除</span><span color="#bfffbf">3%(极限9%)生命值</span><span>，敌人恢复</span><span color="#ffcdbf">1.5%(极限6%)生命值</span><span>；<br/></span><span color="#99ff87">草-正常：</span><span>每2s恢复</span><span color="#bfffbf">2%生命值</span><span>；<br/></span><span color="#ffacff">雷-活化：</span><span>每1s恢复</span><span color="#bfceff">5点元素能量</span><span>并提升</span><span color="#ffbfbf">50%攻击力</span><span>，10sD。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">无相之草在场上产生3个枯焦状态的「愈疗草芯」，不同状态有不同效果：<br/><span color="#ff9999">火-枯焦：</span><span>每1s扣除</span><span color="#bfffbf">3%(极限9%)生命值</span><span>，敌人恢复</span><span color="#ffccbf">1.5%(极限6%)生命值</span><span>；<br/></span><span color="#99ff86">草-正常：</span><span>每2s恢复</span><span color="#bfffbf">2%生命值</span><span>；<br/></span><span color="#ffacff">雷-活化：</span><span>每2s恢复</span><span color="#bfcdff">5点元素能量</span><span>并提升</span><span color="#ffbfbf">50%攻击力</span><span>，10sD。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/无相之草%B7回旋曲%B7森郁之笼.assets/Image_26.png')" x="720" y="905">

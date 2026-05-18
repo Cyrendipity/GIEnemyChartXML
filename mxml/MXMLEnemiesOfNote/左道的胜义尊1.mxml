@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1472" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#4C79FF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#4C79FF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#1E63AE;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1280" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="200" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="1920" height="857"/>
+	<mx:Image source="Image4.png" x="0" y="415" width="498" height="204"/>
+	<mx:Image source="Image5.png" x="702" y="171" width="982" height="978"/>
+	<mx:Image source="Image6.png" x="0" y="86" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="512" width="499" text="左道的胜义尊"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Image source="Image7.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Text styleName="textStyle3" x="64" y="640" width="373" text="多托雷"/>
+	<mx:Text styleName="textStyle4" x="64" y="960" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle6" x="64" y="800" width="384" text="HP: 3561628 (96.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="768" width="305" alpha="0.75" text="周本-第一阶段 Lv.90 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="848" width="375" text="ATK: 22838 (12.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="896" width="375" text="Wt/Ed: 150/100"/>
+	<mx:Text styleName="textStyle8" x="64" y="593" width="484" alpha="0.75" text="Exalted Master of the Heretical Path"/>
+	<mx:Text styleName="textStyle9" x="64" y="683" width="395" alpha="0.75" text="Il Dottore"/>
+	<mx:Image source="Image8.png" x="64" y="1005" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image9.png" x="64" y="192" width="256" height="254"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="博士背身，立即用右手蓄力，立即在前方区域散布满地的冰棘，造成80%伤害，通常为「莫要应规昏聩」技能的后随。"/>
+	<mx:Text styleName="textStyle11" x="736" y="672" width="448" alpha="0.9" text="距离较远时，博士升空，并在玩家附近生成3处环形扇区，依次爆发，均造成55%攻击力的伤害。通常后随「刻下寒与伤」。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="896" width="448" alpha="0.9" text="博士站在中间，双手一挥，两侧立即出现「缩压墙幕」，随后两墙进行夹击，触碰墙体造成100%伤害。通常后随「具象苦与痛」或「负担必将抛却」。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="刻下寒与伤-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="莫要应规昏聩-定点"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="囿徒的觉悟-位移"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="抹灭解脱与灵知-猛攻"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="博士使用右手朝玩家方向直线生成5枚1排的探针，五枚探针分别造成25%,30%,35%,45%,55%伤害，当博士生命值低于70%时，探针数量变为3排。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" alpha="0.9" text="博士立即使用右手用力敲击地面，在方形区域内产生扩散阵列，造成75%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="448" width="448" alpha="0.9" text="博士闪现至半空，并立即发射废弃数据团，造成80%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="具象苦与痛-定点"/>
+	<mx:Text styleName="textStyle13" x="1408" y="608" width="448" text="莫要㧑卑威权-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="负担必将抛却-远程"/>
+	<mx:Text styleName="textStyle14" x="736" y="448" width="448" alpha="0.9" text="距离较远时，博士操纵异步数据团，在远处发射2团数据垃圾，均造成65%伤害，大概率后随「莫要㧑卑威权」。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1120" width="448" alpha="0.9" text="距离较远且博士不使用正常闪现连招时，博士立即化身能量团并进行z字位移到达玩家身旁。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1344" width="448" alpha="0.9" text="当博士处于闲置状态时，其韧性低可击退，若在5s内连续击退博士2次，将会使其立即闪现施放其他技能。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1120" width="448" alpha="0.9" text="处于博士侧方时，博士突然闪现，在原地迅速回转刷新一圈，造成70%伤害。极难触发。"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="樊笼必遭破毁-远程"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1056" width="448" text="善恶的离断-位移"/>
+	<mx:Text styleName="textStyle12" x="736" y="1280" width="448" text="认知的深化-位移"/>
+	<mx:Text styleName="textStyle11" x="736" y="896" width="448" alpha="0.9" text="博士打个响指，在自身后方处产生一面橙色防火墙体，内部的漏洞块短时间内持续向前飞出，接触造成85%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="缔造失败与死难-猛攻"/>
+	<mx:Image source="Image10.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image26.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image27.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image28.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Text styleName="textStyle15" x="64" y="1136" width="448" alpha="0.75" text="低于70%生命值时，博士部分技能得到强化，并加强连招：「应规昏聩」-&gt;「寒与伤」；「寒与伤」-&gt;「负担」；「樊笼」-&gt;「㧑卑威权」；「苦与痛」-&gt;「寒与伤」；(≥70%)「抹灭解脱」-&gt;「苦与痛」；(≥70%)「苦与痛」-&gt;「苦与痛」-&gt;「寒与伤」；( &lt;70%)「抹灭解脱」-&gt;「负担」-&gt;「苦与痛」；( &lt;70%)"/>
+	<mx:Image source="Image29.png" x="596" y="1291" width="128" height="128"/>
+	<mx:Image source="Image30.png" x="576" y="1270" width="168" height="170"/>
+</mx:Application>
