@@ -109,6 +109,6 @@
 	<mx:Image source="Image17.png" x="1248" y="480" width="168" height="170"/>
 	<mx:Image source="Image18.png" x="1248" y="790" width="168" height="170"/>
 	<mx:Image source="Image19.png" x="576" y="150" width="168" height="170"/>
-	<mx:Text styleName="textStyle5" x="64" y="736" width="425" text="HP: 1064832 (19.2F) 8/35"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="425" text="HP: 1109200 (20.0F) 5/21"/>
 	<mx:Text styleName="textStyle5" x="64" y="784" width="417" text="ATK: 13542 (5.5B2) 55%"/>
 </mx:Application>

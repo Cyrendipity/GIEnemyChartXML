@@ -174,9 +174,9 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大型草史莱姆起跳，重重下落，造成<span color="#b8b8b8">100%</span><span>伤害。背对埋伏的大型草史莱姆也会触发此技能，诱导其离开地下。<br/></span><span color="#00ff7f">强攻强化：<br/></span><span>该技能的使用更加频繁。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="479" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="479" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大型草史莱姆扔出3个毒草种，停留于地面，接触持续造成<span color="#99ff86">10%</span><span>伤害，这些草种遇火则发生爆炸，造成</span><span color="#b8b8b8">100%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">大型草史莱姆扔出3个毒草种，停留于地面，接触持续造成<span color="#99ff85">10%</span><span>伤害，这些草种遇</span><span color="#7fffd7">风元素</span><span>攻击</span><span>会被驱散消失</span><span>，</span><span>遇</span><span color="#ff9999">火元素</span><span>攻击</span><span>则发生爆炸，造成</span><span color="#b8b8b8">100%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<RichText x="1410" y="735" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">

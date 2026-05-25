@@ -70,7 +70,7 @@
 	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="8"/>
 	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
 	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
-	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="博士"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="448" text="「博士」"/>
 	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
 	<mx:Text styleName="textStyle3" x="64" y="512" width="460" text="「愚人众」执行官第二席"/>
 	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
@@ -93,20 +93,20 @@
 	<mx:Text styleName="textStyle12" x="1408" y="448" width="448" text="身流水变凝四方-输出"/>
 	<mx:Text styleName="textStyle12" x="736" y="448" width="448" text="罢如天隅落离毁-猛攻"/>
 	<mx:Text styleName="textStyle13" x="64" y="1008" width="448" alpha="0.75" text="于此锢身：4次特化盾，需俘游机关攻击4次破坏。独立浮游机关：40水盾，但触发一次月感电/月绽放后立即被转化为俘游机关，并朝博士攻击。"/>
-	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
-	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
-	<mx:Image source="Image7.png" x="1268" y="171" width="128" height="128"/>
-	<mx:Image source="Image8.png" x="1268" y="747" width="128" height="128"/>
-	<mx:Image source="Image9.png" x="596" y="459" width="128" height="128"/>
-	<mx:Image source="Image10.png" x="596" y="747" width="128" height="128"/>
-	<mx:Image source="Image11.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="459" width="128" height="128"/>
 	<mx:Text styleName="textStyle12" x="736" y="736" width="448" text="欲穷其技不及此-防御"/>
 	<mx:Text styleName="textStyle12" x="1408" y="736" width="448" text="却为异端愿以偿-爆发"/>
 	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="且观飞雪送冰零-锁定"/>
-	<mx:Image source="Image12.png" x="576" y="150" width="168" height="170"/>
-	<mx:Image source="Image13.png" x="576" y="438" width="168" height="170"/>
-	<mx:Image source="Image14.png" x="1248" y="438" width="168" height="170"/>
-	<mx:Image source="Image15.png" x="576" y="726" width="168" height="170"/>
-	<mx:Image source="Image16.png" x="1248" y="726" width="168" height="170"/>
-	<mx:Image source="Image17.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="64" y="68" width="256" height="252"/>
 </mx:Application>

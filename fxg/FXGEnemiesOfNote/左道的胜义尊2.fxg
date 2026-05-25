@@ -187,34 +187,34 @@
 		</BitmapImage>
 		<RichText x="1410" y="479" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士生成「CALL_祸津御建鸣神命」，使用恶曜太刀短时蓄力后立即下劈，造成<span color="#ffacff">100%</span><span>伤害并向两侧挤开玩家。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>生成「CALL_祸津御建鸣神命」，使用恶曜太刀短时蓄力后立即下劈，造成</span><span color="#ffacff">100%</span><span>伤害并向两侧挤开玩家。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊2.assets/Image_20.png')" x="1392" y="394">
 		</BitmapImage>
-		<RichText x="738" y="479" width="439" height="85" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="479" width="438" height="114" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士在场地四边放置4枚扫描探针，产生激光网面并向对面进行移动，到终点消失，接触激光网面持续造成<span color="#b8b8b8">35%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>在场地四边放置4枚扫描探针，产生激光网面并向对面进行移动，到终点消失，接触激光网面持续造成</span><span color="#b8b8b8">35%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="223" width="399" height="56" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="223" width="424" height="56" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士在玩家身旁四个位置产生探针脉冲，均造成<span color="#b8b8b8">35%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>在玩家身旁四个位置产生探针脉冲，均造成</span><span color="#b8b8b8">35%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<RichText x="738" y="223" width="439" height="56" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士立即摆臂，产生3股数据风暴，造成<span color="#b8b8b8">45%</span><span>伤害。仅入场施放一次。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷立即摆臂，产生3股数据风暴，造成<span color="#b8b8b8">45%</span><span>伤害。仅入场施放一次。</span></p>
 			</content>
 		</RichText>
-		<RichText x="738" y="991" width="442" height="200" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="991" width="440" height="200" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士立即移至边缘，并展开<span textDecoration="underline">FW壁障</span><span>，同时全抗性</span><span color="#ffdfbf">+300%</span><span>；</span><span color="#ffdfbf">35s</span><span>后施放「摒世弃神，万有尽焚」。壁障每隔6s将玩家猛地推向另一侧，钻入壁障上的漏洞可避免被推走，一共有3种漏洞类型。击破壁障后，若当前大招倒计时大于20s，则将其缩短至</span><span color="#ffdfbf">20s</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>立即移至边缘，并展开</span><span textDecoration="underline">FW壁障</span><span>，同时全抗性</span><span color="#ffdfbf">+300%</span><span>；</span><span color="#ffdfbf">35s</span><span>后施放「摒世弃神，万有尽焚」。壁障每隔6s将玩家猛地推向另一侧，钻入壁障上的漏洞可避免被推走，一共有3种漏洞类型。击破壁障后，若当前大招倒计时大于20s，则将其缩短至</span><span color="#ffdfbf">20s</span><span>。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="991" width="429" height="172" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="991" width="437" height="172" d:userLabel="仆↓人进行至多5段的普通攻击，其依次造成2" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士将利用世界树的能力，<span color="#ffbfbf">秒杀</span><span>前台角色；若为多人模式，则随机</span><span color="#ffbfbf">秒杀</span><span>一位玩家的前台，并对其他玩家造成</span><span color="#b8b8b8">150%</span><span>伤害。壁障击破后，将能够削减博士的</span><span textDecoration="underline">FATAL进度</span><span>，进度归零后中断蓄力，并瘫痪12s。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>将利用世界树的能力，</span><span color="#ffbfbf">秒杀</span><span>前台角色；多人模式下，则随机</span><span color="#ffbfbf">秒杀</span><span>一位玩家的前台，并对其他玩家造成</span><span color="#b8b8b8">150%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>。壁障击破后，将能够削减</span><span>多托雷</span><span>的</span><span textDecoration="underline">FATAL进度</span><span>，进度归零后中断蓄力，并瘫痪12s。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊2.assets/Image_21.png')" x="720" y="394">
@@ -229,7 +229,7 @@
 		</BitmapImage>
 		<RichText x="1410" y="735" width="431" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">壁障破坏后，博士将在自身两侧依次生成「CALL_王棋」、「CALL_后棋」，王棋先进行冲撞，接着后棋突旋，依次造成<span color="#ff9999">75%,60%</span><span>伤害，本技能持续至施放「摒世弃神，万有尽焚」。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">壁障破坏后，<span>多托雷</span><span>将在自身两侧依次生成「CALL_王棋」、「CALL_后棋」，王棋先进行冲撞，接着后棋突旋，依次造成</span><span color="#ff9999">75%,60%</span><span>伤害，技能持续至施放「摒世弃神，万有尽焚」。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊2.assets/Image_26.png')" x="1391" y="649">
@@ -278,9 +278,9 @@
 			<BitmapImage source="@Embed('/左道的胜义尊2.assets/Image_27.png')" x="64" y="1065" blendMode="normal">
 			</BitmapImage>
 		</Group>
-		<RichText x="738" y="735" width="431" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="735" width="425" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士生成「CALL_修库特尔」，并向前依次斩出火刀与霜刀的剑气，依次造成<span color="#ff9999">80%</span><span>,</span><span color="#99ffff">80%</span><span>伤害，随后发射密集弹幕，造成</span><span color="#b8b8b8">35%</span><span>伤害，部分子弹造成</span><span color="#b8b8b8">100%</span><span>伤害。<br/>子弹伤害带有(1,0.6,0.3,0.1)的衰减。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>生成「CALL_修库特尔」，并向前依次斩出火刀与霜刀的剑气，依次造成</span><span color="#ff9999">80%</span><span>,</span><span color="#99ffff">80%</span><span>伤害，随后发射密集弹幕，造成</span><span color="#b8b8b8">35%</span><span>伤害。以上伤害均有(1,0.6,0.3,0.1)的衰减。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊2.assets/Image_28.png')" x="720" y="649">

@@ -3,7 +3,7 @@
 	<mx:Style>
 		.textStyle {
 			fontFamily:TsangerYuYangT-W04;
-			fontSize:60;
+			fontSize:80;
 			color:#FFFFFF;
 		}
 		.textStyle2 {
@@ -80,7 +80,7 @@
 	<mx:Image source="Image2.png" x="0" y="662" width="1920" height="1066"/>
 	<mx:Image source="Image3.png" x="632" y="379" width="1024" height="980"/>
 	<mx:Image source="Image4.png" x="0" y="118" width="426" height="468"/>
-	<mx:Text styleName="textStyle" x="64" y="544" width="498" text="「赝月的异端者」"/>
+	<mx:Text styleName="textStyle" x="64" y="544" width="498" text="赝月的异端者"/>
 	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
 	<mx:Text styleName="textStyle3" x="64" y="672" width="464" text="多托雷"/>
 	<mx:Text styleName="textStyle4" x="64" y="992" width="305" alpha="0.9" text="抗性数据(单位%)"/>

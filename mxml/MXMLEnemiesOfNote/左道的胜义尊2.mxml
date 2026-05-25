@@ -91,22 +91,22 @@
 	<mx:Image source="Image6.png" x="64" y="941" width="484" height="124"/>
 	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Image source="Image7.png" x="64" y="128" width="256" height="254"/>
-	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="博士生成「CALL_祸津御建鸣神命」，使用恶曜太刀短时蓄力后立即下劈，造成100%伤害并向两侧挤开玩家。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="多托雷生成「CALL_祸津御建鸣神命」，使用恶曜太刀短时蓄力后立即下劈，造成100%伤害并向两侧挤开玩家。"/>
 	<mx:Text styleName="textStyle12" x="1408" y="416" width="448" text="无想，斫断困阻-猛攻"/>
-	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成2" styleName="textStyle11" x="736" y="480" width="448" alpha="0.9" text="博士在场地四边放置4枚扫描探针，产生激光网面并向对面进行移动，到终点消失，接触激光网面持续造成35%伤害。"/>
-	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成22" styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="博士在玩家身旁四个位置产生探针脉冲，均造成35%伤害。"/>
-	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成23" styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="博士立即摆臂，产生3股数据风暴，造成45%伤害。仅入场施放一次。"/>
-	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成24" styleName="textStyle11" x="736" y="992" width="448" alpha="0.9" text="博士立即移至边缘，并展开FW壁障，同时全抗性+300%；35s后施放「摒世弃神，万有尽焚」。壁障每隔6s将玩家猛地推向另一侧，钻入壁障上的漏洞可避免被推走，一共有3种漏洞类型。击破壁障后，若当前大招倒计时大于20s，则将其缩短至20s。"/>
-	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成25" styleName="textStyle11" x="1408" y="992" width="448" alpha="0.9" text="博士将利用世界树的能力，秒杀前台角色；若为多人模式，则随机秒杀一位玩家的前台，并对其他玩家造成150%伤害。壁障击破后，将能够削减博士的FATAL进度，进度归零后中断蓄力，并瘫痪12s。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成2" styleName="textStyle11" x="736" y="480" width="448" alpha="0.9" text="多托雷在场地四边放置4枚扫描探针，产生激光网面并向对面进行移动，到终点消失，接触激光网面持续造成35%伤害。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成22" styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="多托雷在玩家身旁四个位置产生探针脉冲，均造成35%伤害。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成23" styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="多托雷立即摆臂，产生3股数据风暴，造成45%伤害。仅入场施放一次。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成24" styleName="textStyle11" x="736" y="992" width="448" alpha="0.9" text="多托雷立即移至边缘，并展开FW壁障，同时全抗性+300%；35s后施放「摒世弃神，万有尽焚」。壁障每隔6s将玩家猛地推向另一侧，钻入壁障上的漏洞可避免被推走，一共有3种漏洞类型。击破壁障后，若当前大招倒计时大于20s，则将其缩短至20s。"/>
+	<mx:Text id="仆↓人进行至多5段的普通攻击，其依次造成25" styleName="textStyle11" x="1408" y="992" width="448" alpha="0.9" text="多托雷将利用世界树的能力，秒杀前台角色；多人模式下，则随机秒杀一位玩家的前台，并对其他玩家造成150%伤害(闪避帧无效)。壁障击破后，将能够削减多托雷的FATAL进度，进度归零后中断蓄力，并瘫痪12s。"/>
 	<mx:Text styleName="textStyle12" x="736" y="416" width="448" text="求索，解放真知-限制"/>
 	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="反抗，解脱灵性-定点"/>
 	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="亵渎，诞生混沌-远程"/>
 	<mx:Text styleName="textStyle12" x="736" y="928" width="448" text="隐化谲念，赝造罪业-蓄力"/>
 	<mx:Text styleName="textStyle12" x="1408" y="928" width="448" text="摒世弃神，万有尽焚-爆发"/>
-	<mx:Text styleName="textStyle11" x="1408" y="736" width="448" alpha="0.9" text="壁障破坏后，博士将在自身两侧依次生成「CALL_王棋」、「CALL_后棋」，王棋先进行冲撞，接着后棋突旋，依次造成75%,60%伤害，本技能持续至施放「摒世弃神，万有尽焚」。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="736" width="448" alpha="0.9" text="壁障破坏后，多托雷将在自身两侧依次生成「CALL_王棋」、「CALL_后棋」，王棋先进行冲撞，接着后棋突旋，依次造成75%,60%伤害，技能持续至施放「摒世弃神，万有尽焚」。"/>
 	<mx:Text styleName="textStyle12" x="1408" y="672" width="448" text="弈局，决胜救赎-召唤"/>
 	<mx:Image source="Image8.png" x="64" y="1065" width="484" height="60"/>
-	<mx:Text styleName="textStyle11" x="736" y="736" width="448" alpha="0.9" text="博士生成「CALL_修库特尔」，并向前依次斩出火刀与霜刀的剑气，依次造成80%,80%伤害，随后发射密集弹幕，造成35%伤害，部分子弹造成100%伤害。子弹伤害带有(1,0.6,0.3,0.1)的衰减。"/>
+	<mx:Text styleName="textStyle11" x="736" y="736" width="448" alpha="0.9" text="多托雷生成「CALL_修库特尔」，并向前依次斩出火刀与霜刀的剑气，依次造成80%,80%伤害，随后发射密集弹幕，造成35%伤害。以上伤害均有(1,0.6,0.3,0.1)的衰减。"/>
 	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="源焰，焚净旧腐-猛攻"/>
 	<mx:Image source="Image9.png" x="596" y="171" width="128" height="128"/>
 	<mx:Image source="Image10.png" x="1268" y="683" width="128" height="128"/>

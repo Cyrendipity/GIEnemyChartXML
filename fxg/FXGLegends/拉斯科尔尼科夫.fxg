@@ -74,9 +74,9 @@
 				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="56" y="756" width="444" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="56" y="756" width="482" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1136930 <span color="#dddddd">(20.5F)</span><span color="#ff9999"> 21.31%</span></p>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1270931 <span color="#dddddd">(22.916F)</span><span color="#ff9999"> 23.82%</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#ffb399" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>

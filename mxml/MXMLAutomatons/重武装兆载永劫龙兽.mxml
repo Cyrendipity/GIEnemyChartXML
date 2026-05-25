@@ -43,113 +43,108 @@
 		}
 		.textStyle9 {
 			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
-			color:#BFDFFF;
-		}
-		.textStyle10 {
-			fontFamily:TsangerYuYangT-W03;
 			fontSize:40;
 			color:#FFFFFF;
 		}
-		.textStyle11 {
+		.textStyle10 {
 			fontFamily:RTWSYueRoudGoG0v1-Regular;
 			fontSize:24;
 			color:#96673D;
 		}
-		.textStyle12 {
+		.textStyle11 {
 			fontFamily:TsangerYuYangT-W03;
 			fontSize:16;
 			color:#FFFFFF;
 		}
-		.textStyle13 {
+		.textStyle12 {
 			fontFamily:TsangerYuYangT-W04;
 			fontSize:40;
 			color:#F9C9A5;
 		}
-		.textStyle14 {
+		.textStyle13 {
 			fontFamily:SDK_SC_Web-Regular;
 			fontSize:20;
 			color:#F8C9A5;
 		}
-		.textStyle15 {
+		.textStyle14 {
 			fontFamily:SDK_SC_Web-65W;
 			fontSize:25;
 			color:#FF9999;
 		}
-		.textStyle16 {
+		.textStyle15 {
 			fontFamily:SDK_SC_Web-65W;
 			fontSize:25;
 			color:#80C0FF;
 		}
-		.textStyle17 {
+		.textStyle16 {
 			fontFamily:SDK_SC_Web-65W;
 			fontSize:25;
 			color:#7FFFD7;
+		}
+		.textStyle17 {
+			fontFamily:SDK_SC_Web-65W;
+			fontSize:25;
+			color:#FFACFF;
 		}
 		.textStyle18 {
 			fontFamily:SDK_SC_Web-65W;
 			fontSize:25;
-			color:#FFACFF;
+			color:#99FF88;
 		}
 		.textStyle19 {
 			fontFamily:SDK_SC_Web-65W;
 			fontSize:25;
-			color:#99FF88;
+			color:#99FFFF;
 		}
 		.textStyle20 {
 			fontFamily:SDK_SC_Web-65W;
 			fontSize:25;
-			color:#99FFFF;
+			color:#FFE699;
 		}
 		.textStyle21 {
 			fontFamily:SDK_SC_Web-65W;
 			fontSize:25;
-			color:#FFE699;
-		}
-		.textStyle22 {
-			fontFamily:SDK_SC_Web-65W;
-			fontSize:25;
 			color:#EBE5D8;
 		}
-		.textStyle23 {
+		.textStyle22 {
 			fontFamily:RTWSYueRoudGoG0v1-Regular;
 			fontSize:24;
 			color:#FFFFFF;
 		}
+		.textStyle23 {
+			fontFamily:TsangerYuYangT-W01;
+			fontSize:20;
+			color:#FFACFF;
+		}
 		.textStyle24 {
-			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
+			fontFamily:TsangerYuYangT-W01;
+			fontSize:20;
 			color:#FF9999;
 		}
 		.textStyle25 {
-			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
-			color:#FFACFF;
-		}
-		.textStyle26 {
-			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
+			fontFamily:TsangerYuYangT-W01;
+			fontSize:20;
 			color:#99FF85;
 		}
-		.textStyle27 {
-			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
-			color:#7FBFFF;
-		}
-		.textStyle28 {
-			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
+		.textStyle26 {
+			fontFamily:TsangerYuYangT-W01;
+			fontSize:20;
 			color:#99FFFF;
 		}
-		.textStyle29 {
-			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
-			color:#7FFFD7;
-		}
-		.textStyle30 {
-			fontFamily:TsangerYuYangT-W03;
-			fontSize:24;
+		.textStyle27 {
+			fontFamily:TsangerYuYangT-W01;
+			fontSize:20;
 			color:#FFE599;
+		}
+		.textStyle28 {
+			fontFamily:TsangerYuYangT-W01;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle29 {
+			fontFamily:TsangerYuYangT-W01;
+			fontSize:20;
+			color:#7FFFD7;
 		}
 	</mx:Style>
 	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
@@ -184,35 +179,34 @@
 	<mx:Image source="Image16.png" x="1248" y="598" width="168" height="170"/>
 	<mx:Text styleName="textStyle8" x="1408" y="672" width="448" alpha="0.9" text="兆载龙兽使用双翼分别朝地面砸去，均造成75%伤害，每个翼落地后还将在外圈产生冲击波，造成100%伤害。"/>
 	<mx:Text styleName="textStyle8" x="736" y="1120" width="448" alpha="0.9" text="兆载龙兽暴露头部弱点，汲取元素锚栓的力量，向空中抛出20枚散弹，造成对应元素的100%,30%,10%伤害，每个散弹有33%概率留下元素氛，之后转换空地巡状态，降落地面造成30%伤害。"/>
-	<mx:Text styleName="textStyle9" x="1317" y="1088" width="54" alpha="0.9" text="元素氛如右对应元素的"/>
 	<mx:Text styleName="textStyle8" x="736" y="1375" width="1024" alpha="0.9" text="施放「散落洪流」前，会立即吸收元素填充元素螺栓，使该次技能附上元素伤害，元素的种类以上一周期所受总和最高的伤害为准(物伤则无属性)，不吸收附着的元素。元素吸收完毕后该元素抗性+60%，提升的抗性仅能通过吸收其他属性来转移。"/>
-	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="重式机枪-远程	空巡"/>
-	<mx:Text styleName="textStyle10" x="736" y="384" width="448" text="高效打击-锁定	空巡"/>
-	<mx:Text styleName="textStyle10" x="736" y="608" width="448" text="开岩碎土-输出	地巡"/>
-	<mx:Text styleName="textStyle10" x="736" y="832" width="448" text="尾链牵旋-防卫	地巡"/>
-	<mx:Text styleName="textStyle10" x="1408" y="832" width="448" text="震击荡波-警戒	地巡"/>
-	<mx:Text styleName="textStyle10" x="1408" y="608" width="448" text="磅沉拓石-输出	地巡"/>
-	<mx:Text styleName="textStyle10" x="736" y="1056" width="448" text="散落湍流-爆发"/>
-	<mx:Text styleName="textStyle10" x="736" y="1311" width="448" text="能量泄溢-天赋"/>
-	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="尾行摩托-位移	空巡"/>
-	<mx:Text styleName="textStyle10" x="1408" y="384" width="448" text="低空游巡-位移	地巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="重式机枪-远程	空巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="384" width="448" text="高效打击-锁定	空巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="608" width="448" text="开岩碎土-输出	地巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="832" width="448" text="尾链牵旋-防卫	地巡"/>
+	<mx:Text styleName="textStyle9" x="1408" y="832" width="448" text="震击荡波-警戒	地巡"/>
+	<mx:Text styleName="textStyle9" x="1408" y="608" width="448" text="磅沉拓石-输出	地巡"/>
+	<mx:Text styleName="textStyle9" x="736" y="1056" width="448" text="散落湍流-爆发"/>
+	<mx:Text styleName="textStyle9" x="736" y="1311" width="448" text="能量泄溢-天赋"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="尾行摩托-位移	空巡"/>
+	<mx:Text styleName="textStyle9" x="1408" y="384" width="448" text="低空游巡-位移	地巡"/>
 	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="靠近兆载龙兽时，兆载龙兽用尾部齿轮碾过，暴露头部弱点，造成60%伤害，若命中玩家则立即扫尾造成60%伤害。"/>
 	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" alpha="0.9" text="兆载龙兽朝玩家冲来，暴露头部弱点，冲刺命中造成75%伤害，若命中玩家则立即扫尾造成75%伤害。"/>
-	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
-	<mx:Text styleName="textStyle12" x="64" y="1260" width="448" alpha="0.75" text="元素锚栓：吸收元素后，增加60%该元素抗性。轻巡武装：升空后提供的护盾，2次特化次数盾，击破任意弱点-1次，耗尽后落地。重胄武装：升空后提供的护盾，不定次特化次数盾，击破双翼弱点需6次，击破头、胸弱点需3次，耗尽后落地。"/>
-	<mx:Text styleName="textStyle13" x="64" y="736" width="416" text="永续永动·Gl-Faf"/>
-	<mx:Text styleName="textStyle14" x="64" y="779" width="395" alpha="0.75" text="Perpetual Motion GL-Faf"/>
-	<mx:Text styleName="textStyle15" x="64" y="1210" width="64" text="10"/>
-	<mx:Text styleName="textStyle16" x="124" y="1210" width="64" text="10"/>
-	<mx:Text styleName="textStyle17" x="184" y="1210" width="64" text="10"/>
-	<mx:Text styleName="textStyle18" x="244" y="1210" width="64" text="10"/>
-	<mx:Text styleName="textStyle19" x="304" y="1210" width="64" text="10"/>
-	<mx:Text styleName="textStyle20" x="364" y="1210" width="64" text="10"/>
-	<mx:Text styleName="textStyle21" x="424" y="1210" width="64" text="10"/>
-	<mx:Text styleName="textStyle22" x="484" y="1210" width="64" text="70"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="64" y="1260" width="448" alpha="0.75" text="元素锚栓：吸收元素后，增加60%该元素抗性。轻巡武装：升空后提供的护盾，2次特化次数盾，击破任意弱点-1次，耗尽后落地。重胄武装：升空后提供的护盾，不定次特化次数盾，击破双翼弱点需6次，击破头、胸弱点需3次，耗尽后落地。"/>
+	<mx:Text styleName="textStyle12" x="64" y="736" width="416" text="永续永动·Gl-Faf"/>
+	<mx:Text styleName="textStyle13" x="64" y="779" width="395" alpha="0.75" text="Perpetual Motion GL-Faf"/>
+	<mx:Text styleName="textStyle14" x="64" y="1210" width="64" text="10"/>
+	<mx:Text styleName="textStyle15" x="124" y="1210" width="64" text="10"/>
+	<mx:Text styleName="textStyle16" x="184" y="1210" width="64" text="10"/>
+	<mx:Text styleName="textStyle17" x="244" y="1210" width="64" text="10"/>
+	<mx:Text styleName="textStyle18" x="304" y="1210" width="64" text="10"/>
+	<mx:Text styleName="textStyle19" x="364" y="1210" width="64" text="10"/>
+	<mx:Text styleName="textStyle20" x="424" y="1210" width="64" text="10"/>
+	<mx:Text styleName="textStyle21" x="484" y="1210" width="64" text="70"/>
 	<mx:Image source="Image17.png" x="64" y="1193" width="484" height="60"/>
-	<mx:Text styleName="textStyle23" x="0" y="1132" width="64" text="起身/升空"/>
-	<mx:Text styleName="textStyle23" x="0" y="1211" width="64" text="正常"/>
+	<mx:Text styleName="textStyle22" x="0" y="1132" width="64" text="起身/升空"/>
+	<mx:Text styleName="textStyle22" x="0" y="1211" width="64" text="正常"/>
 	<mx:Image source="Image18.png" x="64" y="256" width="256" height="256"/>
 	<mx:Image source="Image19.png" x="576" y="150" width="168" height="170"/>
 	<mx:Image source="Image20.png" x="1248" y="150" width="168" height="170"/>
@@ -222,11 +216,18 @@
 	<mx:Image source="Image24.png" x="576" y="822" width="168" height="170"/>
 	<mx:Image source="Image25.png" x="576" y="1048" width="168" height="168"/>
 	<mx:Image source="Image26.png" x="576" y="1303" width="168" height="168"/>
-	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" styleName="textStyle24" x="1408" y="1056" width="800" text="火：留下大片熔岩，持续造成50%伤害。"/>
-	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心2" styleName="textStyle25" x="1408" y="1152" width="800" text="雷：产生交闪雷叉，造成50%伤害。"/>
-	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心3" styleName="textStyle26" x="1408" y="1120" width="800" text="草：留下一片毒雾，持续造成50%伤害。"/>
-	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心4" styleName="textStyle27" x="1408" y="1088" width="800" text="水：留下湍急水涡，持续造成50%伤害。"/>
-	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心5" styleName="textStyle28" x="1408" y="1184" width="800" text="冰：留下冰霜地面，持续造成50%伤害。"/>
-	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心6" styleName="textStyle29" x="1408" y="1216" width="800" text="风：留下牵引风涡，持续造成50%伤害。"/>
-	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心7" styleName="textStyle30" x="1408" y="1248" width="800" text="岩：产生震荡地波，造成50%伤害。"/>
+	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" styleName="textStyle23" x="1392" y="1152" width="500" text="雷：产生交闪雷叉，造成50%伤害。"/>
+	<mx:Image source="Image27.png" x="1324" y="1131" width="72" height="74"/>
+	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心2" styleName="textStyle24" x="1392" y="1024" width="500" text="火：留下大片熔岩，持续造成50%伤害。"/>
+	<mx:Image source="Image28.png" x="1324" y="1004" width="72" height="72"/>
+	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心3" styleName="textStyle25" x="1392" y="1109" width="500" text="草：留下一片毒雾，持续造成50%伤害。"/>
+	<mx:Image source="Image29.png" x="1324" y="1089" width="72" height="72"/>
+	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心4" styleName="textStyle26" x="1392" y="1195" width="500" text="冰：留下冰霜地面，持续造成50%伤害。"/>
+	<mx:Image source="Image30.png" x="1324" y="1175" width="72" height="72"/>
+	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心5" styleName="textStyle27" x="1392" y="1280" width="500" text="岩：产生震荡地波，造成50%伤害。"/>
+	<mx:Image source="Image31.png" x="1324" y="1260" width="72" height="72"/>
+	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心6" styleName="textStyle28" x="1392" y="1066" width="500" text="水：留下湍急水涡，持续造成50%伤害。"/>
+	<mx:Image source="Image32.png" x="1324" y="1047" width="72" height="72"/>
+	<mx:Text id="●兆载龙兽暴露头部和胸部弱点，使用胸部核心7" styleName="textStyle29" x="1392" y="1237" width="500" text="风：留下牵引风涡，持续造成50%伤害。"/>
+	<mx:Image source="Image33.png" x="1324" y="1217" width="72" height="72"/>
 </mx:Application>

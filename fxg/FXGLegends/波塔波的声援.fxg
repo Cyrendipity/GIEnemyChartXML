@@ -46,25 +46,25 @@
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="56" y="756" width="349" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="56" y="756" width="460" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 54876 <span color="#dddddd">(21.019B1)</span></p>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 3193152 <span color="#dddddd">(57.576F) </span><span color="#99ffff">51/76</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="58" y="531" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="325" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="58" y="531" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">地方传奇-「敌灵身」 Lv.103 Data</p>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">地方传奇 Lv.103 Data</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="58" y="723" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="285" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="56" y="722" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="220" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">友方-「佑灵身」 Lv.103 Data</p>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">秘影重现 Lv.100 Data</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -78,9 +78,9 @@
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="58" y="804" width="326" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="58" y="804" width="378" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 26108<span color="#dddddd"> (10.0B2)</span></p>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 17728<span color="#dddddd"> (7.2B2) </span><span color="#99ffff">80%</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -249,9 +249,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/波塔波的声援.assets/Image_32.png')" x="64" y="64" blendMode="normal">
 		</BitmapImage>
-		<RichText x="66" y="1104" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="406" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="73" y="1104" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="403" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">秘影重现版本：生命值：57.5758(F)，攻击力：7.2(B2)</p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">「佑灵身」：生命值：21.0191(B1)，攻击力：10.0(B2)</p>
 			</content>
 		</RichText>
 	</Group>

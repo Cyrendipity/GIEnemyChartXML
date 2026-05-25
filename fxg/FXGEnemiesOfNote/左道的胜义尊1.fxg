@@ -191,17 +191,17 @@
 		</BitmapImage>
 		<RichText x="738" y="223" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士背身，立即用右手蓄力，立即在前方区域散布满地的冰棘，造成<span color="#99ffff">80%</span><span>伤害，通常为「莫要应规昏聩」技能的后随。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷背身，立即用右手蓄力，立即在前方区域散布满地的冰棘，造成<span color="#99ffff">80%</span><span>伤害，通常为「莫要应规昏聩」技能的后随。</span></p>
 			</content>
 		</RichText>
-		<RichText x="738" y="671" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="671" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，博士升空，并在玩家附近生成3处环形扇区，依次爆发，均造成<span color="#99ffff">55%</span><span>攻击力的伤害。通常后随「刻下寒与伤」。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，<span>多托雷</span><span>升空，并在玩家附近生成3处环形扇区，依次爆发，均造成</span><span color="#99ffff">55%</span><span>攻击力的伤害。通常后随「刻下寒与伤」。</span><span>当</span><span>生命值低于</span><span color="#ffdfbf">70%</span><span>时施放。</span></p>
 			</content>
 		</RichText>
 		<RichText x="1410" y="895" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士站在中间，双手一挥，两侧立即出现「缩压墙幕」，随后两墙进行夹击，触碰墙体造成<span color="#99ffff">100%</span><span>伤害。通常后随「具象苦与痛」或「负担必将抛却」。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>站在中间，双手一挥，两侧立即出现「缩压墙幕」，随后两墙进行夹击，触碰墙体造成</span><span color="#99ffff">100%</span><span>伤害。通常后随「具象苦与痛」或「负担必将抛却」。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_20.png')" x="718" y="137">
@@ -212,19 +212,19 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_23.png')" x="1391" y="809">
 		</BitmapImage>
-		<RichText x="1410" y="223" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="223" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士使用右手朝玩家方向直线生成5枚1排的探针，五枚探针分别造成<span color="#ffacff">25%,30%,<br/>35%,45%,55%</span><span>伤害，当博士生命值低于</span><span color="#ffdfbf">70%</span><span>时，探针数量变为3排。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>使用右手朝玩家方向直线生成5枚1排的探针，五枚探针分别造成</span><span color="#ffacff">25%,<br/>30%,35%,45%,55%</span><span>伤害，当</span><span>多托雷</span><span>生命值低于</span><span color="#ffdfbf">70%</span><span>时，探针数量变为3排。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="671" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1411" y="671" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士立即使用右手用力敲击地面，在方形区域内产生扩散阵列，造成<span color="#ffacff">75%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>立即使用右手用力敲击地面，在方形区域内产生扩散阵列，造成</span><span color="#ffacff">75%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<RichText x="1410" y="447" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士闪现至半空，并立即发射废弃数据团，造成<span color="#ffacff">80%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>闪现至半空，并立即发射废弃数据团，造成</span><span color="#ffacff">80%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_24.png')" x="1392" y="137">
@@ -233,24 +233,24 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_26.png')" x="1393" y="361">
 		</BitmapImage>
-		<RichText x="738" y="447" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="447" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，博士操纵异步数据团，在远处发射2团数据垃圾，均造成<span color="#b8b8b8">65%</span><span>伤害，大概率后随「莫要</span><span fontFamily="HP Simplified Hans">㧑</span><span>卑威权」。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，<span>多托雷</span><span>操纵异步数据团，在远处发射2团数据垃圾，均造成</span><span color="#b8b8b8">65%</span><span>伤害，大概率后随「莫要</span><span fontFamily="HP Simplified Hans">㧑</span><span>卑威权」。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="1119" fontFamily="仓耳渔阳体 W03" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="436" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="1119" width="436" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远且博士不使用正常闪现连招时，博士立即化身能量团并进行z字位移到达玩家身旁。</p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远且<span>多托雷</span><span>不使用正常闪现连招时，</span><span>多托雷</span><span>立即化身能量团并进行z字位移到达玩家身旁。</span></p>
 			</content>
 		</RichText>
 		<RichText x="738" y="1343" width="442" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当博士处于闲置状态时，其韧性低可击退，若在5s内连续击退博士<span color="#ffdfbf">2</span><span>次，将会使其立即闪现施放其他技能。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">当<span>多托雷</span><span>处于闲置状态时，其韧性低可击退，若在5s内连续击退</span><span>多托雷</span><span color="#ffdfbf">2</span><span>次，将会使其立即闪现施放其他技能。</span></p>
 			</content>
 		</RichText>
 		<RichText x="738" y="1119" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于博士侧方时，博士突然闪现，在原地迅速回转刷新一圈，造成<span color="#99ffff">70%</span><span>伤害。<br/>极难触发。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于<span>多托雷</span><span>侧方时，</span><span>多托雷</span><span>突然闪现，在原地迅速回转刷新一圈，造成</span><span color="#99ffff">70%</span><span>伤害。极难触发。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_27.png')" x="719" y="361">
@@ -259,9 +259,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_29.png')" x="720" y="1258">
 		</BitmapImage>
-		<RichText x="738" y="895" width="423" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="739" y="895" width="422" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">博士打个响指，在自身后方处产生一面橙色防火墙体，内部的漏洞块短时间内持续向前飞出，接触造成<span color="#ff9999">85%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">多托雷<span>打个响指，在自身后方处产生一面橙色防火墙体，内部的漏洞块短时间内持续向前飞出，接触造成</span><span color="#ff9999">85%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_30.png')" x="719" y="810">
@@ -304,9 +304,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_49.png')" x="1248" y="374" blendMode="normal">
 		</BitmapImage>
-		<RichText x="66" y="1136" width="406" height="154" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="66" y="1136" width="422" height="154" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">低于<span color="#ffdfbf">70%生命值</span><span>时，博士部分技能得到强化，并加强连招：<br/>「应规昏聩」-&gt;「寒与伤」；<br/>「寒与伤」-&gt;「负担」；<br/>「樊笼」-&gt;「</span><span fontFamily="HP Simplified Hans">㧑</span><span>卑威权」；<br/>「苦与痛」-&gt;「寒与伤」；(</span><span fontFamily="宋体" color="#ffdfbf">≥</span><span color="#ffdfbf">70%</span><span>)<br/>「抹灭解脱」-&gt;「苦与痛」；(</span><span fontFamily="宋体" color="#ffdfbf">≥</span><span color="#ffdfbf">70%</span><span>)<br/>「苦与痛」-&gt;「苦与痛」-&gt;「寒与伤」；( </span><span color="#ffdfbf">&lt;70%</span><span>)<br/>「抹灭解脱」-&gt;「负担」-&gt;「苦与痛」；( </span><span color="#ffdfbf">&lt;70%</span><span>)</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">低于<span color="#ffdfbf">70%生命值</span><span>时，多托雷部分技能得到强化，并加强连招：<br/>「应规昏聩」-&gt;「寒与伤」；</span><span>( </span><span color="#ffdfbf">&lt;70%</span><span>)<br/></span><span>「寒与伤」-&gt;「负担」；<br/>「樊笼」-&gt;「</span><span fontFamily="HP Simplified Hans">㧑</span><span>卑威权」；<br/>「苦与痛」-&gt;「寒与伤」；(</span><span fontFamily="宋体" color="#ffdfbf">≥</span><span color="#ffdfbf">70%</span><span>)<br/>「抹灭解脱」-&gt;「苦与痛」；(</span><span fontFamily="宋体" color="#ffdfbf">≥</span><span color="#ffdfbf">70%</span><span>)<br/>「苦与痛」-&gt;「苦与痛」-&gt;「寒与伤」；( </span><span color="#ffdfbf">&lt;70%</span><span>)<br/>「抹灭解脱」-&gt;「负担」-&gt;「苦与痛」；( </span><span color="#ffdfbf">&lt;70%</span><span>)</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/左道的胜义尊1.assets/Image_50.png')" x="596" y="1291" blendMode="normal">

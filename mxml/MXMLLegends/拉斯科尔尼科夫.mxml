@@ -78,7 +78,7 @@
 	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
 	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 26108 (10.0B2)"/>
 	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
-	<mx:Text styleName="textStyle5" x="64" y="768" width="447" text="HP: 1136930 (20.5F) 21.31%"/>
+	<mx:Text styleName="textStyle5" x="64" y="768" width="493" text="HP: 1270931 (22.916F) 23.82%"/>
 	<mx:Text styleName="textStyle6" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
 	<mx:Text styleName="textStyle5" x="64" y="816" width="375" text="ATK: 12311 (5.0B2) 50%"/>
 	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 150/210"/>

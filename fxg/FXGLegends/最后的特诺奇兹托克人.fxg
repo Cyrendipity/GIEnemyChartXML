@@ -343,9 +343,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/最后的特诺奇兹托克人.assets/Image_34.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<RichText x="61" y="728" width="403" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="61" y="728" width="400" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1064832 <span color="#dddddd">(19.2F)</span><span color="#ffacff"> 8/35</span></p>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 1109200 <span color="#dddddd">(20.0F)</span><span color="#ffacff"> 5/21</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#eebbff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>

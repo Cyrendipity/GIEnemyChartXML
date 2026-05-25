@@ -69,11 +69,11 @@
 	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
 	<mx:Text styleName="textStyle2" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
 	<mx:Text styleName="textStyle3" x="64" y="576" width="364" text="HP: 9262136 (152.0F)"/>
-	<mx:Text styleName="textStyle3" x="64" y="768" width="364" text="HP: 54876 (21.019B1)"/>
-	<mx:Text styleName="textStyle4" x="64" y="544" width="305" alpha="0.75" text="地方传奇-「敌灵身」 Lv.103 Data"/>
-	<mx:Text styleName="textStyle4" x="64" y="736" width="305" alpha="0.75" text="友方-「佑灵身」 Lv.103 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="768" width="484" text="HP: 3193152 (57.576F) 51/76"/>
+	<mx:Text styleName="textStyle4" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="736" width="305" alpha="0.75" text="秘影重现 Lv.100 Data"/>
 	<mx:Text styleName="textStyle3" x="64" y="624" width="375" text="ATK: 23497 (9.0B2)"/>
-	<mx:Text styleName="textStyle3" x="64" y="816" width="375" text="ATK: 26108 (10.0B2)"/>
+	<mx:Text styleName="textStyle3" x="64" y="816" width="375" text="ATK: 17728 (7.2B2) 80%"/>
 	<mx:Text styleName="textStyle3" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
 	<mx:Text styleName="textStyle3" x="64" y="864" width="375" text="Wt/Ed: 150/210"/>
 	<mx:Image source="Image10.png" x="64" y="973" width="484" height="124"/>
@@ -100,5 +100,5 @@
 	<mx:Image source="Image15.png" x="576" y="150" width="168" height="170"/>
 	<mx:Image source="Image16.png" x="1248" y="726" width="168" height="170"/>
 	<mx:Image source="Image17.png" x="64" y="64" width="256" height="256"/>
-	<mx:Text styleName="textStyle11" x="64" y="1104" width="448" alpha="0.75" text="秘影重现版本：生命值：57.5758(F)，攻击力：7.2(B2)"/>
+	<mx:Text styleName="textStyle11" x="64" y="1104" width="448" alpha="0.75" text="「佑灵身」：生命值：21.0191(B1)，攻击力：10.0(B2)"/>
 </mx:Application>

@@ -79,7 +79,7 @@
 	<mx:Text styleName="textStyle9" x="1408" y="416" width="448" text="燃气毒种-远程"/>
 	<mx:Text styleName="textStyle9" x="1408" y="672" width="448" text="繁盛之草-天赋"/>
 	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="大型草史莱姆起跳，重重下落，造成100%伤害。背对埋伏的大型草史莱姆也会触发此技能，诱导其离开地下。强攻强化：该技能的使用更加频繁。"/>
-	<mx:Text styleName="textStyle8" x="1408" y="480" width="448" alpha="0.9" text="大型草史莱姆扔出3个毒草种，停留于地面，接触持续造成10%伤害，这些草种遇火则发生爆炸，造成100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="480" width="448" alpha="0.9" text="大型草史莱姆扔出3个毒草种，停留于地面，接触持续造成10%伤害，这些草种遇风元素攻击会被驱散消失，遇火元素攻击则发生爆炸，造成100%伤害。"/>
 	<mx:Text styleName="textStyle8" x="1408" y="736" width="448" alpha="0.9" text="大型草史莱姆一般躲在地下，背对它或使用火元素攻击均可唤出。其初始附属蔷花，不会再生。当蔷花被火元素引燃时，大型草史莱姆会不断尝试掐灭火焰，有概率成功。"/>
 	<mx:Image source="Image4.png" x="1268" y="683" width="128" height="128"/>
 	<mx:Image source="Image5.png" x="1248" y="662" width="168" height="170"/>

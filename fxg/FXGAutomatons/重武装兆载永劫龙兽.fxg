@@ -203,11 +203,6 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">兆载龙兽<span color="#ffcebf">暴露头部弱点</span><span>，汲取</span><span textDecoration="underline">元素锚栓</span><span>的力量，向空中抛出20枚散弹，造成对应元素的</span><span color="#d8ffcc">100%,30%,10%</span><span>伤害，每个散弹有</span><span color="#ffcebf">33%</span><span>概率留下</span><span color="#bfdfff">元素氛</span><span>，之后转换空地巡状态，降落地面造成</span><span color="#b9b9b9">30%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1319" y="1108" width="53" height="160" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
-			<content>
-				<p textAlign="center" direction="rtl" blockProgression= "rl" fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#bfdfff">元素氛<span color="#ffffff">如右<br/>对应元素的</span></p>
-			</content>
-		</RichText>
 		<RichText x="738" y="1374" width="998" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">施放「散落洪流」前，会立即吸收元素填充元素螺栓，使该次技能附上元素伤害，元素的种类以<span color="#ffebbf">上一周期</span><span>所受</span><span color="#ffbfbf">总和最高</span><span>的</span><span color="#ffeebf">伤害</span><span>为准</span><span color="#ffeebf">(物伤则无属性)</span><span>，</span><span color="#ffbfbf">不吸收附着的元素</span><span>。元素吸收完毕后该元素抗性</span><span color="#ffbfbf">+60%</span><span>，提升的抗性仅能通过吸收其他属性来转移。</span></p>
@@ -339,40 +334,54 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_45.png')" x="576" y="1303" blendMode="normal">
 		</BitmapImage>
-		<RichText x="1410" y="1055" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="1396" y="1152" width="319" height="24" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ff9999">火：<span color="#ffffff">留下大片熔岩，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W01" fontSize="20" fontWeight="bold" color="#ffacff">雷：<span color="#ffffff">产生交闪雷叉，造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1411" y="1151" width="383" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_47.png')" x="1324" y="1131">
+		</BitmapImage>
+		<RichText x="1394" y="1024" width="363" height="24" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffacff">雷：<span color="#ffffff">产生交闪雷叉，造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W01" fontSize="20" fontWeight="bold" color="#ff9999">火：<span color="#ffffff">留下大片熔岩，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="1119" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_49.png')" x="1324" y="1004">
+		</BitmapImage>
+		<RichText x="1394" y="1109" width="363" height="24" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ff85">草：<span color="#ffffff">留下一片毒雾，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W01" fontSize="20" fontWeight="bold" color="#99ff85">草：<span color="#ffffff">留下一片毒雾，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="1087" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_51.png')" x="1324" y="1089">
+		</BitmapImage>
+		<RichText x="1394" y="1195" width="363" height="24" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#7fbfff">水：<span color="#ffffff">留下湍急水涡，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W01" fontSize="20" fontWeight="bold" color="#99ffff">冰：<span color="#ffffff">留下冰霜地面，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="1183" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_53.png')" x="1324" y="1175">
+		</BitmapImage>
+		<RichText x="1394" y="1280" width="321" height="24" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#99ffff">冰：<span color="#ffffff">留下冰霜地面，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W01" fontSize="20" fontWeight="bold" color="#ffe599">岩：<span color="#ffffff">产生震荡地波，造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="1215" width="434" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_55.png')" x="1324" y="1260">
+		</BitmapImage>
+		<RichText x="1394" y="1066" width="363" height="24" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#7fffd7">风：<span color="#ffffff">留下牵引风涡，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W01" fontSize="20" fontWeight="bold" color="#7fbfff">水：<span color="#ffffff">留下湍急水涡，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1410" y="1247" width="384" height="28" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_57.png')" x="1324" y="1047">
+		</BitmapImage>
+		<RichText x="1394" y="1237" width="363" height="24" d:userLabel="●兆载龙兽暴露头部和胸部弱点，使用胸部核心" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffe599">岩：<span color="#ffffff">产生震荡地波，造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W01" fontSize="20" fontWeight="bold" color="#7fffd7">风：<span color="#ffffff">留下牵引风涡，持续造成</span><span>50%</span><span color="#ffffff">伤害。</span></p>
 			</content>
 		</RichText>
+		<BitmapImage source="@Embed('/重武装兆载永劫龙兽.assets/Image_59.png')" x="1324" y="1217">
+		</BitmapImage>
 	</Group>
 </Graphic>

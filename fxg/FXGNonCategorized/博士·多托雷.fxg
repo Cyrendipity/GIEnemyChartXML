@@ -10,9 +10,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_2.png')" x="0" y="0" blendMode="normal">
 		</BitmapImage>
-		<RichText x="64" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="189" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="92" y="368" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="287" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">博士</p>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">「博士」</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -206,37 +206,37 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">于此锢身：4次特化盾，需俘游机关攻击4次破坏。<br/>独立浮游机关：<span color="#7fbfff">40水</span><span>盾，但触发一次</span><span color="#ffacff">月感电</span><span>/</span><span color="#99ff86">月绽放</span><span>后立即被转化为俘游机关，并朝博士攻击。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_17.png')" x="64" y="64" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_17.png')" x="596" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_18.png')" x="596" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_18.png')" x="1268" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_19.png')" x="1268" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_19.png')" x="1268" y="747" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_20.png')" x="1268" y="747" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_20.png')" x="596" y="459" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_21.png')" x="596" y="459" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_21.png')" x="596" y="747" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_22.png')" x="596" y="747" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_22.png')" x="1268" y="459" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_23.png')" x="1268" y="459" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_23.png')" x="719" y="714">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_24.png')" x="719" y="714">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_24.png')" x="1391" y="713">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_25.png')" x="1391" y="713">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_25.png')" x="1392" y="137">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_26.png')" x="1392" y="137">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_26.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_27.png')" x="576" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_27.png')" x="576" y="438" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_28.png')" x="576" y="438" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_28.png')" x="1248" y="438" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_29.png')" x="1248" y="438" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_29.png')" x="576" y="726" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_30.png')" x="576" y="726" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_30.png')" x="1248" y="726" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_31.png')" x="1248" y="726" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_31.png')" x="1248" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_32.png')" x="1248" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/博士%B7多托雷.assets/Image_32.png')" x="64" y="68" blendMode="normal">
 		</BitmapImage>
 	</Group>
 </Graphic>
