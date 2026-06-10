@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle16 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#A28631;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF9673;
+		}
+		.textStyle18 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle19 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="102" width="666" height="628"/>
+	<mx:Text styleName="textStyle" x="401" y="32" width="1092" text="开眼者·傲然睥睨"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="608" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WP[75,50,25] WO[75,50,25,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：28.630F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：8.0B2"/>
+	<mx:Text styleName="textStyle5" x="625" y="128" width="640" alpha="0.75" text="The Open-Eyed: Overbearing Contempt"/>
+	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="128" y="500" width="484" height="60"/>
+	<mx:Text styleName="textStyle3" x="64" y="336" width="64" text="正常"/>
+	<mx:Text styleName="textStyle6" x="64" y="392" width="64" text="记录(N5)"/>
+	<mx:Text styleName="textStyle6" x="64" y="452" width="64" text="岩星(N4)"/>
+	<mx:Text styleName="textStyle6" x="64" y="512" width="64" text="岩星(N3)"/>
+	<mx:Image source="Image7.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="128" y="256" width="484" height="64"/>
+	<mx:Text styleName="textStyle7" x="64" y="832" width="154" text="元素星："/>
+	<mx:Text styleName="textStyle7" x="64" y="672" width="128" text="监候之统摄："/>
+	<mx:Text styleName="textStyle8" x="64" y="858" width="512" alpha="0.9" text="由守望者大招召唤，每个元素星的生命值为守望者的1/6；活性元素星免疫对应属性伤害；惰性岩元素星全抗80%;破坏第1/2颗元素星将对守望者造成2段3%/2段9%生命值的对应元素真伤(仅暴击的一段有附着)。(N4) 惰性岩元素星全抗提升至140%;(N4) 若守望者召唤了两枚不同的元素星，则它们的生命值将降至守望者的1/15。"/>
+	<mx:Text styleName="textStyle8" x="64" y="698" width="512" alpha="0.9" text="大招之前会施放2次，每次会分别记录火/水/雷/冰的攻击次数，首次施放时，当某一元素次数达3次时，即为记录完成，并作为元素星的属性储存，记录时间为5s；若第二次记录的元素与首次相同，则需要9次攻击才能被记录。(N5) 整个技能期间的全抗+70%，且两次记录的次数需求提升至5次/15次；进入第二次记录的间隔大幅缩短，第二次的记录时间延长至8s。"/>
+	<mx:Image source="Image9.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle9" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle10" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle11" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle12" x="640" y="704" width="160" text="1274598"/>
+	<mx:Text styleName="textStyle12" x="800" y="704" width="160" text="6351186"/>
+	<mx:Text styleName="textStyle12" x="960" y="704" width="160" text="13402598"/>
+	<mx:Text styleName="textStyle13" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle13" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle13" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle14" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle14" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle15" x="960" y="736" width="160" alpha="0.6" text="× 7.3"/>
+	<mx:Text styleName="textStyle12" x="1120" y="704" width="160" text="28135427"/>
+	<mx:Text styleName="textStyle13" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle15" x="1120" y="736" width="160" alpha="0.6" text="× 14.0"/>
+	<mx:Text styleName="textStyle12" x="640" y="768" width="160" text="15225"/>
+	<mx:Text styleName="textStyle12" x="960" y="768" width="160" text="21681"/>
+	<mx:Text styleName="textStyle12" x="800" y="768" width="160" text="19698"/>
+	<mx:Text styleName="textStyle12" x="1120" y="768" width="160" text="23222"/>
+	<mx:Text styleName="textStyle16" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image10.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle9" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image11.png" x="655" y="847" width="98" height="99"/>
+	<mx:Text styleName="textStyle17" x="640" y="938" width="128" alpha="0.6" text="Melt Adv."/>
+	<mx:Text styleName="textStyle17" x="800" y="938" width="128" alpha="0.6" text="Evaporate Adv."/>
+	<mx:Image source="Image12.png" x="815" y="847" width="98" height="99"/>
+	<mx:Text styleName="textStyle18" x="1536" y="544" width="448" alpha="0.9" text="守望者移至场地中央，并进行蓄力，同时召唤2枚元素星，18s后，将根据场上剩余的元素星，召唤对应天谴之矛，依次造成对应元素的100%伤害。(N4) 若守望者召唤了异色的两个元素星，则它们的生命值将由守望者的1/6降至1/15。(N5) 守望者的天谴之矛将造成对应元素的300%伤害。"/>
+	<mx:Text styleName="textStyle19" x="1536" y="480" width="448" text="现象之谵妄-爆发"/>
+	<mx:Image source="Image13.png" x="1396" y="492" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1376" y="471" width="168" height="169"/>
+	<mx:Text styleName="textStyle18" x="1536" y="288" width="448" alpha="0.9" text="守望者将长矛先转一圈，造成40%伤害，随后立即进入监候之统摄状态，持续5s；记录完毕后/未成功记录 将造成对应元素/岩元素的68%伤害。累计施放2次后立即准备大招「现象之谵妄」。(N5) 记录期间的全抗+70%，且记录次数提升，第二次记录的时间提升至8s。"/>
+	<mx:Text styleName="textStyle19" x="1536" y="224" width="448" text="监摄之神筑-反击"/>
+	<mx:Image source="Image15.png" x="1396" y="235" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1376" y="215" width="168" height="169"/>
+	<mx:Image source="Image17.png" x="827" y="863" width="75" height="66"/>
+	<mx:Image source="Image18.png" x="667" y="862" width="75" height="69"/>
+</mx:Application>

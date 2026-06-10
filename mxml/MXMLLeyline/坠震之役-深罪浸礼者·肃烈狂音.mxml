@@ -4,7 +4,7 @@
 		Label {
 			fontFamily:MiSans-Bold;
 			fontSize:72;
-			color:#FF7373;
+			color:#FF7272;
 		}
 		.textStyle {
 			fontFamily:MiSans-Bold;
@@ -152,9 +152,9 @@
 	<mx:Text styleName="textStyle12" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
 	<mx:Text styleName="textStyle13" x="960" y="736" width="160" alpha="0.6" text="× 6.7"/>
 	<mx:Text styleName="textStyle7" x="1120" y="768" width="160" text="17417"/>
-	<mx:Text styleName="textStyle7" x="1120" y="704" width="160" text="10902915"/>
+	<mx:Text styleName="textStyle7" x="1120" y="704" width="160" text="10988094"/>
 	<mx:Text styleName="textStyle8" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
-	<mx:Text styleName="textStyle14" x="1120" y="736" width="160" alpha="0.6" text="× 12.8"/>
+	<mx:Text styleName="textStyle14" x="1120" y="736" width="160" alpha="0.6" text="× 12.9"/>
 	<mx:Text styleName="textStyle15" x="64" y="704" width="160" text="元素护罩："/>
 	<mx:Text styleName="textStyle10" x="64" y="602" width="512" alpha="0.9" text="深罪浸礼者拥有4种元素核心，其厚度为2火/2水/1雷/2冻盾，于12s后爆炸，击毁可阻止其引爆，全部击毁可重瘫浸礼者。本次出场的浸礼者为雷火水版本。(N5) 该难度及以上将不会放置元素核心。"/>
 	<mx:Text styleName="textStyle16" x="1152" y="938" width="128" alpha="0.3" text="——"/>

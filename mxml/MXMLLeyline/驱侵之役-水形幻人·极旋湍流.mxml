@@ -132,20 +132,20 @@
 	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：8.0B2"/>
 	<mx:Text styleName="textStyle5" x="762" y="128" width="372" alpha="0.75" text="Hydro Tulpa: Turbulent Vortex"/>
 	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
-	<mx:Text styleName="textStyle7" x="64" y="762" width="512" alpha="0.9" text="继承水形幻人8.85%生命值上限，破坏后扣除幻人护盾等量生命值。展开白盾时，重置我方所有角色的元素战技和元素爆发的CD，恢复所有角色的元素能量与特殊能量。"/>
+	<mx:Text styleName="textStyle7" x="64" y="762" width="512" alpha="0.9" text="厚度为水形幻人8.85%生命值，破坏后扣除幻人护盾等量生命值。展开白盾时，重置我方所有角色的元素战技和元素爆发的CD，恢复所有角色的元素能量与特殊能量。"/>
 	<mx:Image source="Image4.png" x="128" y="256" width="484" height="184"/>
 	<mx:Text styleName="textStyle8" x="64" y="336" width="64" text="正常"/>
 	<mx:Text styleName="textStyle8" x="64" y="456" width="64" text="强化"/>
 	<mx:Text styleName="textStyle9" x="64" y="391" width="64" text="吸收(N5)"/>
 	<mx:Text styleName="textStyle10" x="64" y="608" width="96" text="半幻人："/>
-	<mx:Text styleName="textStyle11" x="64" y="928" width="148" text="(N5) 位移："/>
-	<mx:Text styleName="textStyle10" x="64" y="832" width="128" text="吸收半幻人："/>
+	<mx:Text styleName="textStyle11" x="64" y="960" width="148" text="(N5) 位移："/>
+	<mx:Text styleName="textStyle10" x="64" y="832" width="128" text="强化状态："/>
 	<mx:Image source="Image5.png" x="1006" y="846" width="100" height="100"/>
 	<mx:Image source="Image6.png" x="814" y="846" width="100" height="100"/>
 	<mx:Text styleName="textStyle11" x="64" y="736" width="160" text="(N5) 白盾："/>
-	<mx:Text styleName="textStyle12" x="64" y="634" width="512" alpha="0.9" text="1水盾，击破后消失；允许伤害转换(4倍)；半幻人继承幻人20%的攻击力和12%生命值，每15s生成一只半幻人。(N5) 12水盾，击破后消失，或被冻结/石化后立即消失；半幻人继承幻人25%的攻击力和12%生命值，每30s生成2只半幻人。"/>
-	<mx:Text styleName="textStyle7" x="64" y="858" width="512" alpha="0.9" text="场上存在半幻人时，水形幻人会尝试吸收它们，进入15~25s的强化状态， 吸收期间及之后全抗提升45%，技能伤害得到提升，(N5) 吸收半幻人期间全抗提升200%，且恢复12.5%生命值。"/>
-	<mx:Text styleName="textStyle7" x="64" y="960" width="512" alpha="0.9" text="水形幻人不会移动，只会待在场地中央。"/>
+	<mx:Text styleName="textStyle12" x="64" y="634" width="512" alpha="0.9" text="1水盾，击破后消失；允许伤害转换(4倍)；半幻人继承幻人20%的攻击力和12%生命值，每15s生成一只半幻人。(N5) 12水盾，击破后消失，或被冻结/石化后立即消失；半幻人继承幻人34.83%的攻击力和8.54%生命值，每30s生成2只半幻人。"/>
+	<mx:Text styleName="textStyle7" x="64" y="858" width="512" alpha="0.9" text="场上存在半幻人时，水形幻人会尝试吸收它们，进入15~25s的强化状态， 吸收期间及之后全抗提升45%，技能伤害得到提升，(N5) 吸收期间及之后全抗提升200%，且恢复12.5%生命值，吸收1/2只半幻人时，强化状态持续15s/20s。"/>
+	<mx:Text styleName="textStyle7" x="64" y="992" width="512" alpha="0.9" text="水形幻人不会移动，只会待在场地中央。"/>
 	<mx:Text styleName="textStyle13" x="1536" y="320" width="448" alpha="0.9" text="幻人扔出纯水制成的标枪，落地造成60%伤害，并产生内外2层激波，造成60%伤害，可连续施放3次；强化：伤害倍率提升，造成90%伤害。"/>
 	<mx:Text styleName="textStyle14" x="1536" y="256" width="448" text="濯漾梭枪-远程"/>
 	<mx:Image source="Image7.png" x="1396" y="267" width="128" height="128"/>

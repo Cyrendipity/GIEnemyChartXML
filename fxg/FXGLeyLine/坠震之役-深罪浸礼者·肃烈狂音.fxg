@@ -370,9 +370,9 @@
 				<DropShadowFilter angle="40" color="#baafed" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="1120" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="161" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="1118" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="166" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">10902915</p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">10988094</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#baafed" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -386,9 +386,9 @@
 				<DropShadowFilter angle="40" color="#baafed" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="1176" y="728" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="74" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+		<RichText x="1176" y="728" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b8b8b8" width="73" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 12.8</p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b8b8b8">× 12.9</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -470,7 +470,7 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/坠震之役-深罪浸礼者%B7肃烈狂音.assets/Image_21.png')" x="1376" y="248" blendMode="normal">
 		</BitmapImage>
-		<RichText x="1613" y="289" fontFamily="MiSans" fontSize="72" fontStyle="normal" fontWeight="bold" color="#ff7373" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.8">
+		<RichText x="1613" y="289" fontFamily="MiSans" fontSize="72" fontStyle="normal" fontWeight="bold" color="#ff7272" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.8">
 				<transform>
 					<Transform>
 						<matrix>
@@ -479,7 +479,7 @@
 					</Transform>
 				</transform>
 			<content>
-				<p fontFamily="MiSans" fontSize="72" fontWeight="bold" color="#ff7373">已 修 复</p>
+				<p fontFamily="MiSans" fontSize="72" fontWeight="bold" color="#ff7272">已 修 复</p>
 			</content>
 		</RichText>
 	</Group>

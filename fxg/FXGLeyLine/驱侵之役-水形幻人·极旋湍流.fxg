@@ -81,7 +81,7 @@
 		</RichText>
 		<RichText x="66" y="762" width="502" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">继承水形幻人<span color="#ffdfbf">8.85%</span><span>生命值上限，破坏后扣除幻人护盾等量生命值。<br/>展开白盾时，重置我方所有角色的元素战技和元素爆发的CD，恢复所有角色的元素能量与特殊能量。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">厚度为水形幻人<span color="#ffdfbf">8.85%</span><span>生命值，破坏后扣除幻人护盾等量生命值。<br/>展开白盾时，重置我方所有角色的元素战技和元素爆发的CD，恢复所有角色的元素能量与特殊能量。</span></p>
 			</content>
 		</RichText>
 		<Group d:userLabel="Group_1">
@@ -210,14 +210,14 @@
 				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">半幻人：</p>
 			</content>
 		</RichText>
-		<RichText x="67" y="928" width="98" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="67" y="960" width="98" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
 				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffbfbf">(N5) <span color="#ffffff">位移：</span></p>
 			</content>
 		</RichText>
-		<RichText x="67" y="832" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="106" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="67" y="832" fontFamily="MiSans" fontSize="20" fontStyle="normal" fontWeight="bold" color="#ffffff" width="86" height="26" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">吸收半幻人：</p>
+				<p fontFamily="MiSans" fontSize="20" fontWeight="bold" color="#ffffff">强化状态：</p>
 			</content>
 		</RichText>
 		<Group d:userLabel="ICON__FRAME" d:type="layer" visible="false">
@@ -253,15 +253,15 @@
 		</RichText>
 		<RichText x="66" y="634" width="499" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#7fbfff">1水<span color="#ffffff">盾，击破后消失；允许伤害转换(4倍)；半幻人继承幻人20%的攻击力和12%生命值，每15s生成一只半幻人。<br/></span><span color="#ffbfbf">(N5)</span><span> 12水</span><span color="#ffffff">盾，击破后消失，或被</span><span color="#99ffff">冻结</span><span color="#ffffff">/</span><span color="#ffe599">石化</span><span color="#ffffff">后立即消失；半幻人继承幻人25%的攻击力和12%生命值，每30s生成2只半幻人。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#7fbfff">1水<span color="#ffffff">盾，击破后消失；允许伤害转换(4倍)；半幻人继承幻人20%的攻击力和12%生命值，每15s生成一只半幻人。<br/></span><span color="#ffbfbf">(N5)</span><span> 12水</span><span color="#ffffff">盾，击破后消失，或被</span><span color="#99ffff">冻结</span><span color="#ffffff">/</span><span color="#ffe599">石化</span><span color="#ffffff">后立即消失；半幻人继承幻人34.83%的攻击力和</span><span color="#ffdfbf">8.54%</span><span color="#ffffff">生命值，每30s生成2只半幻人。</span></p>
 			</content>
 		</RichText>
-		<RichText x="66" y="858" width="488" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="66" y="858" width="494" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">场上存在半幻人时，水形幻人会尝试吸收它们，进入15~25s的强化状态， 吸收期间及之后全抗提升<span color="#ffdfbf">45%</span><span>，技能伤害得到提升，<br/></span><span color="#ffbfbf">(N5)</span><span color="#7fbfff"> </span><span>吸收半幻人期间全抗提升</span><span color="#ffdfbf">200%</span><span>，且恢复</span><span color="#ffdfbf">12.5%</span><span>生命值。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">场上存在半幻人时，水形幻人会尝试吸收它们，进入15~25s的强化状态， 吸收期间及之后全抗提升<span color="#ffdfbf">45%</span><span>，技能伤害得到提升，<br/></span><span color="#ffbfbf">(N5)</span><span color="#7fbfff"> </span><span>吸收期间及之后全抗提升</span><span color="#ffdfbf">200%</span><span>，且恢复</span><span color="#ffdfbf">12.5%</span><span>生命值，吸收</span><span color="#ffdfbf">1</span><span>/</span><span color="#ffdfbf">2</span><span>只半幻人时，强化状态持续</span><span color="#ffdfbf">15s</span><span>/</span><span color="#ffdfbf">20s</span><span>。</span></p>
 			</content>
 		</RichText>
-		<RichText x="66" y="960" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="279" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="66" y="992" fontFamily="仓耳渔阳体 W03" fontSize="16" fontStyle="normal" fontWeight="bold" color="#ffffff" width="279" height="20" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">水形幻人不会移动，只会待在场地中央。</p>
 			</content>
