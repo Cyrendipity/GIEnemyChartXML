@@ -68,7 +68,7 @@
 		</RichText>
 		<RichText x="63" y="744" width="364" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 27403 <span color="#dddddd">(10.111B2)</span></p>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 29668 <span color="#dddddd">(10.947B2)</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#ffbfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>

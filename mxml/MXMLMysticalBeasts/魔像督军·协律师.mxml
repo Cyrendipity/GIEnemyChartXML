@@ -82,7 +82,7 @@
 	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
 	<mx:Text styleName="textStyle6" x="64" y="704" width="305" text="HP: 1077359 (16.8F)"/>
 	<mx:Text styleName="textStyle7" x="64" y="672" width="305" alpha="0.75" text="首领 Lv.105 Data"/>
-	<mx:Text styleName="textStyle6" x="64" y="752" width="375" text="ATK: 27403 (10.111B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="752" width="375" text="ATK: 29668 (10.947B2)"/>
 	<mx:Text styleName="textStyle6" x="64" y="800" width="375" text="Wt/Ed: 300/4000"/>
 	<mx:Text styleName="textStyle8" x="64" y="468" width="395" alpha="0.75" text="Legatus Golem: Harmonizer"/>
 	<mx:Text styleName="textStyle9" x="64" y="587" width="439" alpha="0.75" text="Rhythm of Ruthless Flames"/>

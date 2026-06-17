@@ -79,7 +79,7 @@
 	<mx:Text styleName="textStyle3" x="64" y="576" width="340" text="建造机关之戍卫"/>
 	<mx:Text styleName="textStyle" x="64" y="896" width="305" alpha="0.9" text="抗性数据(单位%)"/>
 	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：WO[75,50,25,0]"/>
-	<mx:Text styleName="textStyle5" x="64" y="736" width="375" text="HP: 892669 (13.92F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="375" text="HP: 1071203 (16.704F)"/>
 	<mx:Text styleName="textStyle6" x="64" y="704" width="305" alpha="0.75" text="首领 Lv.105 Data"/>
 	<mx:Text styleName="textStyle5" x="64" y="784" width="375" text="ATK: 35063 (12.938B2)"/>
 	<mx:Text styleName="textStyle5" x="64" y="832" width="375" text="Wt/Ed: 300/4000"/>

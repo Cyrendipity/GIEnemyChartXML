@@ -229,9 +229,9 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">幻人蓄力，附属<span textDecoration="underline">白盾</span><span>；12s后白盾消失，幻人掀起澜海激潮，在场地内下起小雨，造成</span><span color="#7fbfff">20%</span><span>伤害；溅起的潮水凝结成3把水枪，并一起在自身周围降下，造成</span><span color="#7fbfff">100%</span><span>伤害，并产生一道冲击波引爆所有半幻人，造成</span><span color="#7fbfff">100%</span><span>伤害，冲击波将会</span><span color="#ffbfbf">秒杀</span><span>在场非无敌状态的角色。</span></p>
 			</content>
 		</RichText>
-		<RichText x="738" y="799" width="438" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="799" width="441" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">场地内将不断生成<span textDecoration="underline">半幻人</span><span>，数量维持在3个；在战斗中水形幻人会吸收所有半幻人，施放4个技能或进行瞬移后结束强化状态。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">场地内将不断生成<span textDecoration="underline">半幻人</span><span>，数量维持在3个；在战斗中水形幻人会吸收所有半幻人，吸收</span><span color="#ffdfbf">1</span><span>/</span><span color="#ffdfbf">2</span><span>/</span><span color="#ffdfbf">3</span><span>个半幻人所进入的强化状态持续</span><span color="#ffdfbf">15</span><span>/</span><span color="#ffdfbf">20</span><span>/</span><span color="#ffdfbf">25s</span><span>。</span></p>
 			</content>
 		</RichText>
 		<RichText x="1410" y="223" width="431" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
