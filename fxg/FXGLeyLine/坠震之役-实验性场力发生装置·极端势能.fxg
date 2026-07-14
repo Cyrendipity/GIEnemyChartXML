@@ -402,16 +402,16 @@
 				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="1538" y="288" width="441" height="130" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1538" y="320" width="441" height="130" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="18" fontWeight="bold" color="#ffffff">实验场力装置将蓄能，产生振荡地面的晶岩浪潮，碰到造成<span color="#ffe599">100%,50%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，施放完毕后结束</span><span textDecoration="underline">重力场</span><span>。<br/></span><span color="#ffbfbf">(N5)</span><span> 根据自身</span><span textDecoration="underline">算势</span><span>层数，持续施放强震波，以慢三连开头，之后以快三连形式持续施放，造成</span><span color="#ffe599">120%</span><span>伤害</span><span color="#ffbfbf">(闪避帧无效)</span><span>，最多重复5次。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/坠震之役-实验性场力发生装置%B7极端势能.assets/Image_19.png')" x="1521" y="202">
+		<BitmapImage source="@Embed('/坠震之役-实验性场力发生装置%B7极端势能.assets/Image_19.png')" x="1521" y="234">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/坠震之役-实验性场力发生装置%B7极端势能.assets/Image_20.png')" x="1396" y="235" blendMode="normal">
+		<BitmapImage source="@Embed('/坠震之役-实验性场力发生装置%B7极端势能.assets/Image_20.png')" x="1396" y="267" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/坠震之役-实验性场力发生装置%B7极端势能.assets/Image_21.png')" x="1376" y="214" blendMode="normal">
+		<BitmapImage source="@Embed('/坠震之役-实验性场力发生装置%B7极端势能.assets/Image_21.png')" x="1376" y="246" blendMode="normal">
 		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">

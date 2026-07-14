@@ -55,9 +55,9 @@
 				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="818" y="975" width="120" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+		<RichText x="818" y="975" width="115" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">31.7953</span><span fontSize="18" color="#99ffcc">F</span></p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">31.795</span><span fontSize="18" color="#99ffcc">F</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -449,9 +449,9 @@
 				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="801" y="932" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#99e5ff" width="150" height="41" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+		<RichText x="799" y="933" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#99e5ff" width="149" height="41" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#99e5ff">Lunar eaction Adv. √</p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#99e5ff">Lunar Reaction Adv.</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -459,7 +459,7 @@
 		</RichText>
 		<BitmapImage source="@Embed('/除晦之役-深黯魇语之主%B7袭掠锋刃.assets/Image_17.png')" x="654" y="847" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/除晦之役-深黯魇语之主%B7袭掠锋刃.assets/Image_18.png')" x="819" y="847" blendMode="normal">
+		<BitmapImage source="@Embed('/除晦之役-深黯魇语之主%B7袭掠锋刃.assets/Image_18.png')" x="819" y="851" blendMode="normal">
 		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">

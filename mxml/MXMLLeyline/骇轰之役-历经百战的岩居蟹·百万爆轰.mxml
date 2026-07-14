@@ -156,9 +156,9 @@
 	<mx:Image source="Image11.png" x="1376" y="246" width="168" height="170"/>
 	<mx:Image source="Image12.png" x="815" y="847" width="98" height="99"/>
 	<mx:Image source="Image13.png" x="1006" y="846" width="100" height="100"/>
-	<mx:Image source="Image14.png" x="834" y="869" width="60" height="56"/>
 	<mx:Text styleName="textStyle21" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
 	<mx:Text styleName="textStyle21" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
 	<mx:Text styleName="textStyle21" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
 	<mx:Text styleName="textStyle21" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Image source="Image14.png" x="808" y="848" width="109" height="95"/>
 </mx:Application>

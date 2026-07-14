@@ -102,7 +102,7 @@
 		.textStyle21 {
 			fontFamily:MiSans-Bold;
 			fontSize:16;
-			color:#DF60A9;
+			color:#73FFB9;
 		}
 	</mx:Style>
 	<mx:Image source="Image.png" x="1920" y="0" width="1920" height="1080"/>
@@ -146,17 +146,17 @@
 	<mx:Text styleName="textStyle18" x="64" y="736" width="512" alpha="0.9" text="暝视龙施放爆发之后的17s出现，共3枚，每枚8冻盾，每破坏一个会使冰霰防护-9.6冻。"/>
 	<mx:Text styleName="textStyle18" x="64" y="832" width="512" alpha="0.9" text="暝视龙施放爆发后出现，初始5个，后续每次刷新3个，每个持续6s，可命中暝视龙，每命中一次就会令暝视龙的风元素抗性降低35%，最多叠加3层，且使冰霰防护-2冻。"/>
 	<mx:Image source="Image5.png" x="814" y="847" width="100" height="99"/>
-	<mx:Image source="Image6.png" x="128" y="380" width="484" height="60"/>
-	<mx:Image source="Image7.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image7.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="128" y="440" width="484" height="60"/>
 	<mx:Text styleName="textStyle19" x="64" y="332" width="64" text="出场(N5)"/>
 	<mx:Text styleName="textStyle19" x="64" y="392" width="64" text="正常(N5)"/>
 	<mx:Text styleName="textStyle19" x="64" y="452" width="64" text="正常(N4)"/>
 	<mx:Text styleName="textStyle20" x="800" y="938" width="128" alpha="0.6" text="Ranged Adv."/>
-	<mx:Image source="Image8.png" x="654" y="846" width="100" height="100"/>
+	<mx:Image source="Image9.png" x="654" y="846" width="100" height="100"/>
 	<mx:Text styleName="textStyle14" x="640" y="938" width="128" alpha="0.6" text="Pyro Adv."/>
-	<mx:Image source="Image9.png" x="974" y="846" width="100" height="100"/>
+	<mx:Image source="Image10.png" x="974" y="846" width="100" height="100"/>
 	<mx:Text styleName="textStyle21" x="960" y="938" width="128" alpha="0.6" text="AggregateAdv."/>
-	<mx:Image source="Image10.png" x="1166" y="846" width="100" height="99"/>
 	<mx:Image source="Image11.png" x="1396" y="267" width="128" height="128"/>
 	<mx:Image source="Image12.png" x="1376" y="246" width="168" height="170"/>
 	<mx:Text styleName="textStyle17" x="1536" y="576" width="448" alpha="0.9" text="暝视龙后撤跃起，发射数枚冰锥，均造成50%,25%,12.5%,5%伤害。"/>

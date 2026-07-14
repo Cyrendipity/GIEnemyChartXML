@@ -554,34 +554,34 @@
 		</RichText>
 		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_22.png')" x="815" y="847">
 		</BitmapImage>
-		<RichText x="1538" y="544" width="441" height="130" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1538" y="576" width="441" height="130" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="18" fontWeight="bold" color="#ffffff">守望者移至场地中央，并进行蓄力，同时召唤2枚<span textDecoration="underline">元素星</span><span>，</span><span color="#ffdfbf">18s</span><span>后，将根据场上剩余的元素星，召唤对应天谴之矛，依次造成</span><span color="#ffffbf">对应元素</span><span>的</span><span color="#ffbfbf">100%</span><span>伤害。<br/></span><span color="#bfffbf">(N4) </span><span>若守望者召唤了</span><span color="#ffdfbf">异色的两个元素星</span><span>，则它们的生命值将由守望者的1/6降至1/15。<br/></span><span color="#ffbfbf">(N5)</span><span color="#bfffbf"> </span><span>守望者的天谴之矛将造成</span><span color="#ffffbf">对应元素</span><span>的</span><span color="#ffbfbf">300%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_23.png')" x="1519" y="458">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_23.png')" x="1519" y="490">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_24.png')" x="1396" y="492" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_24.png')" x="1396" y="524" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_25.png')" x="1376" y="471" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_25.png')" x="1376" y="503" blendMode="normal">
 		</BitmapImage>
-		<RichText x="1538" y="288" width="435" height="130" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1538" y="320" width="435" height="130" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="18" fontWeight="bold" color="#ffffff">守望者将长矛先转一圈，造成<span color="#ffe599">40%</span><span>伤害，随后立即进入</span><span textDecoration="underline">监候之统摄</span><span>状态，持续</span><span color="#ffcebf">5s</span><span>；记录完毕后/未成功记录 将造成</span><span color="#ffffbf">对应元素</span><span>/</span><span color="#ffe599">岩元素</span><span>的</span><span color="#ffbfbf">68%</span><span>伤害。累计施放2次后立即准备大招「现象之谵妄」。<br/></span><span color="#ffbfbf">(N5)</span><span color="#bfffbf"> </span><span>记录期间的</span><span color="#ffdfbf">全抗+70%</span><span>，且记录次数提升，第二次记录的时间提升至</span><span color="#ffdfbf">8s</span><span>。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_26.png')" x="1520" y="201">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_26.png')" x="1520" y="233">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_27.png')" x="1396" y="235" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_27.png')" x="1396" y="267" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_28.png')" x="1376" y="215" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_28.png')" x="1376" y="247" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_29.png')" x="827" y="863" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_29.png')" x="650" y="846" blendMode="normal">
 			<filters>
 				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
 			</filters>
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_30.png')" x="667" y="862" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-开眼者%B7傲然睥睨.assets/Image_30.png')" x="810" y="851" blendMode="normal">
 			<filters>
 				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
 			</filters>

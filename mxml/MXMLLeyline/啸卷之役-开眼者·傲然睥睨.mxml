@@ -146,14 +146,14 @@
 	<mx:Text styleName="textStyle17" x="640" y="938" width="128" alpha="0.6" text="Melt Adv."/>
 	<mx:Text styleName="textStyle17" x="800" y="938" width="128" alpha="0.6" text="Evaporate Adv."/>
 	<mx:Image source="Image12.png" x="815" y="847" width="98" height="99"/>
-	<mx:Text styleName="textStyle18" x="1536" y="544" width="448" alpha="0.9" text="守望者移至场地中央，并进行蓄力，同时召唤2枚元素星，18s后，将根据场上剩余的元素星，召唤对应天谴之矛，依次造成对应元素的100%伤害。(N4) 若守望者召唤了异色的两个元素星，则它们的生命值将由守望者的1/6降至1/15。(N5) 守望者的天谴之矛将造成对应元素的300%伤害。"/>
-	<mx:Text styleName="textStyle19" x="1536" y="480" width="448" text="现象之谵妄-爆发"/>
-	<mx:Image source="Image13.png" x="1396" y="492" width="128" height="128"/>
-	<mx:Image source="Image14.png" x="1376" y="471" width="168" height="169"/>
-	<mx:Text styleName="textStyle18" x="1536" y="288" width="448" alpha="0.9" text="守望者将长矛先转一圈，造成40%伤害，随后立即进入监候之统摄状态，持续5s；记录完毕后/未成功记录 将造成对应元素/岩元素的68%伤害。累计施放2次后立即准备大招「现象之谵妄」。(N5) 记录期间的全抗+70%，且记录次数提升，第二次记录的时间提升至8s。"/>
-	<mx:Text styleName="textStyle19" x="1536" y="224" width="448" text="监摄之神筑-反击"/>
-	<mx:Image source="Image15.png" x="1396" y="235" width="128" height="128"/>
-	<mx:Image source="Image16.png" x="1376" y="215" width="168" height="169"/>
-	<mx:Image source="Image17.png" x="827" y="863" width="75" height="66"/>
-	<mx:Image source="Image18.png" x="667" y="862" width="75" height="69"/>
+	<mx:Text styleName="textStyle18" x="1536" y="576" width="448" alpha="0.9" text="守望者移至场地中央，并进行蓄力，同时召唤2枚元素星，18s后，将根据场上剩余的元素星，召唤对应天谴之矛，依次造成对应元素的100%伤害。(N4) 若守望者召唤了异色的两个元素星，则它们的生命值将由守望者的1/6降至1/15。(N5) 守望者的天谴之矛将造成对应元素的300%伤害。"/>
+	<mx:Text styleName="textStyle19" x="1536" y="512" width="448" text="现象之谵妄-爆发"/>
+	<mx:Image source="Image13.png" x="1396" y="524" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1376" y="503" width="168" height="169"/>
+	<mx:Text styleName="textStyle18" x="1536" y="320" width="448" alpha="0.9" text="守望者将长矛先转一圈，造成40%伤害，随后立即进入监候之统摄状态，持续5s；记录完毕后/未成功记录 将造成对应元素/岩元素的68%伤害。累计施放2次后立即准备大招「现象之谵妄」。(N5) 记录期间的全抗+70%，且记录次数提升，第二次记录的时间提升至8s。"/>
+	<mx:Text styleName="textStyle19" x="1536" y="256" width="448" text="监摄之神筑-反击"/>
+	<mx:Image source="Image15.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1376" y="247" width="168" height="169"/>
+	<mx:Image source="Image17.png" x="650" y="846" width="108" height="101"/>
+	<mx:Image source="Image18.png" x="810" y="851" width="109" height="94"/>
 </mx:Application>

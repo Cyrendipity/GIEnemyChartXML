@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99FFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle18 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle19 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF9999;
+		}
+		.textStyle21 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#00D835;
+		}
+		.textStyle22 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFACFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="128" height="1080"/>
+	<mx:Text styleName="textStyle" x="328" y="32" width="1239" text="先驱秘源统辖阵列之影·蜂巢意志"/>
+	<mx:Image source="Image3.png" x="627" y="95" width="666" height="643"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="608" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WP[0x3] WO[66,33,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：21.488F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：6.6B2"/>
+	<mx:Text styleName="textStyle5" x="501" y="123" width="896" alpha="0.75" text="Battle-Hardened Precursor’s Secret Source Control Array: Will of the Hive"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle7" x="64" y="698" width="512" alpha="0.9" text="厚度等于100%先驱阵列生命值，展开后持续20s，使重力大幅下降并-45%跳跃速度。展开护盾后5s将部署探侦机关，并持续附着水元素。(N5) 持续时间延长至45s；触发超导/星超导反应，或受到超导/星超导伤害时，每次减少4%白盾。白盾存在期间，先驱阵列受到的超导/星超导伤害提升150%。"/>
+	<mx:Text styleName="textStyle3" x="64" y="336" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="64" y="451" width="64" text="力场(N5)"/>
+	<mx:Text styleName="textStyle3" x="64" y="396" width="64" text="力场"/>
+	<mx:Text styleName="textStyle3" x="64" y="516" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle9" x="64" y="672" width="160" text="力场护盾："/>
+	<mx:Text styleName="textStyle9" x="64" y="806" width="128" text="探侦机关："/>
+	<mx:Text styleName="textStyle7" x="64" y="832" width="512" alpha="0.9" text="由先驱阵列召唤，共4枚，每枚拥有6水盾。将其冻结后，触发超导/星超导/碎冰/融化/结晶/扩散反应会立即将其破坏；部署后，该机关将上升，最终高度约4m，两两分布于先驱阵列后侧的半圆扇区。(N5) 机关厚度翻倍至12水，且每破坏一枚机关，先驱阵列的力场护盾就减少1/8。"/>
+	<mx:Text styleName="textStyle7" x="64" y="986" width="512" alpha="0.9" text="若时限内未击破所有机关，其将进入回收阶段，并根据回收剩余的探侦机关，获得厚度为(12+6×回收数量)的水元素护罩。"/>
+	<mx:Text styleName="textStyle9" x="64" y="960" width="193" text="水元素护罩："/>
+	<mx:Image source="Image4.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle10" x="640" y="938" width="128" alpha="0.6" text="Cryo Adv."/>
+	<mx:Text styleName="textStyle11" x="1024" y="938" width="128" alpha="0.6" text="Hydro Dis."/>
+	<mx:Text styleName="textStyle11" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle12" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle13" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle14" x="640" y="704" width="160" text="956661"/>
+	<mx:Text styleName="textStyle14" x="640" y="768" width="160" text="12560"/>
+	<mx:Text styleName="textStyle14" x="960" y="768" width="160" text="17887"/>
+	<mx:Text styleName="textStyle14" x="800" y="768" width="160" text="16251"/>
+	<mx:Text styleName="textStyle14" x="800" y="704" width="160" text="4766940"/>
+	<mx:Text styleName="textStyle14" x="960" y="704" width="160" text="8268035"/>
+	<mx:Text styleName="textStyle15" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle15" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle16" x="960" y="736" width="160" alpha="0.6" text="× 6.0"/>
+	<mx:Text styleName="textStyle14" x="1120" y="768" width="160" text="19158"/>
+	<mx:Text styleName="textStyle14" x="1120" y="704" width="160" text="16743003"/>
+	<mx:Text styleName="textStyle16" x="1120" y="736" width="160" alpha="0.6" text="× 11.1"/>
+	<mx:Image source="Image5.png" x="128" y="256" width="484" height="124"/>
+	<mx:Image source="Image6.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image8.png" x="128" y="500" width="484" height="60"/>
+	<mx:Image source="Image9.png" x="654" y="846" width="100" height="100"/>
+	<mx:Image source="Image10.png" x="1038" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle17" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle17" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle17" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle17" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle18" x="1536" y="320" width="448" alpha="0.9" text="先驱阵列移至场地中央展开聚流「力场护盾」，并向四处放置「探侦机关」，同时在周围形成单向屏障。机关间歇性朝玩家发射激光，造成35%伤害，同时先驱阵列自身在场地内胡乱发射水弹，造成80%伤害，每发射一次就移动一小段，受到攻击后会尝试小幅位移。击破所有机关将使其瘫痪13s。"/>
+	<mx:Text styleName="textStyle19" x="1536" y="256" width="448" text="深仰辰星-召唤"/>
+	<mx:Image source="Image11.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Text styleName="textStyle20" x="1152" y="938" width="128" alpha="0.6" text="Melee Dis."/>
+	<mx:Image source="Image13.png" x="910" y="847" width="100" height="99"/>
+	<mx:Image source="Image14.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle21" x="896" y="938" width="128" alpha="0.6" text="Ranged Adv."/>
+	<mx:Text styleName="textStyle22" x="768" y="938" width="128" alpha="0.6" text="Electro Adv."/>
+	<mx:Image source="Image15.png" x="782" y="846" width="100" height="100"/>
+</mx:Application>

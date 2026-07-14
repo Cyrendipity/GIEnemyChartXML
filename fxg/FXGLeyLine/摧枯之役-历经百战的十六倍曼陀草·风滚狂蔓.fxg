@@ -602,16 +602,11 @@
 		</RichText>
 		<BitmapImage source="@Embed('/摧枯之役-历经百战的十六倍曼陀草%B7风滚狂蔓.assets/Image_24.png')" x="815" y="847">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/摧枯之役-历经百战的十六倍曼陀草%B7风滚狂蔓.assets/Image_25.png')" x="821" y="855" blendMode="normal">
-			<filters>
-				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
-			</filters>
+		<BitmapImage source="@Embed('/摧枯之役-历经百战的十六倍曼陀草%B7风滚狂蔓.assets/Image_26.png')" x="654" y="846">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/摧枯之役-历经百战的十六倍曼陀草%B7风滚狂蔓.assets/Image_27.png')" x="654" y="846">
-		</BitmapImage>
-		<RichText x="654" y="932" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#df60a9" width="125" height="41" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+		<RichText x="654" y="932" fontFamily="MiSans" fontSize="16" fontStyle="normal" fontWeight="bold" color="#73ffb9" width="125" height="41" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#df60a9">Aggregate<br/>Adv.</p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#73ffb9">Aggregate<br/>Adv.</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -627,6 +622,11 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffbfbf">(N5) <span color="#ffffff">孢子分裂范围：<br/>中心范围</span><span color="#ffdfbf">0-0.3m</span><span color="#ffffff">，1个孢子；<br/>内层范围</span><span color="#ffdfbf">2-4.5m</span><span color="#ffffff">，3个孢子；<br/>中层范围</span><span color="#ffdfbf">5-7.5m</span><span color="#ffffff">，3个孢子；<br/>外层范围</span><span color="#ffdfbf">8-10m</span><span color="#ffffff">，3个孢子。</span></p>
 			</content>
 		</RichText>
+		<BitmapImage source="@Embed('/摧枯之役-历经百战的十六倍曼陀草%B7风滚狂蔓.assets/Image_27.png')" x="812" y="846" blendMode="normal">
+			<filters>
+				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
+			</filters>
+		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">
 	</Group>

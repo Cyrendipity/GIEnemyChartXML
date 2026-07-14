@@ -461,16 +461,16 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">晖岩之护：鳞蜥展开蕴光领域时，<span color="#ffe599">岩元素</span><span>抗性</span><span color="#ffbfbf">+60%</span><span>，当主动清除任意角色的<br/>「蕴光之茧」时，晖岩之护将被立即破坏，并失去</span><span color="#ffe599">岩抗</span><span>提升。</span></p>
 			</content>
 		</RichText>
-		<RichText x="1538" y="288" width="440" height="87" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1538" y="320" width="440" height="87" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="18" fontWeight="bold" color="#ffffff">守宫移动到场地中央，展开穹顶，隐匿自身，并留下「<span textDecoration="underline">月锚岩</span><span>」；穹顶上有三只守宫，其中一只会间歇性发射岩流，造成</span><span color="#ffe599">75%</span><span>伤害；</span><span color="#ffdfbf">35s</span><span>后月锚岩爆炸，造成</span><span color="#ffe599">200%</span><span>伤害，同时全抗性提升60%，持续至下次瘫痪。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_19.png')" x="1519" y="201">
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_19.png')" x="1519" y="233">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_20.png')" x="1396" y="235" blendMode="normal">
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_20.png')" x="1396" y="267" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_21.png')" x="1376" y="214" blendMode="normal">
+		<BitmapImage source="@Embed('/断玉之役-蕴光月守宫%B7根牙磐错.assets/Image_21.png')" x="1376" y="246" blendMode="normal">
 		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">

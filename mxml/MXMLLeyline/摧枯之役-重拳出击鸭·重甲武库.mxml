@@ -108,9 +108,9 @@
 	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
 	<mx:Text styleName="textStyle2" x="64" y="704" width="522" text="◆ 机制数据"/>
 	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WO[75,50,25,0]Energy Drop"/>
-	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：30.5235F"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：30.524F"/>
 	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：6.0B2"/>
-	<mx:Text styleName="textStyle5" x="530" y="123" width="835" alpha="0.75" text="Kunckle Duckle: Armored Arsenal"/>
+	<mx:Text styleName="textStyle5" x="530" y="128" width="835" alpha="0.75" text="Kunckle Duckle: Armored Arsenal"/>
 	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
 	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
@@ -150,9 +150,9 @@
 	<mx:Image source="Image12.png" x="654" y="846" width="100" height="100"/>
 	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Charged Adv."/>
 	<mx:Image source="Image13.png" x="815" y="847" width="98" height="99"/>
-	<mx:Image source="Image14.png" x="822" y="859" width="86" height="77"/>
 	<mx:Text styleName="textStyle19" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
 	<mx:Text styleName="textStyle19" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
 	<mx:Text styleName="textStyle19" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
 	<mx:Text styleName="textStyle19" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Image source="Image14.png" x="814" y="851" width="104" height="93"/>
 </mx:Application>

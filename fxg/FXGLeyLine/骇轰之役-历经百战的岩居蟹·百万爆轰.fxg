@@ -536,8 +536,6 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/骇轰之役-历经百战的岩居蟹%B7百万爆轰.assets/Image_24.png')" x="1006" y="846" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/骇轰之役-历经百战的岩居蟹%B7百万爆轰.assets/Image_25.png')" x="834" y="869" blendMode="normal">
-		</BitmapImage>
 		<RichText x="665" y="600" width="110" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
 				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">困难 - N3<br/><span fontSize="24" color="#7fbfff">Lv.90</span></p>
@@ -570,6 +568,11 @@
 				<DropShadowFilter angle="40" color="#99ccff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
+		<BitmapImage source="@Embed('/骇轰之役-历经百战的岩居蟹%B7百万爆轰.assets/Image_25.png')" x="808" y="848" blendMode="normal">
+			<filters>
+				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
+			</filters>
+		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">
 	</Group>

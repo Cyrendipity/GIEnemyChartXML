@@ -388,7 +388,7 @@
 				<p textAlign="center" fontFamily="MiSans" fontSize="24" fontWeight="bold" color="#ffffff">晦隐</p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/迅悍之役-霜夜巡天灵主%B7惊恨憎愤.assets/Image_17.png')" x="979" y="847" blendMode="normal">
+		<BitmapImage source="@Embed('/迅悍之役-霜夜巡天灵主%B7惊恨憎愤.assets/Image_17.png')" x="979" y="851" blendMode="normal">
 		</BitmapImage>
 		<RichText x="67" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#9a8456" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>

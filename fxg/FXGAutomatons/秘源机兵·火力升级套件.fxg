@@ -203,7 +203,7 @@
 		</BitmapImage>
 		<RichText x="66" y="1192" width="442" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">固态燃素：无法直接攀爬，比一般构型械的高一倍，仅「回声之子」成员可直接攀爬。<br/>「汲聚械」：进入屏障内以1次攻击击破，屏障外免疫，击破全部可使构型械瘫痪12s，并扣除其<span color="#ffccbf">15%</span><span>生命值。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">固态燃素：无法直接攀爬，比一般构型械的高一倍，仅「回声之子」成员可直接攀爬。<br/>「汲聚械」：进入屏障内以1次攻击击破，屏障外免疫，击破全部可使构型械瘫痪15s，并扣除其<span color="#ffccbf">15%</span><span>生命值。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/秘源机兵%B7火力升级套件.assets/Image_16.png')" x="1392" y="137">

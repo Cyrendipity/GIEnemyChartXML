@@ -100,7 +100,7 @@
 	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
 	<mx:Text styleName="textStyle2" x="64" y="480" width="522" text="◆ 机制数据"/>
 	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WP[75,50,25,0]Energy Drop"/>
-	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：31.7953F"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：31.795F"/>
 	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：6.0B2"/>
 	<mx:Text styleName="textStyle5" x="529" y="123" width="835" alpha="0.75" text="Lord of the Hidden Depths: Whisperer of Nightmares — Ravager’s Edge"/>
 	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
@@ -136,7 +136,7 @@
 	<mx:Text styleName="textStyle12" x="1120" y="768" width="160" text="17417"/>
 	<mx:Text styleName="textStyle9" x="992" y="938" width="128" alpha="0.3" text="——"/>
 	<mx:Text styleName="textStyle16" x="640" y="938" width="128" alpha="0.3" text="——"/>
-	<mx:Text styleName="textStyle17" x="800" y="938" width="128" alpha="0.6" text="Lunar eaction Adv. √"/>
+	<mx:Text styleName="textStyle17" x="800" y="938" width="128" alpha="0.6" text="Lunar Reaction Adv."/>
 	<mx:Image source="Image9.png" x="654" y="847" width="100" height="99"/>
-	<mx:Image source="Image10.png" x="819" y="847" width="91" height="98"/>
+	<mx:Image source="Image10.png" x="819" y="851" width="90" height="90"/>
 </mx:Application>

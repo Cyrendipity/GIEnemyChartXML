@@ -73,7 +73,8 @@
 	</mx:Style>
 	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="296"/>
 	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
-	<mx:Text styleName="textStyle" x="64" y="416" width="484" text="秘源机兵·火力升级套件"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="484" text="秘源机兵·
+火力升级套件"/>
 	<mx:Image source="Image3.png" x="0" y="22" width="426" height="468"/>
 	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
 	<mx:Text styleName="textStyle3" x="64" y="576" width="340" text="建造机关之戍卫"/>
@@ -91,11 +92,14 @@
 	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="构型械驻于原地，于自身炮筒发射3枚雷轰弹，落地爆炸，每枚造成70%伤害，并留下雷地面，持续造成7%伤害。"/>
 	<mx:Text styleName="textStyle9" x="1408" y="480" width="448" alpha="0.9" text="过于靠近构型械时，构型械化作巨星爪掌并拍下，造成60%伤害，同时产生6道纵方向中心合拢的激光，持续造成50%伤害，聚拢后发生爆炸，造成80%伤害。"/>
 	<mx:Text styleName="textStyle9" x="736" y="736" width="448" alpha="0.9" text="过于靠近构型械时，构型械化作巨星爪掌并划扫，造成60%伤害；此后浮游炮接着发射弹雨，持续造成30%,15%,3%伤害。"/>
-	<mx:Text styleName="textStyle9" x="736" y="1248" width="1024" alpha="0.9" text="「应战对策」满后优先施放，构型械横过来，并使用7枚浮游炮组装发射半圆形激光，呈顺时针旋转，接触激光持续造成100%伤害(闪避帧无效)。在另外一半扇形区域内，玩家将会持续获得燃素，且造成的伤害提升5%。"/>
-	<mx:Text styleName="textStyle9" x="736" y="992" width="1024" alpha="0.9" text="构型械开掘出2柱固态燃素，其上有「汲聚械」存在，辅助构型械进行蓄力；蓄力期间的浮游炮不断发射激光，造成50%伤害，并留下造成10%伤害的滞留雷息；15s后，构型械丢出球状雷弹，秒杀在场非无敌状态角色。「应战对策」满后施放，若为此法触发，则在「扫彻方隅」结束后，浮游炮会利用雷激光规划开采场地，激光造成30%伤害；若构型械不发生转身，则固态燃素将出现在激光交点处。"/>
+	<mx:Text styleName="textStyle9" x="736" y="1248" width="1024" alpha="0.9" text="「应战对策」满后优先施放，构型械横过来，并使用7枚浮游炮组装发射半圆形激光，呈顺时针旋转，接触激光持续造成100%伤害(闪避帧无效)。
+在另外一半扇形区域内，玩家将会持续获得燃素，且造成的伤害提升5%。"/>
+	<mx:Text styleName="textStyle9" x="736" y="992" width="1024" alpha="0.9" text="构型械开掘出2柱固态燃素，其上有「汲聚械」存在，辅助构型械进行蓄力；蓄力期间的浮游炮不断发射激光，造成50%伤害，并留下造成10%伤害的滞留雷息；15s后，构型械丢出球状雷弹，秒杀在场非无敌状态角色。
+「应战对策」满后施放，若为此法触发，则在「扫彻方隅」结束后，浮游炮会利用雷激光规划开采场地，激光造成30%伤害；若构型械不发生转身，则固态燃素将出现在激光交点处。"/>
 	<mx:Text styleName="textStyle10" x="736" y="160" width="448" text="匝合之视-输出"/>
 	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="裁月堇光-远程"/>
-	<mx:Text styleName="textStyle11" x="64" y="1192" width="448" alpha="0.75" text="固态燃素：无法直接攀爬，比一般构型械的高一倍，仅「回声之子」成员可直接攀爬。「汲聚械」：进入屏障内以1次攻击击破，屏障外免疫，击破全部可使构型械瘫痪12s，并扣除其15%生命值。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1192" width="448" alpha="0.75" text="固态燃素：无法直接攀爬，比一般构型械的高一倍，仅「回声之子」成员可直接攀爬。
+「汲聚械」：进入屏障内以1次攻击击破，屏障外免疫，击破全部可使构型械瘫痪15s，并扣除其15%生命值。"/>
 	<mx:Text styleName="textStyle10" x="1408" y="160" width="448" text="渊霄丙明-定点"/>
 	<mx:Text styleName="textStyle10" x="1408" y="416" width="448" text="驻于孛辘-输出"/>
 	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="煟暝紫械-输出"/>

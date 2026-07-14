@@ -55,9 +55,9 @@
 				<DropShadowFilter angle="40" color="#ff99ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="818" y="975" width="121" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+		<RichText x="818" y="975" width="116" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">30.5235</span><span fontSize="18" color="#99ffcc">F</span></p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">30.524</span><span fontSize="18" color="#99ffcc">F</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -71,7 +71,7 @@
 				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="741" y="115" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="438" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="741" y="120" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="438" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
 				<p textAlign="center" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Kunckle Duckle: Armored Arsenal</p>
 			</content>
@@ -581,11 +581,6 @@
 		</RichText>
 		<BitmapImage source="@Embed('/摧枯之役-重拳出击鸭%B7重甲武库.assets/Image_22.png')" x="815" y="847">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/摧枯之役-重拳出击鸭%B7重甲武库.assets/Image_23.png')" x="822" y="859" blendMode="normal">
-			<filters>
-				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
-			</filters>
-		</BitmapImage>
 		<RichText x="665" y="600" width="110" height="53" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
 				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffffff">困难 - N3<br/><span fontSize="24" color="#ffacff">Lv.90</span></p>
@@ -618,6 +613,11 @@
 				<DropShadowFilter angle="40" color="#ff99ff" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
+		<BitmapImage source="@Embed('/摧枯之役-重拳出击鸭%B7重甲武库.assets/Image_23.png')" x="814" y="851" blendMode="normal">
+			<filters>
+				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
+			</filters>
+		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">
 	</Group>

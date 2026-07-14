@@ -153,8 +153,8 @@
 	<mx:Text styleName="textStyle18" x="64" y="337" width="64" text="本体"/>
 	<mx:Text styleName="textStyle19" x="64" y="391" width="64" text="爆破(N4)"/>
 	<mx:Text styleName="textStyle7" x="64" y="448" width="576" alpha="0.75" text="晖岩之护：鳞蜥展开蕴光领域时，岩元素抗性+60%，当主动清除任意角色的「蕴光之茧」时，晖岩之护将被立即破坏，并失去岩抗提升。"/>
-	<mx:Text styleName="textStyle20" x="1536" y="288" width="448" alpha="0.9" text="守宫移动到场地中央，展开穹顶，隐匿自身，并留下「月锚岩」；穹顶上有三只守宫，其中一只会间歇性发射岩流，造成75%伤害；35s后月锚岩爆炸，造成200%伤害，同时全抗性提升60%，持续至下次瘫痪。"/>
-	<mx:Text styleName="textStyle21" x="1536" y="224" width="448" text="行虚空荡-召唤 (N5)"/>
-	<mx:Image source="Image11.png" x="1396" y="235" width="128" height="128"/>
-	<mx:Image source="Image12.png" x="1376" y="214" width="168" height="170"/>
+	<mx:Text styleName="textStyle20" x="1536" y="320" width="448" alpha="0.9" text="守宫移动到场地中央，展开穹顶，隐匿自身，并留下「月锚岩」；穹顶上有三只守宫，其中一只会间歇性发射岩流，造成75%伤害；35s后月锚岩爆炸，造成200%伤害，同时全抗性提升60%，持续至下次瘫痪。"/>
+	<mx:Text styleName="textStyle21" x="1536" y="256" width="448" text="行虚空荡-召唤 (N5)"/>
+	<mx:Image source="Image11.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1376" y="246" width="168" height="170"/>
 </mx:Application>

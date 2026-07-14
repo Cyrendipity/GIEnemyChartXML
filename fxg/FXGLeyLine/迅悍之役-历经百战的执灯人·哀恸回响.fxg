@@ -364,9 +364,9 @@
 				<DropShadowFilter angle="40" color="#f57ede" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="1127" y="686" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="145" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="1125" y="685" fontFamily="MiSans" fontSize="25" fontStyle="normal" fontWeight="bold" color="#ffffff" width="150" height="31" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">8181446</p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="25" fontWeight="bold" color="#ffffff">8109043</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#f57ede" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -380,9 +380,9 @@
 				<DropShadowFilter angle="40" color="#f57ede" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="1177" y="728" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#bababa" width="72" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+		<RichText x="1177" y="729" fontFamily="MiSans" fontSize="13" fontStyle="normal" fontWeight="bold" color="#b9b9b9" width="72" height="18" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#bababa">× 11.3</p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="13" fontWeight="bold" color="#b9b9b9">× 11.2</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99ccff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -404,8 +404,6 @@
 				<SolidColor color="#ffffff"/>
 			</fill>
 		</Rect>
-		<BitmapImage source="@Embed('/迅悍之役-历经百战的执灯人%B7哀恸回响.assets/Image_20.png')" x="819" y="847" blendMode="normal">
-		</BitmapImage>
 		<RichText x="66" y="672" width="439" height="193" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">若队伍不处于 <span color="#99ff99">「满辉」</span><span>，则只能通过清空红血，才可使其陷入临界状态，从而继续削减生命上限，期间狂猎所受伤害的</span><span color="#ffdfbf">65%</span><span>会用于削减上限；<br/>若队伍处于</span><span color="#99ff99">「满辉」</span><span>，施放被「满辉」强化的技能，附近的狂猎会直接进入临界状态，期间狂猎所受伤害的</span><span color="#ffdfbf">90%</span><span>会用于削减上限，注意该临界状态也只持续10s，并且不能中途续杯。<br/>狂猎</span><span color="#ffdfbf">进入因清空红血所致的</span><span>临界状态时，会立即减少</span><span color="#ffdfbf">10%</span><span>生命上限，此后每次进入状态都会额外削减</span><span color="#ffdfbf">8%</span><span>生命上限，即：第一次清空红血会立即削减</span><span color="#ffdfbf">10%</span><span>生命上限，第二次</span><span color="#ffdfbf">18%</span><span>，第三次</span><span color="#ffdfbf">26%</span><span>……以此类推。</span></p>
@@ -421,6 +419,8 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">共2只，每只为执灯人<span color="#ffbfbf">2/15生命值</span><span>。「荒野幽徒」的</span><span color="#ffdfbf">15%生命上限</span><span>用于</span><span color="#ffdfbf">回复</span><span>执灯人自身的生命上限；若召唤物生命上限已遭削减，则取其</span><span color="#ffdfbf">7.5%生命上限</span><span>作为回复；执灯人单次最高回复上限</span><span color="#ffdfbf">不超过30%生命值</span><span>。</span></p>
 			</content>
 		</RichText>
+		<BitmapImage source="@Embed('/迅悍之役-历经百战的执灯人%B7哀恸回响.assets/Image_20.png')" x="819" y="851" blendMode="normal">
+		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">
 	</Group>

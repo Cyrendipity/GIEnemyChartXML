@@ -166,6 +166,6 @@
 	<mx:Image source="Image11.png" x="1396" y="267" width="128" height="128"/>
 	<mx:Image source="Image12.png" x="1376" y="246" width="168" height="170"/>
 	<mx:Image source="Image13.png" x="815" y="847" width="98" height="99"/>
-	<mx:Image source="Image14.png" x="828" y="864" width="72" height="66"/>
-	<mx:Image source="Image15.png" x="654" y="846" width="100" height="100"/>
+	<mx:Image source="Image14.png" x="654" y="846" width="100" height="100"/>
+	<mx:Image source="Image15.png" x="814" y="851" width="104" height="93"/>
 </mx:Application>

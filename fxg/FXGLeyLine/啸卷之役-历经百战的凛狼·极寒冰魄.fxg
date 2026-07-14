@@ -370,16 +370,6 @@
 		</RichText>
 		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_17.png')" x="815" y="847">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_18.png')" x="826" y="861" blendMode="normal">
-			<filters>
-				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
-			</filters>
-		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_19.png')" x="665" y="862" blendMode="normal">
-			<filters>
-				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
-			</filters>
-		</BitmapImage>
 		<Rect x="576" y="32" width="768" height="768" alpha="1" d:userLabel="固定矩形" visible="false" blendMode="normal" radiusX="0" radiusY="0">
 			<fill>
 				<SolidColor color="#ffffff"/>
@@ -401,9 +391,9 @@
 				<DropShadowFilter angle="40" color="#000000" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_20.png')" x="1166" y="847" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_18.png')" x="1166" y="847" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_21.png')" x="1006" y="847" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_19.png')" x="1006" y="847" blendMode="normal">
 		</BitmapImage>
 		<RichText x="67" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#00ae83" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
@@ -412,7 +402,7 @@
 		</RichText>
 		<RichText x="66" y="864" width="507" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">凛狼在召唤狼魂时展开，护盾厚度为<span color="#ffbfbf">300%生命值</span><span>，持续至狼魂被击破，击破后消散使孤狼瘫痪13s，并对凛狼造成一次真伤，其值由护盾展开期间</span><span color="#ffdfbf">60%火&amp;风伤+10%非火&amp;风伤</span><span>组成，不超过</span><span color="#ffdfbf">40%凛狼生命值</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">凛狼在召唤狼魂时展开，屏障厚度为<span color="#ffbfbf">300%生命值</span><span>，持续至狼魂被击破，击破后消散使孤狼瘫痪13s，并对凛狼造成一次真伤，其值由屏障展开期间</span><span color="#ffdfbf">60%火&amp;风伤+10%非火&amp;风伤</span><span>组成，不超过</span><span color="#ffdfbf">40%凛狼生命值</span><span>。</span></p>
 			</content>
 		</RichText>
 		<Group d:userLabel="Group_2">
@@ -456,7 +446,7 @@
 					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">110</p>
 				</content>
 			</RichText>
-			<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_22.png')" x="128" y="380" blendMode="normal">
+			<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_20.png')" x="128" y="380" blendMode="normal">
 			</BitmapImage>
 		</Group>
 		<Group d:userLabel="Group_3">
@@ -500,7 +490,7 @@
 					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-60</p>
 				</content>
 			</RichText>
-			<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_23.png')" x="128" y="500" blendMode="normal">
+			<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_21.png')" x="128" y="500" blendMode="normal">
 			</BitmapImage>
 		</Group>
 		<RichText x="73" y="336" fontFamily="MiSans" fontSize="24" fontStyle="normal" fontWeight="bold" color="#ffffff" width="46" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
@@ -554,7 +544,7 @@
 					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">110</p>
 				</content>
 			</RichText>
-			<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_24.png')" x="128" y="440" blendMode="normal">
+			<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_22.png')" x="128" y="440" blendMode="normal">
 			</BitmapImage>
 		</Group>
 		<RichText x="73" y="452" width="46" height="40" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
@@ -572,11 +562,21 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">一段时间后，或低于<span color="#ffbfbf">70%</span><span>生命值时，凛狼移至场地中央，召唤</span><span textDecoration="underline">先祖狼魂</span><span>，狼魂会效仿凛狼的攻击造成</span><span color="#99ffff">冰元素</span><span>伤害，期间凛狼的抗性大幅提升。<br/></span><span color="#ffbfbf">(N5)</span><span> 召唤时开启风息屏障，但不再提升抗性。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_25.png')" x="1396" y="267" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_23.png')" x="1396" y="267" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_26.png')" x="1519" y="233">
+		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_24.png')" x="1519" y="233">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_27.png')" x="1376" y="246" blendMode="normal">
+		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_25.png')" x="1376" y="246" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_26.png')" x="648" y="847" blendMode="normal">
+			<filters>
+				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
+			</filters>
+		</BitmapImage>
+		<BitmapImage source="@Embed('/啸卷之役-历经百战的凛狼%B7极寒冰魄.assets/Image_27.png')" x="810" y="842" blendMode="normal">
+			<filters>
+				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
+			</filters>
 		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">

@@ -52,9 +52,9 @@
 				<DropShadowFilter angle="40" color="#ff9999" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="818" y="975" width="121" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
+		<RichText x="818" y="975" width="115" height="44" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.6">
 			<content>
-				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">17.5485</span><span fontSize="18" color="#99ffcc">F</span></p>
+				<p textAlign="center" fontFamily="MiSans" fontSize="16" fontWeight="bold" color="#ffcc99">Base HP：<br/><span fontSize="18" color="#dddddd">17.549</span><span fontSize="18" color="#99ffcc">F</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#ff9999" distance="0" alpha="0.75" quality="2" blurX="25" blurY="25"/>

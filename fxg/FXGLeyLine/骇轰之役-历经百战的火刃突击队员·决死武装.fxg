@@ -617,12 +617,12 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/骇轰之役-历经百战的火刃突击队员%B7决死武装.assets/Image_25.png')" x="815" y="847">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/骇轰之役-历经百战的火刃突击队员%B7决死武装.assets/Image_26.png')" x="828" y="864" blendMode="normal">
+		<BitmapImage source="@Embed('/骇轰之役-历经百战的火刃突击队员%B7决死武装.assets/Image_26.png')" x="654" y="846" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/骇轰之役-历经百战的火刃突击队员%B7决死武装.assets/Image_27.png')" x="814" y="851" blendMode="normal">
 			<filters>
 				<DropShadowFilter angle="45" color="#000000" distance="0" alpha="0.7" quality="2" blurX="10" blurY="10"/>
 			</filters>
-		</BitmapImage>
-		<BitmapImage source="@Embed('/骇轰之役-历经百战的火刃突击队员%B7决死武装.assets/Image_27.png')" x="654" y="846" blendMode="normal">
 		</BitmapImage>
 	</Group>
 	<Group d:userLabel="层_2" d:type="layer">

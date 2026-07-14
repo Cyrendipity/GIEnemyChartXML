@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle7 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFEBBF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99FF99;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFBFBF;
+		}
+		.textStyle20 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle21 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="95" width="666" height="643"/>
+	<mx:Text styleName="textStyle" x="470" y="32" width="958" text="秘源机兵构型械·裂解剪钳"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="608" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="WO[75,50,25,0]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：36.185F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：8.0B2"/>
+	<mx:Text styleName="textStyle5" x="574" y="128" width="746" alpha="0.75" text="Secret Source Automaton: Configuration Device - Lysis Shears"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="128" y="500" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="128" y="256" width="484" height="64"/>
+	<mx:Text styleName="textStyle3" x="64" y="338" width="64" text="正常"/>
+	<mx:Text styleName="textStyle7" x="64" y="391" width="64" text="正常(N5)"/>
+	<mx:Image source="Image8.png" x="128" y="440" width="484" height="60"/>
+	<mx:Text styleName="textStyle7" x="64" y="451" width="64" text="带电(N5)"/>
+	<mx:Text styleName="textStyle3" x="64" y="518" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle8" x="64" y="672" width="128" text="应战对策："/>
+	<mx:Text styleName="textStyle9" x="64" y="704" width="512" alpha="0.9" text="拥有200点计量上限。角色进入或维持「夜魂加持」状态时，其均会积攒15计量；当充满时，构型械就会立即中断其他技能，并开始球状雷弹的准备。(N5) 计量规则更改：每秒积攒2计量，角色进入/维持「夜魂加持」状态时，将积攒5/3计量。计量充满后，本机制将不再重复出现。"/>
+	<mx:Image source="Image9.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image10.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Image source="Image11.png" x="654" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle10" x="640" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image12.png" x="814" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle11" x="800" y="938" width="128" alpha="0.6" text="Nightsoul Adv."/>
+	<mx:Text styleName="textStyle12" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle13" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle14" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle15" x="640" y="704" width="160" text="1610982"/>
+	<mx:Text styleName="textStyle15" x="800" y="704" width="160" text="8027351"/>
+	<mx:Text styleName="textStyle15" x="960" y="704" width="160" text="8121788"/>
+	<mx:Text styleName="textStyle16" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle16" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle16" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle17" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle17" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle18" x="960" y="736" width="160" alpha="0.6" text="× 3.5"/>
+	<mx:Text styleName="textStyle15" x="1120" y="704" width="160" text="23114491"/>
+	<mx:Text styleName="textStyle16" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle18" x="1120" y="736" width="160" alpha="0.6" text="× 9.1"/>
+	<mx:Text styleName="textStyle15" x="640" y="768" width="160" text="15225"/>
+	<mx:Text styleName="textStyle15" x="960" y="768" width="160" text="21681"/>
+	<mx:Text styleName="textStyle15" x="800" y="768" width="160" text="19698"/>
+	<mx:Text styleName="textStyle15" x="1120" y="768" width="160" text="23222"/>
+	<mx:Text styleName="textStyle12" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle19" x="64" y="960" width="183" text="(N5) 雷贯屏障："/>
+	<mx:Text styleName="textStyle9" x="64" y="992" width="512" alpha="0.9" text="开局立即展开，厚度为200%生命值，应战对策充满后被破坏。击破后将对构型械造成一次真伤，其值为屏障展开期间50%所受伤害，不超过50%构型械生命值。首次瘫痪后将不再形成该屏障及抗性提升效果。"/>
+	<mx:Text styleName="textStyle8" x="64" y="832" width="199" text="固态燃素与汲聚械："/>
+	<mx:Text styleName="textStyle9" x="64" y="864" width="512" alpha="0.9" text="仅「回声之子」成员可直接攀爬，高度接近岩脊，其余角色可卡模型逃课。进入其上方的屏障内可直接击破「汲聚械」，击破所有汲聚械可使构型械瘫痪15s，并扣除其15%生命值。"/>
+	<mx:Text styleName="textStyle20" x="1536" y="320" width="448" alpha="0.9" text="构型械驻于原地，于自身炮筒发射3枚雷轰弹，落地爆炸，每枚造成70%伤害，并留下雷地面，持续造成7%伤害。"/>
+	<mx:Text styleName="textStyle21" x="1536" y="256" width="448" text="渊霄丙明-定点"/>
+	<mx:Image source="Image13.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Text styleName="textStyle20" x="1536" y="512" width="448" alpha="0.9" text="过于靠近构型械时，构型械化作巨星爪掌并拍下，造成60%伤害，同时产生6道纵方向中心合拢的激光，持续造成50%伤害，聚拢后发生爆炸，造成80%伤害。"/>
+	<mx:Text styleName="textStyle21" x="1536" y="448" width="448" text="驻于孛辘-输出"/>
+	<mx:Image source="Image15.png" x="1396" y="459" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1376" y="438" width="168" height="170"/>
+</mx:Application>

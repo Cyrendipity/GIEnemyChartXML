@@ -145,8 +145,8 @@
 	<mx:Text styleName="textStyle17" x="640" y="938" width="128" alpha="0.3" text="——"/>
 	<mx:Image source="Image9.png" x="818" y="848" width="92" height="96"/>
 	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Plunging Adv."/>
-	<mx:Text styleName="textStyle19" x="1536" y="288" width="448" alpha="0.9" text="实验场力装置将蓄能，产生振荡地面的晶岩浪潮，碰到造成100%,50%伤害(闪避帧无效)，施放完毕后结束重力场。(N5) 根据自身算势层数，持续施放强震波，以慢三连开头，之后以快三连形式持续施放，造成120%伤害(闪避帧无效)，最多重复5次。"/>
-	<mx:Text styleName="textStyle20" x="1536" y="224" width="448" text="引力涟漪-爆发"/>
-	<mx:Image source="Image10.png" x="1396" y="235" width="128" height="128"/>
-	<mx:Image source="Image11.png" x="1376" y="214" width="168" height="170"/>
+	<mx:Text styleName="textStyle19" x="1536" y="320" width="448" alpha="0.9" text="实验场力装置将蓄能，产生振荡地面的晶岩浪潮，碰到造成100%,50%伤害(闪避帧无效)，施放完毕后结束重力场。(N5) 根据自身算势层数，持续施放强震波，以慢三连开头，之后以快三连形式持续施放，造成120%伤害(闪避帧无效)，最多重复5次。"/>
+	<mx:Text styleName="textStyle20" x="1536" y="256" width="448" text="引力涟漪-爆发"/>
+	<mx:Image source="Image10.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1376" y="246" width="168" height="170"/>
 </mx:Application>
