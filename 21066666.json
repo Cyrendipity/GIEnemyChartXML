@@ -1,0 +1,380 @@
+[
+  {
+    "MonsterInternalName": {
+      "NameZHCN": "666吧唧", 
+      "NameENUS": "666bj",
+      "SubtitleZHCN": "小土豆",
+      "SubtitleENUS": "Small Fellow",
+      "Id": "21066666",
+      "Description": "隔壁的群主，香香软软的",
+      "IconPath": "https://picsum.photos/200/300?random=1",
+      "Mark": "0|Amplification|Legend|Veteran|Nyx|Stygian|Summons|Special",
+      "MarkPath": "https://picsum.photos/200/300?random=1",
+      "ImagePath": "https://picsum.photos/200/300?random=1",
+      "MonsterType": "Common|Elite|Boss|Legend|Quest",
+      "Category": "Abyss|Animals|Automatons|ElementalLifeforms|EnemyOfNote|Fatui|Hilichurls|LocalLegends|MagicalBeasts|OtherHumanFactions|NonCategorized|StygianOnslaught",
+      "Resistace": {
+        "State1": {
+          "Name": "正常",
+          "Pyro": 10,
+          "Hydro": 10,
+          "Anemo": 10,
+          "Electro": 10,
+          "Dendro": 10,
+          "Cryo": 10,
+          "Geo": 10,
+          "Physical": 10
+        },
+        "State2": {
+          "Name": "机制",
+          "Physical": "IMM",
+          "Pyro": "IMM",
+          "Hydro": 110,
+          "Anemo": 110,
+          "Electro": 110,
+          "Dendro": 110,
+          "Cryo": 110,
+          "Geo": 110,
+          "Physical": 110
+        }
+      },
+      "EnergyDrop": {
+        "Type": "Pyro|Hydro|Electro|Cyro|Dendro|Anemo|Geo|White|None",
+        "Orb": [
+          75,
+          50,
+          25,
+          0
+        ],
+        "OrbCount": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "Particle": [
+          0
+        ],
+        "ParticleCount": [
+          2
+        ]
+      },
+      "BaseHp": {
+        "Value": 13.584,
+        "Curve": "HP_1|HP_2|HP_3|HP_0"
+      },
+      "BaseAtk": {
+        "Value": 12.56,
+        "Curve": "ATK_1|ATK_2"
+      },
+      "BaseDef": {
+        "Value": 500,
+        "Curve": "DEF_1"
+      },
+      "DefaultLevel": 103,
+      "ElementMastery": 1,
+      "MultiplayerGroup": "1|2|3|4|5|101|102|103|104|105|106|107|108|109|201",
+      "Weight": 300,
+      "Endurance": 4000,
+      "Skill": [
+        {
+          "Name": "测试技能1",
+          "Type": "输出|召唤|远程|……",
+          "IconPath": "static/images/skills/skill_1.png",
+          "Description": "测试技能1描述测试技能1描述测试技能1期间,描述测试技能1描述造成<color=#00FF9999> 80% </color>伤害。\\n测试技能1描述测试技能1描述测试技能1描述。"
+        }
+      ],
+      "Notes": [
+        {
+          "Text": "下划线文本1",
+          "Desc": "描述"
+        }
+      ],
+      "Shield": [
+        {
+          "Name": "护罩1",
+          "Description": "护罩1介绍",
+          "IconPath": "static/images/skills/shieldBar_Pyro.png",
+          "Type": "Element",
+          "ElementType": "Fire|Water|Electric|Rock|Ice|Frozen|Grass|Wood",
+          "Duration": 30,
+          "MaxValue": 30,
+          "ShieldAngle": 360,
+          "ShieldHPRatio": 1,
+          "DamageRatio": 0.2,
+          "ShieldLayer": 1,
+          "Revert": false,
+          "UseMultiplayerData": false,
+          "UpdateByMaxHp": true,
+          "ShowDamageText": false
+        },
+        {
+          "Name": "次数盾1",
+          "Description": "次数盾盾1介绍",
+          "IconPath": "static/images/skills/shieldBar_Freq.png",
+          "Type": "Frequency",
+          "Duration": 30,
+          "MaxValue": 30,
+          "InitValue": 30,
+          "AttackCost": 1,
+          "AttackTagCostModify": [
+            {
+              "Tag": "Nyx_Attack",
+              "AttackCost": 3
+            }
+          ],
+          "UseMultiplayerData": true,
+          "ShowDamageText": false
+        },
+        {
+          "Name": "深黯盾1",
+          "Description": "深黯盾1介绍",
+          "IconPath": "static/images/skills/shieldBar_DamageShieldAbyss.png",
+          "Type": "Damage",
+          "ElementType": "Abyss",
+          "Duration": 30,
+          "ShieldHPRatio": 1,
+          "DamageRatio": 0.2,
+          "DamageMultiplier": 1,
+          "AttackTagModifyDamage": [
+            {
+              "Tag": "MoonShock_Damage",
+              "DamageMultiplier": 3
+            }
+          ],
+          "UpdateByMaxHp": true,
+          "ShowDamageText": true
+        }
+      ],
+      "Chargebar": [
+        {
+          "Name": "计量条1",
+          "Description": "计量条1描述",
+          "IconPath": "static/images/skills/chargeBar_13.png",
+          "ChargebarType": "1|2|……|17",
+          "Duration": 30,
+          "MaxValue": 30,
+          "InitValue": 30,
+          "Charge": [
+            {
+              "Type": "ByElementDurability",
+              "ElementType": "Fire",
+              "HasEDAddition": 15,
+              "NonEDAddition": 10
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Fire",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementReaction",
+              "ReactionType": "Overload",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByTime",
+              "PeriodAddition": 1,
+              "AdditionInterval": 0.5
+            },
+            {
+              "Type": "Other",
+              "ConditionDesc": "收到攻击后",
+              "PerAddition": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
+//[
+//  {  ↓怪索引名字
+//    "MonsterInternalName": {  
+//      "NameZHCN": "怪物游戏内名字", 
+//      "NameENUS": "英文",
+//      "SubtitleZHCN": "游戏内副标题",
+//      "SubtitleENUS": "英文",
+//      "Id": "怪物ID",
+//      "Description": "图鉴文本or毫斗旅记文本",
+//      "IconPath": "头像路径/超链",
+//      "Mark": "标记类型：无|强化|地方传奇|历经百战&秘影重现|夜魂试炼|幽境危战|召唤物|特殊",
+//      "MarkPath": "标记图路径/超链，标记图样覆盖在头像上层(0,0)处"；若无法实现or太麻烦，留空 改为带标记头像的IconPath
+//      "ImagePath": "一图流超链",
+//      "MonsterType": "怪类型：普通|精英|首领/Boss|地方传奇|任务",
+//      "Category": "图鉴分类：深渊|动物|自律机关|元素生命|值得铭记的强敌|愚人众|丘丘人|地方传奇|异种魔兽|其他人类势力|无分类|幽境危战",
+//      "Resistace": {
+//        "State1": { 不同状态下罗列的抗性，免疫为IMM
+//          "Name": "正常",
+//          "Pyro": 10,
+//          "Hydro": 10,
+//          "Anemo": 10,
+//          "Electro": 10,
+//          "Dendro": 10,
+//          "Cryo": 10,
+//          "Geo": 10,
+//          "Physical": 10
+//        },
+//        "State2": {
+//          "Name": "机制",
+//          "Physical": "IMM",
+//          "Pyro": "IMM",
+//          "Hydro": 110,
+//          "Anemo": 110,
+//          "Electro": 110,
+//          "Dendro": 110,
+//          "Cryo": 110,
+//          "Geo": 110,
+//          "Physical": 110
+//        }
+//      },
+//      "EnergyDrop": { 掉球
+//        "Type": "晶球种类：Pyro|Hydro|Electro|Cyro|Dendro|Anemo|Geo|White|None",
+//        "Orb": [ 对应生命值百分比的晶球掉落
+//          75,
+//          50,
+//          25,
+//          0
+//        ],
+//        "OrbCount": [ 晶球数量
+//          1,
+//          1,
+//          1,
+//          1
+//        ],
+//        "Particle": [ 对应生命值百分比的微粒掉落
+//          0
+//        ],
+//        "ParticleCount": [ 微粒数量
+//          2
+//        ]
+//      },
+//      "BaseHp": { 生命值基础
+//        "Value": 13.584,
+//        "Curve": "线型：HP_1|HP_2|HP_3|HP_0，对应Curve文件的GROW_CURVE_HP|GROW_CURVE_HP_2|GROW_CURVE_HP_ENVIRONMENT|GROW_CURVE_HP_LITTLEMONSTER"
+//      },
+//      "BaseAtk": { 攻击力基础
+//        "Value": 12.56,
+//        "Curve": "线型：ATK_1|ATK_2，对应Curve文件的GROW_CURVE_ATTACK|GROW_CURVE_ATTACK_2"
+//      },
+//      "BaseDef": { 防御基础
+//        "Value": 500,
+//        "Curve": "线型：DEF_1，对应Curve文件的GROW_CURVE_DEFENSE"  三种线型可以串用，如Atk可以用HP_1等
+//      },
+//      "DefaultLevel": 103, 用于展示页面的默认等级，世界9等级，Boss和传奇为103，狼王104，其余为100，剧情另外注
+//      "ElementMastery": 1, 元素精通
+//      "MultiplayerGroup": "多人组别：1|2|3|4|5|101|102|103|104|105|106|107|108|109|201",
+//      "Weight": 重量Weight
+//      "Endurance": 韧性Endurance
+//      "Skill": [  技能枚举
+//        {
+//          "Name": "测试技能1",
+//          "Type": "输出|召唤|远程|……", 技能分类
+//          "IconPath": "static/images/skills/skill_1.png", 技能图标
+//          "Description": "测试技能1描述测试技能1描述测试技能1期间,描述测试技能1描述造成<color=#00FF9999> 80% </color>伤害。\\n测试技能1描述测试技能1描述测试技能1描述。"
+//        }
+//      ],
+//      "Notes": [  技能文本中的下划线注释，或者其他备注
+//        {
+//          "Text": "下划线文本1",
+//          "Desc": "描述"
+//        }
+//      ],
+//      "Shield": [  怪的护盾
+//        {
+//          "Name": "护罩1",  
+//          "Description": "护罩1介绍",  
+//          "IconPath": "static/images/skills/shieldBar_Pyro.png",  护盾示意图路径/超链
+//          "Type": "Element",  若为常规护罩，使用此
+//          "ElementType": "Fire|Water|Electric|Rock|Ice|Frozen|Grass|Wood",  护盾元素类型
+//          "Duration": 30,  持续时间
+//          "MaxValue": 30,  最大盾量
+//          "ShieldAngle": 360,  阻挡角度
+//          "ShieldHPRatio": 1,  盾生命系数
+//          "DamageRatio": 0.2,  盾承伤系数
+//          "ShieldLayer": 1,   盾层数
+//          "Revert": false,  是否反向
+//          "UseMultiplayerData": false,  多人加盾
+//          "UpdateByMaxHp": true,  动态继承
+//          "ShowDamageText": false  是否跳字
+//        },
+//        {
+//          "Name": "次数盾1",
+//          "Description": "次数盾盾1介绍",
+//          "IconPath": "static/images/skills/shieldBar_Freq.png",  次数盾示意图路径/超链
+//          "Type": "Frequency",  若为次数盾，使用此
+//          "Duration": 30,
+//          "MaxValue": 30,  最大进度
+//          "InitValue": 30,  初始进度
+//          "AttackCost": 1,  受击进度系数
+//          "AttackTagCostModify": [  特殊攻击标签受击进度系数，如夜魂3倍效率破盾
+//            {
+//              "Tag": "Nyx_Attack",  夜魂伤害标签
+//              "AttackCost": 3
+//            }
+//          ],
+//          "UseMultiplayerData": true,
+//          "ShowDamageText": false
+//        },
+//        {
+//          "Name": "深黯盾1",
+//          "Description": "深黯盾1介绍",
+//          "IconPath": "static/images/skills/shieldBar_DamageShieldAbyss.png",  深黯护盾示意图路径/超链
+//          "Type": "Damage",  若为深黯护盾，使用此
+//          "ElementType": "Abyss", 深黯护盾特供，恒为Abyss
+//          "Duration": 30,
+//          "ShieldHPRatio": 1,
+//          "DamageRatio": 0.2,
+//          "DamageMultiplier": 1,  受伤加成（此为独立区）
+//          "AttackTagModifyDamage": [  特殊攻击标签受伤加成，如月感电3倍效率破盾
+//            {
+//              "Tag": "MoonShock_Damage",  月感电标签
+//              "DamageMultiplier": 3
+//            }
+//          ],
+//          "UpdateByMaxHp": true,
+//          "ShowDamageText": true
+//        }
+//      ],
+//      "Chargebar": [  怪的计量条（圈圈
+//        {
+//          "Name": "计量条1",
+//          "Description": "计量条1描述",
+//          "IconPath": "static/images/skills/chargeBar_13.png",  计量条示意图路径/超链
+//          "ChargebarType": "1|2|……|17", 1=小闪电 2=怒气 3=复苏 4=黄色四角星 5=夜魂小闪电 6=纳塔圣火 7=冰 8=火 9=雷 10=水 11=草 12=岩 13=风 14=曼陀草分裂 15=曼陀草聚合 16=锅 17=倒计时
+//          "Duration": 30,
+//          "MaxValue": 30,  计量条最大值
+//          "InitValue": 30, 计量条初始值
+//          "Charge": [ 计量条叠加机制
+//            {
+//              "Type": "ByElementDurability",  量数充能
+//              "ElementType": "Fire", 有效充能元素
+//              "HasEDAddition": 15,  有附着攻击充能
+//              "NonEDAddition": 10  无附着攻击充能
+//            },
+//            {
+//              "Type": "ByElementType",  次数充能
+//              "ElementType": "Fire",  有效次数(含物理)
+//              "HitAddition": 1  攻击充能
+//            },
+//            {
+//              "Type": "ByElementReaction",  触发反应充能（反应伤害不属此类）
+//              "ReactionType": "Overload",  触发反应类型 ：Steam=蒸发，Melt=融化，Swirl=扩散，Explode=超载，Freeze=冻结，Burning=燃烧，Overdose=各种激化，(Moon)Overgrow=(月)绽放，(Moon)Crystallize=(月)结晶，(Moon)Shock=(月)感电，Superconduct=超导
+//              "HitAddition": 1  充能
+//            },
+//            {
+//              "Type": "ByTime",  时间充能
+//              "PeriodAddition": 1,  每个周期充能
+//              "AdditionInterval": 0.5  周期
+//            },
+//            {
+//              "Type": "Other",  其他机制
+//              "ConditionDesc": "收到攻击后",  机制详情
+//              "PerAddition": 1  机制充能
+//            }
+//          ]
+//        }
+//      ]
+//    }
+//  }
+//]

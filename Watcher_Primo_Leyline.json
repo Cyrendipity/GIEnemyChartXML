@@ -1,0 +1,276 @@
+[
+  {
+    "Watcher_Primo_Leyline": {
+      "NameZHCN": "开眼者·傲然睥睨", 
+      "NameENUS": "The Open-Eyed: Overbearing Contempt",
+      "SubtitleZHCN": "世界望楼之守望",
+      "SubtitleENUS": "World Watch Sentry",
+      "Description": "原初的大能者流溢而出的影之造物，曾居于高天之上的守望者，终因开眼而堕入尘世，拥有监控并反制元素攻击的权能。\\n受地脉紊乱的影响，其堕落的本质被逐步催化，那股强烈的攻击性也正愈演愈烈。",
+      "NormName": "开眼者·常形",
+      "HardName": "开眼者·蔑视",
+      "DireName": "开眼者·傲然睥睨",
+      "FirstCampaign": "啸卷之役",
+      "Tier": "Boss",
+      "Category": "StygianOnslaught",
+      "RelatedMonsterIds": ["Watcher_Primo","Watcher_Primo_ElementalStar_Same_Leyline","Watcher_Primo_ElementalStar_Hard_Leyline"],
+      "Resistace": {
+        "State1": {
+          "Name": "正常",
+          "DiffNote": "",
+          "Pyro": 10,
+          "Hydro": 10,
+          "Anemo": 10,
+          "Electro": 10,
+          "Dendro": 10,
+          "Cryo": 10,
+          "Geo": 10,
+          "Physical": 10
+        },
+        "State2": {
+          "Name": "监视",
+          "DiffNote": "N5",
+          "Pyro": 80,
+          "Hydro": 80,
+          "Anemo": 80,
+          "Electro": 80,
+          "Dendro": 80,
+          "Cryo": 80,
+          "Geo": 80
+        },
+        "State3": {
+          "Name": "岩星",
+          "DiffNote": "N4",
+          "Pyro": 140,
+          "Hydro": 140,
+          "Anemo": 140,
+          "Electro": 140,
+          "Dendro": 140,
+          "Cryo": 140,
+          "Geo": 140
+        },
+        "State4": {
+          "Name": "岩星",
+          "DiffNote": "N3",
+          "Pyro": 80,
+          "Hydro": 80,
+          "Anemo": 80,
+          "Electro": 80,
+          "Dendro": 80,
+          "Cryo": 80,
+          "Geo": 80
+        }
+      },
+      "EnergyDrop": {
+        "Type": "White",
+        "EnergyGroup": "B_4443"
+      },
+      "BaseHp": {
+        "Value": 388.90405,
+        "Curve": "HP_2"
+      },
+      "BaseAtk": {
+        "Value": 100.48,
+        "Curve": "ATK_2"
+      },
+      "BaseDef": {
+        "Value": 500,
+        "Curve": "DEF_1"
+      },
+      "Coefficients": {
+        "N1": 1.2,
+        "N2": 1.2,
+        "N3": 1.2,
+        "N4": 4,
+        "N5": 7.3,
+        "N6": 14
+      },
+      "DefaultLevels": {
+        "N1": 40,
+        "N2": 70,
+        "N3": 90,
+        "N4": 100,
+        "N5": 105,
+        "N6": 110
+      },
+      "ElementMastery": 0,
+      "MultiplayerGroup": "108",
+      "Advantages": ["Melt","Evaporate"],
+      "Disadvantages": [""],
+      "SkillDiffer": [
+        {
+          "Name": "监摄之神筑",
+          "Type": "反击",
+          "DiffNote": "",
+          "IconPath": "static/images/MonsterSkillIcon/Boss/WFV/observation0.png",
+          "Description": "守望者将长矛先转一圈，造成40%伤害，随后立即进入<u>监候之统摄</u>状态，持续<color=#ffdfbf>5s</color>；记录完毕后/未成功记录 将造成<color=#ffffbf>对应元素</color>/<color=#ffe699>岩元素</color>的<color=#ffdfbf>68%</color>伤害。累计施放2次后立即准备大招「现象之谵妄」。\\n<color=#ffbfbf>(N5)</color> 记录期间的<color=#ffdfbf>全抗+70%</color>，且记录次数提升，第二次记录的时间提升至<color=#ffdfbf>8s</color>。"
+        },
+        {
+          "Name": "现象之谵妄",
+          "Type": "爆发",
+          "DiffNote": "",
+          "IconPath": "static/images/MonsterSkillIcon/Boss/WFV/phenomenon0.png",
+          "Description": "守望者移至场地中央，并进行蓄力，同时召唤2枚<u>元素星</u>，<color=#ffdfbf>18s</color>后，将根据场上剩余的元素星，召唤对应天谴之矛，依次造成<color=#ffffbf>对应元素</color>的<color=#ffdfbf>100%</color>伤害。\\n<color=#bfffbf>(N4)</color> 若守望者召唤了<color=#ffdfbf>异色的</color>两个元素星，则它们的生命值将由守望者的<color=#ffdfbf>1/6</color>降至<color=#ffdfbf>1/15</color>。\\n<color=#ffbfbf>(N5)</color> 守望者的天谴之矛将造成<color=#ffffbf>对应元素</color>的<color=#ffdfbf>300%</color>伤害。"
+        }
+      ],
+      "MechanismNotes": [
+        {
+          "Text": "监候之统摄",
+          "Desc": "大招之前会施放2次，每次会分别记录<color=#ff9999>火</color>/<color=#80c0ff>水</color>/<color=#ffacff>雷</color>/<color=#99ffff>冰</color>的攻击次数，首次施放时，当某一元素次数达<color=#ffdfbf>3次</color>时，即为记录完成，并作为元素星的属性储存，记录时间为<color=#ffdfbf>5s</color>；若第二次记录的元素与首次相同，则需要<color=#ffdfbf>9次</color>攻击才能被记录。\\n<color=#ffbfbf>(N5)</color> 整个技能期间的<color=#ffdfbf>全抗+70%</color>，且两次记录的次数需求提升至<color=#ffdfbf>5次</color>/<color=#ffdfbf>15次</color>；进入第二次记录的间隔大幅缩短，第二次的记录时间延长至<color=#ffdfbf>8s</color>。"
+        },
+        {
+          "Text": "元素星",
+          "Desc": "由守望者大招召唤，每个元素星的生命值为守望者的<color=#ffdfbf>1/6</color>；\\n活性元素星免疫对应属性伤害；惰性岩元素星<color=#ffdfbf>全抗80%</color>;\\n破坏第<color=#ffdfbf>1</color>/<color=#ffdfbf>2</color>颗元素星将对守望者造成<color=#ffdfbf>2段3%</color>/<color=#ffdfbf>2段9%生命值</color>的对应元素真伤(仅暴击的一段有附着)。\\n<color=#bfffbf>(N4)</color> 惰性岩元素星<color=#ffdfbf>全抗提升至140%</color>;\\n<color=#bfffbf>(N4)</color> 若守望者召唤了两枚不同的元素星，则它们的生命值将降至守望者的<color=#ffdfbf>1/15</color>。"
+        }
+      ],
+      "Shield": [
+      ],
+      "Chargebar": [
+        {
+          "Name": "高难度首次监控计量",
+          "Description": "记录期间的计量，分别记录<color=#ff9999>火</color>/<color=#80c0ff>水</color>/<color=#ffacff>雷</color>/<color=#99ffff>冰</color>的攻击次数，记录完成后将获得对应元素的监控状态",
+          "IconPath": "static/images/UIIcon/cb-4n.png",
+          "ChargebarType": "4",
+          "Duration": 5,
+          "MaxValue": 5,
+          "InitValue": 0,
+          "UseMultiplayerData": false,
+          "Charge": [
+            {
+              "Type": "ByElementType",
+              "ElementType": "Fire",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Water",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Electric",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Ice",
+              "HitAddition": 1
+            }
+          ]
+        },
+        {
+          "Name": "高难度第二次监控计量",
+          "Description": "记录期间的计量，分别记录<color=#ff9999>火</color>/<color=#80c0ff>水</color>/<color=#ffacff>雷</color>/<color=#99ffff>冰</color>的攻击次数，记录完成后将获得对应元素的监控状态",
+          "IconPath": "static/images/UIIcon/cb-4n.png",
+          "ChargebarType": "4",
+          "Duration": 8,
+          "MaxValue": 15,
+          "InitValue": 0,
+          "UseMultiplayerData": false,
+          "Charge": [
+            {
+              "Type": "ByElementType",
+              "ElementType": "Fire",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Water",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Electric",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Ice",
+              "HitAddition": 1
+            }
+          ]
+        },
+        {
+          "Name": "首次监控计量",
+          "Description": "记录期间的计量，分别记录<color=#ff9999>火</color>/<color=#80c0ff>水</color>/<color=#ffacff>雷</color>/<color=#99ffff>冰</color>的攻击次数，记录完成后将获得对应元素的监控状态",
+          "IconPath": "static/images/UIIcon/cb-4n.png",
+          "ChargebarType": "4",
+          "Duration": 5,
+          "MaxValue": 3,
+          "InitValue": 0,
+          "UseMultiplayerData": false,
+          "Charge": [
+            {
+              "Type": "ByElementType",
+              "ElementType": "Fire",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Water",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Electric",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Ice",
+              "HitAddition": 1
+            }
+          ]
+        },
+        {
+          "Name": "第二次监控计量",
+          "Description": "记录期间的计量，分别记录<color=#ff9999>火</color>/<color=#80c0ff>水</color>/<color=#ffacff>雷</color>/<color=#99ffff>冰</color>的攻击次数，记录完成后将获得对应元素的监控状态",
+          "IconPath": "static/images/UIIcon/cb-4n.png",
+          "ChargebarType": "4",
+          "Duration": 8,
+          "MaxValue": 9,
+          "InitValue": 0,
+          "UseMultiplayerData": false,
+          "Charge": [
+            {
+              "Type": "ByElementType",
+              "ElementType": "Fire",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Water",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Electric",
+              "HitAddition": 1
+            },
+            {
+              "Type": "ByElementType",
+              "ElementType": "Ice",
+              "HitAddition": 1
+            }
+          ]
+        },
+        {
+          "Name": "爆发蓄力倒计时",
+          "Description": "现象之谵妄的蓄力期间计量，计量完成后将根据场上元素星数量召唤对应天谴之矛",
+          "IconPath": "static/images/UIIcon/cb-17n.png",
+          "ChargebarType": "17",
+          "Duration": 18,
+          "MaxValue": 18,
+          "InitValue": 0,
+          "UseMultiplayerData": false,
+          "Charge": [
+            {
+              "Type": "ByTime",
+              "PeriodAddition": 0.3,
+              "AdditionInterval": 0.3
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

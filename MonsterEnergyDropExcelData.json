@@ -1,0 +1,205 @@
+[
+  {
+    "EnergyGroup": "N_0000",
+    "BaseEnergy": 0,
+    "DropMode": 0,
+    "ParticleDrop": 0,
+    "OrbDrop": 0
+  },
+  {
+    "EnergyGroup": "A_1101",
+    "BaseEnergy": 6,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "1,1,1",
+    "OrbDrop": "0,0,0"
+  },
+  {
+    "EnergyGroup": "A_1102",
+    "BaseEnergy": 8,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "1,1,2",
+    "OrbDrop": "0,0,0"
+  },
+  {
+    "EnergyGroup": "A_1103",
+    "BaseEnergy": 10,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "1,1,0",
+    "OrbDrop": "0,0,1"
+  },
+  {
+    "EnergyGroup": "A_1104",
+    "BaseEnergy": 12,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "1,1,1",
+    "OrbDrop": "0,0,1"
+  },
+  {
+    "EnergyGroup": "A_2202",
+    "BaseEnergy": 12,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "2,2,2",
+    "OrbDrop": "0,0,0"
+  },
+  {
+    "EnergyGroup": "A_2203",
+    "BaseEnergy": 14,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "2,2,0",
+    "OrbDrop": "0,0,1"
+  },
+  {
+    "EnergyGroup": "A_3302",
+    "BaseEnergy": 16,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "0,0,2",
+    "OrbDrop": "1,1,0"
+  },
+  {
+    "EnergyGroup": "A_3303",
+    "BaseEnergy": 18,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "0,0,0",
+    "OrbDrop": "1,1,1"
+  },
+  {
+    "EnergyGroup": "A_3304",
+    "BaseEnergy": 20,
+    "DropMode": "66%,33%,0%",
+    "ParticleDrop": "0,0,1",
+    "OrbDrop": "1,1,1"
+  },
+  {
+    "EnergyGroup": "B_1111",
+    "BaseEnergy": 8,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "1,1,1,1",
+    "OrbDrop": "0,0,0,0"
+  },
+  {
+    "EnergyGroup": "B_1112",
+    "BaseEnergy": 10,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "1,1,1,2",
+    "OrbDrop": "0,0,0,0"
+  },
+  {
+    "EnergyGroup": "B_1113",
+    "BaseEnergy": 12,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "1,1,1,0",
+    "OrbDrop": "0,0,0,1"
+  },
+  {
+    "EnergyGroup": "B_1114",
+    "BaseEnergy": 14,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "1,1,1,1",
+    "OrbDrop": "0,0,0,1"
+  },
+  {
+    "EnergyGroup": "B_1115",
+    "BaseEnergy": 18,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "1,1,1,3",
+    "OrbDrop": "0,0,0,1"
+  },
+  {
+    "EnergyGroup": "B_3330",
+    "BaseEnergy": 18,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "0,0,0,0",
+    "OrbDrop": "1,1,1,0"
+  },
+  {
+    "EnergyGroup": "B_3332",
+    "BaseEnergy": 22,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "0,0,0,2",
+    "OrbDrop": "1,1,1,0"
+  },
+  {
+    "EnergyGroup": "B_3333",
+    "BaseEnergy": 24,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "0,0,0,0",
+    "OrbDrop": "1,1,1,1"
+  },
+  {
+    "EnergyGroup": "B_3334",
+    "BaseEnergy": 26,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "0,0,0,1",
+    "OrbDrop": "1,1,1,1"
+  },
+  {
+    "EnergyGroup": "B_3335",
+    "BaseEnergy": 30,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "0,0,0,3",
+    "OrbDrop": "1,1,1,1"
+  },
+  {
+    "EnergyGroup": "B_4443",
+    "BaseEnergy": 30,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "1,1,1,0",
+    "OrbDrop": "1,1,1,1"
+  },
+  {
+    "EnergyGroup": "B_4444",
+    "BaseEnergy": 32,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "1,1,1,1",
+    "OrbDrop": "1,1,1,1"
+  },
+  {
+    "EnergyGroup": "B_5550",
+    "BaseEnergy": 36,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "3,3,3,0",
+    "OrbDrop": "1,1,1,0"
+  },
+  {
+    "EnergyGroup": "B_5555",
+    "BaseEnergy": 48,
+    "DropMode": "75%,50%,25%,0%",
+    "ParticleDrop": "3,3,3,0",
+    "OrbDrop": "1,1,1,1"
+  },
+  {
+    "EnergyGroup": "C_1001",
+    "BaseEnergy": 4,
+    "DropMode": "60%,0%",
+    "ParticleDrop": "1,1",
+    "OrbDrop": "0,0"
+  },
+  {
+    "EnergyGroup": "C_1002",
+    "BaseEnergy": 6,
+    "DropMode": "60%,0%",
+    "ParticleDrop": "1,2",
+    "OrbDrop": "0,0"
+  },
+  {
+    "EnergyGroup": "D_1001",
+    "BaseEnergy": 4,
+    "DropMode": "50%,0%",
+    "ParticleDrop": 1.1,
+    "OrbDrop": "0,0"
+  },
+  {
+    "EnergyGroup": "E_0001",
+    "BaseEnergy": 2,
+    "DropMode": "0%",
+    "ParticleDrop": 1,
+    "OrbDrop": 0
+  },
+  {
+    "EnergyGroup": "E_0003",
+    "BaseEnergy": 6,
+    "DropMode": "0%",
+    "ParticleDrop": 0,
+    "OrbDrop": 1
+  }
+]
