@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1144" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#E3D2C4;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#E3D2C4;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="485" text="原初之人"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="363" text="HP: 20625 (36.0TH)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="剧情首领 Lv.20 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 1800 (3.0TA)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="“Primordial Human”"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="斯瓦罗德唤出6枚光球，依次向玩家投射，造成30%,15%,6%,3%伤害。"/>
+	<mx:Text styleName="textStyle9" x="64" y="512" width="414" text="光塑的巨人·斯瓦罗德"/>
+	<mx:Text styleName="textStyle10" x="64" y="555" width="395" alpha="0.75" text="Svarod, Velikan of Light"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="斯瓦罗德施放多道源光隙流，接触造成50%,25%,10%,5%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="斯瓦罗德在自身两侧召唤巨量的，括弧排列状的30枚弹幕，随后飞速袭来，造成20%,10%,4%,2%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" alpha="0.9" text="斯瓦罗德拟出巨量的，双翼状排列的繁星，对玩家进行轰击，造成20%,10%,4%,2%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="992" width="448" alpha="0.9" text="低于50%生命值时，斯瓦罗德将准备打开庭院的「门扉」。125s后蓄力成功，施放时将秒杀前台。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="480" width="448" alpha="0.9" text="斯瓦罗德唤出5枚金色光球，可被攻击击破，5s后光球变蓝，并缓慢飞来，造成40%,20%,8%,4%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="736" width="448" alpha="0.9" text="斯瓦罗德在胸口处凝聚金光，8s后发射脉冲，造成100%伤害。金光可被20次攻击中断。"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="沉入时隙的梦河-定点"/>
+	<mx:Text styleName="textStyle11" x="736" y="416" width="448" text="曾为灵躯的注视-追踪"/>
+	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="掩幪寰星的希冀-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="448" text="无怨无忧的樊笼-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="416" width="448" text="背负无主的遗愿-远程"/>
+	<mx:Text styleName="textStyle11" x="1408" y="672" width="448" text="弃绝慰者的心扉-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="瞩见苍冕的陨落-输出"/>
+	<mx:Text styleName="textStyle13" x="1335" y="64" width="521" alpha="0.5" text="元素能量：NA"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="1248" y="150" width="168" height="170"/>
+</mx:Application>

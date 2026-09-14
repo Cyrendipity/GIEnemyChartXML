@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1536" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#1595BF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="456"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="64" y="576" width="364" text="HP: 6702862 (110.0F)"/>
+	<mx:Text styleName="textStyle3" x="64" y="768" width="484" text="HP: 1422660 (25.652F) 23.32%"/>
+	<mx:Text styleName="textStyle4" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="624" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle3" x="64" y="816" width="375" text="ATK: 11819 (4.8B2) 60%"/>
+	<mx:Text styleName="textStyle3" x="64" y="672" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle3" x="64" y="864" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle5" x="736" y="256" width="448" alpha="0.9" text="弗瑞奥萨以站姿迅速拈弓一发冰箭，造成60%伤害；或以蹲姿发射，造成70%伤害。"/>
+	<mx:Text styleName="textStyle5" x="736" y="704" width="448" alpha="0.9" text="弗瑞奥萨给弓注入冰元素，随后发射三枚极快的追踪箭，造成90%,18%,9%伤害。受「星烁反应」影响后箭失去目标，并会使其眩晕一小会。"/>
+	<mx:Text styleName="textStyle5" x="736" y="1376" width="448" alpha="0.9" text="弗瑞奥萨遁入地面，在目标处留下「阻生根须」，1.5s后现身。根须受「星烁反应」影响后会变矮，受击即可破坏，无论位置。"/>
+	<mx:Text styleName="textStyle5" x="736" y="480" width="448" alpha="0.9" text="弗瑞奥萨蹲下迅速发射两一枚冰箭，均造成50%伤害。"/>
+	<mx:Text styleName="textStyle5" x="736" y="928" width="448" alpha="0.9" text="距离较近时，弗瑞奥萨使用下肢进行踢踹攻击，造成60%伤害。"/>
+	<mx:Text styleName="textStyle5" x="736" y="1152" width="448" alpha="0.9" text="弗瑞奥萨缠根，并在两侧留下根须；同时持续发射7波箭雨，前6波箭雨持续造成50%,25%,10%,5%伤害，第7波箭雨虽迟但痛，造成100%,20%,10%伤害。"/>
+	<mx:Text styleName="textStyle6" x="736" y="192" width="448" text="幻雪零星-远程"/>
+	<mx:Text styleName="textStyle6" x="736" y="640" width="448" text="流矢烁寒-追踪"/>
+	<mx:Text styleName="textStyle6" x="736" y="416" width="448" text="雨前三两-远程"/>
+	<mx:Text styleName="textStyle6" x="736" y="864" width="448" text="凌冰微舞-输出"/>
+	<mx:Text styleName="textStyle6" x="736" y="1088" width="448" text="急雪连霖-爆发"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="576" y="128" width="469" alpha="0.5" text="元素能量：CP[66x2,33x2,0],CO[0]"/>
+	<mx:Text styleName="textStyle9" x="64" y="384" width="490" text="弗瑞奥萨"/>
+	<mx:Text styleName="textStyle10" x="64" y="465" width="395" alpha="0.75" text="Furiosa"/>
+	<mx:Text styleName="textStyle11" x="64" y="1224" width="448" alpha="0.75" text="阻生根须：顶端受到任意攻击即可摧毁，摧毁所有根须使弗瑞奥萨虚弱13s。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image6.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="64" y="1157" width="484" height="60"/>
+	<mx:Text styleName="textStyle12" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle12" x="0" y="1115" width="64" text="大招"/>
+	<mx:Text styleName="textStyle12" x="0" y="1175" width="64" text="虚弱"/>
+	<mx:Image source="Image8.png" x="596" y="1323" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="1302" width="168" height="170"/>
+	<mx:Text styleName="textStyle6" x="736" y="1312" width="448" text="掩脉存根-位移"/>
+</mx:Application>

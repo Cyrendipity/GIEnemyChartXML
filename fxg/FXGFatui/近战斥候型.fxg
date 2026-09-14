@@ -87,7 +87,7 @@
 		</RichText>
 		<RichText x="738" y="255" width="399" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">巡陆艇使用锯片进行一段攻击，造成<span color="#ff9999">80%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">巡陆艇使用锯片进行一段攻击，造成<span color="#7fbfff">80%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<RichText x="738" y="479" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1120" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2171B1;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="40"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="506" text="狮獒护卫"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="576" y="128" width="469" alpha="0.5" text="元素能量：HP[0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 144196 (2.6F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="精英 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 4432 (1.8B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 85/210"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="443" alpha="0.75" text="Leomastiff Guard"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="864" width="448" text="开冰錾岩-爆发"/>
+	<mx:Text styleName="textStyle10" x="736" y="256" width="448" alpha="0.9" text="狮獒使用铲子铲起砂石，朝玩家扔来，造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="480" width="448" alpha="0.9" text="狮獒使用十字镐敲击，造成65%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="704" width="448" alpha="0.9" text="狮獒使用铲子转身回旋，造成100%伤害，随后摔倒。"/>
+	<mx:Text styleName="textStyle10" x="736" y="928" width="448" alpha="0.9" text="狮獒趴下并蓄力。随后使用镐和铲交替进行攻击，分别造成65%,100%伤害,重复4次后停下。受「星烁反应」影响后，狮獒每进行2段攻击，就会被打断，第三次被打断则直接击飞。"/>
+	<mx:Image source="Image4.png" x="64" y="781" width="484" height="124"/>
+	<mx:Image source="Image5.png" x="64" y="77" width="256" height="243"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="归沙捷砾-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="浅探深凿-输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="转趄回身-输出"/>
+	<mx:Image source="Image6.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="630" width="168" height="170"/>
+</mx:Application>

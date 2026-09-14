@@ -232,20 +232,20 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">霜役人的元素爆发命中所累加的生命之契大小等同于自身<span color="#ff9999">16%</span><span>的攻击力，且在该生命之契的影响下，目标敌人将每秒流失</span><span color="#dfbfff">(0.4%HP+72)</span><span>的生命值(后台停5%)，其与生命之契同生共死，持续10min。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/以索忒.assets/Image_27.png')" x="1393" y="362">
+		<BitmapImage source="@Embed('/以索忒.assets/Image_27.png')" x="1391" y="362">
 		</BitmapImage>
 		<BitmapImage source="@Embed('/以索忒.assets/Image_28.png')" x="1268" y="395" blendMode="normal">
 		</BitmapImage>
 		<BitmapImage source="@Embed('/以索忒.assets/Image_29.png')" x="1248" y="374" blendMode="normal">
 		</BitmapImage>
-		<RichText x="738" y="990" width="1094" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="990" width="1088" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffff">固有天赋·锃锋<span fontSize="24" color="#ffffff">：元素爆发的追加攻击对附有生命之契的目标造成的伤害提升</span><span fontSize="24" color="#ff9999">150%</span><span fontSize="24" color="#ffffff">。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffff">锃锋<span fontSize="24" color="#ffffff">：元素爆发的追加攻击对附有生命之契的目标造成的伤害提升</span><span fontSize="24" color="#ff9999">150%</span><span fontSize="24" color="#ffffff">。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。</span></p>
 			</content>
 		</RichText>
-		<RichText x="739" y="894" width="1112" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="740" y="894" width="1095" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffff">固有天赋·留刃<span fontSize="24" color="#ffffff">：爆发的第一段伤害命中时，</span><span fontSize="24" color="#ffedbf">恢复5%生命值</span><span fontSize="24" color="#ffffff">；生命值</span><span fontSize="24" color="#ffedbf">低于20%</span><span fontSize="24" color="#ffffff">时，施放元素爆发改为</span><span fontSize="24" color="#ffedbf">消耗10%当前生命值</span><span fontSize="24" color="#ffffff">。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffff">留刃<span fontSize="24" color="#ffffff">：爆发的第一段伤害命中时，</span><span fontSize="24" color="#ffecbf">恢复5%生命值</span><span fontSize="24" color="#ffffff">；生命值</span><span fontSize="24" color="#ffecbf">低于20%</span><span fontSize="24" color="#ffffff">时，施放元素爆发改为</span><span fontSize="24" color="#ffecbf">消耗10%当前生命值</span><span fontSize="24" color="#ffffff">。</span></p>
 			</content>
 		</RichText>
 		<RichText x="66" y="1104" width="312" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">

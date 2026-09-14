@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1280" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="-41" y="-42" width="467" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="442" text="嵌合翼骏狮"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="512" width="305" text="单体的协奏者"/>
+	<mx:Text styleName="textStyle4" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：EP[0x2],EO[66,33]"/>
+	<mx:Text styleName="textStyle6" x="64" y="672" width="305" text="HP: 1328385 (21.8F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="640" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="720" width="375" text="ATK: 19842 (7.6B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="768" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="465" width="395" alpha="0.75" text="Chimeric Winged Lion"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="Solo Accompanist"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="战斗开始时，翼骏师进入「唤雷」形态，并展开幻雷护罩，该状态持续直至护罩被破坏。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="距离较远时，翼骏狮升空，衔着雷剑向玩家突击，造成100%伤害，若玩家距离较近，则还会追加一段翻尾攻击，造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="翼骏狮将雷剑插入地面，并对其施加强风，使其产生冲击地波，每次造成60%伤害，一共会形成4道冲击波。可受「星烁反应」影响。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="翼骏狮使用左右双爪先后进行攻击，均造成30%伤害，若玩家距离较近，则还会追加一段翻尾攻击，造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="翼骏狮利用双头施放双属性高能激光束，接触造成对应元素的50%,25%,10%,5%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="瘫痪恢复后，翼骏狮进入「驱风」形态，绕场地盘旋大半圈，并在途径的位置留下共8枚烈风弹。烈风弹依次朝玩家飞去，造成50%,25%,10%,5%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="翼骏狮短暂蓄力，突然朝玩家冲来并着陆，造成60%伤害，准备重新进入「唤雷」形态。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="距离较远时，翼骏狮吐出5枚雳珠，并加以强化，朝着玩家飞去，造成40%,20%,10%,4%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="608" width="448" text="腾驭越逐-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="1056" width="448" text="寸飙鸢狩-输出"/>
+	<mx:Text styleName="textStyle11" x="736" y="832" width="448" text="势动苍霆-猛攻"/>
+	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="凛谷深雷-防御"/>
+	<mx:Text styleName="textStyle11" x="736" y="384" width="448" text="横刃碎牙-猛攻"/>
+	<mx:Text styleName="textStyle11" x="736" y="608" width="448" text="威淬万钧-爆发"/>
+	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="摧灾折败-输出"/>
+	<mx:Text styleName="textStyle11" x="1408" y="384" width="448" text="衍雷并巽-远程"/>
+	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle13" x="64" y="1128" width="448" alpha="0.75" text="幻雷护罩：12雷盾，击破可使其瘫痪12s；受到「星烁反应」影响-4雷。第2/3次及之后展开护罩的厚度为8/6雷。风球：可被火/水/雷/冰攻击击毁，翼骏狮吸收不到足够的风球会瘫痪，持续16s。"/>
+	<mx:Image source="Image5.png" x="64" y="1001" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="959" width="64" text="开局"/>
+	<mx:Text styleName="textStyle14" x="0" y="1019" width="64" text="正常"/>
+	<mx:Image source="Image6.png" x="64" y="1061" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="1079" width="64" text="瘫痪"/>
+	<mx:Image source="Image7.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image8.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="844" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1268" y="172" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="152" width="168" height="168"/>
+	<mx:Image source="Image22.png" x="576" y="824" width="168" height="168"/>
+	<mx:Image source="Image23.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="翼骏狮蜷缩，在场地召唤5枚风球，5s后尝试吸收它们。若10s内吸收了3枚风球，则施放气爆，造成30%伤害，否则施放失败。可受「星烁反应」影响。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="832" width="448" text="烈惊千朽-爆发"/>
+	<mx:Image source="Image25.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image26.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="「威淬万钧」：中断技能，并使其护罩-4单位；「烈惊千朽」：无法吸收风球，并失去15%生命值(仅大世界)。两者均会掉落6枚对应元素微粒。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="1056" width="448" text="星烁辉离-天赋"/>
+	<mx:Image source="Image27.png" x="1248" y="1046" width="168" height="170"/>
+</mx:Application>

@@ -157,11 +157,11 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">风役人瞄准目标，<span color="#ffebbf">消耗5%生命值</span><span>，2s后发动攻击，对目标敌人降下翠雨利叶，造成</span><span color="#7fffd7">90%</span><span>伤害并施加生命之契，若成功施加，则发动追加「猎杀」攻击：<br/>翠叶之诀的场地将产生爆炸，造成</span><span color="#7fffd7">100%</span><span>伤害并施加生命之契。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_13.png')" x="720" y="137">
+		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_13.png')" x="720" y="138">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_14.png')" x="720" y="361">
+		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_14.png')" x="719" y="362">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_15.png')" x="720" y="649">
+		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_15.png')" x="719" y="649">
 		</BitmapImage>
 		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_16.png')" x="1392" y="137">
 		</BitmapImage>
@@ -204,14 +204,14 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/愚人众%B7风役人.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
 		</BitmapImage>
-		<RichText x="738" y="958" width="1094" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="958" width="1088" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffdf">固有天赋·佞意<span fontSize="24" color="#ffffff">：元素爆发的追加攻击对附有生命之契的目标造成的伤害提升</span><span fontSize="24" color="#ff9999">150%</span><span fontSize="24" color="#ffffff">。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffdf">佞意<span fontSize="24" color="#ffffff">：元素爆发的追加攻击对附有生命之契的目标造成的伤害提升</span><span fontSize="24" color="#ff9999">150%</span><span fontSize="24" color="#ffffff">。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。</span></p>
 			</content>
 		</RichText>
-		<RichText x="738" y="862" width="1103" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="738" y="862" width="1112" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffdf">固有天赋·残枝<span fontSize="24" color="#ffffff">：爆发的第一段伤害命中时，</span><span fontSize="24" color="#ffebbf">恢复10%生命值</span><span fontSize="24" color="#ffffff">；生命值</span><span fontSize="24" color="#ffebbf">低于20%</span><span fontSize="24" color="#ffffff">时，施放元素爆发改为</span><span fontSize="24" color="#ffebbf">消耗25%当前生命值</span><span fontSize="24" color="#ffffff">。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="32" fontWeight="bold" color="#bfffdf">残枝<span fontSize="24" color="#ffffff">：爆发的第一段伤害命中时，</span><span fontSize="24" color="#ffebbf">恢复10%生命值</span><span fontSize="24" color="#ffffff">；生命值</span><span fontSize="24" color="#ffebbf">低于20%</span><span fontSize="24" color="#ffffff">时，施放元素爆发改为</span><span fontSize="24" color="#ffebbf">消耗25%当前生命值</span><span fontSize="24" color="#ffffff">。</span></p>
 			</content>
 		</RichText>
 		<RichText x="58" y="497" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ffe5" width="311" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">

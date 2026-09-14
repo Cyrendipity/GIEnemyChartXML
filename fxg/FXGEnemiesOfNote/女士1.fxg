@@ -250,39 +250,39 @@
 				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2686a2">制图@Csxylic米游社</p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/女士1.assets/Image_29.png')" x="64" y="192" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_29.png')" x="596" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_30.png')" x="596" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_30.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_31.png')" x="576" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_31.png')" x="1268" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_32.png')" x="1268" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_32.png')" x="1248" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_33.png')" x="1248" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_33.png')" x="596" y="395" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_34.png')" x="596" y="395" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_34.png')" x="576" y="374" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_35.png')" x="576" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_35.png')" x="1268" y="395" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_36.png')" x="1268" y="395" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_36.png')" x="1248" y="374" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_37.png')" x="1248" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_37.png')" x="596" y="619" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_38.png')" x="596" y="619" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_38.png')" x="576" y="598" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_39.png')" x="576" y="598" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_39.png')" x="1268" y="619" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_40.png')" x="1268" y="619" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_40.png')" x="1248" y="598" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_41.png')" x="1248" y="598" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_41.png')" x="596" y="1099" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_42.png')" x="596" y="1099" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_42.png')" x="576" y="1078" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_43.png')" x="576" y="1078" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_43.png')" x="1268" y="1099" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_44.png')" x="1268" y="1099" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_44.png')" x="1248" y="1078" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/女士1.assets/Image_45.png')" x="1248" y="1078" blendMode="normal">
+		<BitmapImage source="@Embed('/女士1.assets/Image_45.png')" x="64" y="192" blendMode="normal">
 		</BitmapImage>
 	</Group>
 </Graphic>

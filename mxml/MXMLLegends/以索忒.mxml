@@ -83,15 +83,15 @@
 	<mx:Text styleName="textStyle5" x="64" y="864" width="375" text="Wt/Ed: 85/100"/>
 	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Yseut"/>
 	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
-	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="重击·冬袭雪冹-Z，输出"/>
-	<mx:Text styleName="textStyle9" x="736" y="672" width="490" text="元素爆发·刑影寒摄-Q，爆发"/>
+	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="冬袭雪冹-重击·输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="490" text="刑影寒摄-爆发"/>
 	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="霜役人使用单手剑瞬间向前方挥出几剑进行一段重击，对前方敌人造成80%,40%,20%,10%伤害。"/>
 	<mx:Text styleName="textStyle10" x="736" y="736" width="1120" alpha="0.9" text="霜役人瞄准目标，消耗5%生命值，2s后闪现发动攻击，对目标敌人造成40%伤害并施加生命之契，随后发动追加「猎杀」攻击：闪现并发射一枚寒冰箭，造成50%伤害并施加生命之契，随后冲刺下落，造成100%伤害。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。"/>
 	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="霜役人使用单手剑进行双划、寒役、空翻至多3段的连续攻击，对敌人分别造成50%x2,50%,70%伤害。"/>
 	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="霜役人向前突进一段距离，对路径上的敌人造成70%伤害。"/>
-	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="普通攻击·霜截-A，输出"/>
-	<mx:Text styleName="textStyle9" x="736" y="384" width="448" text="元素战技·罚赦-E，位移"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="霜截-普攻·输出"/>
+	<mx:Text styleName="textStyle9" x="736" y="384" width="448" text="罚赦-战技·位移"/>
 	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
 	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
 	<mx:Image source="Image7.png" x="576" y="150" width="168" height="170"/>
@@ -102,10 +102,10 @@
 	<mx:Image source="Image12.png" x="596" y="683" width="128" height="128"/>
 	<mx:Image source="Image13.png" x="576" y="662" width="168" height="170"/>
 	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="霜役人的元素爆发命中所累加的生命之契大小等同于自身16%的攻击力，且在该生命之契的影响下，目标敌人将每秒流失(0.4%HP+72)的生命值(后台停5%)，其与生命之契同生共死，持续10min。"/>
-	<mx:Text styleName="textStyle9" x="1408" y="384" width="448" text="固有天赋·破僭-妨害"/>
+	<mx:Text styleName="textStyle9" x="1408" y="384" width="448" text="破僭-天赋·妨害"/>
 	<mx:Image source="Image14.png" x="1268" y="395" width="128" height="128"/>
 	<mx:Image source="Image15.png" x="1248" y="374" width="168" height="170"/>
-	<mx:Text styleName="textStyle12" x="736" y="992" width="1120" alpha="0.9" text="固有天赋·锃锋：元素爆发的追加攻击对附有生命之契的目标造成的伤害提升150%。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。"/>
-	<mx:Text styleName="textStyle12" x="736" y="896" width="1120" alpha="0.9" text="固有天赋·留刃：爆发的第一段伤害命中时，恢复5%生命值；生命值低于20%时，施放元素爆发改为消耗10%当前生命值。"/>
+	<mx:Text styleName="textStyle12" x="736" y="992" width="1120" alpha="0.9" text="锃锋：元素爆发的追加攻击对附有生命之契的目标造成的伤害提升150%。被施加生命之契的目标，在遭受每段追加「猎杀」时都会累积生命之契。"/>
+	<mx:Text styleName="textStyle12" x="736" y="896" width="1120" alpha="0.9" text="留刃：爆发的第一段伤害命中时，恢复5%生命值；生命值低于20%时，施放元素爆发改为消耗10%当前生命值。"/>
 	<mx:Text styleName="textStyle13" x="64" y="1104" width="448" alpha="0.75" text="拥有90%的冻结抵抗。以索忒总是施放连招，常见的连招有：EEE、EEA、EZA、AZ、ZE、AEE、AEZ。"/>
 </mx:Application>

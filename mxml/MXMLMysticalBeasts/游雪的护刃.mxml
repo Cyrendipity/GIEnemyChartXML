@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1152" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#99FFFF;
+		}
+		.textStyle13 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#99FFFF;
+		}
+		.textStyle14 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="72"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="435" text="游雪的护刃"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="800" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1247" y="64" width="609" alpha="0.5" text="元素能量：CP[0x2],CO[66,33]"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" text="HP: 1645248 (27.0F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="608" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="688" width="375" text="ATK: 19842 (7.6B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Guardian Blade of Drifting Snow"/>
+	<mx:Image source="Image4.png" x="64" y="845" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="1408" y="160" width="448" text="云泻州河-位移"/>
+	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" text="死寒碎壑-远程"/>
+	<mx:Text styleName="textStyle8" x="1408" y="736" width="448" text="凝秉六境-爆发"/>
+	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="雪精突刺而来，造成100%伤害，若玩家距离较近，则后接「冬锷游锋」。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="512" width="448" alpha="0.9" text="雪精召唤6枚冰棱箭，以三枚一组的方式施放追踪玩家，均造成25%伤害。"/>
+	<mx:Text styleName="textStyle9" x="1408" y="800" width="448" alpha="0.9" text="雪精展开「冰棺」的同时，会在上空不断生成6枚冰长枪，并在蓄力完成后依次朝玩家发射而来，均造成60%,6%伤害，同时额外造成15%伤害。"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="雪精使用双刃进行一次华丽的旋身攻击，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="512" width="448" alpha="0.9" text="雪精进行至多4段的普通攻击，运动幅度越来越大，依次造成30%,30%,40%,40%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="800" width="448" alpha="0.9" text="雪精在低于50%生命值时，会将自己封入「冰棺」；展开「冰棺」进行蓄力时会在周围产生冰风暴，持续造成3.125%伤害，16s后解除并施放「凝秉六境」，同时恢复20%生命值，仅触发一次。受「星烁反应」影响，冰棺会更容易被雷元素/风元素破坏。"/>
+	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="冬锷游锋-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="448" width="448" text="饰霜镜华-输出"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" text="杵愿遗影-防御"/>
+	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" alpha="0.75" text="冰棺：20冻盾/40冻盾(深渊)，击破会使其扣除20%生命值，同时虚弱15s。「星烁反应」会使雷/风的相应反应消耗比变为1:4，火反应消耗变为为1:1。"/>
+	<mx:Text styleName="textStyle12" x="64" y="512" width="394" text="离群的冰影"/>
+	<mx:Text styleName="textStyle13" x="64" y="555" width="395" alpha="0.75" text="Outcast Ice Shadow"/>
+	<mx:Image source="Image5.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image15.png" x="1268" y="747" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image17.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="64" y="969" width="484" height="60"/>
+	<mx:Image source="Image19.png" x="64" y="1029" width="484" height="60"/>
+	<mx:Text styleName="textStyle14" x="0" y="926" width="64" text="正常"/>
+	<mx:Text styleName="textStyle14" x="0" y="986" width="64" text="开盾"/>
+	<mx:Text styleName="textStyle14" x="0" y="1046" width="64" text="虚弱"/>
+</mx:Application>

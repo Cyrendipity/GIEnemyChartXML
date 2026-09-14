@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="960" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1248" height="960"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="410" text="兽怪瞄击者"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="465" width="395" alpha="0.75" text="Volkodlak Sharpshooter"/>
+	<mx:Image source="Image3.png" x="64" y="589" width="484" height="124"/>
+	<mx:Text styleName="textStyle5" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle6" x="576" y="128" width="469" alpha="0.5" text="元素能量：WP[0]"/>
+	<mx:Text styleName="textStyle7" x="736" y="256" width="448" alpha="0.9" text="兽怪使用武器发射1-3枚弹射物，造成70%伤害。「解放」状态下连发3发，造成对应元素的100%伤害。"/>
+	<mx:Text styleName="textStyle8" x="64" y="720" width="448" alpha="0.75" text="兽怪可使用的武器为手弩和小型手砲。"/>
+	<mx:Text styleName="textStyle7" x="736" y="480" width="448" alpha="0.9" text="兽怪将使用自身的元素力，令其进入「解放」状态，根据变体的不同，其可汲取草/冰/风的元素力，使攻击变为对应属性伤害。「解放」状态下会连续发射多枚弹药。受「星烁反应」影响，每进行一次攻击就会被打断。"/>
+	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="闻锋飞镝-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="鸣弦流星-强化"/>
+	<mx:Text styleName="textStyle10" x="64" y="800" width="305" text="HP: 55460 (1.0F)"/>
+	<mx:Text styleName="textStyle10" x="384" y="800" width="305" text="HP: 66552 (1.2F)"/>
+	<mx:Text styleName="textStyle11" x="64" y="768" width="305" alpha="0.75" text="精英 Lv.100 Data 武器-手砲"/>
+	<mx:Text styleName="textStyle12" x="384" y="768" width="305" alpha="0.75" text="精英 Lv.100 Data 武器-手弩"/>
+	<mx:Text styleName="textStyle10" x="64" y="848" width="375" text="ATK: 5909 (2.4B2)"/>
+	<mx:Text styleName="textStyle10" x="384" y="848" width="375" text="ATK: 4432 (1.8B2)"/>
+	<mx:Text styleName="textStyle10" x="64" y="896" width="375" text="Wt/Ed: 70/50"/>
+	<mx:Text styleName="textStyle10" x="384" y="896" width="375" text="Wt/Ed: 70/50"/>
+	<mx:Image source="Image4.png" x="86" y="81" width="212" height="239"/>
+	<mx:Image source="Image5.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="576" y="406" width="168" height="170"/>
+</mx:Application>

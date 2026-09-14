@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1440" viewWidth= "1920">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="层_1" d:type="layer">
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_0.png')" x="0" y="1080" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_1.png')" x="0" y="0" d:locked="true" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_2.png')" x="0" y="0" blendMode="normal">
+		</BitmapImage>
+		<RichText x="58" y="367" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="448" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">永恒燃烧的幻景</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="570" y="48" fontFamily="仓耳渔阳体 W04" fontSize="48" fontStyle="normal" fontWeight="normal" color="#ffffff" width="318" height="51" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="48" color="#ffffff">全技能一图流</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="55" y="977" fontFamily="仓耳渔阳体 W04" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="280" height="35" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">抗性数据(单位%)</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1658" y="48" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
+			<content>
+				<p textAlign="right" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" color="#ffffff">元素能量：NA</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="628" width="352" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 19097 <span color="#dddddd">(33.333TH)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="820" width="295" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">HP: 6875 <span color="#dddddd">(12.0TH)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="594" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="208" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">剧情首领 Lv.20 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="787" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" fontStyle="normal" fontWeight="normal" color="#ffffff" width="196" height="24" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="20" color="#ffffff">TPS射击 Lv.20 Data</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="676" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 1800<span color="#dddddd"> (3.0TA)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="58" y="868" width="309" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">ATK: 10443<span color="#dddddd"> (3.0TA)</span></p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="725" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 2000/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="57" y="917" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" fontStyle="normal" fontWeight="normal" color="#ffffff" width="290" height="36" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="32" color="#ffffff">Wt/Ed: 2000/4000</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="56" y="435" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="268" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Ever-burning Illusio</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<Group d:userLabel="Group_1">
+			<RichText x="75" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">250</p>
+				</content>
+			</RichText>
+			<RichText x="135" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">210</p>
+				</content>
+			</RichText>
+			<RichText x="195" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">210</p>
+				</content>
+			</RichText>
+			<RichText x="255" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">210</p>
+				</content>
+			</RichText>
+			<RichText x="315" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff86" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff86">210</p>
+				</content>
+			</RichText>
+			<RichText x="375" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">210</p>
+				</content>
+			</RichText>
+			<RichText x="435" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">210</p>
+				</content>
+			</RichText>
+			<RichText x="495" y="1119" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="42" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">210</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_3.png')" x="64" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_4.png')" x="64" y="1101" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_5.png')" x="184" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_6.png')" x="364" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_7.png')" x="303" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_8.png')" x="244" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_9.png')" x="424" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_10.png')" x="124" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_11.png')" x="66" y="1037" blendMode="normal">
+			</BitmapImage>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_13.png')" x="486" y="1037">
+			</BitmapImage>
+		</Group>
+		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2686a2" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#2686a2">制图@Csxylic米游社</p>
+			</content>
+		</RichText>
+		<RichText x="66" y="1348" width="444" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">残霜护罩：层页生命护罩，共<span color="#ffdfbf">3</span><span>层，每层</span><span color="#ffdfbf">6%生命值</span><span>，破坏后进入虚弱状态，约</span><span color="#ffdfbf">15s</span><span>后再次展开护罩。展开时，完全填满护罩需</span><span color="#ffdfbf">2s</span><span>。护罩展开期间，</span><span color="#ffdfbf">全抗性将短暂+100%</span><span>。<br/></span><span color="#ffbfff">[绝境]</span><span>护盾层数变为2层，每层</span><span color="#ffdfbf">9%生命值</span><span>。</span></p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_2">
+			<RichText x="83" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">50</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#80c0ff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#80c0ff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff88" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff88">10</p>
+				</content>
+			</RichText>
+			<RichText x="384" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">10</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1179" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_14.png')" x="64" y="1161" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1117" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">开局</p>
+			</content>
+		</RichText>
+		<RichText x="9" y="1177" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_3">
+			<RichText x="83" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">50</p>
+				</content>
+			</RichText>
+			<RichText x="144" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">10</p>
+				</content>
+			</RichText>
+			<RichText x="204" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">10</p>
+				</content>
+			</RichText>
+			<RichText x="264" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">10</p>
+				</content>
+			</RichText>
+			<RichText x="324" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">10</p>
+				</content>
+			</RichText>
+			<RichText x="383" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="27" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">50</p>
+				</content>
+			</RichText>
+			<RichText x="444" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">10</p>
+				</content>
+			</RichText>
+			<RichText x="504" y="1239" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="25" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">10</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_15.png')" x="64" y="1221" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1237" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">命曜</p>
+			</content>
+		</RichText>
+		<Group d:userLabel="Group_4">
+			<RichText x="90" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ff9999" width="12" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ff9999">0</p>
+				</content>
+			</RichText>
+			<RichText x="137" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fbfff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fbfff">-40</p>
+				</content>
+			</RichText>
+			<RichText x="197" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#7fffd7" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#7fffd7">-40</p>
+				</content>
+			</RichText>
+			<RichText x="257" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffacff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffacff">-40</p>
+				</content>
+			</RichText>
+			<RichText x="317" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ff87" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ff87">-40</p>
+				</content>
+			</RichText>
+			<RichText x="377" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#99ffff" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#99ffff">-40</p>
+				</content>
+			</RichText>
+			<RichText x="437" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ffe599" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ffe599">-40</p>
+				</content>
+			</RichText>
+			<RichText x="497" y="1299" fontFamily="汉仪润圆-65W" fontSize="25" fontStyle="normal" fontWeight="normal" color="#ebe5d8" width="38" height="29" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+				<content>
+					<p textAlign="center" fontFamily="汉仪润圆-65W" fontSize="25" color="#ebe5d8">-40</p>
+				</content>
+			</RichText>
+			<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_16.png')" x="64" y="1281" blendMode="normal">
+			</BitmapImage>
+		</Group>
+		<RichText x="9" y="1297" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">虚弱</p>
+			</content>
+		</RichText>
+		<RichText x="64" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ffff" width="113" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#99ffff">扎拉</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="62" y="549" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ffff" width="75" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ffff">Zala</p>
+			</content>
+			<filters>
+				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
+			</filters>
+		</RichText>
+		<RichText x="1410" y="223" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">处于侧后方时，扎拉一个转身，顺便造成<span color="#ff9999">25%</span><span>伤害。<br/>「命曜之姿」强化：攻击造成</span><span color="#99ffff">冰元素</span><span>伤害，且伤害倍率提升，造成</span><span color="#99ffff">65%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="511" width="1015" height="229" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">扎拉升空，消耗<span color="#ffdfbf">18%生命值</span><span>，</span><span color="#ffdfbf">缓慢</span><span>展开等量的</span><span textDecoration="underline">残霜护罩</span><span>，并进入「命曜之姿」状态。护罩展开期间可受</span><span color="#bfdfff">「星烁反应」</span><span>影响。<br/>该状态下，扎拉每造成一次伤害，都会为自身恢复</span><span color="#ffdfbf">3%生命值</span><span>(爆发恢复</span><span color="#ffdfbf">15%生命值</span><span>)，恢复总量至多不超过所消耗的生命值，恢复行为可受</span><span color="#bfdfff">「星烁反应」</span><span>影响。<br/>当生命值不足以消耗时，扎拉会尽量转换剩余的生命值成等量的护罩。护罩移除后进入</span><span color="#ffdfbf">15s</span><span>的虚弱状态，直至再次开启护罩。<br/>第</span><span color="#ffdfbf">2/3/4/&gt;4</span><span>次展开护罩时的生命值恢复量为原来的</span><span color="#ffdfbf">50%/25%/12.5%/10%</span><span>。<br/></span><span color="#ffbfff">[绝境]</span><span>该状态下会召唤特殊冰柱，造成</span><span color="#99ffff">50%</span><span>伤害，产生的冲击波持续造成</span><span color="#99ffff">50%</span><span>伤害伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="1151" width="439" height="172" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">扎拉移至场地中央，召唤3枚<span textDecoration="underline">冰柱</span><span>，造成</span><span color="#99ffff">100%</span><span>伤害；同时将凛冬盛放的花冠裹回蓓蕾，随后令其猛烈绽放，造成</span><span color="#99ffff">150%</span><span>伤害，退出「命曜之姿」状态并移除护罩。</span><span color="#ffbfff">[绝境]</span><span>召唤2枚特殊冰柱，施放后不退出「命曜之姿」状态。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_17.png')" x="1392" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_18.png')" x="720" y="425">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_19.png')" x="719" y="1065">
+		</BitmapImage>
+		<RichText x="738" y="223" width="424" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">扎拉进行左右双翼挥扫、转身三段攻击，分别造成<span color="#ff9999">50%,50%,70%</span><span>伤害。<br/>「命曜之姿」强化：攻击造成</span><span color="#99ffff">冰元素</span><span>伤害，且伤害倍率提升，分别造成</span><span color="#99ffff">65%,<br/>65%,90%</span><span>伤害。</span></p>
+			</content>
+		</RichText>
+		<RichText x="738" y="863" width="438" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">距离较远时，扎拉朝玩家冲击而来，分别造成<span color="#b8b8b8">100%</span><span>伤害，仅在「命曜之姿」状态下施放。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_20.png')" x="722" y="138">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_21.png')" x="596" y="811" blendMode="normal">
+		</BitmapImage>
+		<RichText x="1411" y="1151" width="421" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「命曜之姿」：恢复的生命值将<span color="#ffdfbf">立即扣除</span><span>，等于回血失效。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_22.png')" x="1248" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_23.png')" x="1268" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_24.png')" x="1392" y="1066">
+		</BitmapImage>
+		<RichText x="1410" y="863" width="425" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">扎拉抬起前肢进行两段爪划攻击，均造成<span color="#b8b8b8">60%</span><span>伤害。<br/>「命曜之姿」强化：能够连续施放2次。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_25.png')" x="1268" y="811" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_26.png')" x="1248" y="790" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_27.png')" x="1391" y="778">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_28.png')" x="576" y="790" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_29.png')" x="720" y="778">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_30.png')" x="596" y="459" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_31.png')" x="596" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_32.png')" x="1268" y="172" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_33.png')" x="596" y="1099" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_34.png')" x="576" y="438" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_35.png')" x="576" y="1078" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_36.png')" x="576" y="152" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_37.png')" x="1248" y="152" blendMode="normal">
+		</BitmapImage>
+		<RichText x="738" y="1345" width="433" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+			<content>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰柱：可使用「钩镰炮」扯倒，对扎拉造成<span color="#ffdfbf">30%生命值</span><span>的</span><span color="#99ffff">冰元素真伤</span><span>并使其退出「命曜之姿」状态。</span></p>
+			</content>
+		</RichText>
+		<BitmapImage source="@Embed('/永恒燃烧的幻景.assets/Image_38.png')" x="86" y="64" blendMode="normal">
+		</BitmapImage>
+	</Group>
+</Graphic>

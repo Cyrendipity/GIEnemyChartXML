@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1344" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#1595BF;
+		}
+		.textStyle9 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="264"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="64" y="576" width="364" text="HP: 6337251 (104.0F)"/>
+	<mx:Text styleName="textStyle3" x="64" y="768" width="484" text="HP: 1395818 (25.168F) 24.2%"/>
+	<mx:Text styleName="textStyle4" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle3" x="64" y="624" width="375" text="ATK: 31329 (12.0B2)"/>
+	<mx:Text styleName="textStyle3" x="64" y="816" width="375" text="ATK: 17728 (7.2B2) 60%"/>
+	<mx:Text styleName="textStyle3" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Text styleName="textStyle3" x="64" y="864" width="375" text="Wt/Ed: 150/210"/>
+	<mx:Image source="Image4.png" x="64" y="973" width="484" height="124"/>
+	<mx:Text styleName="textStyle5" x="736" y="256" width="448" alpha="0.9" text="丘林在玩家头顶凝出一枚冰锥，随后落下造成80%伤害。"/>
+	<mx:Text styleName="textStyle5" x="736" y="704" width="448" alpha="0.9" text="丘林起身，朝玩家发射8枚冰晶，均造成25%伤害；随后蓄力丢出一枚冰花，造成100%伤害。"/>
+	<mx:Text styleName="textStyle5" x="736" y="928" width="448" alpha="0.9" text="丘林自身迸发冰雾，造成80%伤害。"/>
+	<mx:Text styleName="textStyle5" x="736" y="1152" width="448" alpha="0.9" text="丘林召唤1块冰/2块冰(深渊)进行雕刻，5s后凝成「巨口霜精」，开口雪球造成200%伤害。「星烁反应」会使丘林分心，巨口霜精会变成无害的小动物。"/>
+	<mx:Text styleName="textStyle6" x="736" y="192" width="448" text="碎剜寒芒-定点"/>
+	<mx:Text styleName="textStyle7" x="736" y="640" width="448" text="晶芽凕花-远程"/>
+	<mx:Text styleName="textStyle6" x="736" y="864" width="448" text="冰萦白霜-输出"/>
+	<mx:Text styleName="textStyle6" x="736" y="1088" width="448" text="精雕细裁-召唤"/>
+	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle9" x="576" y="128" width="512" alpha="0.5" text="元素能量：WP[0x3],WO[66,33,0]"/>
+	<mx:Text styleName="textStyle10" x="64" y="384" width="490" text="丘林"/>
+	<mx:Text styleName="textStyle11" x="64" y="465" width="395" alpha="0.75" text="Churin"/>
+	<mx:Text styleName="textStyle12" x="64" y="1104" width="448" alpha="0.75" text="巨口霜精：120冻盾，40s后会自己消失。小动物：3冻盾，12s后会自己消失。"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="244" height="256"/>
+	<mx:Text styleName="textStyle5" x="736" y="480" width="448" alpha="0.9" text="丘林在玩家处召唤一个大风涡，持续牵引玩家并造成10%的冰元素与风元素伤害。"/>
+	<mx:Text styleName="textStyle6" x="736" y="416" width="448" text="风绻雪絮-控制"/>
+	<mx:Image source="Image6.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="428" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="576" y="408" width="168" height="168"/>
+</mx:Application>

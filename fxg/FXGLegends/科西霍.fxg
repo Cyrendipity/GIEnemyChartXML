@@ -10,9 +10,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/科西霍.assets/Image_2.png')" x="0" y="0" d:locked="true" blendMode="normal">
 		</BitmapImage>
-		<RichText x="61" y="371" fontFamily="仓耳渔阳体 W04" fontSize="60" fontStyle="normal" fontWeight="normal" color="#ffffff" width="212" height="62" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+		<RichText x="61" y="369" fontFamily="仓耳渔阳体 W04" fontSize="80" fontStyle="normal" fontWeight="normal" color="#ffffff" width="272" height="81" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W04" fontSize="60" color="#ffffff">科西霍</p>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="80" color="#ffffff">科西霍</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#eebbff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -106,7 +106,7 @@
 				<DropShadowFilter angle="40" color="#eebbff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="61" y="439" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="106" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="61" y="458" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="106" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
 				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Cocijo</p>
 			</content>
@@ -116,7 +116,7 @@
 		</RichText>
 		<RichText x="738" y="255" width="408" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">科西霍放出一枚雷球，缓慢追踪玩家，接触爆炸造成<span color="#ffacff">100%</span><span>伤害</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">科西霍放出一枚雷球，缓慢追踪玩家，接触爆炸造成<span color="#ffacff">100%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<RichText x="738" y="479" width="430" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
