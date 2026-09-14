@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#99FFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B9B9B9;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2686A2;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#AFE0E9;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF9999;
+		}
+		.textStyle19 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFBFBF;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFBFBF;
+		}
+		.textStyle21 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:18;
+			color:#FFFFFF;
+		}
+		.textStyle22 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle23 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Text styleName="textStyle" x="535" y="33" width="824" text="游雪的护刃·不绝余音"/>
+	<mx:Image source="Image3.png" x="627" y="98" width="666" height="636"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="576" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="CP[0x2] CO[66,33]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：26.860F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：7.6B2"/>
+	<mx:Text styleName="textStyle5" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle6" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle7" x="640" y="704" width="160" text="1195827"/>
+	<mx:Text styleName="textStyle7" x="640" y="768" width="160" text="14464"/>
+	<mx:Text styleName="textStyle7" x="960" y="768" width="160" text="20597"/>
+	<mx:Text styleName="textStyle7" x="800" y="768" width="160" text="18713"/>
+	<mx:Text styleName="textStyle7" x="800" y="704" width="160" text="5958675"/>
+	<mx:Text styleName="textStyle7" x="960" y="704" width="160" text="10335043"/>
+	<mx:Text styleName="textStyle8" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle8" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle8" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle9" x="587" y="128" width="719" alpha="0.75" text="Guardian Blade of Drifting Snow: Endless Reverberation"/>
+	<mx:Image source="Image4.png" x="128" y="256" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="64" y="640" width="198" text="冰棺："/>
+	<mx:Text styleName="textStyle11" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle12" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle13" x="960" y="736" width="160" alpha="0.6" text="× 6.0"/>
+	<mx:Text styleName="textStyle7" x="1120" y="768" width="160" text="22061"/>
+	<mx:Text styleName="textStyle7" x="1120" y="704" width="160" text="21871489"/>
+	<mx:Text styleName="textStyle8" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle13" x="1120" y="736" width="160" alpha="0.6" text="× 11.6"/>
+	<mx:Text styleName="textStyle14" x="64" y="666" width="512" alpha="0.9" text="当生命值低于50%时，雪精会尝试将自己封入冰棺，冰棺为20冻盾，16s后解除并恢复20%生命值，若击破冰棺则使其失去等量生命值，同时虚弱10s。受「星烁反应」影响，冰棺会使雷/风的相应反应消耗比变为1:4，而火融化变为1:1。(N4) 冰棺厚度翻倍，为40冻盾。(N5) 冰棺厚度提升，为42冻盾，且改为在80%生命值左右开盾，16s后解除并恢复10%生命值，若击破冰棺则使其失去等量生命值。冰棺在受到「星烁反应」影响后，将转为「冰明屏障」。冰棺至多开启2次，第二次冰棺将在破盾约35s后展开。"/>
+	<mx:Text styleName="textStyle15" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle16" x="64" y="336" width="64" text="正常"/>
+	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
+	<mx:Text styleName="textStyle16" x="64" y="396" width="64" text="开盾"/>
+	<mx:Image source="Image6.png" x="128" y="440" width="484" height="60"/>
+	<mx:Text styleName="textStyle16" x="64" y="456" width="64" text="虚弱"/>
+	<mx:Text styleName="textStyle17" x="640" y="938" width="128" alpha="0.6" text="Stellar Reaction Adv."/>
+	<mx:Image source="Image7.png" x="656" y="848" width="96" height="96"/>
+	<mx:Image source="Image8.png" x="814" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Pyro Adv."/>
+	<mx:Text styleName="textStyle19" x="64" y="512" width="576" alpha="0.9" text="(N5) 抗性：冰元素抗性-40%。"/>
+	<mx:Text styleName="textStyle20" x="64" y="864" width="183" text="(N5) 冰明屏障："/>
+	<mx:Text styleName="textStyle14" x="64" y="896" width="512" alpha="0.9" text="为冰棺受「星烁反应」影响后，根据冰棺剩余量转变而来，屏障厚度最大为15%生命值，最大持续20s。击破后将使雪精虚弱10s，并对雪精造成两段伤害，其值分别为：10%生命值的真伤，屏障期间所受60%伤害(不超过10%雪精生命值)的普通伤害。"/>
+	<mx:Text styleName="textStyle21" x="1536" y="320" width="448" alpha="0.9" text="雪精在低于80%生命值时，会将自己封入「冰棺」；展开「冰棺」进行蓄力时会在周围产生冰风暴，持续造成3.125%伤害，16s后解除并施放「凝秉六境」，同时恢复10%生命值。受「星烁反应」影响，冰棺会转为「冰明屏障」，同时冰风暴消失。"/>
+	<mx:Text styleName="textStyle22" x="1536" y="256" width="448" text="杵愿遗影-防御"/>
+	<mx:Image source="Image9.png" x="1396" y="267" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1376" y="246" width="168" height="170"/>
+	<mx:Text styleName="textStyle23" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle23" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Image source="Image11.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image12.png" x="1006" y="847" width="100" height="99"/>
+</mx:Application>

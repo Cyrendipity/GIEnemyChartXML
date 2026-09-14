@@ -413,7 +413,7 @@
 		</RichText>
 		<RichText x="66" y="736" width="497" height="116" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">役人的爆发的每段伤害都会施加<span color="#ffbfbf">16%</span><span>攻击力的生命之契，且在该生命之契的影响下，被命中的角色将每秒流失</span><span color="#ffdfbf">(0.4%HP+72)</span><span>的生命值(后台止于5%)，持续10min，或清除生命之契后解除。<br/>施放爆发时，</span><span color="#ffdfbf">消耗5%生命值</span><span>；爆发的第一段伤害命中时，</span><span color="#ffebbf">恢复5%生命值</span><span>；当生命值</span><span color="#ffebbf">低于20%</span><span>时，施放爆发改为</span><span color="#ffebbf">消耗10%当前生命值</span><span>。<br/>爆发的追加攻击对附有生命之契的目标造成的伤害提升</span><span color="#ffbfbf">150%</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">役人的爆发的每段伤害都会施加<span color="#ffbfbf">16%</span><span>攻击力的生命之契，且在该生命之契的影响下，被命中的角色将每秒流失</span><span color="#ffdfbf">(0.4%HP+72)</span><span>的生命值(后台止于5%)，持续10min，或清除生命之契后解除。<br/>施放爆发时，</span><span color="#ffdfbf">消耗2%生命值</span><span>；爆发的第一段伤害命中时，</span><span color="#ffebbf">恢复5%生命值</span><span>；当生命值</span><span color="#ffebbf">低于20%</span><span>时，施放爆发改为</span><span color="#ffebbf">消耗10%当前生命值</span><span>。<br/>爆发的追加攻击对附有生命之契的目标造成的伤害提升</span><span color="#ffbfbf">150%</span><span>。</span></p>
 			</content>
 		</RichText>
 		<RichText x="66" y="928" width="496" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		Label {
+			fontFamily:MiSans-Bold;
+			fontSize:300;
+			color:#FFFFFF;
+		}
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFACFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#8D29B4;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFACFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#B4B4FF;
+		}
+		.textStyle19 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#99FFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="627" y="114" width="666" height="604"/>
+	<mx:Text styleName="textStyle" x="309" y="32" width="1280" text="嵌合翼骏狮·摧枯伟力"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="技能变化 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="608" width="522" text="◆ 机制数据"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="EP[0x2] EO[66,33]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：25.786F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：7.6B2"/>
+	<mx:Text styleName="textStyle5" x="627" y="128" width="640" alpha="0.75" text="Chimeric Winged Lion: Power Overwhelming"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="128" y="320" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image7.png" x="128" y="256" width="484" height="64"/>
+	<mx:Text styleName="textStyle7" x="64" y="337" width="64" text="开局"/>
+	<mx:Text styleName="textStyle7" x="64" y="397" width="64" text="正常"/>
+	<mx:Image source="Image8.png" x="128" y="500" width="484" height="60"/>
+	<mx:Text styleName="textStyle7" x="64" y="457" width="64" text="瘫痪"/>
+	<mx:Text styleName="textStyle8" x="64" y="672" width="128" text="幻雷护罩："/>
+	<mx:Text styleName="textStyle8" x="64" y="864" width="128" text="凌朽烈风："/>
+	<mx:Text styleName="textStyle9" x="64" y="704" width="512" alpha="0.9" text="12雷盾，持续整个「唤雷」形态。护罩破坏后陷入瘫痪12s。受「星烁反应」影响后，施放爆发技能会使该护罩-4雷，同时中断技能，并掉落6枚雷元素晶球。(N5) 护罩厚度提升至40雷，且受「星烁反应」影响后-16雷；护罩破坏后会对翼骏狮造成一次真伤，其值由护罩展开期间100%星反应伤+30%其余伤害组成，不超过80%翼骏狮生命值。"/>
+	<mx:Text styleName="textStyle10" x="64" y="896" width="512" alpha="0.9" text="「驱风」形态下召唤5枚风球，5s后将开始向翼骏狮移动。若翼骏狮吸收的风球少于3个，那么技能施放失败，瘫痪16s。受「星烁反应」影响后，翼骏狮将不能吸收风球，直接中断技能，并掉落6枚风元素晶球，同时扣除15%生命值。(N5) 移除扣除生命值的效果。"/>
+	<mx:Image source="Image9.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Image source="Image10.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle11" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle12" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle13" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle14" x="640" y="704" width="160" text="1147994"/>
+	<mx:Text styleName="textStyle14" x="800" y="704" width="160" text="5720328"/>
+	<mx:Text styleName="textStyle14" x="960" y="704" width="160" text="10748445"/>
+	<mx:Text styleName="textStyle15" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle15" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle15" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle16" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle16" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle17" x="960" y="736" width="160" alpha="0.6" text="× 6.5"/>
+	<mx:Text styleName="textStyle14" x="1120" y="704" width="160" text="23349702"/>
+	<mx:Text styleName="textStyle15" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle17" x="1120" y="736" width="160" alpha="0.6" text="× 12.9"/>
+	<mx:Text styleName="textStyle14" x="640" y="768" width="160" text="14464"/>
+	<mx:Text styleName="textStyle14" x="960" y="768" width="160" text="20597"/>
+	<mx:Text styleName="textStyle14" x="800" y="768" width="160" text="18713"/>
+	<mx:Text styleName="textStyle14" x="1120" y="768" width="160" text="22061"/>
+	<mx:Text styleName="textStyle11" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Superconduct Adv."/>
+	<mx:Image source="Image11.png" x="815" y="847" width="98" height="99"/>
+	<mx:Text styleName="textStyle19" x="64" y="511" width="64" text="瘫痪(N5)"/>
+	<mx:Text styleName="textStyle20" x="640" y="938" width="128" alpha="0.6" text="Cryo Adv."/>
+	<mx:Image source="Image12.png" x="654" y="846" width="100" height="100"/>
+	<mx:Image source="Image13.png" x="809" y="848" width="110" height="97"/>
+	<mx:Label x="1544" y="288" alpha="0.3" text="暂无"/>
+</mx:Application>
