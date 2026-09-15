@@ -10,7 +10,7 @@
 		</BitmapImage>
 		<RichText x="55" y="338" width="214" height="113" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
-				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">野伏·<br/><span fontSize="60">阵刀番</span></p>
+				<p fontFamily="仓耳渔阳体 W04" fontSize="32" color="#ffffff">野伏·<br/><span fontSize="60">机巧番</span></p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -64,9 +64,9 @@
 				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="56" y="454" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="263" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="56" y="453" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="256" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Nobushi: Jintouban</p>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Nobushi: Kikouban</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#eeeeee" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -154,7 +154,7 @@
 		</RichText>
 		<RichText x="738" y="479" width="438" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">机巧番进行向下挥刀攻击，造成<span color="#b9b9b9">100%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">机巧番进行向下挥刀攻击，造成<span color="#b8b8b8">100%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<RichText x="738" y="703" width="438" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">

@@ -87,10 +87,10 @@
 	<mx:Text styleName="textStyle5" x="64" y="880" width="375" text="ATK: 10443 (3.0TA)"/>
 	<mx:Text styleName="textStyle5" x="64" y="736" width="375" text="Wt/Ed: 2000/4000"/>
 	<mx:Text styleName="textStyle5" x="64" y="928" width="375" text="Wt/Ed: 2000/4000"/>
-	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Ever-burning Illusio"/>
+	<mx:Text styleName="textStyle7" x="64" y="446" width="395" alpha="0.75" text="Ever-burning Illusion"/>
 	<mx:Image source="Image4.png" x="64" y="1037" width="484" height="124"/>
 	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
-	<mx:Text styleName="textStyle9" x="64" y="1348" width="448" alpha="0.75" text="残霜护罩：层页生命护罩，共3层，每层6%生命值，破坏后进入虚弱状态，约15s后再次展开护罩。展开时，完全填满护罩需2s。护罩展开期间，全抗性将短暂+100%。[绝境]护盾层数变为2层，每层9%生命值。"/>
+	<mx:Text styleName="textStyle9" x="64" y="1348" width="448" alpha="0.75" text="残霜护罩：层页生命护罩，共3层，每层6%生命值，破坏后进入虚弱状态，约15s后再次展开护罩。展开时，完全填满护罩需2s。护罩展开期间，全抗性将短暂+100%。[绝境]护盾层数变为2层，每层15%生命值。"/>
 	<mx:Image source="Image5.png" x="64" y="1161" width="484" height="60"/>
 	<mx:Text styleName="textStyle10" x="0" y="1119" width="64" text="开局"/>
 	<mx:Text styleName="textStyle10" x="0" y="1179" width="64" text="正常"/>
@@ -99,7 +99,7 @@
 	<mx:Image source="Image7.png" x="64" y="1281" width="484" height="60"/>
 	<mx:Text styleName="textStyle10" x="0" y="1299" width="64" text="虚弱"/>
 	<mx:Text styleName="textStyle11" x="64" y="512" width="394" text="扎拉"/>
-	<mx:Text styleName="textStyle12" x="64" y="555" width="395" alpha="0.75" text="Zala"/>
+	<mx:Text styleName="textStyle12" x="64" y="555" width="395" alpha="0.75" text="Zhara"/>
 	<mx:Text styleName="textStyle13" x="1408" y="224" width="448" alpha="0.9" text="处于侧后方时，扎拉一个转身，顺便造成25%伤害。「命曜之姿」强化：攻击造成冰元素伤害，且伤害倍率提升，造成65%伤害。"/>
 	<mx:Text styleName="textStyle13" x="736" y="512" width="1024" alpha="0.9" text="扎拉升空，消耗18%生命值，缓慢展开等量的残霜护罩，并进入「命曜之姿」状态。护罩展开期间可受「星烁反应」影响。该状态下，扎拉每造成一次伤害，都会为自身恢复3%生命值(爆发恢复15%生命值)，恢复总量至多不超过所消耗的生命值，恢复行为可受「星烁反应」影响。当生命值不足以消耗时，扎拉会尽量转换剩余的生命值成等量的护罩。护罩移除后进入15s的虚弱状态，直至再次开启护罩。第2/3/4/&gt;4次展开护罩时的生命值恢复量为原来的50%/25%/12.5%/10%。[绝境]该状态下会召唤特殊冰柱，造成50%伤害，产生的冲击波持续造成50%伤害伤害。"/>
 	<mx:Text styleName="textStyle13" x="736" y="1152" width="448" alpha="0.9" text="扎拉移至场地中央，召唤3枚冰柱，造成100%伤害；同时将凛冬盛放的花冠裹回蓓蕾，随后令其猛烈绽放，造成150%伤害，退出「命曜之姿」状态并移除护罩。[绝境]召唤2枚特殊冰柱，施放后不退出「命曜之姿」状态。"/>

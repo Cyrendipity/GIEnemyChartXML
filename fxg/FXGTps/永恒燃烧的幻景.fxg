@@ -106,9 +106,9 @@
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="56" y="435" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="268" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="56" y="435" fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" fontWeight="normal" color="#ffffff" width="283" height="30" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Ever-burning Illusio</p>
+				<p fontFamily="SDK_SC_Web" fontSize="24" fontStyle="italic" color="#ffffff">Ever-burning Illusion</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99e5ff" distance="10" alpha="0.75" quality="2" blurX="25" blurY="25"/>
@@ -183,7 +183,7 @@
 		</RichText>
 		<RichText x="66" y="1348" width="444" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">残霜护罩：层页生命护罩，共<span color="#ffdfbf">3</span><span>层，每层</span><span color="#ffdfbf">6%生命值</span><span>，破坏后进入虚弱状态，约</span><span color="#ffdfbf">15s</span><span>后再次展开护罩。展开时，完全填满护罩需</span><span color="#ffdfbf">2s</span><span>。护罩展开期间，</span><span color="#ffdfbf">全抗性将短暂+100%</span><span>。<br/></span><span color="#ffbfff">[绝境]</span><span>护盾层数变为2层，每层</span><span color="#ffdfbf">9%生命值</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">残霜护罩：层页生命护罩，共<span color="#ffdfbf">3</span><span>层，每层</span><span color="#ffdfbf">6%生命值</span><span>，破坏后进入虚弱状态，约</span><span color="#ffdfbf">15s</span><span>后再次展开护罩。展开时，完全填满护罩需</span><span color="#ffdfbf">2s</span><span>。护罩展开期间，</span><span color="#ffdfbf">全抗性将短暂+100%</span><span>。<br/></span><span color="#ffbfff">[绝境]</span><span>护盾层数变为2层，每层</span><span color="#ffdfbf">15%生命值</span><span>。</span></p>
 			</content>
 		</RichText>
 		<Group d:userLabel="Group_2">
@@ -346,9 +346,9 @@
 				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
-		<RichText x="62" y="549" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ffff" width="75" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="62" y="548" fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" fontWeight="normal" color="#99ffff" width="90" height="25" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ffff">Zala</p>
+				<p fontFamily="SDK_SC_Web" fontSize="20" fontStyle="italic" color="#99ffff">Zhara</p>
 			</content>
 			<filters>
 				<DropShadowFilter angle="40" color="#99e5ff" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
