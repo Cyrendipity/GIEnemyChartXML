@@ -160,7 +160,7 @@
 		</RichText>
 		<RichText x="1410" y="799" width="441" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">戍卫在低于<span color="#ffdfbf">50%生命值</span><span>时，会将自己封入「</span><span textDecoration="underline">冰棺</span><span>」，</span><span color="#ffdfbf">16s</span><span>后解除，并恢复</span><span color="#ffdfbf">50%生命值</span><span>，仅触发一次。受</span><span color="#bfdfff">「星烁反应」</span><span>影响，冰棺会更容易被</span><span color="#ffacff">雷元素</span><span>/</span><span color="#7fffd7">风元素</span><span>破坏，更难被</span><span color="#ff9999">火元素</span><span>破坏。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">戍卫在低于<span color="#ffdfbf">50%生命值</span><span>时，会将自己封入「</span><span textDecoration="underline">冰棺</span><span>」，</span><span color="#ffdfbf">16s</span><span>后解除，并恢复</span><span color="#ffdfbf">50%生命值</span><span>，仅触发一次。受</span><span color="#bfdfff">「星烁反应」</span><span>影响，冰棺会更容易被</span><span color="#ffacff">雷元素</span><span>/</span><span color="#7fffd7">风元素</span><span>破坏。</span></p>
 			</content>
 		</RichText>
 		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#2686a2" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
@@ -189,9 +189,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/凝冰戍卫.assets/Image_18.png')" x="719" y="714">
 		</BitmapImage>
-		<RichText x="66" y="912" width="443" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="66" y="912" width="443" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰棺：<span color="#99ffff">16冻</span><span>盾，击破会直接击败戍卫。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>，而</span><span color="#ff9999">火</span><span>融化变为</span><span color="#ffdfbf">1:1</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">免疫冻结。<br/>冰棺：<span color="#99ffff">16冻</span><span>盾，击破会直接击败戍卫。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/凝冰戍卫.assets/Image_19.png')" x="64" y="71" blendMode="normal">

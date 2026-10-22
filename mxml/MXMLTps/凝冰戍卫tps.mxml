@@ -86,7 +86,7 @@
 	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="霜疾突拳-输出"/>
 	<mx:Text styleName="textStyle9" x="736" y="448" width="448" text="晶光雾华-远程"/>
 	<mx:Text styleName="textStyle9" x="736" y="736" width="448" text="银瀑冬流-猛攻"/>
-	<mx:Text styleName="textStyle12" x="64" y="912" width="448" alpha="0.75" text="冰棺：16冻盾，可伤害转化，击破会直接击败戍卫。「星烁反应」会使雷/风的相应反应消耗比变为1:4，而火融化变为1:1。"/>
+	<mx:Text styleName="textStyle12" x="64" y="912" width="448" alpha="0.75" text="免疫冻结。冰棺：16冻盾，可伤害转化，击破会直接击败戍卫。「星烁反应」会使雷/风的相应反应消耗比变为1:4。"/>
 	<mx:Image source="Image4.png" x="64" y="71" width="256" height="249"/>
 	<mx:Image source="Image5.png" x="596" y="747" width="128" height="128"/>
 	<mx:Image source="Image6.png" x="1268" y="747" width="128" height="128"/>

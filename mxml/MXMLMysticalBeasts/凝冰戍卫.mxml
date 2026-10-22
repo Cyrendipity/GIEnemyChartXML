@@ -78,7 +78,7 @@
 	<mx:Text styleName="textStyle9" x="1408" y="736" width="448" text="冰躯怜椁-回复"/>
 	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="戍卫凝成霜锤，进行2次的挥动攻击，依次造成60%,70%伤害。"/>
 	<mx:Text styleName="textStyle10" x="1408" y="512" width="448" alpha="0.9" text="戍卫凝成霜锤，将其击地，扬起雪尘，来回两次，均造成60%伤害。"/>
-	<mx:Text styleName="textStyle10" x="1408" y="800" width="448" alpha="0.9" text="戍卫在低于50%生命值时，会将自己封入「冰棺」，16s后解除，并恢复50%生命值，仅触发一次。受「星烁反应」影响，冰棺会更容易被雷元素/风元素破坏，更难被火元素破坏。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="800" width="448" alpha="0.9" text="戍卫在低于50%生命值时，会将自己封入「冰棺」，16s后解除，并恢复50%生命值，仅触发一次。受「星烁反应」影响，冰棺会更容易被雷元素/风元素破坏。"/>
 	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="戍卫使用右手进行拳击，造成50%伤害，接着短暂蓄力后发出强力拳，造成80%伤害。"/>
 	<mx:Text styleName="textStyle10" x="736" y="512" width="448" alpha="0.9" text="距离较远时，戍卫结出3枚寒晶，迸射而来，造成80%,8%伤害。"/>
@@ -86,7 +86,7 @@
 	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="霜疾突拳-输出"/>
 	<mx:Text styleName="textStyle9" x="736" y="448" width="448" text="晶光雾华-远程"/>
 	<mx:Text styleName="textStyle9" x="736" y="736" width="448" text="银瀑冬流-猛攻"/>
-	<mx:Text styleName="textStyle12" x="64" y="912" width="448" alpha="0.75" text="冰棺：16冻盾，击破会直接击败戍卫。「星烁反应」会使雷/风的相应反应消耗比变为1:4，而火融化变为1:1。"/>
+	<mx:Text styleName="textStyle12" x="64" y="912" width="448" alpha="0.75" text="免疫冻结。冰棺：16冻盾，击破会直接击败戍卫。「星烁反应」会使雷/风的相应反应消耗比变为1:4。"/>
 	<mx:Image source="Image4.png" x="64" y="71" width="256" height="249"/>
 	<mx:Image source="Image5.png" x="596" y="747" width="128" height="128"/>
 	<mx:Image source="Image6.png" x="1268" y="747" width="128" height="128"/>

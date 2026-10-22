@@ -71,12 +71,12 @@
 	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
 	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="秘法师凝聚大块冰晶，抛向玩家，造成100%伤害。"/>
 	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="秘法师连续发射4枚冰刺，造成50%,25%伤害。"/>
-	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="秘法师在低于50%生命值时，会将自己封入「冰棺」，16s后解除，并恢复50%生命值，仅触发一次。受「星烁反应」影响，冰棺会更容易被雷元素/风元素破坏，更难被火元素破坏。"/>
+	<mx:Text styleName="textStyle8" x="736" y="704" width="448" alpha="0.9" text="秘法师在低于50%生命值时，会将自己封入「冰棺」，16s后解除，并恢复50%生命值，仅触发一次。受「星烁反应」影响，冰棺会更容易被雷元素/风元素破坏。"/>
 	<mx:Text styleName="textStyle9" x="736" y="192" width="448" text="悬露盐华-远程"/>
 	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="寒枝霜角-远程"/>
 	<mx:Text styleName="textStyle9" x="736" y="640" width="448" text="冰躯怜椁-回复"/>
 	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
-	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="冰棺：8冻盾，击破会直接击败秘法师。「星烁反应」会使雷/风的相应反应消耗比变为1:4，而火融化变为1:1。"/>
+	<mx:Text styleName="textStyle11" x="64" y="912" width="448" alpha="0.75" text="免疫冻结。冰棺：8冻盾，击破会直接击败秘法师。「星烁反应」会使雷/风的相应反应消耗比变为1:4。"/>
 	<mx:Image source="Image4.png" x="84" y="64" width="236" height="256"/>
 	<mx:Image source="Image5.png" x="596" y="203" width="128" height="128"/>
 	<mx:Image source="Image6.png" x="596" y="427" width="128" height="128"/>

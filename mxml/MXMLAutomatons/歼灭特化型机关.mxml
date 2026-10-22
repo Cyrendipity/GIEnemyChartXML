@@ -86,7 +86,7 @@
 	<mx:Text styleName="textStyle10" x="1408" y="384" width="448" text="湿刃漩舞-输出   荒"/>
 	<mx:Text styleName="textStyle10" x="736" y="608" width="448" text="戏水飞轮-妨害   荒"/>
 	<mx:Text styleName="textStyle8" x="1408" y="448" width="448" alpha="0.9" text="歼灭机关使用左足。金鸡独立般不断进行旋水攻击，接触持续造成60%,30%,12%,6%伤害，该技能可连续施放2次。"/>
-	<mx:Text styleName="textStyle8" x="736" y="672" width="448" alpha="0.9" text="歼灭机关进行2段飞踢，均造成50%伤害，随后后撤，朝前施放出3个水轮，接触造成35%伤害。"/>
+	<mx:Text styleName="textStyle8" x="736" y="672" width="448" alpha="0.9" text="歼灭机关进行2段飞踢，均造成50%伤害，随后后撤，朝前施放出3个水轮，接触造成35%,17.5%,8.75%,3.5%伤害。"/>
 	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
 	<mx:Image source="Image10.png" x="1248" y="598" width="168" height="170"/>

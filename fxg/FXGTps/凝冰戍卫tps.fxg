@@ -189,9 +189,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/凝冰戍卫tps.assets/Image_18.png')" x="719" y="714">
 		</BitmapImage>
-		<RichText x="66" y="912" width="436" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="66" y="912" width="436" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰棺：<span color="#99ffff">16冻</span><span>盾，可伤害转化，击破会直接击败戍卫。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>，而</span><span color="#ff9999">火</span><span>融化变为</span><span color="#ffdfbf">1:1</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">免疫冻结。<br/>冰棺：<span color="#99ffff">16冻</span><span>盾，可伤害转化，击破会直接击败戍卫。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/凝冰戍卫tps.assets/Image_19.png')" x="64" y="71" blendMode="normal">

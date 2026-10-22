@@ -94,7 +94,7 @@
 	<mx:Text styleName="textStyle9" x="64" y="720" width="375" text="ATK: 1200 (2.0TA)"/>
 	<mx:Text styleName="textStyle9" x="64" y="768" width="375" text="Wt/Ed: 300/400"/>
 	<mx:Image source="Image5.png" x="64" y="877" width="484" height="124"/>
-	<mx:Text styleName="textStyle11" x="64" y="1128" width="448" alpha="0.75" text="冰棺：24冻盾，16s后解除，并恢复15%生命值，仅触发一次；击破会使其扣除20%生命值，同时虚弱6s。「星烁反应」会使雷/风的相应反应消耗比变为1:4，火反应消耗变为为1:1。[绝境]厚度提升至40冻盾。"/>
+	<mx:Text styleName="textStyle11" x="64" y="1128" width="448" alpha="0.75" text="冰棺：24冻盾，16s后解除，并恢复15%生命值，仅触发一次；击破会使其扣除20%生命值，同时虚弱6s。「星烁反应」会使雷/风的相应反应消耗比变为1:4。[绝境]厚度提升至40冻盾。"/>
 	<mx:Image source="Image6.png" x="64" y="1001" width="484" height="60"/>
 	<mx:Image source="Image7.png" x="64" y="1061" width="484" height="60"/>
 	<mx:Text styleName="textStyle12" x="0" y="958" width="64" text="正常"/>

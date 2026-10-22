@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "1024" viewWidth= "1920">
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "960" viewWidth= "1920">
 	<Library>
 	</Library>
 
@@ -183,53 +183,37 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">战斗开始或生命值达<span color="#ffdfbf">50%</span><span>时，帕芙琳娜移至场地中央，召唤大量「雪昙」从天上落下，造成</span><span color="#99ffff">40%</span><span>伤害。期间帕芙琳娜锁血。</span></p>
 			</content>
 		</RichText>
-		<RichText x="738" y="895" width="1015" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
-			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">帕芙琳娜在低于<span color="#ffdfbf">50%生命值</span><span>时，会将自己封入「</span><span textDecoration="underline">冰棺</span><span>」，</span><span color="#ffdfbf">16s</span><span>后解除，并恢复</span><span color="#ffdfbf">20%生命值</span><span>，仅触发一次。受</span><span color="#bfdfff">「星烁反应」</span><span>影响，冰棺会更容易被</span><span color="#ffacff">雷元素</span><span>/</span><span color="#7fffd7">风元素</span><span>破坏(比</span><span color="#ff9999">火元素</span><span>还容易)。</span></p>
-			</content>
-		</RichText>
 		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_16.png')" x="720" y="138">
 		</BitmapImage>
 		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_17.png')" x="719" y="361">
 		</BitmapImage>
 		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_18.png')" x="719" y="585">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_19.png')" x="720" y="810">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_19.png')" x="596" y="619" blendMode="normal">
 		</BitmapImage>
-		<RichText x="66" y="912" width="443" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
-			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰棺：<span color="#99ffff">20冰</span><span>盾，击破会直接击败戍卫。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4 </span><span>(</span><span color="#ff9999">火</span><span>融化为</span><span color="#ffdfbf">1:2</span><span>)。</span></p>
-			</content>
-		</RichText>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_20.png')" x="596" y="619" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_20.png')" x="1268" y="619" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_21.png')" x="1268" y="619" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_21.png')" x="1268" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_22.png')" x="1268" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_22.png')" x="1268" y="395" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_23.png')" x="1268" y="395" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_23.png')" x="596" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_24.png')" x="596" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_24.png')" x="596" y="395" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_25.png')" x="596" y="395" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_25.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_26.png')" x="576" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_26.png')" x="576" y="374" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_27.png')" x="576" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_27.png')" x="576" y="598" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_28.png')" x="576" y="598" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_29.png')" x="1248" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_29.png')" x="1248" y="374" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_30.png')" x="1248" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_30.png')" x="1248" y="598" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_31.png')" x="1248" y="598" blendMode="normal">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_32.png')" x="64" y="64" blendMode="normal">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_33.png')" x="596" y="843" blendMode="normal">
-		</BitmapImage>
-		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_34.png')" x="576" y="822" blendMode="normal">
+		<BitmapImage source="@Embed('/帕芙琳娜.assets/Image_31.png')" x="64" y="64" blendMode="normal">
 		</BitmapImage>
 	</Group>
 </Graphic>

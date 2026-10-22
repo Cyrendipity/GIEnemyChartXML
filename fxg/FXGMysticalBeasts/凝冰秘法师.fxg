@@ -154,7 +154,7 @@
 		</RichText>
 		<RichText x="738" y="703" width="441" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">秘法师在低于<span color="#ffdfbf">50%生命值</span><span>时，会将自己封入「</span><span textDecoration="underline">冰棺</span><span>」，</span><span color="#ffdfbf">16s</span><span>后解除，并恢复</span><span color="#ffdfbf">50%生命值</span><span>，仅触发一次。受</span><span color="#bfdfff">「星烁反应」</span><span>影响，冰棺会更容易被</span><span color="#ffacff">雷元素</span><span>/</span><span color="#7fffd7">风元素</span><span>破坏，更难被</span><span color="#ff9999">火元素</span><span>破坏。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">秘法师在低于<span color="#ffdfbf">50%生命值</span><span>时，会将自己封入「</span><span textDecoration="underline">冰棺</span><span>」，</span><span color="#ffdfbf">16s</span><span>后解除，并恢复</span><span color="#ffdfbf">50%生命值</span><span>，仅触发一次。受</span><span color="#bfdfff">「星烁反应」</span><span>影响，冰棺会更容易被</span><span color="#ffacff">雷元素</span><span>/</span><span color="#7fffd7">风元素</span><span>破坏。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/凝冰秘法师.assets/Image_13.png')" x="720" y="169">
@@ -170,9 +170,9 @@
 		</RichText>
 		<Group d:userLabel="层_2" d:type="layer" visible="false">
 		</Group>
-		<RichText x="66" y="912" width="433" height="39" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
+		<RichText x="66" y="912" width="433" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰棺：<span color="#99ffff">8冻</span><span>盾，击破会直接击败秘法师。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>，而</span><span color="#ff9999">火</span><span>融化变为</span><span color="#ffdfbf">1:1</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">免疫冻结。<br/>冰棺：<span color="#99ffff">8冻</span><span>盾，击破会直接击败秘法师。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/凝冰秘法师.assets/Image_16.png')" x="84" y="64" blendMode="normal">

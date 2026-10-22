@@ -177,7 +177,7 @@
 		</RichText>
 		<RichText x="738" y="671" width="439" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">歼灭机关进行2段飞踢，均造成<span color="#7fbfff">50%</span><span>伤害，随后后撤，朝前施放出3个水轮，接触造成</span><span color="#7fbfff">35%</span><span>伤害。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">歼灭机关进行2段飞踢，均造成<span color="#7fbfff">50%</span><span>伤害，随后后撤，朝前施放出3个水轮，接触造成</span><span color="#7fbfff">35%,17.5%,8.75%,3.5%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
 		<RichText x="899" y="62" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#96673d" width="207" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">

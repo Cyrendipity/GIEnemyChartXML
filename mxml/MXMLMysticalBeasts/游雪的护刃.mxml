@@ -98,7 +98,7 @@
 	<mx:Text styleName="textStyle8" x="736" y="160" width="448" text="冬锷游锋-输出"/>
 	<mx:Text styleName="textStyle8" x="736" y="448" width="448" text="饰霜镜华-输出"/>
 	<mx:Text styleName="textStyle8" x="736" y="736" width="448" text="杵愿遗影-防御"/>
-	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" alpha="0.75" text="冰棺：20冻盾/40冻盾(深渊)，击破会使其扣除20%生命值，同时虚弱15s。「星烁反应」会使雷/风的相应反应消耗比变为1:4，火反应消耗变为为1:1。"/>
+	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" alpha="0.75" text="冰棺：20冻盾/40冻盾(深渊)，击破会使其扣除20%生命值，同时虚弱15s。「星烁反应」会使雷/风的相应反应消耗比变为1:4。"/>
 	<mx:Text styleName="textStyle12" x="64" y="512" width="394" text="离群的冰影"/>
 	<mx:Text styleName="textStyle13" x="64" y="555" width="395" alpha="0.75" text="Outcast Ice Shadow"/>
 	<mx:Image source="Image5.png" x="1268" y="171" width="128" height="128"/>

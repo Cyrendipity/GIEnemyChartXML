@@ -193,7 +193,7 @@
 		</BitmapImage>
 		<RichText x="738" y="1024" width="434" height="58" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.7490196078431373">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰棺：<span color="#99ffff">20冻</span><span>盾/</span><span color="#99ffff">40冻</span><span>盾</span><span color="#ffdfbf">(深渊)</span><span>，击破会使其</span><span color="#ffdfbf">扣除20%生命值</span><span>，同时虚弱</span><span color="#ffdfbf">15s</span><span>。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>，</span><span color="#ff9999">火</span><span>反应消耗变为为</span><span color="#ffdfbf">1:1</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">冰棺：<span color="#99ffff">20冻</span><span>盾/</span><span color="#99ffff">40冻</span><span>盾</span><span color="#ffdfbf">(深渊)</span><span>，击破会使其</span><span color="#ffdfbf">扣除20%生命值</span><span>，同时虚弱</span><span color="#ffdfbf">15s</span><span>。</span><span color="#bfdfff">「星烁反应」</span><span>会使</span><span color="#ffacff">雷</span><span>/</span><span color="#7fffd7">风</span><span>的相应反应消耗比变为</span><span color="#ffdfbf">1:4</span><span>。</span></p>
 			</content>
 		</RichText>
 		<RichText x="63" y="501" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#99ffff" width="236" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
