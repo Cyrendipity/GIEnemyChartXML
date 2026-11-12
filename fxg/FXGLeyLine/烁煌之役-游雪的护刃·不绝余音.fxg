@@ -482,7 +482,7 @@
 		</RichText>
 		<RichText x="66" y="896" width="505" height="78" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">为冰棺受<span color="#bfdfff">「星烁反应」</span><span>影响后，根据冰棺剩余量转变而来，屏障厚度最大为</span><span color="#ffdfbf">15%生命值</span><span>，最大持续</span><span color="#ffdfbf">20s</span><span>。击破后将使雪精虚弱</span><span color="#ffdfbf">10s</span><span>，并对雪精造成两段伤害，其值分别为：</span><span color="#ffdfbf">10%生命值的真伤</span><span>，屏障期间所受</span><span color="#ffdfbf">60%伤害</span><span>(不超过</span><span color="#ffdfbf">10%雪精生命值</span><span>)的</span><span color="#ffdfbf">普通伤害</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="16" fontWeight="bold" color="#ffffff">为冰棺受<span color="#bfdfff">「星烁反应」</span><span>影响后，根据冰棺剩余量转变而来，屏障厚度最大为</span><span color="#ffdfbf">15%生命值</span><span>，最大持续</span><span color="#ffdfbf">20s</span><span>。击破后将使雪精虚弱</span><span color="#ffdfbf">10s</span><span>，并对雪精造成两段伤害，其值分别为：</span><span color="#ffdfbf">10%生命值的真伤</span><span>，与屏障期间所受</span><span color="#ffdfbf">60%伤害</span><span>(不超过</span><span color="#ffdfbf">10%雪精生命值</span><span>)的</span><span color="#ffdfbf">真伤</span><span>。</span></p>
 			</content>
 		</RichText>
 		<RichText x="1538" y="320" width="440" height="108" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">

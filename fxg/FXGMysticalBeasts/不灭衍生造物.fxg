@@ -172,7 +172,7 @@
 		</RichText>
 		<RichText x="738" y="1087" width="438" height="143" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">造物移至场地中央，将火焰盛放的花冠裹回蓓蕾，随后令其猛烈绽放，造成<span color="#ff9999">150%</span><span>伤害，退出「命曜之姿」状态并移除护罩。若命中玩家则恢复</span><span color="#ffdfbf">15%生命值</span><span>。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">剩余3层护罩或一段时间后，造物移至场地中央，将火焰盛放的花冠裹回蓓蕾，随后令其猛烈绽放，造成<span color="#ff9999">150%</span><span>伤害，退出「命曜之姿」状态并移除护罩。若命中玩家则恢复</span><span color="#ffdfbf">15%生命值</span><span>。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/不灭衍生造物.assets/Image_14.png')" x="1391" y="137">
@@ -242,11 +242,6 @@
 			<BitmapImage source="@Embed('/不灭衍生造物.assets/Image_18.png')" x="64" y="1001" blendMode="normal">
 			</BitmapImage>
 		</Group>
-		<RichText x="9" y="957" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
-			<content>
-				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">开局</p>
-			</content>
-		</RichText>
 		<RichText x="9" y="1017" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="28" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
 				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">正常</p>
@@ -322,9 +317,9 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/不灭衍生造物.assets/Image_27.png')" x="576" y="1014" blendMode="normal">
 		</BitmapImage>
-		<RichText x="1410" y="1087" width="424" height="85" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
+		<RichText x="1410" y="1087" width="439" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
-				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「命曜之姿」：生成护罩时会倒扣<span color="#ffdfbf">2</span><span>层；恢复的生命值将</span><span color="#ffdfbf">立即扣除</span><span>，等于回血失效。</span></p>
+				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">「命曜之姿」：生成护罩时会倒扣<span color="#ffdfbf">2</span><span>层；恢复的生命值将</span><span color="#ffdfbf">立即扣除</span><span>，等于回血失效。当施放「茹焰炙升」时击破1层护罩会破坏剩余层数的护罩。</span></p>
 			</content>
 		</RichText>
 		<BitmapImage source="@Embed('/不灭衍生造物.assets/Image_28.png')" x="1248" y="1014" blendMode="normal">
@@ -352,5 +347,10 @@
 		</BitmapImage>
 		<BitmapImage source="@Embed('/不灭衍生造物.assets/Image_37.png')" x="720" y="714">
 		</BitmapImage>
+		<RichText x="9" y="942" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" fontStyle="normal" fontWeight="normal" color="#ffffff" width="46" height="57" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
+			<content>
+				<p textAlign="center" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#ffffff">深渊开局</p>
+			</content>
+		</RichText>
 	</Group>
 </Graphic>

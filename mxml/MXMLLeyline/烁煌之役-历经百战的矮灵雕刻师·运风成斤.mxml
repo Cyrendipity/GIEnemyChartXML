@@ -138,9 +138,9 @@
 	<mx:Text styleName="textStyle12" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
 	<mx:Text styleName="textStyle13" x="960" y="736" width="160" alpha="0.6" text="× 5.5"/>
 	<mx:Text styleName="textStyle7" x="1120" y="768" width="160" text="8708"/>
-	<mx:Text styleName="textStyle7" x="1120" y="704" width="160" text="32436173"/>
+	<mx:Text styleName="textStyle7" x="1120" y="704" width="160" text="32706474"/>
 	<mx:Text styleName="textStyle8" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
-	<mx:Text styleName="textStyle13" x="1120" y="736" width="160" alpha="0.6" text="× 12.0"/>
+	<mx:Text styleName="textStyle13" x="1120" y="736" width="160" alpha="0.6" text="× 12.1"/>
 	<mx:Text styleName="textStyle14" x="64" y="666" width="512" alpha="0.9" text="雕刻师使用1枚冰块，在5s后将其雕刻成巨口霜精，霜精每隔一段时间发射雪球造成巨额伤害；之后每约15s，丘林都会使用冰块进行雕刻。巨口霜精具有120冻盾，40s后自行消失；受「星烁反应」影响，正在雕刻中的冰块会立即变成无害的小动物，其具有3冻盾，12s后自行消失。(N4) 丘林将在开局进行雕刻，且使用2枚冰块。(N5) 丘林开局不立即进行雕刻，但丘林同样会使用2枚冰块，同时雕刻冰块的时长延长至6.3s。雕刻出的巨口霜精20s后自行消失，且场上的霜精不会超过2枚。当冰块受「星烁反应」影响时会立即爆炸，每个对丘林自己造成固定的499999伤害，同时降低其25%风抗与20%其余抗性，减抗效果可叠加最多3层；若30s内没有再次触发减抗效果，则移除所有减抗效果。"/>
 	<mx:Text styleName="textStyle15" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Image source="Image5.png" x="128" y="380" width="484" height="60"/>

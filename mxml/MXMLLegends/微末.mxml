@@ -81,7 +81,6 @@
 	<mx:Image source="Image5.png" x="64" y="781" width="484" height="124"/>
 	<mx:Text styleName="textStyle8" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 150/210"/>
-	<mx:Image source="Image6.png" x="64" y="64" width="256" height="256"/>
 	<mx:Text styleName="textStyle9" x="736" y="224" width="448" alpha="0.9" text="微末进行旋转、坠拳2段攻击，均造成60%伤害；坠拳产生向前的多段岩击波，造成70%,35%伤害。"/>
 	<mx:Text styleName="textStyle9" x="1408" y="224" width="448" alpha="0.9" text="微末进行左右交拿、纵拳3段攻击，分别造成50%,50%,80%伤害。"/>
 	<mx:Text styleName="textStyle9" x="736" y="512" width="448" alpha="0.9" text="距离较远时，微末举起岩石，朝玩家丢来，造成100%伤害。"/>
@@ -94,18 +93,19 @@
 	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" text="敛石辗轹-位移"/>
 	<mx:Text styleName="textStyle11" x="736" y="736" width="448" text="巉金之撼-爆发"/>
 	<mx:Text styleName="textStyle10" x="1408" y="736" width="448" text="垩甲镶金-天赋"/>
-	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
-	<mx:Image source="Image8.png" x="596" y="459" width="128" height="128"/>
-	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
-	<mx:Image source="Image10.png" x="1268" y="459" width="128" height="128"/>
-	<mx:Image source="Image11.png" x="576" y="150" width="168" height="170"/>
-	<mx:Image source="Image12.png" x="1248" y="150" width="168" height="170"/>
-	<mx:Image source="Image13.png" x="576" y="438" width="168" height="170"/>
-	<mx:Image source="Image14.png" x="1248" y="438" width="168" height="170"/>
-	<mx:Image source="Image15.png" x="576" y="726" width="168" height="170"/>
-	<mx:Image source="Image16.png" x="1248" y="726" width="168" height="170"/>
-	<mx:Image source="Image17.png" x="64" y="905" width="484" height="60"/>
+	<mx:Image source="Image6.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="1248" y="726" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="64" y="905" width="484" height="60"/>
 	<mx:Text styleName="textStyle12" x="64" y="972" width="448" alpha="0.75" text="「过载燃烧」：热量上限944。微末受到火元素攻击后，会根据火元素的量积攒2.119n%(20n)或0.742%(7)热量，攒满后进入虚耗状态，该状态下会失去抗性提升。垩甲：40岩盾，击破后允许受到伤害，90s内不会恢复。"/>
 	<mx:Text styleName="textStyle13" x="0" y="862" width="64" text="正常"/>
 	<mx:Text styleName="textStyle13" x="0" y="922" width="64" text="虚耗"/>
+	<mx:Image source="Image17.png" x="64" y="64" width="256" height="256"/>
 </mx:Application>

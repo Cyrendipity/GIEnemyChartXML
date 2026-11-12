@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1248" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#FF9999;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#FF9999;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#99440B;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="1080" width="1920" height="168"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="烁晶之人"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="1387" y="64" width="469" alpha="0.5" text="元素能量：NA"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="305" text="HP: 41250 (72.0TH)"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" text="HP: 85938 (150.0TH)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="TPS射击 Lv.20 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="832" width="305" alpha="0.75" text="TPS射击-斯露德 Lv.20 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 1004 (6.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="912" width="375" text="ATK: 1004 (6.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle4" x="64" y="960" width="375" text="Wt/Ed: 150/4000"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="The Shimmering One"/>
+	<mx:Text styleName="textStyle7" x="64" y="1024" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Image source="Image4.png" x="64" y="1069" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="64" y="512" width="416" text="唯私心执行超越的个体"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="395" alpha="0.75" text="One Who Transcends for Selfish Wishes Alone"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle11" x="736" y="992" width="448" alpha="0.9" text="烁晶人发射一枚赤龙晶，造成100%伤害并摧毁掩体。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="992" width="448" alpha="0.9" text="烁晶人移至场地中央，唤出2或4枚晶体，用16s后蓄力完成并发射，秒杀前台。晶体需要使用霰弹枪攻击1次才能破坏。破坏全部晶体会使烁晶人失去29.5%生命值。"/>
+	<mx:Text styleName="textStyle12" x="736" y="928" width="448" text="焰极烁灭-妨害"/>
+	<mx:Text styleName="textStyle12" x="1408" y="928" width="448" text="盘灾覆厄-爆发"/>
+	<mx:Text styleName="textStyle11" x="736" y="224" width="448" alpha="0.9" text="烁晶人进行2段的抓划攻击，均造成65%伤害；若玩家位于侧方，则追加一段扫尾攻击造成80%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="猎骨留痕-输出"/>
+	<mx:Image source="Image5.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle12" x="736" y="416" width="448" text="灯雪闪璨-远程"/>
+	<mx:Text styleName="textStyle11" x="736" y="480" width="448" alpha="0.9" text="位于远处时，烁晶人凝结霜露，从中持续释放出约22枚追踪冰晶，均造成45%,22.5%,4.5%伤害。"/>
+	<mx:Image source="Image7.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="406" width="168" height="170"/>
+	<mx:Text styleName="textStyle11" x="736" y="736" width="448" alpha="0.9" text="烁晶人初始拥有厄生护罩，护罩两侧各拥有1枚灾石晶块，累计使用霰弹枪攻击6次才可破坏。(斯露德)间歇性出现护罩，需要用场地荧光光线聚焦击破。破坏使烁晶人失去20%生命值。"/>
+	<mx:Text styleName="textStyle12" x="736" y="672" width="448" text="亘越古念-防御"/>
+	<mx:Image source="Image9.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="1268" y="939" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="939" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="576" y="918" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1248" y="918" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="662" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="顷锋收斫-位移"/>
+	<mx:Text styleName="textStyle11" x="1408" y="224" width="448" alpha="0.9" text="位于远处时，烁晶人作势，短暂停留并迅速冲击，造成90%伤害，通常施放2次。若为进行摧毁建筑物进行的冲击，则仅造成30%伤害."/>
+	<mx:Text styleName="textStyle11" x="1408" y="480" width="448" alpha="0.9" text="位于近处时，烁晶人将凝结尖冰，随后掷向地面爆裂，造成100%伤害。"/>
+	<mx:Text styleName="textStyle11" x="1408" y="736" width="448" alpha="0.9" text="处于侧方时，烁晶人将直接进行甩尾攻击，造成80%伤害。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="416" width="448" text="碎镜凛枝-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="672" width="448" text="轮掣翻棱-防御"/>
+	<mx:Image source="Image16.png" x="1268" y="683" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image18.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1248" y="662" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Text styleName="textStyle13" x="64" y="1200" width="448" alpha="0.75" text="烁晶之人免疫其他枪械伤害，枪械只能用霰弹枪造成伤害。"/>
+</mx:Application>

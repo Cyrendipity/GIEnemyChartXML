@@ -165,8 +165,6 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">失去双臂后，巴窟纳瓦抬起下肢，重跺一脚，造成<span color="#ffe599">100%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_21.png')" x="64" y="64" blendMode="normal">
-		</BitmapImage>
 		<RichText x="57" y="497" fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" fontWeight="normal" color="#e3d3c4" width="236" height="43" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="1">
 			<content>
 				<p fontFamily="仓耳渔阳体 W04" fontSize="40" fontStyle="italic" color="#e3d3c4">层侵的躯块</p>
@@ -193,34 +191,34 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">失去双臂后，巴窟纳瓦从断臂处射出数十枚冰棘，并朝着玩家如数散落，造成<span color="#99ffff">70%</span><span>伤害(难以命中)；冰棘在一段时间后引爆，造成</span><span color="#99ffff">50%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_22.png')" x="720" y="137">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_21.png')" x="720" y="137">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_23.png')" x="720" y="585">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_22.png')" x="720" y="585">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_24.png')" x="1391" y="361">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_23.png')" x="1391" y="361">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_25.png')" x="576" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_24.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_26.png')" x="576" y="598" blendMode="normal">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_25.png')" x="576" y="598" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_27.png')" x="1248" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_26.png')" x="1248" y="374" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_28.png')" x="1392" y="137">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_27.png')" x="1392" y="137">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_29.png')" x="1392" y="585">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_28.png')" x="1392" y="585">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_30.png')" x="1248" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_29.png')" x="1248" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_31.png')" x="1248" y="598" blendMode="normal">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_30.png')" x="1248" y="598" blendMode="normal">
 		</BitmapImage>
 		<RichText x="738" y="447" width="424" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">巴窟纳瓦手搓一枚螺旋弹，随即朝玩家施放，造成<span color="#7fffd7">100%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_32.png')" x="721" y="362">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_31.png')" x="721" y="362">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_33.png')" x="576" y="374" blendMode="normal">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_32.png')" x="576" y="374" blendMode="normal">
 		</BitmapImage>
 		<RichText x="738" y="671" width="424" height="114" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
@@ -232,9 +230,9 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">战斗中可以使用「厄水之祸」中的大灵力量战斗。<br/>在成功反制巴窟纳瓦的「罡风折岩掌」技能后，「厄水之祸」将会给予其一次重伤攻击，使巴窟纳瓦失去一臂并扣除<span color="#ffdfbf">30%</span><span>生命值 (但巴窟纳瓦会因此恢复</span><span color="#ffdfbf">20%</span><span>生命值)；<br/>在巴窟纳瓦「霏雪压荒渊」技能期间可蓄力使用「厄水之祸」的大灵进行克制，能将其打入残血状态，之后「厄水之祸」将会给予其一次致命攻击，封印巴窟纳瓦。<br/>未及时克制巴窟纳瓦，其将恢复至</span><span color="#ffdfbf">50%</span><span>生命值。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_34.png')" x="720" y="810">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_33.png')" x="720" y="810">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_35.png')" x="576" y="822" blendMode="normal">
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_34.png')" x="576" y="822" blendMode="normal">
 		</BitmapImage>
 		<RichText x="1663" y="52" fontFamily="造字工房悦圆 G0v1 常规体" fontSize="30" fontStyle="normal" fontWeight="normal" color="#ffffff" width="218" height="34" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.5019607843137255">
 			<content>
@@ -244,5 +242,7 @@
 				<DropShadowFilter angle="40" color="#ffdfbf" distance="16" alpha="0.75" quality="2" blurX="25" blurY="25"/>
 			</filters>
 		</RichText>
+		<BitmapImage source="@Embed('/巴窟纳瓦.assets/Image_35.png')" x="64" y="64" blendMode="normal">
+		</BitmapImage>
 	</Group>
 </Graphic>

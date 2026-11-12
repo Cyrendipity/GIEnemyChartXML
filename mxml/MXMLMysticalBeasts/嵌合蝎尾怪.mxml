@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="960" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#389A3E;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="519" text="嵌合蝎尾怪"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="736" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="1387" y="64" width="469" alpha="0.5" text="元素能量：DP[60,0]"/>
+	<mx:Text styleName="textStyle5" x="64" y="576" width="305" text="HP: 465864 (8.4F)"/>
+	<mx:Text styleName="textStyle6" x="64" y="544" width="305" alpha="0.75" text="普通 Lv.100 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="624" width="375" text="ATK: 10834 (4.4B2)"/>
+	<mx:Text styleName="textStyle5" x="64" y="672" width="375" text="Wt/Ed: 120/100"/>
+	<mx:Text styleName="textStyle7" x="64" y="465" width="395" alpha="0.75" text="Chimeric Skorp"/>
+	<mx:Image source="Image3.png" x="64" y="781" width="484" height="124"/>
+	<mx:Text styleName="textStyle8" x="736" y="224" width="448" alpha="0.9" text="蝎尾怪进行爪割、爪挠、啄至多3段的攻击，依次造成50%,60%,50%伤害。前爪受损时不施放本技能的第一段攻击。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="224" width="448" alpha="0.9" text="蝎尾怪连续进行1-3次的啄地攻击，每次均造成70%伤害。"/>
+	<mx:Text styleName="textStyle8" x="1408" y="480" width="448" alpha="0.9" text="蝎尾怪将前爪作十字形势，随后蓄力发射十字交刃，造成100%伤害。受「星烁反应」影响后前爪破损，不再能够继续使用；触发时掉落4枚草元素微粒。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="蝎尾怪使用尾部释放3枚毒牙，均造成50%伤害。尾受损时不施放本技能。"/>
+	<mx:Text styleName="textStyle8" x="736" y="736" width="448" alpha="0.9" text="蝎尾怪蓄力，随后将尾部插入地面，并连续产生3处尖牙陷阱，插入与陷阱均造成30%伤害。受「星烁反应」影响后尾破损，不再能够继续使用；触发时掉落4枚草元素微粒。"/>
+	<mx:Text styleName="textStyle9" x="736" y="160" width="448" text="捉风捕叶-输出"/>
+	<mx:Text styleName="textStyle9" x="1408" y="160" width="448" text="虿眼衔尘-输出"/>
+	<mx:Text styleName="textStyle9" x="1408" y="416" width="448" text="青茎萦锷-猛攻"/>
+	<mx:Text styleName="textStyle9" x="736" y="416" width="448" text="飞梢引芽-远程"/>
+	<mx:Text styleName="textStyle9" x="736" y="672" width="448" text="根缭岳棘-猛攻"/>
+	<mx:Text styleName="textStyle10" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="64" y="64" width="256" height="256"/>
+	<mx:Image source="Image5.png" x="1268" y="427" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="683" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1248" y="406" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="662" width="168" height="170"/>
+</mx:Application>

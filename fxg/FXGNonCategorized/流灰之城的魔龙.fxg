@@ -192,8 +192,6 @@
 				<p fontFamily="造字工房悦圆 G0v1 常规体" fontSize="24" color="#654fa2">制图@Csxylic米游社</p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_15.png')" x="64" y="64">
-		</BitmapImage>
 		<RichText x="1410" y="223" width="438" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">魔龙连续发射4枚火球，每枚造成<span color="#ff9999">50%</span><span>伤害。</span></p>
@@ -204,9 +202,9 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">魔龙伏地进行蓄力，在其周围产生3枚凝露，此时其身覆有<span textDecoration="underline">虚界护罩</span><span>；10s后吸收凝露并发动震地攻击，造成</span><span color="#ff9999">80%</span><span>伤害，爆炸还将扩散到凝露所在的位置。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_16.png')" x="1391" y="138">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_14.png')" x="1391" y="138">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_17.png')" x="719" y="713">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_15.png')" x="719" y="713">
 		</BitmapImage>
 		<RichText x="738" y="223" width="423" height="56" kerning="off" blendMode="normal" whiteSpaceCollapse="preserve" alpha="0.9019607843137255">
 			<content>
@@ -223,31 +221,33 @@
 				<p fontFamily="仓耳渔阳体 W03" fontSize="24" fontWeight="bold" color="#ffffff">魔龙朝前方扇形区域喷吐怨流焚火，持续造成<span color="#ff9999">60%</span><span>伤害。</span></p>
 			</content>
 		</RichText>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_18.png')" x="719" y="137">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_16.png')" x="719" y="137">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_19.png')" x="719" y="426">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_17.png')" x="719" y="426">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_20.png')" x="1391" y="426">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_18.png')" x="1391" y="426">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_21.png')" x="596" y="459" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_19.png')" x="596" y="459" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_22.png')" x="576" y="438" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_20.png')" x="576" y="438" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_23.png')" x="596" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_21.png')" x="596" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_24.png')" x="576" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_22.png')" x="576" y="150" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_25.png')" x="596" y="747" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_23.png')" x="596" y="747" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_26.png')" x="576" y="726" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_24.png')" x="576" y="726" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_27.png')" x="1268" y="459" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_25.png')" x="1268" y="459" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_28.png')" x="1248" y="438" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_26.png')" x="1248" y="438" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_29.png')" x="1268" y="171" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_27.png')" x="1268" y="171" blendMode="normal">
 		</BitmapImage>
-		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_30.png')" x="1248" y="150" blendMode="normal">
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_28.png')" x="1248" y="150" blendMode="normal">
+		</BitmapImage>
+		<BitmapImage source="@Embed('/流灰之城的魔龙.assets/Image_29.png')" x="64" y="64" blendMode="normal">
 		</BitmapImage>
 	</Group>
 </Graphic>

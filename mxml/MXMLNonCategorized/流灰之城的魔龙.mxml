@@ -85,7 +85,6 @@
 	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
 	<mx:Text styleName="textStyle10" x="64" y="1040" width="512" alpha="0.75" text="凝露：魔龙吸收后恢复150点虚界护罩。拾取后角色将获得光环。"/>
 	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
-	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
 	<mx:Text styleName="textStyle12" x="1408" y="224" width="448" alpha="0.9" text="魔龙连续发射4枚火球，每枚造成50%伤害。"/>
 	<mx:Text styleName="textStyle12" x="736" y="800" width="448" alpha="0.9" text="魔龙伏地进行蓄力，在其周围产生3枚凝露，此时其身覆有虚界护罩；10s后吸收凝露并发动震地攻击，造成80%伤害，爆炸还将扩散到凝露所在的位置。"/>
 	<mx:Text styleName="textStyle13" x="1408" y="160" width="448" text="烬星飞火-远程"/>
@@ -96,14 +95,15 @@
 	<mx:Text styleName="textStyle13" x="736" y="160" width="448" text="拂以蔑炎-输出"/>
 	<mx:Text styleName="textStyle13" x="736" y="448" width="448" text="燔武不疾-输出"/>
 	<mx:Text styleName="textStyle13" x="1408" y="448" width="448" text="焚风贤火-输出"/>
-	<mx:Image source="Image6.png" x="596" y="459" width="128" height="128"/>
-	<mx:Image source="Image7.png" x="576" y="438" width="168" height="170"/>
-	<mx:Image source="Image8.png" x="596" y="171" width="128" height="128"/>
-	<mx:Image source="Image9.png" x="576" y="150" width="168" height="170"/>
-	<mx:Image source="Image10.png" x="596" y="747" width="128" height="128"/>
-	<mx:Image source="Image11.png" x="576" y="726" width="168" height="170"/>
-	<mx:Image source="Image12.png" x="1268" y="459" width="128" height="128"/>
-	<mx:Image source="Image13.png" x="1248" y="438" width="168" height="170"/>
-	<mx:Image source="Image14.png" x="1268" y="171" width="128" height="128"/>
-	<mx:Image source="Image15.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image5.png" x="596" y="459" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="576" y="438" width="168" height="170"/>
+	<mx:Image source="Image7.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="596" y="747" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="576" y="726" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="1268" y="459" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="1248" y="438" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image15.png" x="64" y="64" width="256" height="256"/>
 </mx:Application>

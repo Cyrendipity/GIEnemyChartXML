@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1920" height="1344" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#7FBFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1920" height="264"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="-10" width="426" height="468"/>
+	<mx:Text styleName="textStyle" x="64" y="416" width="448" text="浪涛锚定者"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="544" width="423" text="于风浪中贪婪索求"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle5" x="1387" y="64" width="469" alpha="0.5" text="元素能量：HP[0x2],HO[66,33]"/>
+	<mx:Text styleName="textStyle6" x="64" y="704" width="305" text="HP: 1767118 (29.0F)"/>
+	<mx:Text styleName="textStyle7" x="64" y="672" width="305" alpha="0.75" text="首领 Lv.103 Data"/>
+	<mx:Text styleName="textStyle6" x="64" y="752" width="375" text="ATK: 20886 (8.0B2)"/>
+	<mx:Text styleName="textStyle6" x="64" y="800" width="375" text="Wt/Ed: 300/4000"/>
+	<mx:Text styleName="textStyle8" x="64" y="497" width="395" alpha="0.75" text="Wavebinder"/>
+	<mx:Text styleName="textStyle9" x="64" y="587" width="395" alpha="0.75" text="Great Amidst the Tempest"/>
+	<mx:Image source="Image4.png" x="64" y="909" width="484" height="124"/>
+	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="锚定者侧方向使用巨锚猛击，造成60%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="448" width="448" alpha="0.9" text="距离较远时，锚定者举着锚飞过来下砸，造成80%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="672" width="448" alpha="0.9" text="「奋勇」状态下特定技能结束或处于侧后方时，锚定者翘起尾部，转身横扫一次，接触造成75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="896" width="448" alpha="0.9" text="「奋勇」状态下，锚定者用力挥舞巨锚进行连续5段的攻击，依次造成50%,50%,50%,50%,75%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1120" width="448" alpha="0.9" text="锚定者会不间断进行「小酌」或「酣饮」，增加自身的「豪意值」。该值满时，锚定者会进入「奋勇」状态，持续80s，该状态下豪意值会不断衰减，清空时会中断当前动作并退出「奋勇」。受到雷元素伤害时，豪意值会额外减少。"/>
+	<mx:Text styleName="textStyle11" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle10" x="736" y="224" width="448" alpha="0.9" text="锚定者使用巨锚挥舞两下，依次造成40%,40%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="448" width="448" alpha="0.9" text="距离较近时，锚定者举起巨锚，进行一次下砸，造成70%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="672" width="448" alpha="0.9" text="「奋勇」状态下距离较远时，锚定者握拳飞过来猛击，造成100%伤害，一般后随「归涛奏溯」。"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" alpha="0.9" text="「奋勇」状态下距离较远时，锚定者喷射水流从下往上扫，造成60%伤害，水注留下一些泉眼，一段时间后喷发造成40%伤害。一般后随「归涛奏溯」。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="160" width="448" text="擎桅转舷-输出"/>
+	<mx:Text styleName="textStyle12" x="1408" y="384" width="448" text="震涡坠载-位移"/>
+	<mx:Text styleName="textStyle12" x="1408" y="608" width="448" text="归涛奏溯-防御"/>
+	<mx:Text styleName="textStyle12" x="1408" y="832" width="448" text="骇武顽浪-猛攻"/>
+	<mx:Text styleName="textStyle12" x="736" y="160" width="448" text="锋近定海-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="384" width="448" text="纵礁沉破-输出"/>
+	<mx:Text styleName="textStyle12" x="736" y="608" width="448" text="擂襟鸷击-位移"/>
+	<mx:Text styleName="textStyle12" x="736" y="832" width="448" text="奔涣渊潮-远程"/>
+	<mx:Image source="Image5.png" x="64" y="1033" width="484" height="60"/>
+	<mx:Text styleName="textStyle13" x="0" y="991" width="64" text="正常"/>
+	<mx:Text styleName="textStyle13" x="0" y="1051" width="64" text="奋勇"/>
+	<mx:Text styleName="textStyle14" x="64" y="1100" width="448" alpha="0.75" text="豪意值：上限600点，每次「小酌」至多+49%(294)， 「酣饮」至多+96%(576)；当进入「奋勇」状态时，该值每秒-7.5，持续约80s。若受「星烁反应」影响，豪意值积累效率变为75%，则「小酌」与「酣饮」分别+42%(252)/+72%(432)。(仅大世界)当退出「奋勇」状态时，积累效率为30%，即「小酌」与「酣饮」分别+14.7%(88.2)/+28.8%(172.8)，受「星烁反应」影响变为+11.025%(66.15)/+21.6%(129.6)。位于深渊内时，开局饮用均为「酣饮」。「奋勇」状态下受到无附着雷/n单位雷/星超导雷伤时-4/-10n/-50点豪意值。(仅深渊)「奋勇」状态下攻击力提升25%。"/>
+	<mx:Image source="Image6.png" x="64" y="96" width="256" height="256"/>
+	<mx:Image source="Image7.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image10.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image12.png" x="596" y="395" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="596" y="843" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="596" y="171" width="128" height="128"/>
+	<mx:Text styleName="textStyle12" x="736" y="1056" width="448" text="酒酣仗胆-天赋"/>
+	<mx:Image source="Image15.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image16.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="576" y="374" width="168" height="170"/>
+	<mx:Image source="Image19.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="576" y="822" width="168" height="170"/>
+	<mx:Image source="Image21.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image23.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image25.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1120" width="448" alpha="0.9" text="锚定者拥有隐性「麻痹值」，上限90点(「奋勇」状态45点)，当锚定者受到无附着雷/n单位雷/星超导雷伤害时，麻痹值增加0.8/2n/10点。当麻痹值达上限时，会麻痹并中断当前动作，随后清空并重置「酒酣仗胆」饮用CD。"/>
+	<mx:Text styleName="textStyle12" x="1408" y="1056" width="448" text="海暴厄霆-天赋"/>
+	<mx:Image source="Image26.png" x="1248" y="1046" width="168" height="170"/>
+</mx:Application>

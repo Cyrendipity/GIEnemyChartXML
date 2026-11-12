@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1312" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#38993E;
+		}
+		.textStyle8 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="232"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle2" x="64" y="928" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle3" x="576" y="128" width="469" alpha="0.5" text="元素能量：DP[66,33,0x2"/>
+	<mx:Text styleName="textStyle4" x="64" y="576" width="305" text="HP: 3838912 (63.0F)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="458" text="HP: 1087127 (15.246F) 24.2%"/>
+	<mx:Text styleName="textStyle5" x="64" y="544" width="305" alpha="0.75" text="地方传奇 Lv.103 Data"/>
+	<mx:Text styleName="textStyle5" x="64" y="736" width="305" alpha="0.75" text="历经百战 Lv.100 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="624" width="375" text="ATK: 13054 (5.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="816" width="375" text="ATK: 7387 (3.0B2) 60%"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="375" text="Wt/Ed: 175/210"/>
+	<mx:Text styleName="textStyle4" x="64" y="864" width="375" text="Wt/Ed: 175/210"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="Rowdy Beast Host: Stavrogin"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle2" x="64" y="352" width="511" text="喧闹兽众·斯塔夫罗金"/>
+	<mx:Text styleName="textStyle8" x="736" y="256" width="448" alpha="0.9" text="渠联使用手砲发射数枚果蔬弹药，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="704" width="448" alpha="0.9" text="渠联将手砲立起，并令其向空中发射数6枚果蔬，并在玩家处落地，均造成80%伤害。受「星烁反应」影响后，手砲不会及时响应，而将连续发射4枚果蔬，全砸在渠联脸上，造成80%伤害。"/>
+	<mx:Text styleName="textStyle9" x="736" y="960" width="448" alpha="0.9" text="进行「情谊佑助」时，负责维持支援护罩·刚，维持期间召唤下落水果攻击，造成80%伤害，若受「星烁反应」影响，则所有水果都转为命中己方护罩。低于50%生命值时，其余2位兽众将加入战斗并保护渠联，狮獒展开支援护罩·柔，长耳每3s产生排斥风场。受保护时生命值不会低于25%。"/>
+	<mx:Text styleName="textStyle8" x="736" y="480" width="448" alpha="0.9" text="渠联竖着使用手砲上的斧子进行下劈，造成100%伤害。"/>
+	<mx:Text styleName="textStyle10" x="736" y="640" width="448" text="急火礼弹-爆发"/>
+	<mx:Text styleName="textStyle10" x="736" y="896" width="448" text="倾情盖谊-辅助"/>
+	<mx:Image source="Image4.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image8.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="576" y="182" width="168" height="170"/>
+	<mx:Text styleName="textStyle10" x="736" y="416" width="448" text="销损情报-输出"/>
+	<mx:Text styleName="textStyle10" x="736" y="192" width="448" text="囊中百货-远程"/>
+	<mx:Image source="Image10.png" x="64" y="70" width="256" height="250"/>
+	<mx:Image source="Image11.png" x="64" y="973" width="484" height="124"/>
+	<mx:Image source="Image12.png" x="64" y="1097" width="484" height="60"/>
+	<mx:Text styleName="textStyle11" x="0" y="1055" width="64" text="正常"/>
+	<mx:Text styleName="textStyle11" x="0" y="1115" width="64" text="虚弱"/>
+	<mx:Text styleName="textStyle12" x="64" y="1164" width="448" alpha="0.75" text="支援护罩·柔：48水盾，持续30s，受「星烁反应」影响，当护罩受到雷/风/冰元素伤害时，根据所受攻击的元素量，扣除4水(2单位以下)或8水(2单位及以上)，击破后三者虚弱15s。支援护罩·刚：全体生命盾，继承狮獒自身30%生命值，持续30s，击破后三者虚弱15s。若护罩超时未击破，那么所有成员都恢复25%生命值，同时提高25%攻击力。"/>
+	<mx:Image source="Image13.png" x="596" y="907" width="128" height="128"/>
+	<mx:Image source="Image14.png" x="576" y="886" width="168" height="170"/>
+</mx:Application>

@@ -84,19 +84,19 @@
 	<mx:Text styleName="textStyle10" x="64" y="640" width="305" alpha="0.75" text="剧情首领 Lv.20 Data"/>
 	<mx:Text styleName="textStyle9" x="64" y="720" width="375" text="ATK: 1500 (2.5TA)"/>
 	<mx:Text styleName="textStyle9" x="64" y="768" width="375" text="Wt/Ed: 70/400"/>
-	<mx:Image source="Image5.png" x="65" y="78" width="245" height="243"/>
-	<mx:Image source="Image6.png" x="596" y="203" width="128" height="128"/>
-	<mx:Image source="Image7.png" x="596" y="875" width="128" height="128"/>
-	<mx:Image source="Image8.png" x="596" y="651" width="128" height="128"/>
-	<mx:Image source="Image9.png" x="596" y="427" width="128" height="128"/>
-	<mx:Image source="Image10.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image5.png" x="596" y="203" width="128" height="128"/>
+	<mx:Image source="Image6.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="596" y="427" width="128" height="128"/>
+	<mx:Image source="Image9.png" x="596" y="1099" width="128" height="128"/>
 	<mx:Text styleName="textStyle6" x="736" y="1152" width="448" alpha="0.9" text="阿克西妮娅吟唱，6s后吟唱完毕，联动「原初之人」施放光摄，造成原初之人30%,15%,6%,3%攻击力的伤害。吟唱期间(金色)对其造成20次伤害即可中断。"/>
 	<mx:Text styleName="textStyle7" x="736" y="1088" width="448" text="无源之光-连携"/>
-	<mx:Image source="Image11.png" x="576" y="182" width="168" height="170"/>
-	<mx:Image source="Image12.png" x="576" y="406" width="168" height="170"/>
-	<mx:Image source="Image13.png" x="576" y="630" width="168" height="170"/>
-	<mx:Image source="Image14.png" x="576" y="854" width="168" height="170"/>
-	<mx:Image source="Image15.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="576" y="182" width="168" height="170"/>
+	<mx:Image source="Image11.png" x="576" y="406" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="576" y="630" width="168" height="170"/>
+	<mx:Image source="Image13.png" x="576" y="854" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="576" y="1078" width="168" height="170"/>
 	<mx:Text styleName="textStyle11" x="64" y="512" width="394" text="宫廷小丑"/>
 	<mx:Text styleName="textStyle12" x="64" y="555" width="395" alpha="0.75" text="Court Jester"/>
+	<mx:Image source="Image15.png" x="81" y="64" width="223" height="256"/>
 </mx:Application>

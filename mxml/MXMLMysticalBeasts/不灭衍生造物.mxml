@@ -89,7 +89,7 @@
 	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
 	<mx:Text styleName="textStyle10" x="1408" y="224" width="448" alpha="0.9" text="处于侧后方时，造物一个转身，顺便造成25%伤害。「命曜之姿」强化：攻击造成火元素伤害，且伤害倍率提升，造成65%伤害。"/>
 	<mx:Text styleName="textStyle10" x="736" y="480" width="1024" alpha="0.9" text="造物升空，消耗18%生命值，缓慢展开等量的余温护罩，并进入「命曜之姿」状态。护罩展开期间可受「星烁反应」影响。该状态下，造物每造成一次伤害，都会为自身恢复3%生命值(除爆发伤害外)，恢复总量至多不超过所消耗的生命值，恢复行为可受「星烁反应」影响。若造物命中角色护盾，或命中处于无敌帧下的角色，则不会触发恢复效果。当生命值不足以消耗时，造物会尽量转换剩余的生命值成等量的护罩。护罩移除后进入15s的虚弱状态，直至再次开启护罩。"/>
-	<mx:Text styleName="textStyle10" x="736" y="1088" width="448" alpha="0.9" text="造物移至场地中央，将火焰盛放的花冠裹回蓓蕾，随后令其猛烈绽放，造成150%伤害，退出「命曜之姿」状态并移除护罩。若命中玩家则恢复15%生命值。"/>
+	<mx:Text styleName="textStyle10" x="736" y="1088" width="448" alpha="0.9" text="剩余3层护罩或一段时间后，造物移至场地中央，将火焰盛放的花冠裹回蓓蕾，随后令其猛烈绽放，造成150%伤害，退出「命曜之姿」状态并移除护罩。若命中玩家则恢复15%生命值。"/>
 	<mx:Text styleName="textStyle11" x="1408" y="160" width="448" text="殷花焚沉-防御"/>
 	<mx:Text styleName="textStyle11" x="736" y="416" width="448" text="命生灼耀-强化"/>
 	<mx:Text styleName="textStyle11" x="736" y="1024" width="448" text="茹焰炙升-爆发"/>
@@ -98,7 +98,6 @@
 	<mx:Text styleName="textStyle10" x="736" y="800" width="448" alpha="0.9" text="距离较远时，造物朝玩家冲击而来，造成100%伤害，仅在「命曜之姿」状态下施放。"/>
 	<mx:Text styleName="textStyle11" x="736" y="160" width="448" text="印曜饰缕-输出"/>
 	<mx:Image source="Image5.png" x="64" y="1001" width="484" height="60"/>
-	<mx:Text styleName="textStyle13" x="0" y="959" width="64" text="开局"/>
 	<mx:Text styleName="textStyle13" x="0" y="1019" width="64" text="正常"/>
 	<mx:Image source="Image6.png" x="64" y="1061" width="484" height="60"/>
 	<mx:Text styleName="textStyle13" x="0" y="1079" width="64" text="虚弱"/>
@@ -111,7 +110,7 @@
 	<mx:Image source="Image12.png" x="596" y="747" width="128" height="128"/>
 	<mx:Image source="Image13.png" x="576" y="406" width="168" height="170"/>
 	<mx:Image source="Image14.png" x="576" y="1014" width="168" height="170"/>
-	<mx:Text styleName="textStyle10" x="1408" y="1088" width="448" alpha="0.9" text="「命曜之姿」：生成护罩时会倒扣2层；恢复的生命值将立即扣除，等于回血失效。"/>
+	<mx:Text styleName="textStyle10" x="1408" y="1088" width="448" alpha="0.9" text="「命曜之姿」：生成护罩时会倒扣2层；恢复的生命值将立即扣除，等于回血失效。当施放「茹焰炙升」时击破1层护罩会破坏剩余层数的护罩。"/>
 	<mx:Image source="Image15.png" x="1248" y="1014" width="168" height="170"/>
 	<mx:Image source="Image16.png" x="1268" y="1035" width="128" height="128"/>
 	<mx:Text styleName="textStyle11" x="1408" y="1024" width="448" text="星烁辉离-天赋"/>
@@ -123,4 +122,5 @@
 	<mx:Image source="Image20.png" x="1248" y="152" width="168" height="168"/>
 	<mx:Image source="Image21.png" x="576" y="726" width="168" height="170"/>
 	<mx:Text styleName="textStyle11" x="736" y="736" width="448" text="至怒斗冠-位移"/>
+	<mx:Text styleName="textStyle13" x="0" y="944" width="64" text="深渊开局"/>
 </mx:Application>

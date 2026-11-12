@@ -106,7 +106,7 @@
 	<mx:Text styleName="textStyle12" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
 	<mx:Text styleName="textStyle13" x="64" y="1128" width="448" alpha="0.75" text="幻雷护罩：12雷盾，击破可使其瘫痪12s；受到「星烁反应」影响-4雷。第2/3次及之后展开护罩的厚度为8/6雷。风球：可被火/水/雷/冰攻击击毁，翼骏狮吸收不到足够的风球会瘫痪，持续16s。"/>
 	<mx:Image source="Image5.png" x="64" y="1001" width="484" height="60"/>
-	<mx:Text styleName="textStyle14" x="0" y="959" width="64" text="开局"/>
+	<mx:Text styleName="textStyle14" x="0" y="944" width="64" text="深渊开局"/>
 	<mx:Text styleName="textStyle14" x="0" y="1019" width="64" text="正常"/>
 	<mx:Image source="Image6.png" x="64" y="1061" width="484" height="60"/>
 	<mx:Text styleName="textStyle14" x="0" y="1079" width="64" text="瘫痪"/>

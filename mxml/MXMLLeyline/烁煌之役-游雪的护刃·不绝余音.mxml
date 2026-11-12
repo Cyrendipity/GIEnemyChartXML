@@ -160,7 +160,7 @@
 	<mx:Text styleName="textStyle18" x="800" y="938" width="128" alpha="0.6" text="Pyro Adv."/>
 	<mx:Text styleName="textStyle19" x="64" y="512" width="576" alpha="0.9" text="(N5) 抗性：冰元素抗性-40%。"/>
 	<mx:Text styleName="textStyle20" x="64" y="864" width="183" text="(N5) 冰明屏障："/>
-	<mx:Text styleName="textStyle14" x="64" y="896" width="512" alpha="0.9" text="为冰棺受「星烁反应」影响后，根据冰棺剩余量转变而来，屏障厚度最大为15%生命值，最大持续20s。击破后将使雪精虚弱10s，并对雪精造成两段伤害，其值分别为：10%生命值的真伤，屏障期间所受60%伤害(不超过10%雪精生命值)的普通伤害。"/>
+	<mx:Text styleName="textStyle14" x="64" y="896" width="512" alpha="0.9" text="为冰棺受「星烁反应」影响后，根据冰棺剩余量转变而来，屏障厚度最大为15%生命值，最大持续20s。击破后将使雪精虚弱10s，并对雪精造成两段伤害，其值分别为：10%生命值的真伤，与屏障期间所受60%伤害(不超过10%雪精生命值)的真伤。"/>
 	<mx:Text styleName="textStyle21" x="1536" y="320" width="448" alpha="0.9" text="雪精在低于80%生命值时，会将自己封入「冰棺」；展开「冰棺」进行蓄力时会在周围产生冰风暴，持续造成3.125%伤害，16s后解除并施放「凝秉六境」，同时恢复10%生命值。受「星烁反应」影响，冰棺会转为「冰明屏障」，同时冰风暴消失。"/>
 	<mx:Text styleName="textStyle22" x="1536" y="256" width="448" text="杵愿遗影-防御"/>
 	<mx:Image source="Image9.png" x="1396" y="267" width="128" height="128"/>

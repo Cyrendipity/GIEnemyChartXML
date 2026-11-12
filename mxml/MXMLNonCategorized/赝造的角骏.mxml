@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="1248" height="1312" layout="absolute">
+	<mx:Style>
+		Label {
+			fontFamily:Sen-Bold;
+			fontSize:60;
+			color:#FF9999;
+		}
+		.textStyle {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle4 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:32;
+			color:#FFFFFF;
+		}
+		.textStyle5 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle7 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#9A8456;
+		}
+		.textStyle8 {
+			fontFamily:TsangerYuYangT-W04;
+			fontSize:40;
+			color:#E3D2C4;
+		}
+		.textStyle9 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:20;
+			color:#E3D2C4;
+		}
+		.textStyle10 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:30;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle12 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:40;
+			color:#FFFFFF;
+		}
+		.textStyle13 {
+			fontSize:22;
+			color:#FFFFFF;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:22;
+			color:#FFE699;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="1080" width="1248" height="232"/>
+	<mx:Image source="Image2.png" x="0" y="0" width="1248" height="1080"/>
+	<mx:Image source="Image3.png" x="0" y="0" width="426" height="426"/>
+	<mx:Text styleName="textStyle" x="64" y="384" width="485" text="赝造的角骏"/>
+	<mx:Text styleName="textStyle2" x="576" y="64" width="522" text="全技能一图流"/>
+	<mx:Text styleName="textStyle3" x="64" y="832" width="305" alpha="0.9" text="抗性数据(单位%)"/>
+	<mx:Text styleName="textStyle4" x="64" y="672" width="363" text="HP: 4897328 (132.0F)"/>
+	<mx:Text styleName="textStyle5" x="64" y="640" width="305" alpha="0.75" text="剧情首领 Lv.90 Data"/>
+	<mx:Text styleName="textStyle4" x="64" y="720" width="375" text="ATK: 3806 (2.0B2)"/>
+	<mx:Text styleName="textStyle4" x="64" y="768" width="375" text="Wt/Ed: 20000/4000"/>
+	<mx:Text styleName="textStyle6" x="64" y="465" width="395" alpha="0.75" text="The False Horned Steed"/>
+	<mx:Image source="Image4.png" x="64" y="877" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="896" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Text styleName="textStyle8" x="64" y="512" width="305" text="未抵白境之物"/>
+	<mx:Text styleName="textStyle9" x="64" y="555" width="409" alpha="0.75" text="The Thing Yet to Reach the White Realm"/>
+	<mx:Text styleName="textStyle10" x="576" y="128" width="521" alpha="0.5" text="元素能量：NA"/>
+	<mx:Image source="Image5.png" x="64" y="64" width="256" height="256"/>
+	<mx:Text styleName="textStyle11" x="736" y="1152" width="448" alpha="0.9" text="角骏飞速旋转双翼，造成80%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="1088" width="448" text="霜染金麟-防御"/>
+	<mx:Text styleName="textStyle11" x="736" y="928" width="448" alpha="0.9" text="角骏进行至多3段的普通攻击，每段均造成50%伤害。"/>
+	<mx:Text styleName="textStyle12" x="736" y="864" width="448" text="凌跹怒摇-输出"/>
+	<mx:Image source="Image6.png" x="596" y="1099" width="128" height="128"/>
+	<mx:Image source="Image7.png" x="596" y="875" width="128" height="128"/>
+	<mx:Image source="Image8.png" x="576" y="1078" width="168" height="170"/>
+	<mx:Image source="Image9.png" x="576" y="854" width="168" height="170"/>
+	<mx:Label x="592" y="192" alpha="0.4" text="GROUP Rhinedottir"/>
+	<mx:Text styleName="textStyle13" x="608" y="261" width="614" alpha="0.9" text="千年珍珠骏麟A / 翠翎恐蕈B / 古岩龙蜥溟冬C / 树 (掣电D 爆炎E)A「尾羽交扇」-三段普攻造成60%,50%,50%伤害，连续命中时带有(1,0.5)衰减 ；A「群鱼天游」-游鱼造成35%,17.5%,6.3%~3.5%伤害；B「尾羽飞扇」-孢子造成45%,22.5%,4.5%,0.45%伤害；B「蕈王喙尘」-前两段普攻均造成60%伤害；B「亚稳孢云」-孢子云爆炸均造成50%伤害；C「左右开攻」-三段普攻均造成冰或水元素的40%,50%,62.5%伤害；C「步潭履冰」-下落攻击造成冰或水元素的70%伤害；C「南寒吐息」-吐息攻击造成冰或水元素的40%,20%,10%伤害；D「紫雷迷林」-当生命值降至74%时锁血变形，同时展开40%生命值的护罩，期间不断进行持续性落雷造成40%伤害；E「炎潮劫狱」-当生命值降至24%时锁血变形，同时展开40%生命值的护罩，同时不断产生地喷火，造成100%伤害。"/>
+	<mx:Text styleName="textStyle14" x="624" y="229" width="157" alpha="0.9" text="第■组："/>
+	<mx:Text styleName="textStyle11" x="736" y="704" width="448" alpha="0.9" text="角骏能够在5种首领之间进行变换，每个首领变体会随机施放技能。与摹结株不同的是它不会造成任何「蚀破」。"/>
+	<mx:Text styleName="textStyle12" x="736" y="640" width="321" text="虚明变造-变幻"/>
+	<mx:Image source="Image10.png" x="596" y="651" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="630" width="168" height="170"/>
+</mx:Application>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="2048" height="1080" layout="absolute">
+	<mx:Style>
+		.textStyle {
+			fontFamily:MiSans-Bold;
+			fontSize:80;
+			color:#FFFFFF;
+		}
+		.textStyle2 {
+			fontSize:48;
+			color:#FFFFFF;
+		}
+		.textStyle3 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#7FBFFF;
+		}
+		.textStyle4 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFCC99;
+		}
+		.textStyle5 {
+			fontFamily:SDK_SC_Web-Regular;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle6 {
+			fontFamily:RTWSYueRoudGoG0v1-Regular;
+			fontSize:24;
+			color:#2C62D3;
+		}
+		.textStyle7 {
+			fontFamily:MiSans-Bold;
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle8 {
+			fontSize:24;
+			color:#FFFFFF;
+		}
+		.textStyle9 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFFFFF;
+		}
+		.textStyle10 {
+			fontFamily:TsangerYuYangT-W03;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle11 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#AFE0E9;
+		}
+		.textStyle12 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFACFF;
+		}
+		.textStyle13 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FF4C4C;
+		}
+		.textStyle14 {
+			fontFamily:MiSans-Bold;
+			fontSize:36;
+			color:#FFFFFF;
+		}
+		.textStyle15 {
+			fontFamily:MiSans-Bold;
+			fontSize:28;
+			color:#FFFFFF;
+		}
+		.textStyle16 {
+			fontFamily:MiSans-Bold;
+			fontSize:25;
+			color:#FFFFFF;
+		}
+		.textStyle17 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#BABABA;
+		}
+		.textStyle18 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle19 {
+			fontFamily:MiSans-Bold;
+			fontSize:16;
+			color:#FFFFFF;
+		}
+		.textStyle20 {
+			fontFamily:MiSans-Bold;
+			fontSize:200;
+			color:#FFFFFF;
+		}
+		.textStyle21 {
+			fontFamily:MiSans-Bold;
+			fontSize:20;
+			color:#FFBFBF;
+		}
+	</mx:Style>
+	<mx:Image source="Image.png" x="0" y="0" width="1920" height="1080"/>
+	<mx:Image source="Image2.png" x="1920" y="0" width="128" height="1080"/>
+	<mx:Text styleName="textStyle" x="483" y="32" width="928" text="浪涛锚定者·狂飙突噬"/>
+	<mx:Image source="Image3.png" x="627" y="114" width="666" height="604"/>
+	<mx:Text styleName="textStyle2" x="1462" y="160" width="522" text="机制数据 ◆"/>
+	<mx:Text id="抗性数据◆" styleName="textStyle2" x="64" y="160" width="522" text="◆ 抗性数据 (单位%)"/>
+	<mx:Text styleName="textStyle2" x="64" y="544" width="522" text="◆ 技能变化"/>
+	<mx:Text styleName="textStyle3" x="1504" y="64" width="480" alpha="0.5" text="HP[0x2],HO[66,33]Energy Drop"/>
+	<mx:Text styleName="textStyle4" x="800" y="992" width="160" alpha="0.6" text="Base HP：38.507F"/>
+	<mx:Text styleName="textStyle4" x="960" y="992" width="160" alpha="0.6" text="Base ATK：6.0B2"/>
+	<mx:Text styleName="textStyle5" x="562" y="128" width="768" alpha="0.75" text="Wavebinder: Stormfang"/>
+	<mx:Text styleName="textStyle6" x="64" y="64" width="228" text="制图@Csxylic米游社"/>
+	<mx:Image source="Image4.png" x="128" y="440" width="484" height="60"/>
+	<mx:Image source="Image5.png" x="128" y="256" width="484" height="124"/>
+	<mx:Text styleName="textStyle7" x="64" y="337" width="64" text="正常"/>
+	<mx:Text styleName="textStyle8" x="64" y="451" width="64" text="奋勇(N5)"/>
+	<mx:Image source="Image6.png" x="128" y="380" width="484" height="60"/>
+	<mx:Text styleName="textStyle8" x="64" y="391" width="64" text="奋勇(N4)"/>
+	<mx:Text styleName="textStyle9" x="1472" y="224" width="128" text="克寒豪胆："/>
+	<mx:Text styleName="textStyle9" x="1472" y="768" width="128" text="支霆痹麻："/>
+	<mx:Text styleName="textStyle9" x="1472" y="448" width="128" text="奋勇："/>
+	<mx:Text styleName="textStyle10" x="1472" y="250" width="512" alpha="0.9" text="上限600点，每次「小酌」与 「酣饮」至多+49%/+96%；若受「星烁反应」影响，豪意值积累效率变为75%，则「小酌」与「酣饮」分别+42%/+72%。当退出「奋勇」状态时，增量积累效率将额外降低至原来的30%，与其他乘算。(N4) 退出「奋勇」状态时，积累效率不再额外降低。(N5) 「小酌」与 「酣饮」至多+31.5%/+100%；「酣饮」增量受星烁反应影响的积累效率变为90%，「小酌」增量不受星烁影响。"/>
+	<mx:Text styleName="textStyle10" x="1472" y="794" width="512" alpha="0.9" text="锚定者受到足够多的雷元素伤害时会麻痹，突然中断技能。麻痹值上限90点，当锚定者受到无附着雷/n单位雷/星超导雷伤害时，麻痹值增加0.8/2n/10点，若处于「奋勇」状态则麻痹值上限减半。(N5) 处于/不处于「奋勇」状态的上限变为375/750点，受到无附着雷/n单位雷/星超导雷伤害时，麻痹值增加8/20n/80点(奋勇)或1/2.5n/10点(非奋勇)。"/>
+	<mx:Text styleName="textStyle10" x="1472" y="474" width="512" alpha="0.9" text="豪意值满时进入「奋勇」状态，期间豪意值将不断下降，每秒-7.5，持续约80s。「奋勇」状态下受到无附着雷/n单位雷/星超导雷伤时-4/-10n/-50点豪意值。(N4) 「奋勇」状态下攻击力提升25%。(N5) 豪意值改为每秒-15，持续约40s。期间将展开「水漫屏障」；「奋勇」状态下攻击力提升变为30%。「奋勇」状态下受到无附着雷/n单位雷/星超导雷伤时改为-4.8/-12n/-48点豪意值。"/>
+	<mx:Image source="Image7.png" x="1006" y="847" width="100" height="99"/>
+	<mx:Image source="Image8.png" x="1166" y="847" width="100" height="99"/>
+	<mx:Text styleName="textStyle11" x="640" y="938" width="128" alpha="0.6" text="Stellar Reaction Adv."/>
+	<mx:Image source="Image9.png" x="656" y="848" width="96" height="96"/>
+	<mx:Text styleName="textStyle12" x="800" y="938" width="128" alpha="0.6" text="Electro Adv."/>
+	<mx:Image source="Image10.png" x="814" y="846" width="100" height="100"/>
+	<mx:Text styleName="textStyle13" x="992" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle13" x="1152" y="938" width="128" alpha="0.3" text="——"/>
+	<mx:Text styleName="textStyle14" x="608" y="672" width="64" alpha="0.6" text="HP"/>
+	<mx:Text styleName="textStyle15" x="608" y="751" width="80" alpha="0.6" text="ATK"/>
+	<mx:Text styleName="textStyle16" x="640" y="704" width="160" text="1714337"/>
+	<mx:Text styleName="textStyle16" x="640" y="768" width="160" text="11419"/>
+	<mx:Text styleName="textStyle16" x="960" y="768" width="160" text="16260"/>
+	<mx:Text styleName="textStyle16" x="800" y="768" width="160" text="14773"/>
+	<mx:Text styleName="textStyle16" x="800" y="704" width="160" text="8542356"/>
+	<mx:Text styleName="textStyle16" x="960" y="704" width="160" text="15310195"/>
+	<mx:Text styleName="textStyle17" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
+	<mx:Text styleName="textStyle17" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle18" x="960" y="736" width="160" alpha="0.6" text="× 6.2"/>
+	<mx:Text styleName="textStyle16" x="1120" y="768" width="160" text="17417"/>
+	<mx:Text styleName="textStyle16" x="1120" y="704" width="160" text="33517378"/>
+	<mx:Text styleName="textStyle18" x="1120" y="736" width="160" alpha="0.6" text="× 12.4"/>
+	<mx:Text styleName="textStyle7" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle19" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle19" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle19" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle20" x="64" y="672" width="529" alpha="0.3" text="暂 无"/>
+	<mx:Text styleName="textStyle21" x="1472" y="640" width="183" text="(N5) 水漫屏障："/>
+	<mx:Text styleName="textStyle10" x="1472" y="672" width="512" alpha="0.9" text="豪意值满时展开，厚度为100%生命值，击破后将对锚定者造成一次真伤，其值由屏障展开期间150%星烁伤害+60%其余伤害组成，不超过15%锚定者生命值。"/>
+</mx:Application>

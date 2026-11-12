@@ -96,14 +96,19 @@
 		.textStyle20 {
 			fontFamily:MiSans-Bold;
 			fontSize:13;
-			color:#BABABA;
+			color:#B9B9B9;
 		}
 		.textStyle21 {
 			fontFamily:MiSans-Bold;
 			fontSize:13;
-			color:#B9B9B9;
+			color:#BABABA;
 		}
 		.textStyle22 {
+			fontFamily:MiSans-Bold;
+			fontSize:13;
+			color:#B8B8B8;
+		}
+		.textStyle23 {
 			fontFamily:MiSans-Bold;
 			fontSize:16;
 			color:#FFFFFF;
@@ -163,13 +168,13 @@
 	<mx:Text styleName="textStyle19" x="800" y="704" width="160" text="5481561"/>
 	<mx:Text styleName="textStyle19" x="960" y="704" width="160" text="7606009"/>
 	<mx:Text styleName="textStyle20" x="640" y="736" width="160" alpha="0.6" text="× 1.2"/>
-	<mx:Text styleName="textStyle20" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
-	<mx:Text styleName="textStyle21" x="960" y="736" width="160" alpha="0.6" text="× 4.8"/>
+	<mx:Text styleName="textStyle21" x="800" y="736" width="160" alpha="0.6" text="× 4.0"/>
+	<mx:Text styleName="textStyle20" x="960" y="736" width="160" alpha="0.6" text="× 4.8"/>
 	<mx:Text styleName="textStyle19" x="1120" y="768" width="160" text="23222"/>
-	<mx:Text styleName="textStyle19" x="1120" y="704" width="160" text="14916723"/>
-	<mx:Text styleName="textStyle21" x="1120" y="736" width="160" alpha="0.6" text="× 8.6"/>
-	<mx:Text styleName="textStyle22" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
-	<mx:Text styleName="textStyle22" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
-	<mx:Text styleName="textStyle22" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
-	<mx:Text styleName="textStyle22" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
+	<mx:Text styleName="textStyle19" x="1120" y="704" width="160" text="14743273"/>
+	<mx:Text styleName="textStyle22" x="1120" y="736" width="160" alpha="0.6" text="× 8.5"/>
+	<mx:Text styleName="textStyle23" x="666" y="619" width="108" text="困难 - N3Lv.90"/>
+	<mx:Text styleName="textStyle23" x="826" y="619" width="108" text="险恶 - N4Lv.100"/>
+	<mx:Text styleName="textStyle23" x="987" y="619" width="108" text="无畏 - N5Lv.105"/>
+	<mx:Text styleName="textStyle23" x="1147" y="619" width="108" text="绝境 - N6Lv.110"/>
 </mx:Application>

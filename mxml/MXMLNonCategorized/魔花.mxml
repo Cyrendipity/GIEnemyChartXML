@@ -124,23 +124,23 @@
 	<mx:Image source="Image9.png" x="64" y="1033" width="484" height="60"/>
 	<mx:Text styleName="textStyle14" x="0" y="991" width="64" text="正常"/>
 	<mx:Text styleName="textStyle14" x="0" y="1051" width="64" text="缩小"/>
-	<mx:Image source="Image10.png" x="64" y="128" width="256" height="256"/>
 	<mx:Text styleName="textStyle15" x="64" y="576" width="394" text="阿贝花·花贝多"/>
 	<mx:Text styleName="textStyle16" x="64" y="619" width="395" alpha="0.75" text="Floralbedo: Anthoalbedoid"/>
-	<mx:Image source="Image11.png" x="596" y="171" width="128" height="128"/>
-	<mx:Image source="Image12.png" x="576" y="150" width="168" height="170"/>
-	<mx:Image source="Image13.png" x="1268" y="171" width="128" height="128"/>
-	<mx:Image source="Image14.png" x="1248" y="150" width="168" height="170"/>
-	<mx:Image source="Image15.png" x="1268" y="395" width="128" height="128"/>
-	<mx:Image source="Image16.png" x="1248" y="374" width="168" height="170"/>
-	<mx:Image source="Image17.png" x="596" y="619" width="128" height="128"/>
-	<mx:Image source="Image18.png" x="576" y="598" width="168" height="170"/>
-	<mx:Image source="Image19.png" x="1268" y="619" width="128" height="128"/>
-	<mx:Image source="Image20.png" x="1248" y="598" width="168" height="170"/>
-	<mx:Image source="Image21.png" x="1268" y="843" width="128" height="128"/>
-	<mx:Image source="Image22.png" x="1248" y="822" width="168" height="170"/>
-	<mx:Image source="Image23.png" x="596" y="1067" width="128" height="128"/>
-	<mx:Image source="Image24.png" x="576" y="1046" width="168" height="170"/>
-	<mx:Image source="Image25.png" x="1268" y="1067" width="128" height="128"/>
-	<mx:Image source="Image26.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image10.png" x="596" y="171" width="128" height="128"/>
+	<mx:Image source="Image11.png" x="576" y="150" width="168" height="170"/>
+	<mx:Image source="Image12.png" x="1268" y="171" width="128" height="128"/>
+	<mx:Image source="Image13.png" x="1248" y="150" width="168" height="170"/>
+	<mx:Image source="Image14.png" x="1268" y="395" width="128" height="128"/>
+	<mx:Image source="Image15.png" x="1248" y="374" width="168" height="170"/>
+	<mx:Image source="Image16.png" x="596" y="619" width="128" height="128"/>
+	<mx:Image source="Image17.png" x="576" y="598" width="168" height="170"/>
+	<mx:Image source="Image18.png" x="1268" y="619" width="128" height="128"/>
+	<mx:Image source="Image19.png" x="1248" y="598" width="168" height="170"/>
+	<mx:Image source="Image20.png" x="1268" y="843" width="128" height="128"/>
+	<mx:Image source="Image21.png" x="1248" y="822" width="168" height="170"/>
+	<mx:Image source="Image22.png" x="596" y="1067" width="128" height="128"/>
+	<mx:Image source="Image23.png" x="576" y="1046" width="168" height="170"/>
+	<mx:Image source="Image24.png" x="1268" y="1067" width="128" height="128"/>
+	<mx:Image source="Image25.png" x="1248" y="1046" width="168" height="170"/>
+	<mx:Image source="Image26.png" x="64" y="128" width="256" height="256"/>
 </mx:Application>
